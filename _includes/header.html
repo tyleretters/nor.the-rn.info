@@ -1,0 +1,32 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+
+      <a class="site-title" href="{{ "/" | relative_url }}">Northern Information</a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          {%- assign sorted_pages = site.pages | sort: "order" -%}
+          {%- for node in sorted_pages -%}
+          {%- if node.title -%}
+          <li class="{% if node.url == page.url %}active{% endif %}">
+            <a class="nav-link" href="{{ node.url | relative_url }}">
+            {% if node.url == page.url %}<span>&rarr;</span>{% endif %}
+            {{ node.title | escape }}
+            </a>
+          </li>
+          {%- endif -%}
+          {%- endfor -%}
+          <li><a class="nav-link" href="{{ "/feed.xml" | relative_url }}">Feed</a></li>
+        </ul>
+      </div>
+
+    </nav>
+
+  </div>
+
+</header>

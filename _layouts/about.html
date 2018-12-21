@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{%- if page.title -%}
+<div class="row">
+  <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+    <h1>{{ page.title | escape }}</h1>
+  </div>
+</div>
+{%- endif -%}
+<div class="row">
+  <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+    <div id="life"></div>
+    <div id="next"></div>
+    <p class="text-center text-monospace">generation <span id="generation">0</span>, <a href="#" onclick="seed()">seed</a></p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+    {{ content }}
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-3 offset-lg-3 col-md-4 offset-md-2">
+    <a class="about-link" href="mailto:tyler@etters.co"><i class="far fa-envelope"></i> tyler@etters.co</a>
+  </div>
+  <div class="col-lg-3 col-md-4">
+    <a class="about-link" href="https://www.twitter.com/tyleretters"><i class="fab fa-twitter"></i> tyleretters</a>
+  </div>
+</div>

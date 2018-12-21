@@ -1,0 +1,173 @@
+$blue: #0687f5
+$darkBlue: darken($blue, 25%)
+$grey: #333333
+$lightGrey: lighten($grey, 50%)
+$white: #ffffff
+
+a, a:link, a:visited, a:active
+  color: $blue
+
+a:hover
+  color: $darkBlue
+
+
+a.about-link
+  color: $white
+  background: $blue
+  width: 100%
+  display: block
+  text-align: center
+  margin-bottom: 16px
+
+a:hover.about-link
+  color: $white
+  background: $darkBlue
+
+
+::selection
+  color: $white
+  background: $blue
+
+nav.bg-dark
+  background-color: $blue !important
+
+  .site-title
+    font-weight: bolder
+
+  a, a:link, a:visited, a:active
+    color: $white
+
+  a:hover
+    color: $white
+    text-decoration: underline
+
+  .navbar-nav li
+    margin-left: 16px
+
+    span
+      display: none
+
+    &.active
+      color: $white
+
+@media (max-width: 575.98px)
+  nav.bg-dark .navbar-nav li
+    margin-left: 0
+    margin-bottom: 10px
+    margin-top: 10px
+    text-align: center
+
+    &.active span
+      display: inline
+
+    &.active .nav-link,
+    .nav-link
+      color: $blue
+      font-weight: bolder
+      background-color: $white
+
+      &:hover, &:active
+        color: $white
+        background: $darkBlue
+        text-decoration: none
+
+.container-fluid
+  padding-top: 15px
+  padding-bottom: 15px
+
+  ul
+    list-style: none
+    margin: 0
+    padding: 0
+    li
+      margin: 0 0 10px 0
+
+.post, .col, .col-md-4, .col-md-6, .col-md-8
+  margin-bottom: 50px
+
+#related-projects
+  margin-top: 50px
+
+h2
+  border-bottom: 2px solid $blue
+
+.post-content
+  img
+    width: 100%
+
+.post-meta
+  color: $grey
+
+.earlier-post
+  text-align: right
+
+@media (max-width: 575.98px)
+  .earlier-post,
+  .later-post
+    margin-left: 0
+    margin-bottom: 10px
+    margin-top: 10px
+    text-align: center
+
+    a
+      color: $white
+      font-weight: bolder
+      background-color: $blue
+      display: block
+
+      &:hover, &:active
+        color: $white
+        background: $darkBlue
+        text-decoration: none  
+
+.container-fluid .books ul li
+  margin-bottom: 20px
+
+  em
+    color: $lightGrey
+
+.svg-icon
+  width: 16px
+  height: 16px
+  display: inline
+
+#life 
+  width: 200px
+  height: 200px
+  margin: 0 auto 1rem auto
+  display: block
+  
+.cell 
+  font-size: 64px
+  line-height: 0px
+  width: 20px
+  height: 20px
+  margin: 0
+  padding: 0
+  float: left
+
+  &[data-toggle='0'] 
+    color: $white
+  
+  &[data-toggle='1'] 
+    color: $blue
+
+.cell-row 
+  height: 20px
+
+#next 
+  display: none
+
+#ui
+  font-family: monospace
+  text-align: center
+
+.row-travel
+  img
+    width: 100%
+
+  em
+    color: $lightGrey
+
+  div
+    margin-bottom: 50px

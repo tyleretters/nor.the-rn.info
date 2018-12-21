@@ -1,0 +1,8 @@
+---
+layout: post
+title: "the #shadow_fi trilogy"
+date: 2014-01-15
+---
+[![the #shadow_fi trilogy](/assets/images/the-shadow-fi-trilogy.jpg)](https://open.spotify.com/artist/6sbjf88uIA5dFemPeCamJa)
+
+2013's [the #shadow\_fi trilogy](https://open.spotify.com/artist/6sbjf88uIA5dFemPeCamJa) is now available for streaming. This anthology includes all of the yellow ones: 'the geometrie of our lost cause', 'blue, the most celestial color', and 'senescence'.
