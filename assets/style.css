@@ -20,6 +20,17 @@ a:hover.about-link {
   color: #ffffff;
   background: #0687f5; }
 
+blockquote p {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #b3b3b3; }
+
+blockquote p:before {
+  content: open-quote; }
+
+blockquote p:after {
+  content: close-quote; }
+
 nav.bg-dark {
   background-color: #0687f5 !important; }
   nav.bg-dark .site-title {

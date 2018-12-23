@@ -23,10 +23,20 @@ a:hover.about-link
   color: $white
   background: $darkBlue
 
-
 ::selection
   color: $white
   background: $blue
+
+blockquote p
+  font-size: 1.5rem
+  font-style: italic
+  color: $lightGrey
+
+blockquote p:before
+    content: open-quote
+
+blockquote p:after
+    content: close-quote
 
 nav.bg-dark
   background-color: $blue !important
