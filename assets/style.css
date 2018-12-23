@@ -68,6 +68,11 @@ nav.bg-dark {
 .post, .col, .col-md-4, .col-md-6, .col-md-8 {
   margin-bottom: 50px; }
 
+.col-tighten, .col-md-4-tighten, .col-md-6-tighten, .col-md-8-tighten {
+  margin-bottom: 20px; }
+  .col-tighten a, .col-md-4-tighten a, .col-md-6-tighten a, .col-md-8-tighten a {
+    margin-bottom: 0; }
+
 #related-projects {
   margin-top: 50px; }
 
