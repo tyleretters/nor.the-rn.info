@@ -2,7 +2,7 @@
 layout: full
 title: Aux
 permalink: /aux/
-order: 3
+order: 4
 ---
 <div class="row">
 
@@ -13,6 +13,7 @@ order: 3
 - [Dark Mountain](https://dark-mountain.net/) - We intend to challenge the stories which underpin our civilization: the myth of progress, the myth of human centrality, and the myth of our separation from 'nature'.
 - [Extinction Symbol](http://www.extinctionsymbol.info/) - The world is currently undergoing a mass extinction event, and this symbol is intended to help raise awareness of the urgent need for change in order to address this crisis.
 - [Long Now Foundation](http://longnow.org/) - The Long Now Foundation was established in 01996 to foster long-term thinking and responsibility in the framework of the next 10,000 years.
+- [We Need Courage, Not Hope, To Face Climate Change](https://onbeing.org/blog/kate-marvel-we-need-courage-not-hope-to-face-climate-change/)
 
 ## Related Projects
 

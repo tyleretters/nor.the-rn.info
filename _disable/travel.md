@@ -2,7 +2,7 @@
 layout: full
 title: Travel
 permalink: /travel/
-order: 2
+order: 3
 ---
 <div class="row row-travel">
 
