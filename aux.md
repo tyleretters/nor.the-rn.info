@@ -6,47 +6,33 @@ order: 4
 ---
 <div class="row">
 
-<div class="col-md-6" markdown="1">
+<div class="col-md-6 aux" markdown="1">
 
 ## Anthropocene
 
+- _Organizations, collectives, articles, and movements of our age._
+- [The Critical Engineering Manifesto](https://criticalengineering.org/) - The Critical Engineer considers Engineering to be the most transformative language of our time, shaping the way we move, communicate and think. It is the work of the Critical Engineer to study and exploit this language, exposing its influence.
 - [Dark Mountain](https://dark-mountain.net/) - We intend to challenge the stories which underpin our civilization: the myth of progress, the myth of human centrality, and the myth of our separation from 'nature'.
 - [Extinction Symbol](http://www.extinctionsymbol.info/) - The world is currently undergoing a mass extinction event, and this symbol is intended to help raise awareness of the urgent need for change in order to address this crisis.
 - [Long Now Foundation](http://longnow.org/) - The Long Now Foundation was established in 01996 to foster long-term thinking and responsibility in the framework of the next 10,000 years.
-- [We Need Courage, Not Hope, To Face Climate Change](https://onbeing.org/blog/kate-marvel-we-need-courage-not-hope-to-face-climate-change/)
+- [We Need Courage, Not Hope, To Face Climate Change](https://onbeing.org/blog/kate-marvel-we-need-courage-not-hope-to-face-climate-change/) - We need courage, not hope. Grief, after all, is the cost of being alive. We are all fated to live lives shot through with sadness, and are not worth less for it. Courage is the resolve to do well without the assurance of a happy ending.
+
+## Blogroll
+
+- _Mostly new media aritsts and writers whom I admire._
+- [Adam Harper](http://rougesfoam.blogspot.com/), [Antonio Roberts](https://www.hellocatfood.com/), [Ben Chang](https://bcchang.com/), [Joi Ito](https://joi.ito.com/), [Jon Cates](http://systemsapproach.net), [Julian Oliver](https://julianoliver.com), [Kim Pimmel](http://cargocollective.com/kimpimmel), [Lawrence Lek](http://lawrencelek.com/), [Lev Manovich](http://manovich.net/), [Liam Wong](https://www.liamwong.com/), [Mark Beasley](http://mark-beasley.com/), [Mark Fisher](https://k-punk.org/), [Monika Bielskyte](https://twitter.com/MONIKABIELSKYTE), [Nadia Moss](https://www.flickr.com/photos/nadiamoss/), [Nicholas Felton](http://feltron.com), [Nick Briz](http://nickbriz.com/), [Nina MacLaughlin](https://www.theparisreview.org/blog/author/nmacluaghlin/), [Rosa Menkman](https://beyondresolution.info/), [Simon Stålenhag](http://www.simonstalenhag.se/), [Sruli Recht](https://www.srulirecht.com/), [Steven Wittens](https://acko.net/), [Tiffany Holmes](https://tholme.myportfolio.com/), [Trevor Paglen](http://www.paglen.com/), [William Schaff](https://www.flickr.com/photos/samsa1973/)
 
 ## Related Projects
 
-- [Adam Moore](http://adamjmoore.bandcamp.com)
-- [Arthur Zdrinc](http://arthurzdrinc.com)
-- [Bridges of Königsberg](http://bridgesofkonigsberg.bandcamp.com)
-- [Canyons of Static](https://canyonsofstatic.bandcamp.com)
-- [Connectedness Locus](https://connectednesslocus.bandcamp.com)
-- [Dawn of Man](http://dawnofmanband.bandcamp.com)
-- [Dead Pawn](http://deadpawn.bandcamp.com)
-- [Deadships](http://deadships.com)
-- [Everything Comes in Cycles; Everything Fades in Shades](https://ecicefis.bandcamp.com)
-- [Flash Flash Comfort](https://flashflash.bandcamp.com)
-- [Heavy Ghost](https://heavyghost.bandcamp.com)
-- [Ix](https://ixmusic.bandcamp.com/)
-- [LAKE R▲DIO](https://lakeradio.bandcamp.com)
-- [Lunar Day](http://lunarday.bandcamp.com)
-- [Lykanthea](http://lykanthea.com)
-- [Paul Pear](https://paulpear.bandcamp.com)
-- [Pullahs](https://pullahs.bandcamp.com)
-- [Randal Bravery](https://randalbravery.bandcamp.com)
-- [Sage Etters](http://soundcloud.com/sageetters)
-- [Sioum](http://sioum.com)
-- [Swim Ignorant Fire](https://swimignorantfire.bandcamp.com)
-- [ten-speed](http://tenspeedmusic.bandcamp.com)
-- [To Destroy a City](http://todestroyacity.com)
+- _Artists, musicians, friends, and foes._
+- [Adam Moore](http://adamjmoore.bandcamp.com), [Arthur Zdrinc](http://arthurzdrinc.com), [Bridges of Königsberg](http://bridgesofkonigsberg.bandcamp.com), [Canyons of Static](https://canyonsofstatic.bandcamp.com), [Connectedness Locus](https://connectednesslocus.bandcamp.com), [Dawn of Man](http://dawnofmanband.bandcamp.com), [Dead Pawn](http://deadpawn.bandcamp.com), [Deadships](http://deadships.com), [Everything Comes in Cycles; Everything Fades in Shades](https://ecicefis.bandcamp.com), [Flash Flash Comfort](https://flashflash.bandcamp.com), [Heavy Ghost](https://heavyghost.bandcamp.com), [Ix](https://ixmusic.bandcamp.com/), [LAKE R▲DIO](https://lakeradio.bandcamp.com), [Lunar Day](http://lunarday.bandcamp.com), [Lykanthea](http://lykanthea.com), [Paul Pear](https://paulpear.bandcamp.com), [Pullahs](https://pullahs.bandcamp.com), [Randal Bravery](https://randalbravery.bandcamp.com), [Sage Etters](http://soundcloud.com/sageetters), [Sioum](http://sioum.com), [Swim Ignorant Fire](https://swimignorantfire.bandcamp.com), [ten-speed](http://tenspeedmusic.bandcamp.com), [To Destroy a City](http://todestroyacity.com)
 </div>
 
-<div class="col-md-6 books" markdown="1">
+<div class="col-md-6 aux" markdown="1">
 
 ## Recently Read Books
 
-- _In roughly reverse-chronological order..._
+- _In roughly reverse-chronological order._
 - **Time Travel: A History by James Gleik** _A poetic look at how we as a culture became aware of the very concept of time travel. Gleik weaves literature, scientific discoveries, and technological advancements together in a joyful ode to my favorite SF trope._
 - **★ k-punk: The Collected Writings of Mark Fisher** _The book is divided into thematic sections, each in chronological order. At the end of each section, I found myself overcome with a certain sorrow in knowing this is all there ever will be. I know I will refer to the final section on Acid Communism for years to come. RIP._
 - **Flatline Constructs: Gothic Materialism and Cybernetic Theory-Fiction by Mark Fisher** _Fisher's thesis sketches out a "Gothic Materialism" framework. I enjoyed the reading quite a bit, though lacked the academic context to understand most of it. Hardcopy via [exmilitary](http://exmilitai.re/flatline.html)._
