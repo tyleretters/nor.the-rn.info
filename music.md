@@ -14,6 +14,16 @@ order: 2
 
 <div class="row row-music">
 
+<div class="col-md-3" markdown="1">
+Synergy Beat: Future World Digest is a cyberpunk anime zine from the mind of Gage Lindsten. The project assembles many talented artists. We did the whole thing in just a couple weeks. I was on soundtrack duty. For each song, I assumed the role of a (silly) fictitious band.
+</div>
+
+<div class="col-md-9">
+
+<div class="container-fluid">
+
+<div class="row row-music">
+
 <div class="col-md-4" markdown="1">
 [![Synergy Beat](/assets/images/synergy-beat.jpg)
 _Synergy Beat, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1)
@@ -21,6 +31,11 @@ _Synergy Beat, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-
 
 </div>
 
+</div>
+
+</div>
+
+</div>
 
 
 
@@ -32,6 +47,16 @@ _Synergy Beat, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-
 </div>
 
 </div>
+
+<div class="row row-music">
+
+<div class="col-md-3" markdown="1">
+#shadow_fi: a self-defined genre and rough approximation of ambient post-rock blended with drone and lo-fi. 2017 brought The Arcadian Nights trilogy, 2015 The Phantom Time Trilogy, and 2013 The #shadow_fi Trilogy.
+</div>
+
+<div class="col-md-9">
+
+<div class="container-fluid">
 
 <div class="row row-music">
 
@@ -82,6 +107,11 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 
 </div>
 
+</div>
+
+</div>
+
+</div>
 
 
 
@@ -92,6 +122,18 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 </div>
 
 </div>
+
+<div class="row row-music">
+
+<div class="col-md-3" markdown="1">
+In one-dimensional complex dynamics, the connectedness locus is a subset of the parameter space of rational functions, which consists of those parameters for which the corresponding Julia set is connected.
+
+— Wikipedia
+</div>
+
+<div class="col-md-9">
+
+<div class="container-fluid">
 
 <div class="row row-music">
 
@@ -117,6 +159,12 @@ _As Quippolous Codes Quietly Count, 2010_](https://connectednesslocus.bandcamp.c
 
 </div>
 
+</div>
+
+</div>
+
+</div>
+
 
 
 
@@ -124,10 +172,20 @@ _As Quippolous Codes Quietly Count, 2010_](https://connectednesslocus.bandcamp.c
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'Everything Comes in Cycles; Everything Fades in Shades'
+## As 'Everything Comes in Cycles; Everything Fades in Shades' & 'Ix'
 </div>
 
 </div>
+
+<div class="row row-music">
+
+<div class="col-md-3" markdown="1">
+Ix came first but soon evolved into ECiC;EFiS - same parameters, techniques, equipment. Just more focused. These three releases constitute an arc inquiry. Pasha Petrosyan and I worked on these projects "on the side" while we were in a metalcore band together. I say "on the side" because in retrospect our hearts were always here.
+</div>
+
+<div class="col-md-9">
+
+<div class="container-fluid">
 
 <div class="row row-music">
 
@@ -141,27 +199,15 @@ _Serial Index of Unclaimed Memories, 2009_](https://ecicefis.bandcamp.com/album/
 _Gates EP, 2008_](https://ecicefis.bandcamp.com/album/gates-ep)
 </div>
 
-</div>
-
-
-
-
-
-
-<div class="row">
-
-<div class="col" markdown="1">
-## As 'Ix'
-</div>
-
-</div>
-
-<div class="row row-music">
-
 <div class="col-md-4" markdown="1">
 [![Descent into Dreams](/assets/images/descent-into-dreams.jpg)
 _Descent into Dreams, 2007_](https://ixmusic.bandcamp.com/album/descent-into-dreams-file-1)
 </div>
 
+</div>
+
+</div>
+
+</div>
 
 </div>
