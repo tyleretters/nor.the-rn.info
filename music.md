@@ -154,7 +154,7 @@ _When the Paint Peels, 2010_](https://connectednesslocus.bandcamp.com/album/when
 
 <div class="col-md-4" markdown="1">
 [![As Quippolous Codes Quietly Count](/assets/images/as-quippolous-codes-quietly-count.jpg)
-_As Quippolous Codes Quietly Count, 2010_](https://connectednesslocus.bandcamp.com/album/as-quippolous-codes-quietly-count)
+_As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.com/album/as-quippolous-codes-quietly-count)
 </div>
 
 </div>
