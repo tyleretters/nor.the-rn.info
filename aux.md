@@ -98,6 +98,7 @@ order: 4
  - Merry Christmas Mr. Lawrence by Ryuichi Sakamoto
  - feed1 by Autechre
  - Redshift by ASC
+ - [Blue ghost by Chris Kiehne](https://caretakertribute.bandcamp.com/track/chris-kiehne-blue-ghost)
 
 </div>
 
