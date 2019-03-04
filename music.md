@@ -7,6 +7,44 @@ order: 2
 <div class="row">
 
 <div class="col" markdown="1">
+## As 'They Became What They Beheld'
+</div>
+
+</div>
+
+<div class="row row-music">
+
+<div class="col-md-3" markdown="1">
+"The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
+
+– Edmund Snow Carpenter, 1970
+</div>
+
+<div class="col-md-9">
+
+<div class="container-fluid">
+
+<div class="row row-music">
+
+<div class="col-md-4" markdown="1">
+[![EP1](/assets/images/ep1.jpg)
+_EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="row">
+
+<div class="col" markdown="1">
 ## As 'Syngery Beat'
 </div>
 
@@ -26,7 +64,7 @@ Synergy Beat: Future World Digest is a cyberpunk anime zine from the mind of Gag
 
 <div class="col-md-4" markdown="1">
 [![Synergy Beat](/assets/images/synergy-beat.jpg)
-_Synergy Beat, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1)
+_Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1)
 </div>
 
 </div>
@@ -126,7 +164,7 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 <div class="row row-music">
 
 <div class="col-md-3" markdown="1">
-In one-dimensional complex dynamics, the connectedness locus is a subset of the parameter space of rational functions, which consists of those parameters for which the corresponding Julia set is connected.
+"In one-dimensional complex dynamics, the connectedness locus is a subset of the parameter space of rational functions, which consists of those parameters for which the corresponding Julia set is connected."
 
 — Wikipedia
 </div>

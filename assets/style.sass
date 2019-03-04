@@ -40,11 +40,20 @@ blockquote p:before
 blockquote p:after
     content: close-quote
 
+blockquote blockquote
+  border-left: 2px solid $blue
+  padding-left: 20px
+
+  p
+    font-size: 1rem
+    font-style: italic
+    color: $lightGrey
+
+  p:after, p:before
+    content: none
+
 nav.bg-dark
   background-color: $blue !important
-
-  .site-title
-    font-weight: bolder
 
   a, a:link, a:visited, a:active
     color: $white
@@ -94,6 +103,15 @@ nav.bg-dark
     li
       margin: 0 0 10px 0
 
+  article.post
+
+    ul
+      list-style: disc
+      margin: 20px 0 20px 20px
+
+      li
+        margin: 0 0 20px 0
+
 .post, .col, .col-md-4, .col-md-6, .col-md-8
   margin-bottom: 50px
 
@@ -107,6 +125,7 @@ nav.bg-dark
   margin-top: 50px
 
 h2
+  margin-top: 20px
   border-bottom: 2px solid $blue
 
 .post-content
