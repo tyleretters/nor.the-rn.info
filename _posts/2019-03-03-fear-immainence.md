@@ -123,7 +123,7 @@ I might also add a fifth addend of "Eager to see a change". I deeply desire to s
 
 Lately, I've been thinking about how I can help build the next Earth. As always, I've been pouring myself into my music and art, but the context and audiences have shifted. Sage is teaching me how to write music, like with quarter notes and treble clefs and stuff! At work, we're increasingly focused on working with mission driven organizations that are actually making a difference in the world. I've been practicing yoga.
 
-I don't have a neat conclusion or pithy axiom to offer you, but I can say that for the first time in my life I feel like I've started to sort this one out. And that is is pretty incredible for me. So If you have something you've been trying to figure out, I encourage you to write about it!
+I don't have a neat conclusion or pithy axiom to offer you, but I can say that for the first time in my life I feel like I've started to sort this one out. And that is pretty incredible for me. So if you have something you've been trying to figure out, I encourage you to write about it!
 
 Until next time,
 
