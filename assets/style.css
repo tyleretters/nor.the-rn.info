@@ -69,7 +69,6 @@ nav.bg-dark {
     nav.bg-dark .navbar-nav li.active .nav-link,
     nav.bg-dark .navbar-nav li .nav-link {
       color: #0687f5;
-      font-weight: bolder;
       background-color: #ffffff; }
       nav.bg-dark .navbar-nav li.active .nav-link:hover, nav.bg-dark .navbar-nav li.active .nav-link:active,
       nav.bg-dark .navbar-nav li .nav-link:hover,
