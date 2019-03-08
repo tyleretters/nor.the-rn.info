@@ -23,26 +23,13 @@ a:hover.about-link {
   color: #ffffff;
   background: #0687f5; }
 
-blockquote p {
-  font-size: 1.5rem;
-  font-style: italic;
-  color: #b3b3b3; }
-
-blockquote p:before {
-  content: open-quote; }
-
-blockquote p:after {
-  content: close-quote; }
-
-blockquote blockquote {
+blockquote {
   border-left: 2px solid #0687f5;
   padding-left: 20px; }
-  blockquote blockquote p {
+  blockquote p {
     font-size: 1rem;
     font-style: italic;
     color: #b3b3b3; }
-  blockquote blockquote p:after, blockquote blockquote p:before {
-    content: none; }
 
 nav.bg-dark {
   background-color: #0687f5 !important; }
@@ -69,7 +56,6 @@ nav.bg-dark {
     nav.bg-dark .navbar-nav li.active .nav-link,
     nav.bg-dark .navbar-nav li .nav-link {
       color: #0687f5;
-      font-weight: bolder;
       background-color: #ffffff; }
       nav.bg-dark .navbar-nav li.active .nav-link:hover, nav.bg-dark .navbar-nav li.active .nav-link:active,
       nav.bg-dark .navbar-nav li .nav-link:hover,
@@ -126,7 +112,6 @@ h2 {
     .earlier-post a,
     .later-post a {
       color: #ffffff;
-      font-weight: bolder;
       background-color: #0687f5;
       display: block; }
       .earlier-post a:hover, .earlier-post a:active,

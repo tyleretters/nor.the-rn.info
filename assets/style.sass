@@ -29,18 +29,7 @@ a:hover.about-link
   color: $white
   background: $blue
 
-blockquote p
-  font-size: 1.5rem
-  font-style: italic
-  color: $lightGrey
-
-blockquote p:before
-    content: open-quote
-
-blockquote p:after
-    content: close-quote
-
-blockquote blockquote
+blockquote
   border-left: 2px solid $blue
   padding-left: 20px
 
@@ -48,9 +37,6 @@ blockquote blockquote
     font-size: 1rem
     font-style: italic
     color: $lightGrey
-
-  p:after, p:before
-    content: none
 
 nav.bg-dark
   background-color: $blue !important
@@ -84,7 +70,6 @@ nav.bg-dark
     &.active .nav-link,
     .nav-link
       color: $blue
-      font-weight: bolder
       background-color: $white
 
       &:hover, &:active
@@ -148,7 +133,6 @@ h2
 
     a
       color: $white
-      font-weight: bolder
       background-color: $blue
       display: block
 
