@@ -14,3 +14,6 @@ plugins:
   - jekyll-feed
 feed:
   path: feed.xml
+collections_dir: collections
+collections:
+  - blogroll
