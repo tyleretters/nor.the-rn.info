@@ -12,6 +12,6 @@ Then I realized something else: this _consistency_ started around the time I [de
 - Doubled down on nurturing [Discord](https://discordapp.com/) communities with people I care about.
 - Started blogging here.
 - [Really started blogging there](https://journal.highlandsolutions.com/cellular-automata-in-javascript-c0336af3e1f3).
-- Probalby a bunch of other things I'm not yet aware of.
+- Probably a bunch of other things I'm not yet aware of.
 
-To an extent, I was doing all this stuff before deleting my account. But there was always Facebook as a fallback cushion when I felt lonely or disconnected or whatever. That knowledge was a pyschic inhibitor. In this way, deleting my account was like jumping into the ocean without a portable floation device: it forced me to take responsibility for my social media habits.
+To an extent, I was doing all this stuff before deleting my account. But there was always Facebook as a fallback cushion when I felt lonely or disconnected or whatever. That knowledge was a psychic inhibitor. In this way, deleting my account was like jumping into the ocean without a portable flotation device: it forced me to take responsibility for my social media habits.
