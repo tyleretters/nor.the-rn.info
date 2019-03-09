@@ -17,3 +17,5 @@ feed:
 collections_dir: collections
 collections:
   - blogroll
+jekyll_compose:
+    auto_open: true
