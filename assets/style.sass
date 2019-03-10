@@ -45,10 +45,18 @@ blockquote
 .fa-bars, .fa-times
   color: $blue
 
-button.navbar-toggler
+.button-mobile
+  cursor: pointer
+  display: none
+  background: none
   border-radius: 0
   border: none
   padding: 0
+  width: 40px
+  height: 40px
+
+  i
+    float: right
 
   &:focus
     outline: none
@@ -81,6 +89,9 @@ nav .navbar-nav li
     display:  inline
 
 @media (max-width: 575.98px)
+  .button-mobile
+    display: block
+
   nav .navbar-nav li
     margin-left: 0
     margin-bottom: 10px

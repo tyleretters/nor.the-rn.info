@@ -37,19 +37,26 @@ blockquote {
 .fa-bars, .fa-times {
   color: #0687f5; }
 
-button.navbar-toggler {
+.button-mobile {
+  cursor: pointer;
+  display: none;
+  background: none;
   border-radius: 0;
   border: none;
-  padding: 0; }
-  button.navbar-toggler:focus {
+  padding: 0;
+  width: 40px;
+  height: 40px; }
+  .button-mobile i {
+    float: right; }
+  .button-mobile:focus {
     outline: none; }
-  button.navbar-toggler .fa-times {
+  .button-mobile .fa-times {
     display: block; }
-  button.navbar-toggler .fa-bars {
+  .button-mobile .fa-bars {
     display: none; }
-  button.navbar-toggler.collapsed .fa-times {
+  .button-mobile.collapsed .fa-times {
     display: none; }
-  button.navbar-toggler.collapsed .fa-bars {
+  .button-mobile.collapsed .fa-bars {
     display: block; }
 
 nav .navbar-nav li {
@@ -62,6 +69,9 @@ nav .navbar-nav li {
     display: inline; }
 
 @media (max-width: 575.98px) {
+  .button-mobile {
+    display: block; }
+
   nav .navbar-nav li {
     margin-left: 0;
     margin-bottom: 10px;
