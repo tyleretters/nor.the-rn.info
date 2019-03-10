@@ -109,13 +109,13 @@ nav .navbar-nav li {
       display: inline; }
     nav .navbar-nav li.active .nav-link,
     nav .navbar-nav li .nav-link {
-      color: #212529;
-      background-color: #ffffff; }
+      color: #ffffff;
+      background-color: #212529; }
       nav .navbar-nav li.active .nav-link:hover, nav .navbar-nav li.active .nav-link:active,
       nav .navbar-nav li .nav-link:hover,
       nav .navbar-nav li .nav-link:active {
-        color: #ffffff;
-        background: #0687f5; } }
+        color: #212529;
+        background: #ffffff; } }
 .container-fluid {
   padding-top: 30px;
   padding-bottom: 30px; }
