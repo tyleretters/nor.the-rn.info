@@ -3,6 +3,7 @@ $darkBlue: darken($blue, 25%)
 $grey: #333333
 $lightGrey: lighten($grey, 50%)
 $white: #ffffff
+$black: #212529
 
 body
   font-family: 'Rubik', sans-serif
@@ -42,8 +43,13 @@ blockquote
 /**
  * Navbar
  */
+.site-logo
+  float: left
+  width: 150px
+  height: 70px
+
 .fa-bars, .fa-times
-  color: $blue
+  color: $white
 
 .button-mobile
   cursor: pointer
@@ -75,9 +81,22 @@ blockquote
     .fa-bars
       display: block
 
+.navbar
+  background: url("images/nav-bg.jpg")
+  background-size: contain
+  padding: 1.5rem 2rem 1rem 2rem
+  border-bottom: 2px solid $black
+  align-items: baseline
 
 nav .navbar-nav li
   margin-left: 16px
+
+  a
+    color: $white
+    margin-top: 0
+    margin-bottom: 0
+    padding-top: 0
+    padding-bottom: 0
 
   a:hover
     text-decoration: underline
@@ -85,12 +104,25 @@ nav .navbar-nav li
   span
     display: none
 
+
   &.active span
-    display:  inline
+    display: inline
+
 
 @media (max-width: 575.98px)
+
+  .navbar
+    align-items: center
+  
+  .site-logo
+    width: 75px
+    height: 35px
+
   .button-mobile
     display: block
+
+  nav ul.navbar-nav
+    margin-top: 10px
 
   nav .navbar-nav li
     margin-left: 0
@@ -103,17 +135,17 @@ nav .navbar-nav li
 
     &.active .nav-link,
     .nav-link
-      color: $white
-      background-color: $blue
+      color: $black
+      background-color: $white
 
       &:hover, &:active
         color: $white
-        background: $darkBlue
-        text-decoration: none
+        background: $blue
+        
 
 .container-fluid
-  padding-top: 15px
-  padding-bottom: 15px
+  padding-top: 30px
+  padding-bottom: 30px
 
   ul
     list-style: none
@@ -145,7 +177,7 @@ nav .navbar-nav li
 
 h2
   margin-top: 20px
-  border-bottom: 2px solid $blue
+  border-bottom: 2px solid $black
 
 .post-content
   img
