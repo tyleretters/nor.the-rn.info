@@ -38,27 +38,48 @@ blockquote
     font-style: italic
     color: $lightGrey
 
-nav.bg-dark
-  background-color: $blue !important
 
-  a, a:link, a:visited, a:active
-    color: $white
+/**
+ * Navbar
+ */
+.fa-bars, .fa-times
+  color: $blue
 
-  a:hover
-    color: $white
-    text-decoration: underline
+button.navbar-toggler
+  padding: 0
 
-  .navbar-nav li
-    margin-left: 16px
+  &:focus
+    outline: none
 
-    span
+  .fa-times
+    display: block
+
+  .fa-bars
+    display: none
+
+  &.collapsed
+  
+    .fa-times
       display: none
 
-    &.active
-      color: $white
+    .fa-bars
+      display: block
+
+
+nav .navbar-nav li
+  margin-left: 16px
+
+  a:hover
+    text-decoration: underline
+
+  span
+    display: none
+
+  &.active span
+    display:  inline
 
 @media (max-width: 575.98px)
-  nav.bg-dark .navbar-nav li
+  nav .navbar-nav li
     margin-left: 0
     margin-bottom: 10px
     margin-top: 10px
@@ -69,8 +90,8 @@ nav.bg-dark
 
     &.active .nav-link,
     .nav-link
-      color: $blue
-      background-color: $white
+      color: $white
+      background-color: $blue
 
       &:hover, &:active
         color: $white

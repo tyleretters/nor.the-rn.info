@@ -31,35 +31,49 @@ blockquote {
     font-style: italic;
     color: #b3b3b3; }
 
-nav.bg-dark {
-  background-color: #0687f5 !important; }
-  nav.bg-dark a, nav.bg-dark a:link, nav.bg-dark a:visited, nav.bg-dark a:active {
-    color: #ffffff; }
-  nav.bg-dark a:hover {
-    color: #ffffff;
+/**
+ * Navbar
+ */
+.fa-bars, .fa-times {
+  color: #0687f5; }
+
+button.navbar-toggler {
+  padding: 0; }
+  button.navbar-toggler:focus {
+    outline: none; }
+  button.navbar-toggler .fa-times {
+    display: block; }
+  button.navbar-toggler .fa-bars {
+    display: none; }
+  button.navbar-toggler.collapsed .fa-times {
+    display: none; }
+  button.navbar-toggler.collapsed .fa-bars {
+    display: block; }
+
+nav .navbar-nav li {
+  margin-left: 16px; }
+  nav .navbar-nav li a:hover {
     text-decoration: underline; }
-  nav.bg-dark .navbar-nav li {
-    margin-left: 16px; }
-    nav.bg-dark .navbar-nav li span {
-      display: none; }
-    nav.bg-dark .navbar-nav li.active {
-      color: #ffffff; }
+  nav .navbar-nav li span {
+    display: none; }
+  nav .navbar-nav li.active span {
+    display: inline; }
 
 @media (max-width: 575.98px) {
-  nav.bg-dark .navbar-nav li {
+  nav .navbar-nav li {
     margin-left: 0;
     margin-bottom: 10px;
     margin-top: 10px;
     text-align: center; }
-    nav.bg-dark .navbar-nav li.active span {
+    nav .navbar-nav li.active span {
       display: inline; }
-    nav.bg-dark .navbar-nav li.active .nav-link,
-    nav.bg-dark .navbar-nav li .nav-link {
-      color: #0687f5;
-      background-color: #ffffff; }
-      nav.bg-dark .navbar-nav li.active .nav-link:hover, nav.bg-dark .navbar-nav li.active .nav-link:active,
-      nav.bg-dark .navbar-nav li .nav-link:hover,
-      nav.bg-dark .navbar-nav li .nav-link:active {
+    nav .navbar-nav li.active .nav-link,
+    nav .navbar-nav li .nav-link {
+      color: #ffffff;
+      background-color: #0687f5; }
+      nav .navbar-nav li.active .nav-link:hover, nav .navbar-nav li.active .nav-link:active,
+      nav .navbar-nav li .nav-link:hover,
+      nav .navbar-nav li .nav-link:active {
         color: #ffffff;
         background: #034279;
         text-decoration: none; } }
