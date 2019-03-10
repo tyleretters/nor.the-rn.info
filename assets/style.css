@@ -38,6 +38,8 @@ blockquote {
   color: #0687f5; }
 
 button.navbar-toggler {
+  border-radius: 0;
+  border: none;
   padding: 0; }
   button.navbar-toggler:focus {
     outline: none; }
