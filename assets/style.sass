@@ -16,11 +16,12 @@ a:hover
 
 a.about-link
   color: $white
-  background: $blue
+  background: $grey
   width: 100%
   display: block
   text-align: center
   margin-bottom: 16px
+  padding: 10px 0 10px 0
 
 a:hover.about-link
   color: $white
@@ -84,7 +85,7 @@ blockquote
 .navbar
   background: url("images/nav-bg.jpg")
   background-size: contain
-  padding: 1.5rem 2rem 1rem 2rem
+  padding: 1.5rem 15px 1rem 15px
   border-bottom: 2px solid $black
   align-items: baseline
 
@@ -104,10 +105,8 @@ nav .navbar-nav li
   span
     display: none
 
-
   &.active span
     display: inline
-
 
 @media (max-width: 575.98px)
 
@@ -135,13 +134,18 @@ nav .navbar-nav li
 
     &.active .nav-link,
     .nav-link
-      color: $white
-      background-color: $black
+      color: $black
+      background-color: $white
 
       &:hover, &:active
-        color: $black
-        background: $white
-        
+        color: $white
+        background: $darkBlue
+
+    a
+      padding: 10px 0 10px 0
+
+      &:hover, &:active
+        text-decoration: none
 
 .container-fluid
   padding-top: 30px
@@ -166,7 +170,7 @@ nav .navbar-nav li
 .post, .col, .col-md-4, .col-md-6, .col-md-8
   margin-bottom: 50px
 
-.col-tighten, .col-md-4-tighten, .col-md-6-tighten, .col-md-8-tighten
+.col-tighten
   margin-bottom: 20px
 
   a
@@ -175,9 +179,11 @@ nav .navbar-nav li
 #related-projects
   margin-top: 50px
 
-h2
+h1, h2
   margin-top: 20px
-  border-bottom: 2px solid $black
+
+.post h1, h2
+  border-bottom: 2px solid $grey
 
 .post-content
   img
@@ -189,7 +195,7 @@ h2
 .earlier-post
   text-align: right
 
-@media (max-width: 575.98px)
+@media (max-width: 768px)
   .earlier-post,
   .later-post
     margin-left: 0
@@ -199,8 +205,9 @@ h2
 
     a
       color: $white
-      background-color: $blue
+      background-color: $grey
       display: block
+      padding: 10px 0 10px 0
 
       &:hover, &:active
         color: $white

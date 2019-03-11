@@ -49,7 +49,7 @@ I have this memory of listening to the radio as we invaded. And yes, that word "
 
 I talked with my mom about becoming a conscientious objector should they reinstate the draft. I knew the events of 9/11 precipitated this event, and yet other events precipitated 9/11. A long chain forged in time immemorial. Oil, money, freedom. We're the good guys, right?
 
-> As an aside, I still don't really have an opinion on American foreign policy, 9/11, or any of the conflicts we've been involved in since. A cowardly stance perhaps, but it is not something I've studied. I think I know just enough to admit I don't really know what is going on. And maybe that's what everyone says and maybe that's part of what the problem is. On the other hand, I do have an opinion on war and the suffering it causes. I think we fight too much. And I think we ought to try and be kind to each other during our brief time together.
+As an aside, I still don't really have an opinion on American foreign policy, 9/11, or any of the conflicts we've been involved in since. A cowardly stance perhaps, but it is not something I've studied. I think I know just enough to admit I don't really know what is going on. And maybe that's what everyone says and maybe that's part of what the problem is. On the other hand, I do have an opinion on war and the suffering it causes. I think we fight too much. And I think we ought to try and be kind to each other during our brief time together.
 
 I didn't know what to "do" with the Iraq War. Support it? Protest it? Talk to people about it? Enlist to a military academy? Is that even a thing? Those stern looking fellas from the Army and Navy sometimes have tables setup in the cafeteria. Surely they'd know what to do?
 
