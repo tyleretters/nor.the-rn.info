@@ -33,7 +33,7 @@ order: 4
 ## Recently Read Books
 
 - _In roughly reverse-chronological order._
-- **All Tomorrow's Parties by William Gibson** _A satisfying, imaginative, and above all fun conclusion to The Bridge Trilogy._
+- **All Tomorrow's Parties by William Gibson** _A satisfying, imaginative, and fun conclusion to The Bridge Trilogy._
 - **Time Travel: A History by James Gleik** _A poetic look at how we as a culture became aware of the very concept of time travel. Gleik weaves literature, scientific discoveries, and technological advancements together in a joyful ode to my favorite SF trope._
 - **★ k-punk: The Collected Writings of Mark Fisher** _The book is divided into thematic sections, each in chronological order. At the end of each section, I found myself overcome with a certain sorrow in knowing this is all there ever will be. I know I will refer to the final section on Acid Communism for years to come. RIP._
 - **Flatline Constructs: Gothic Materialism and Cybernetic Theory-Fiction by Mark Fisher** _Fisher's thesis sketches out a "Gothic Materialism" framework. I enjoyed the reading quite a bit, though lacked the academic context to understand most of it. Hardcopy via [exmilitary](http://exmilitai.re/flatline.html)._
