@@ -2,7 +2,8 @@ body {
   font-family: "Rubik", sans-serif; }
 
 a, a:link, a:visited, a:active {
-  color: #0687f5; }
+  color: #0687f5;
+  text-decoration: underline; }
 
 a:hover {
   color: #034279; }
@@ -14,7 +15,8 @@ a.about-link {
   display: block;
   text-align: center;
   margin-bottom: 16px;
-  padding: 10px 0 10px 0; }
+  padding: 10px 0 10px 0;
+  text-decoration: none; }
 
 a:hover.about-link {
   color: #ffffff;
@@ -79,7 +81,8 @@ nav .navbar-nav li {
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 0;
-    padding-bottom: 0; }
+    padding-bottom: 0;
+    text-decoration: none; }
   nav .navbar-nav li a:hover {
     text-decoration: underline; }
   nav .navbar-nav li span {
