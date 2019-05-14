@@ -33,6 +33,7 @@ order: 4
 ## Recently Read Books
 
 - _In roughly reverse-chronological order._
+- **Templexity: Disordered Loops through Shanghai Time by Nick Land** _Shanghai is a time machine... or something._
 - **★ Infinite Detail by Tim Maughan** _Holy shit. I hope this enters the canon of Neuromancer, Snow Crash, etc. There is an urgency and poetry to Maughan's prose that feels just perfect. I adore all the references to hip-hop culture, jungle, and artists. I look forward to re-reading this one over and over._
 - **All Tomorrow's Parties by William Gibson** _A satisfying, imaginative, and fun conclusion to The Bridge Trilogy._
 - **Time Travel: A History by James Gleik** _A poetic look at how we as a culture became aware of the very concept of time travel. Gleik weaves literature, scientific discoveries, and technological advancements together in a joyful ode to my favorite SF trope._
