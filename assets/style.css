@@ -127,20 +127,29 @@ nav .navbar-nav li {
 .container-fluid {
   padding-top: 30px;
   padding-bottom: 30px; }
-  .container-fluid ul {
+  .container-fluid ul, .container-fluid ol {
     list-style: none;
+    list-style-position: inside;
     margin: 0;
     padding: 0; }
-    .container-fluid ul li {
+    .container-fluid ul li, .container-fluid ol li {
       margin: 0 0 10px 0; }
   .container-fluid article.post ul {
-    list-style: disc;
-    margin: 20px 0 20px 20px; }
-    .container-fluid article.post ul li {
+    list-style-type: disc; }
+  .container-fluid article.post ol {
+    list-style-type: decimal-leading-zero; }
+  .container-fluid article.post ul, .container-fluid article.post ol {
+    border-left: 2px solid #0687f5;
+    padding-left: 20px;
+    margin: 20px 0 20px 0; }
+    .container-fluid article.post ul li, .container-fluid article.post ol li {
       margin: 0 0 20px 0; }
 
 .post, .col, .col-md-4, .col-md-6, .col-md-8 {
   margin-bottom: 50px; }
+
+.post-home {
+  margin-bottom: 200px; }
 
 .col-tighten {
   margin-bottom: 20px; }

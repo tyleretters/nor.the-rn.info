@@ -153,24 +153,37 @@ nav .navbar-nav li
   padding-top: 30px
   padding-bottom: 30px
 
-  ul
+  ul, ol
     list-style: none
+    list-style-position: inside
     margin: 0
     padding: 0
+
     li
       margin: 0 0 10px 0
 
   article.post
-
+    
     ul
-      list-style: disc
-      margin: 20px 0 20px 20px
+      list-style-type: disc
+
+    ol
+      list-style-type: decimal-leading-zero
+
+    ul, ol
+      border-left: 2px solid $blue
+      padding-left: 20px
+      margin: 20px 0 20px 0
 
       li
         margin: 0 0 20px 0
 
+
 .post, .col, .col-md-4, .col-md-6, .col-md-8
   margin-bottom: 50px
+
+.post-home
+  margin-bottom: 200px
 
 .col-tighten
   margin-bottom: 20px
