@@ -146,7 +146,7 @@ We made three (3) prototype versions of episode one.
 
 We made four (4) "release candidates" of episode one.
 
-We shared these with increasingly discerning circles of ears and minds. The feedback, ever-arcing up and to the right. There were some bumps (@utcpodcast was claimed, coodrinateduniversaltime.com sells sex toys, etc.) but no soul crushing nights of despair that I'm use to being a part of the creative process. There were video calls and Signal messages. SMS's and emails. A few tormented decisions about content and authorship. Copyrights. Distribution. [LUFS](https://theaudacitytopodcast.com/why-and-how-your-podcast-needs-loudness-normalization-tap307/). Optimal "commute time" lengths for a podcast. A highly unexpected opinionated conversation around calling "Siri" by name.
+We shared these with increasingly discerning circles of ears and minds. The feedback, ever-arcing up and to the right. There were some bumps (@utcpodcast was claimed, coordinateduniversaltime.com sells sex toys, etc.) but no soul crushing nights of despair that I'm use to being a part of the creative process. There were video calls and Signal messages. SMS's and emails. A few tormented decisions about content and authorship. Copyrights. Distribution. [LUFS](https://theaudacitytopodcast.com/why-and-how-your-podcast-needs-loudness-normalization-tap307/). Optimal "commute time" lengths for a podcast. A highly unexpected opinionated conversation around calling "Siri" by name.
 
 We re-designed the website.
 
