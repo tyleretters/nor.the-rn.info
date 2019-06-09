@@ -232,14 +232,21 @@ h1, h2 {
   font-family: monospace;
   text-align: center; }
 
-.row-music img,
-.row-travel img {
-  width: 100%; }
+.row-music a {
+  text-decoration: none; }
+.row-music .container-fluid {
+  padding-top: 0; }
+
 .row-music em,
 .row-travel em {
   color: #b3b3b3; }
 .row-music div,
 .row-travel div {
   margin-bottom: 50px; }
+
+.row-music img,
+.row-travel img,
+.row-about img {
+  width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
