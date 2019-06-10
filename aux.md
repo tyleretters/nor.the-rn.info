@@ -33,7 +33,7 @@ order: 4
 ## Recently Read Books
 
 - _In roughly reverse-chronological order._
-- **★ The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins by Anna Lowenhaupt Tsing** _In a stunning turn of events the world "psychadelic" was not mentioned once in this book! Instead we follow the patchworked travels of matsutake mushrooms as they journey from Orgeonian forests through supply chains and into Japanese restaraunts. Salvage capitalism, assemblages, patchwork. My favorite non-fiction book of the year._
+- **★ The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins by Anna Lowenhaupt Tsing** _In a stunning turn of events the world "psychedelic" was not mentioned once in this book! Instead we follow the patchworked travels of matsutake mushrooms as they journey from Orgeonian forests through supply chains and into Japanese restaraunts. Salvage capitalism, assemblages, patchwork. My favorite non-fiction book of the year._
 - **Templexity: Disordered Loops through Shanghai Time by Nick Land** _Shanghai is a time machine... or something._
 - **★ Infinite Detail by Tim Maughan** _Holy shit. I hope this enters the canon of Neuromancer, Snow Crash, etc. There is an urgency and poetry to Maughan's prose that feels just perfect. I adore all the references to hip-hop culture, jungle, and artists. I look forward to re-reading this one over and over._
 - **All Tomorrow's Parties by William Gibson** _A satisfying, imaginative, and fun conclusion to The Bridge Trilogy._
