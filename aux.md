@@ -30,9 +30,11 @@ order: 4
 
 <div class="col-md-6 aux" markdown="1">
 
-## Recently Read Books
+## Selected Recently Read Books
 
 - _In roughly reverse-chronological order._
+- **Everything is Fucked: A Book About Hope by Mark Manson** _After Manson's previous book, I had great expectations for this one. It introduced me the concept of Amor Fati which is quite lovely, but other than that it reads as a somewhat hysterical plea of fealty to the AI who will run the singularity._
+- **Hyperobjects: Philosophy and Ecology after the End of the World by Timothy Morton** _I found this to be highly sensationalized and conjectural. There is probably something here, but I'm not ready to bite._
 - **★ The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins by Anna Lowenhaupt Tsing** _In a stunning turn of events the world "psychedelic" was not mentioned once in this book! Instead we follow the patchworked travels of matsutake mushrooms as they journey from Orgeonian forests through supply chains and into Japanese restaraunts. Salvage capitalism, assemblages, patchwork. My favorite non-fiction book of the year._
 - **Templexity: Disordered Loops through Shanghai Time by Nick Land** _Shanghai is a time machine... or something._
 - **★ Infinite Detail by Tim Maughan** _Holy shit. I hope this enters the canon of Neuromancer, Snow Crash, etc. There is an urgency and poetry to Maughan's prose that feels just perfect. I adore all the references to hip-hop culture, jungle, and artists. I look forward to re-reading this one over and over._
