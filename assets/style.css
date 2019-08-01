@@ -31,8 +31,7 @@ blockquote {
   padding-left: 20px; }
   blockquote p {
     font-size: 1rem;
-    font-style: italic;
-    color: #b3b3b3; }
+    color: #333333; }
 
 /**
  * Navbar
