@@ -150,7 +150,7 @@ nav .navbar-nav li {
 .post, .col, .col-md-4, .col-md-6, .col-md-8 {
   margin-bottom: 50px; }
 
-.post-home {
+.post {
   margin-bottom: 200px; }
 
 .col-tighten {
@@ -173,28 +173,24 @@ h1, h2 {
 .post-meta {
   color: #333333; }
 
-.earlier-post {
-  text-align: right; }
-
-@media (max-width: 768px) {
-  .earlier-post,
-  .later-post {
-    margin-left: 0;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    text-align: center; }
-    .earlier-post a,
-    .later-post a {
+.earlier-post,
+.later-post {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center; }
+  .earlier-post a,
+  .later-post a {
+    color: #ffffff;
+    background-color: #333333;
+    display: block;
+    padding: 10px 0 10px 0; }
+    .earlier-post a:hover, .earlier-post a:active,
+    .later-post a:hover,
+    .later-post a:active {
       color: #ffffff;
-      background-color: #333333;
-      display: block;
-      padding: 10px 0 10px 0; }
-      .earlier-post a:hover, .earlier-post a:active,
-      .later-post a:hover,
-      .later-post a:active {
-        color: #ffffff;
-        background: #034279;
-        text-decoration: none; } }
+      background: #034279;
+      text-decoration: none; }
+
 .container-fluid .aux ul li {
   margin-bottom: 20px; }
   .container-fluid .aux ul li em {
