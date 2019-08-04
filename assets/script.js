@@ -181,3 +181,12 @@ function checkKey(e) {
   }
 
 }
+
+/*
+ * Make all post images link to high res versions of themsleves.
+ * The other options besides JS were to do it in markdown which is an awful writing experience
+ * or extend Jekyll to do this during compilation. This was 3 lines.
+ */
+$('.post-content img').each(function() {
+  $(this).wrap( '<a href="' + this.src + '"></a>' );
+});
