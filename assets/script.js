@@ -183,10 +183,97 @@ function checkKey(e) {
 }
 
 /*
+ * Copy text to clipboard.
+ */
+function copy(inElement) {
+  if (inElement.createTextRange) {
+    var range = inElement.createTextRange();
+    if (range && BodyLoaded==1) range.execCommand('Copy');
+  } else {
+    var flashcopier = 'flashcopier';
+    if(!document.getElementById(flashcopier)) {
+      var divholder = document.createElement('div');
+      divholder.id = flashcopier;
+      document.body.appendChild(divholder);
+    }
+    document.getElementById(flashcopier).innerHTML = '';
+    var divinfo = '';
+    document.getElementById(flashcopier).innerHTML = divinfo;
+  }
+}
+
+/*
+ * Start jQuery.
+ */
+$(function() {
+
+/*
  * Make all post images link to high res versions of themsleves.
  * The other options besides JS were to do it in markdown which is an awful writing experience
  * or extend Jekyll to do this during compilation. This was 3 lines.
  */
 $('.post-content img').each(function() {
-  $(this).wrap( '<a href="' + this.src + '"></a>' );
+  $(this).wrap('<a href="' + this.src + '"></a>');
+});
+
+/*
+ * Add UI for Max patch.
+ */
+
+var maxPatchId = 0;
+
+$('.language-max').each(function() {
+  
+  maxPatchId++;
+  
+  $(this).parents('pre').wrap(function() {
+    return '<div id="max-patch-id-' + maxPatchId + '" class="max-clipboard"></div>';  
+  });
+
+  beforeMaxClipboard = '<button class="btn btn-max btn-max-toggle" data-target="max-patch-id-' + maxPatchId + '">Pasted Max Patch: Click to Expand</button>';
+  $(beforeMaxClipboard).insertBefore($('#max-patch-id-' + maxPatchId));
+
+  expandClipboard = '<button class="btn btn-max d-inline-block btn-max-copy" data-target="max-patch-id-' + maxPatchId + '">Copy to Clipboard</button>';
+  expandClipboard += '<p class="d-inline-block align-middle">In Max, select <em>new from clipboard</em>.<span> Copied!</span></p>';
+  $('#max-patch-id-' + maxPatchId).prepend(expandClipboard);
+});
+
+/*
+ * Toggle Max patch detail view.
+ */
+$('.btn-max-toggle').each(function() {
+  $(this).click(function() {
+    target = $(this).attr('data-target');
+    $('#' + target).toggle();
+  });
+});
+
+/*
+ * Copy to clipboard.
+ */
+$('.btn-max-copy').each(function() {
+  $(this).click(function() {
+    target = '#' + $(this).attr('data-target');
+    preTarget = target + ' pre';
+    copyTarget =  target + ' code';
+    notificationTarget = target + ' span';
+    temp = $('<input>');
+    $('body').append(temp);
+    temp.val($(copyTarget).text()).select();
+    document.execCommand('copy');
+    temp.remove();
+    $(notificationTarget).show();
+    $(notificationTarget).addClass('fade-in-out');
+    $(preTarget).addClass('code-copied');
+    setTimeout(function(){
+      $(notificationTarget).hide();
+      $(notificationTarget).removeClass('fade-in-out');
+      $(preTarget).removeClass('code-copied');
+    }, 2000);
+  });
+});
+
+/*
+ * End jQuery.
+ */   
 });

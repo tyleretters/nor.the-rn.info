@@ -2,6 +2,7 @@ $blue: #0687f5
 $darkBlue: darken($blue, 25%)
 $grey: #333333
 $lightGrey: lighten($grey, 50%)
+$veryLightGrey: lighten($grey, 50%)
 $white: #ffffff
 $black: #212529
 
@@ -43,6 +44,60 @@ blockquote
   p
     font-size: 1rem
     color: $grey
+
+.max-clipboard
+  display: none
+  margin-bottom: 20px
+
+  p span
+    display: none
+    color: $blue
+  
+  pre
+    background: $grey
+    margin: 10px 0
+    padding: 10px
+    border-radius: 4px
+  
+    &.code-copied
+      background: $blue
+
+    code.language-max
+      color: $white
+      font-size: 10px
+      line-height: 0px
+
+.code-copied
+  -webkit-animation: backgroundanimation 2s linear forwards
+  animation: backgroundanimation 2s linear forwards
+
+@-webkit-keyframes backgroundanimation
+  0%
+    background-color: $blue
+  100%
+    background-color: $grey
+
+@keyframes backgroundanimation
+  0%
+    background-color: $blue
+  100%
+    background-color: $grey
+
+.fade-in-out
+  -webkit-animation: fadeinout 2s linear forwards
+  animation: fadeinout 2s linear forwards
+
+@-webkit-keyframes fadeinout
+  0%
+    opacity: 1
+  100%
+    opacity: 0
+
+@keyframes fadeinout
+  0%
+    opacity: 1
+  100%
+    opacity: 0
 
 /**
  * Navbar
@@ -226,6 +281,24 @@ h1, h2
       color: $white
       background: $darkBlue
       text-decoration: none  
+
+button.btn-max
+  margin-bottom: 10px
+  margin-top: 10px
+  text-align: center
+  color: $white
+  background-color: $grey
+  display: block
+  padding: 10px
+  
+  &:hover, &:active
+    color: $white
+    background: $darkBlue
+    text-decoration: none  
+
+.max-clipboard p
+  padding: 10px
+  margin: 0px
 
 .container-fluid .aux ul li
   margin-bottom: 20px

@@ -36,6 +36,52 @@ blockquote {
     font-size: 1rem;
     color: #333333; }
 
+.max-clipboard {
+  display: none;
+  margin-bottom: 20px; }
+  .max-clipboard p span {
+    display: none;
+    color: #0687f5; }
+  .max-clipboard pre {
+    background: #333333;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px; }
+    .max-clipboard pre.code-copied {
+      background: #0687f5; }
+    .max-clipboard pre code.language-max {
+      color: #ffffff;
+      font-size: 10px;
+      line-height: 0px; }
+
+.code-copied {
+  -webkit-animation: backgroundanimation 2s linear forwards;
+  animation: backgroundanimation 2s linear forwards; }
+
+@-webkit-keyframes backgroundanimation {
+  0% {
+    background-color: #0687f5; }
+  100% {
+    background-color: #333333; } }
+@keyframes backgroundanimation {
+  0% {
+    background-color: #0687f5; }
+  100% {
+    background-color: #333333; } }
+.fade-in-out {
+  -webkit-animation: fadeinout 2s linear forwards;
+  animation: fadeinout 2s linear forwards; }
+
+@-webkit-keyframes fadeinout {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
+@keyframes fadeinout {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
 /**
  * Navbar
  */
@@ -190,6 +236,23 @@ h1, h2 {
       color: #ffffff;
       background: #034279;
       text-decoration: none; }
+
+button.btn-max {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #333333;
+  display: block;
+  padding: 10px; }
+  button.btn-max:hover, button.btn-max:active {
+    color: #ffffff;
+    background: #034279;
+    text-decoration: none; }
+
+.max-clipboard p {
+  padding: 10px;
+  margin: 0px; }
 
 .container-fluid .aux ul li {
   margin-bottom: 20px; }
