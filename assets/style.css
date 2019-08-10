@@ -19,7 +19,8 @@ a.about-link {
   text-align: center;
   margin-bottom: 16px;
   padding: 10px 0 10px 0;
-  text-decoration: none; }
+  text-decoration: none;
+  border-radius: 4px; }
 
 a:hover.about-link {
   color: #ffffff;
@@ -130,7 +131,8 @@ nav .navbar-nav li {
     margin-bottom: 0;
     padding-top: 0;
     padding-bottom: 0;
-    text-decoration: none; }
+    text-decoration: none;
+    border-radius: 4px; }
   nav .navbar-nav li a:hover {
     text-decoration: underline; }
   nav .navbar-nav li span {
@@ -187,8 +189,6 @@ nav .navbar-nav li {
   .container-fluid article.post ol {
     list-style-type: decimal-leading-zero; }
   .container-fluid article.post ul, .container-fluid article.post ol {
-    border-left: 2px solid #0687f5;
-    padding-left: 20px;
     margin: 20px 0 20px 0; }
     .container-fluid article.post ul li, .container-fluid article.post ol li {
       margin: 0 0 20px 0; }
@@ -210,9 +210,10 @@ nav .navbar-nav li {
 h1, h2 {
   margin-top: 20px; }
 
-.post h1 {
+h2.post-footer {
   border-bottom: 2px solid #333333; }
 
+.post-content iframe,
 .post-content img {
   width: 100%; }
 
@@ -229,7 +230,8 @@ h1, h2 {
     color: #ffffff;
     background-color: #333333;
     display: block;
-    padding: 10px 0 10px 0; }
+    padding: 10px;
+    border-radius: 4px; }
     .earlier-post a:hover, .earlier-post a:active,
     .later-post a:hover,
     .later-post a:active {
