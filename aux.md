@@ -33,6 +33,7 @@ order: 4
 ## Selected Recently Read Books
 
 - _In roughly reverse-chronological order._
+- **★ How to Do Nothing by Jenny Odell** _An adroit, clear-eyed critique of our current context. Bioregionalism, manifest dismantling, birdwatching. Less of a "How to" and more of a "Why to"._
 - **The Subtle Art of Not Giving a Fuck by Mark Manson** _Reread. Most self-help books I respond well to include themes of radical responsibility and acceptance of mortaility and this has both in spades!_
 - **★ On Writing by Stephen King** _Candid & practical, funny & inspiring. SK loves his craft and it’s as contagious as Captain Trips._
 - **Everything is Fucked: A Book About Hope by Mark Manson** _After Manson's previous book, I had great expectations for this one. It introduced me the concept of Amor Fati which is quite lovely, but other than that it reads as a somewhat hysterical plea of fealty to the AI who will run the singularity._
