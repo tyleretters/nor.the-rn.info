@@ -25,7 +25,7 @@ I've had numerous translations over the years. My favorite is the John C. H. Wu 
 
 ![Tao Te Chings](/assets/images/tao-te-ching.jpg)
 
-I think this makes me something of a materialist-naturalist-mystic. I don't believe in a spiritual world. I believe the fundamental interactions (electromagnetism, gravity, strong  weak nuclears) are sufficient describe the happenings in the material world.
+I think this makes me something of a materialist-naturalist-mystic. I don't believe in a spiritual world. I believe the fundamental interactions (electromagnetism, gravity, strong and weak nuclears) are sufficient describe the happenings in the material world.
 
 Our understanding of these forces is not - and probably never will be - complete.
 
