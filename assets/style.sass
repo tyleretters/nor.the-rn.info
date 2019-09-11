@@ -39,12 +39,30 @@ a:hover.about-link
   background: $blue
 
 blockquote
-  border-left: 2px solid $blue
+  border-left: 1px solid $lightGrey
   padding-left: 20px
+  margin-left: 5px
 
   p
     font-size: 1rem
     color: $grey
+
+hr 
+  margin: 4rem 0
+  padding: 0
+  border: none
+  border-top: 1px solid $lightGrey
+  color: $lightGrey
+  text-align: center
+
+hr::before
+  content: "§"
+  display: inline-block
+  position: relative
+  top: -.9rem
+  font-size: 1rem
+  padding: 0 0.25em
+  background: $white
 
 .max-clipboard
   display: none
