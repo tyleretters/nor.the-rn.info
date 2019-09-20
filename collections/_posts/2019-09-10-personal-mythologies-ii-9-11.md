@@ -49,3 +49,12 @@ Maybe I ought to plan a pilgrimage to the 9/11 memorial.
 ![Vietnam Traveling Memorial](/assets/images/vietnam-traveling-memorial.jpg)
 
 ![American Flag Forest](/assets/images/american-flag-forest.jpg)
+
+- - -
+
+**Addendum**
+
+It seems either there is something in the air or I'm particularly sensitive to [apophenia](https://en.wikipedia.org/wiki/Apophenia) (again). I read two articles from Wired after I published this that are perfect compliments:
+
+- [Pagers, Pay Phones, and Dialup: How We Communicated on 9/11](https://www.wired.com/story/pagers-pay-phones-and-dialup-how-we-communicated-on-911/) by [Garrett M. Graff](http://www.twitter.com/vermontgmg)
+- [The Day After 9/11](https://www.wired.com/story/the-day-after-911/) by [Virginia Heffernan](https://twitter.com/page88)
