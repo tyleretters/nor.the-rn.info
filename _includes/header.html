@@ -11,32 +11,25 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          {%- assign sorted_pages = site.pages | sort: "order" -%}
-          {%- for node in sorted_pages -%}
-          {%- if node.title -%}
-          <li class="{% if node.url == page.url %}active{% endif %}">
-            <a class="nav-link" href="{{ node.url | relative_url }}">
-            {% if node.url == page.url %}<span>&rarr;</span>{% endif %}
-            {{ node.title | escape }}
-            </a>
+          <li class="{% if page.title == 'Archives' %}active{% endif %}">
+            <a class="nav-link" href="/archives">{% if page.title == "Archives" %}<span>&rarr;</span>{% endif %} Archives</a>
           </li>
-          {%- endif -%}
-          {%- endfor -%}
-          <li><a class="nav-link" href="{{ "/feed.xml" | relative_url }}">Feed</a></li>
-
-
-<li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Action</a>
-      <a class="dropdown-item" href="#">Another action</a>
-      <a class="dropdown-item" href="#">Something else here</a>
-      <div class="dropdown-divider"></div>
-      <a class="dropdown-item" href="#">Separated link</a>
-    </div>
-  </li>
-
-
+          <li class="{% if page.title == 'Music' %}active{% endif %}">
+            <a class="nav-link" href="/music">{% if page.title == "Music" %}<span>&rarr;</span>{% endif %} Music</a>
+          </li>
+          <li class="{% if page.title == 'About' %}active{% endif %}">
+            <a class="nav-link" href="/about">{% if page.title == "About" %}<span>&rarr;</span>{% endif %} About</a>
+          </li>
+          <li class="nav-item dropdown{% if page.title == 'Anthropocene' or page.title == 'Related & Recommended' or page.title == 'Book Reviews' or page.title == 'My Life in Playlists'%} active{% endif %}">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Aux</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="/anthropocene">{% if page.title == "Anthropocene" %}<span>&rarr;</span>{% endif %} Anthropocene</a>
+                <a class="dropdown-item" href="/related-and-recommended">{% if page.title == "Related & Recommended" %}<span>&rarr;</span>{% endif %} Related & Recommended</a>
+                <a class="dropdown-item" href="/book-reviews">{% if page.title == "Book Reviews" %}<span>&rarr;</span>{% endif %} Book Reviews</a>
+                <a class="dropdown-item" href="/my-life-in-playlists">{% if page.title == "My Life in Playlists" %}<span>&rarr;</span>{% endif %} My Life in Playlists</a>
+                <a class="dropdown-item" href="/feed.xml">Feed</a>
+              </div>
+            </li>
         </ul>
       </div>
 

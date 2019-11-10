@@ -2,7 +2,6 @@
 layout: full
 title: Music
 permalink: /music/
-order: 2
 ---
 <div class="row">
 

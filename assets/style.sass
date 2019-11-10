@@ -187,6 +187,18 @@ nav .navbar-nav li
   &.active span
     display: inline
 
+.dropdown-menu
+  background: url("images/nav-bg.jpg")
+  background-size: contain
+  padding: .5rem
+
+  .dropdown-item
+    padding: .5rem
+    
+    &:hover
+      text-decoration: none
+
+
 @media (max-width: 575.98px)
 
   .navbar
@@ -225,6 +237,9 @@ nav .navbar-nav li
 
       &:hover, &:active
         text-decoration: none
+
+  .dropdown-menu
+    border: none
 
 .container-fluid
   padding-top: 30px
