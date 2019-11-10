@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {%- include header.html -%}
+{% include header.html %}
 
-    <main class="container-fluid">
+<main class="container-fluid">
 
-    {{ content }}
+{{ content }}
 
-    </main>
+</main>
 
-  </body>
+{% include javascript.html %}
 
-  {%- include javascript.html -%}
+</body>
 
 </html>
