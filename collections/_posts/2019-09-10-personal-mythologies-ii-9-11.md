@@ -38,7 +38,7 @@ It has been difficult for me to suppress developing superstitious beliefs from t
 
 In Ramy Youssef's HBO special, *Feelings*, he posits that 9/11 actually "worked."
 
-Did we ever heal from 9/11? Why do I feel like we never talk about it anymore? Did the catharsis happen in the early 00's and I was just oblivious to it all? Are there other people my age out there who are still totally confused about the whole thing? I don't have closure. Why do I want closure? Why do I feel entitled to closure? How everyone else ever heal from Vietnam? MLK? Kennedy? Hiroshima? WWII? WWI? The Civil War? Did we heal? Or are they all permanent cultural scars? What other things of this magnitude happened that have been utterly forgotten?
+Did we ever heal from 9/11? Why do I feel like we never talk about it anymore? Did the catharsis happen in the early 00's and I was just oblivious to it all? Are there other people my age out there who are still totally confused about the whole thing? I don't have closure. Why do I want closure? Why do I feel entitled to closure? How did everyone else ever heal from Vietnam? MLK? Kennedy? Hiroshima? WWII? WWI? The Civil War? Did we heal? Or are they all permanent cultural scars? What other things of this magnitude happened that have been utterly forgotten?
 
 - - -
 
