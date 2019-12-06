@@ -6,6 +6,7 @@ permalink: /book-reviews/
 _Selected recently read books in roughly reverse-chronological order._
 
 - **The Dispossessed by Ursula K. Le Guin** _A physicist from a utopian-anarchist society leaves his world for a capitalist one. The protagonist's occupation coupled with alternating a present-flashback chapter structure had me expecting some time-travel twist at the end. When it didn't happen I felt like I missed the forest for the trees._
+- **A Murder of Quality by John le Carré** _I enjoyed A Call for the Dead more but I am eager to read the next Smiley mystery._
 - **★ How to Do Nothing by Jenny Odell** _An adroit, clear-eyed critique of our current context. Bioregionalism, manifest dismantling, birdwatching. Less of a "How to" and more of a "Why to"._
 - **The Subtle Art of Not Giving a Fuck by Mark Manson** _Reread. Most self-help books I respond well to include themes of radical responsibility and acceptance of mortaility and this has both in spades!_
 - **★ On Writing by Stephen King** _Candid & practical, funny & inspiring. SK loves his craft and it’s as contagious as Captain Trips._
