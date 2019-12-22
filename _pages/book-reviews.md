@@ -1,0 +1,174 @@
+---
+layout: page
+title: Book Reviews
+permalink: /book-reviews/
+---
+
+_Selected recently read books in roughly reverse-chronological order._
+
+---
+
+### The Existentialist's Guide to Death, the Universe and Nothingness by Gary Cox
+Being teased for my existential dispositions my entire non-adolescent life, I've decided to go all in and learn what the school of thought is really about. This book covers a lot of ground: from anxiety to bad faith, from sexuality to the body. I was expecially comforted to learn about Heidegger's "Dasein" and Sarte's "the Nasuea" - both of which concepts I've tried to name myself.
+
+---
+
+### The Dispossessed by Ursula K. Le Guin
+A physicist from a utopian-anarchist society leaves his world for a capitalist one. The protagonist's occupation coupled with alternating a present-flashback chapter structure had me expecting some time-travel twist at the end. When it didn't happen I felt like I missed the forest for the trees.
+
+---
+
+### A Murder of Quality by John le Carré
+I enjoyed A Call for the Dead more but I am eager to read the next Smiley mystery.
+
+---
+
+### ★ How to Do Nothing by Jenny Odell
+An adroit, clear-eyed critique of our current context. Bioregionalism, manifest dismantling, birdwatching. Less of a "How to" and more of a "Why to".
+
+---
+
+### The Subtle Art of Not Giving a Fuck by Mark Manson
+Reread. Most self-help books I respond well to include themes of radical responsibility and acceptance of mortaility and this has both in spades!
+
+---
+
+### ★ On Writing by Stephen King
+Candid & practical, funny & inspiring. SK loves his craft and it’s as contagious as Captain Trips.
+
+---
+
+### Everything is Fucked: A Book About Hope by Mark Manson
+After Manson's previous book, I had great expectations for this one. It introduced me the concept of Amor Fati which is quite lovely, but other than that it reads as a somewhat hysterical plea of fealty to the AI who will run the singularity.
+
+---
+
+### Hyperobjects: Philosophy and Ecology after the End of the World by Timothy Morton
+I found this to be highly sensationalized and conjectural. There is probably something here, but I'm not ready to bite.
+
+---
+
+### ★ The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins by Anna Lowenhaupt Tsing
+In a stunning turn of events the world "psychedelic" was not mentioned once in this book! Instead we follow the patchworked travels of matsutake mushrooms as they journey from Orgeonian forests through supply chains and into Japanese restaraunts. Salvage capitalism, assemblages, patchwork. My favorite non-fiction book of the year.
+
+---
+
+### Templexity: Disordered Loops through Shanghai Time by Nick Land
+Shanghai is a time machine... or something.
+
+---
+
+### ★ Infinite Detail by Tim Maughan
+Holy shit. I hope this enters the canon of Neuromancer, Snow Crash, etc. There is an urgency and poetry to Maughan's prose that feels just perfect. I adore all the references to hip-hop culture, jungle, and artists. I look forward to re-reading this one over and over.
+
+---
+
+### All Tomorrow's Parties by William Gibson
+A satisfying, imaginative, and fun conclusion to The Bridge Trilogy.
+
+---
+
+### Time Travel: A History by James Gleik
+A poetic look at how we as a culture became aware of the very concept of time travel. Gleik weaves literature, scientific discoveries, and technological advancements together in a joyful ode to my favorite SF trope.
+
+---
+
+### ★ k-punk: The Collected Writings of Mark Fisher
+The book is divided into thematic sections, each in chronological order. At the end of each section, I found myself overcome with a certain sorrow in knowing this is all there ever will be. I know I will refer to the final section on Acid Communism for years to come. RIP.
+
+---
+
+### Flatline Constructs: Gothic Materialism and Cybernetic Theory-Fiction by Mark Fisher
+Fisher's thesis sketches out a "Gothic Materialism" framework. I enjoyed the reading quite a bit, though lacked the academic context to understand most of it. Hardcopy via [exmilitary](http://exmilitai.re/flatline.html).
+
+---
+
+### ★ Gnomon by Nick Haraway
+A fractalized fever dream SF thriller. Turtles all the way down...
+
+---
+
+### Non-Places - An Introduction to Supermodernity by Marc Augé
+Airpots, gas stations, Starbucks... these are non-places. Meshes of code, branding, and consumerism. What does spending more and more of our time here mean for culture?
+
+---
+
+### Infinite Music by Adam Harper
+If the 20th century heard us sketch out the extreme borders of what music is (think Cage, Reich, later Autechre), then 21st century will be about mapping the inner jungles.
+
+---
+
+### ★ New Dark Age: Technology and the End of the Future by James Bridle
+What if, in our collective efforts to be faster, more accurate, and more efficient we've only made things worse? What if we are in a New Dark Age and don't even realize it?
+
+---
+
+### The Big Picture: On the Origins of Life, Meaning, and the Universe Itself by Sean Carroll
+A pragmatists approach to understanding our place in the universe through the lens of poetic naturalism.
+
+---
+
+### ★ Remembrance of Earth's Past by Cixin Liu
+A staggering (and occasionally long-winded) work of imagination and genius. Hard SF for the 21st century.
+
+---
+
+### ★ Blood Meridian by Cormac McCarthy
+No other book has ever haunted me like this one. It is tragic, bleak, and horrifying. McCarthy's prose is sublime.
+
+---
+
+### Down and Out in the Magic Kingdom by Cory Doctorow
+A bunch of mean & petty people doing mean & petty things to each other. I had a hard time enjoying this one. Some cool concepts like social currency and flash-baking.
+
+---
+
+### Autonomous by Annalee Newitz
+Near-future "biopunk" adventure playing with complex ethical topics such as human-AI love, debt/slavery, addiction, and chains of responsibility in pharmaceutical trials.
+
+---
+
+### Tropic of Kansas by Chirstopher Brown
+A chillingly plausible near-future action thriller given our current time-line trajectory. One of the protagonists seemed to have superpowers for some reason.
+
+---
+
+### Walkaway by Cory Doctorow
+A vision of what a post-scarcity future run by hackers could look like. Bonus points for technically accurate version control systems and networking technology.
+
+---
+
+### Ghosts of My Life by Mark Fisher
+Not as sweeping as his other books, but just as insightful.
+
+---
+
+### ★ Capitalist Realism by Mark Fisher
+This book rewired my perception of reality. Is neoliberalism really the terminus of human society?
+
+---
+
+### The Weird and the Eerie by Mark Fisher
+Some of my favorite fiction analyzed by my favorite thinker.
+
+---
+
+### Distrust That Particular Flavor by William Gibson
+Reflections on our hyper-connected world from the person who helped us imagine it.
+
+---
+
+### ★ Art & Fear by David Bayles & Ted Orland
+Required reading for all artists and creators. I've lost count of how many friends I've given or recommended this one to.
+
+---
+
+### Labyrinths by Jorge Luis Borges
+Borges is a master of recursion, suggestion, minimalism. A man out of time.
+
+---
+
+### ★ The Peripheral by William Gibson
+He's done it again. Perhaps the most plausible form of time travel yet imagined.
+
+---

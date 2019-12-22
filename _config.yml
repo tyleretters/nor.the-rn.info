@@ -19,3 +19,4 @@ collections:
   - blogroll
 jekyll_compose:
     auto_open: true
+include: ['_pages']
