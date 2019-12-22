@@ -8,6 +8,11 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### Commuter Spouses by Danielle J. Lindemann
+Having just joined the ranks of commuter spouses ourselves, this line was especially resonant: "In sum, commuter spouses are at the crux of a fundamental conflict between traditional family structure, changing gender roles, and the structure and meaning of postindustrial professional work."
+
+---
+
 ### The Existentialist's Guide to Death, the Universe and Nothingness by Gary Cox
 Being teased for my existential dispositions my entire non-adolescent life, I've decided to go all in and learn what the school of thought is really about. This book covers a lot of ground: from anxiety to bad faith, from sexuality to the body. I was expecially comforted to learn about Heidegger's "Dasein" and Sarte's "the Nasuea" - both of which concepts I've tried to name myself.
 
