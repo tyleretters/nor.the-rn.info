@@ -7,6 +7,43 @@ permalink: /my-life-in-playlists/
 
 <div class="col-md-4" markdown="1">
 
+### 2019 · [Link](https://open.spotify.com/playlist/4BYKttjBkFRQ1ALJys4Xxv?si=zmEhsQjnRWmyS5dP8j15pA)
+
+ - a younger version of myself, by Telefon Tel Aviv
+ - On The Embankmen by Huerco S.
+ - M04a by Maurizio
+ - Our Holy Ghosts by The Felix Culpa
+ - fullmoon by Ryuichi Sakamoto
+ - Devil Is Fine by Zeal & Ardor
+ - D.O.A. by Deadships
+ - Autowave by Kelly Moran
+ - Many Gods, Many Angels by Lee Gamble
+ - Dancing and Blood by Low
+ - Opening From Glasswork by Philip Glass, Cornelius
+ - Soundboy Killer by Special Request
+ - ultraviolet world by Rod Modell
+ - [Hydropolis](https://eco-futurism-corp.bandcamp.com/track/lstngt-hydropolis) by LSTNGT
+ - Poison Tree by Grouper
+ - Love on a Real Train (Rerecorded) by Tangerine Dream
+ - Tom by Fennesz
+ - City Centre by Deepchord
+ - State Forest by Burial
+ - Take Control by Killswitch Engage
+ - 萌動 by Nobuo Uematsu
+ - Adventure Of A Lifetime by Marcell
+ - A Prayer for England by Massive Attack
+ - Coco Blood by Celeste
+ - Wagon Wheel by Darius Rucker
+ - High//Low by Deadships
+ - Rei by oqbqbo
+ - Lonely by ChiccoteS Beats
+ - Radiance I - Edit by Basic Channel
+ - Strangelove - 7" Version by Depeche Mode
+
+</div>
+
+<div class="col-md-4" markdown="1">
+
 ### 2018 · [Link](https://open.spotify.com/user/lagrangian/playlist/67QHIqu8UANrhptT6DQR5O?si=MiUXTGm6Shu8Ob3scXPVDw)
 
  - Come Thru for U by DJ Seinfeld
