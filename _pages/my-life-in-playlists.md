@@ -10,7 +10,7 @@ permalink: /my-life-in-playlists/
 ### 2019 · [Link](https://open.spotify.com/playlist/4BYKttjBkFRQ1ALJys4Xxv?si=zmEhsQjnRWmyS5dP8j15pA)
 
  - a younger version of myself, by Telefon Tel Aviv
- - On The Embankmen by Huerco S.
+ - On The Embankment by Huerco S.
  - M04a by Maurizio
  - Our Holy Ghosts by The Felix Culpa
  - fullmoon by Ryuichi Sakamoto
@@ -35,9 +35,8 @@ permalink: /my-life-in-playlists/
  - Coco Blood by Celeste
  - Wagon Wheel by Darius Rucker
  - High//Low by Deadships
- - Rei by oqbqbo
- - Lonely by ChiccoteS Beats
  - Radiance I - Edit by Basic Channel
+ - Lonely by Chiccote'S Beats
  - Strangelove - 7" Version by Depeche Mode
 
 </div>
