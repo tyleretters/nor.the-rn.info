@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign projects_by_order = site.projects | sort: "order" %}
+{% for project in projects_by_order %}
+
+<div class="row row-projects">
+  <div class="col">
+    <h2>{{ project.name }}</h2>
+    <em>{{ project.dates }}</em>
+  </div>
+</div>
+
+<div class="row row-projects">
+  <div class="col-md-6">
+    {{ project.content }}
+  </div>
+   <div class="col-md-6">
+    <img src="{{ project.image }}" />
+  </div>
+</div>
+
+{% endfor %}

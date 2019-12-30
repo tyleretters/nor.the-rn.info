@@ -8,6 +8,11 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### ★ Loving What is by Byron Katie
+So this book was an absolute treasure. Katie's view is that suffering comes from the stories we have about our situations - not the situations themselves. By inquiring and probing these thoughts we can begin to unravel them. I highly recommend this book to anyone looking to grow and heal.
+
+---
+
 ### Commuter Spouses by Danielle J. Lindemann
 Having just joined the ranks of commuter spouses ourselves, this line was especially resonant: "In sum, commuter spouses are at the crux of a fundamental conflict between traditional family structure, changing gender roles, and the structure and meaning of postindustrial professional work."
 

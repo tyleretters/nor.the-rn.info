@@ -17,6 +17,7 @@ feed:
 collections_dir: collections
 collections:
   - blogroll
+  - projects
 jekyll_compose:
     auto_open: true
 include: ['_pages']

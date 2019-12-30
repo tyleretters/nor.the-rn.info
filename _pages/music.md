@@ -13,19 +13,19 @@ permalink: /music/
 
 <div class="row row-music">
 
-<div class="col-md-3" markdown="1">
+<div class="col-md-6" markdown="1">
 "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
 
 – Edmund Snow Carpenter, 1970
 </div>
 
-<div class="col-md-9">
+<div class="col-md-6">
 
 <div class="container-fluid">
 
 <div class="row row-music">
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-12" markdown="1">
 [![EP1](/assets/images/ep1.jpg)
 _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 </div>
@@ -51,17 +51,17 @@ _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 <div class="row row-music">
 
-<div class="col-md-3" markdown="1">
+<div class="col-md-6" markdown="1">
 Synergy Beat: Future World Digest is a cyberpunk anime zine from the mind of Gage Lindsten. The project assembles many talented artists. We did the whole thing in just a couple weeks. I was on soundtrack duty. For each song, I assumed the role of a (silly) fictitious band.
 </div>
 
-<div class="col-md-9">
+<div class="col-md-6">
 
 <div class="container-fluid">
 
 <div class="row row-music">
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-12" markdown="1">
 [![Synergy Beat](/assets/images/synergy-beat.jpg)
 _Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1)
 </div>
@@ -174,22 +174,22 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 
 <div class="row row-music">
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![Prolegomenon](/assets/images/prolegomenon.jpg)
 _Prolegomenon, 2012_](https://connectednesslocus.bandcamp.com/album/prolegomenon)
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![Terraforms](/assets/images/terraforms.jpg)
 _Terraforms, 2011_](https://connectednesslocus.bandcamp.com/album/terraforms)
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![When the Paint Peels](/assets/images/when-the-paint-peels.jpg)
 _When the Paint Peels, 2010_](https://connectednesslocus.bandcamp.com/album/when-the-paint-peels)
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![As Quippolous Codes Quietly Count](/assets/images/as-quippolous-codes-quietly-count.jpg)
 _As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.com/album/as-quippolous-codes-quietly-count)
 </div>
@@ -226,17 +226,17 @@ Ix came first but soon evolved into ECiC;EFiS - same parameters, techniques, equ
 
 <div class="row row-music">
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![Serial Index of Unclaimed Memories](/assets/images/serial-index-of-unclaimed-memories.jpg)
 _Serial Index of Unclaimed Memories, 2009_](https://ecicefis.bandcamp.com/album/serial-index-of-unclaimed-memories-file-1)
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![Gates EP](/assets/images/gates-ep.jpg)
 _Gates EP, 2008_](https://ecicefis.bandcamp.com/album/gates-ep)
 </div>
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-6" markdown="1">
 [![Descent into Dreams](/assets/images/descent-into-dreams.jpg)
 _Descent into Dreams, 2007_](https://ixmusic.bandcamp.com/album/descent-into-dreams-file-1)
 </div>

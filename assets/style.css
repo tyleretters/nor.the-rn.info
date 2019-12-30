@@ -235,7 +235,7 @@ nav .navbar-nav li {
   .col-tighten a {
     margin-bottom: 0; }
 
-#related-projects {
+#related-projects, #anthropocene {
   margin-top: 50px; }
 
 h1, h2 {
@@ -341,7 +341,8 @@ button.btn-max {
 
 .row-music img,
 .row-travel img,
-.row-about img {
+.row-about img,
+.row-projects img {
   width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
