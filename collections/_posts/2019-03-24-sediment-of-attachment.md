@@ -9,35 +9,20 @@ date: 2019-03-24 20:45 -0500
 I drew this picture yesterday. It is how I experience entities. People, places, food, music, a hangnail, a hole in a sock. I start at the top, on the surface, and the go deeper. I think layers 1 (Ignorance) and 5 (Integration) are the sweet spots.
 
 1. **Ignorance**: I am blissfully unaware of the entity.
-
 2. **Suspicion**: I suspect an entity might exist. Maybe I saw everyone in the office eating strawberries at their desk, so I hypothesize a communal bowl of strawberries is in the kitchen.
-
 3. **Awareness**: I have indeed discovered a bowl of strawberries in the kitchen.
-
 4. **Familiarity**: There are a lot of strawberries here. The bowl is made of metal. These look GMO but that does not bother me I think if we ever want to live in outer space, then everything will need to be GMO some day.
-
    *Most sediments of attachment stop here. There isn't much else that can be done. In order to continue this example, let us pretend the bowl of strawberries returns again and again on every Monday.*
-
 5. **Integration**: I no longer eat breakfast at home on Monday's. I know there will be strawberries waiting for me at the office and that is more than enough to keep me going until lunch. I am thankful for these strawberries. They have become a staple in the rhythm of life.
-
    *Okay, we're going to get weird now.*
-
 6. **Intimacy**: There are about 50 strawberries, plus or minus 7 each week. I know this because I count them every week and update my mental model. These are probably sourced from California, but I'm not sure why I think of that.
-
    *These next 4 could probably be merged or reduced or re-organized. There aren't many entities in life that I experience this way. Maybe there should be an "addiction" layer?*
-
 7. **Obsession**: I think about strawberries all day. Not just any strawberries, but the Monday Office Strawberries. I dream about them. Between ever activity and thought I find myself disassociating and returning to memories and anticipations of them.
-
 8. **Compulsion**: I cannot control myself. I get up from my desk every 4 minutes and get another strawberry. They comfort me.
-
    *And now we're going to get really, really weird.*
-
 9. **Neurosis**: I think the Monday Office Strawberries have some cosmic significance. Maybe they are heralds of the anthropocene? A mark or symbol of my favored position within some organization? I will photograph them and make sure I have records. Are these 3D printed?
-
 10. **Hypnosis**: I come to and am staring into the bowl of strawberries. How long have I been here?
-
 11. **Madness**: I am stealing strawberries from the bowl, smuggling them out of the office, and installing them on shelves in my home. I have labels of each date they were liberated. Some are very old and very small and very black.
-
 12. **Fractal**: This layer exists only because I *suspect* (see layer 2) there is something beyond madness, though I'm not sure what that might be.
 
 The deeper I go, the more attached I become. I've found that I need to be careful with what I get into for this reason. I don't play many games, for example, because I have a tendency to sink to the Obsession layer. The only escape is then to complete the game.

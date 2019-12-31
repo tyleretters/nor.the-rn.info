@@ -1,5 +1,5 @@
 ---
-order: 100
+order: 200701
 name: Hollow Moon Studios
 dates: 2004 - 2007
 image: /assets/images/tyler-etters-a-glass-reality.jpg

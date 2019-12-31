@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign projects_by_order = site.projects | sort: "order" %}
+{% assign projects_by_order = site.projects | sort: "order" | reverse %}
 {% for project in projects_by_order %}
 
 <div class="row row-projects">
