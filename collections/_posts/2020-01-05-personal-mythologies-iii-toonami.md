@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Personal Mythologies III: Toonami'
-date: 2020-01-05 20:42 -0600
+date: 2020-01-05
 youtubeId: SpTe49f5b1I
 ---
 
