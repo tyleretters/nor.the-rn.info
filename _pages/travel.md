@@ -2,7 +2,6 @@
 layout: full
 title: Travel
 permalink: /travel/
-order: 3
 ---
 <div class="row row-travel">
 
@@ -79,8 +78,8 @@ _Oct 6, 2017 · Petaling Jaya, Malaysia_
 </div>
 
 <div class="col-md-4" markdown="1">
-![Tokyo (Narita) Airport](/assets/images/travel/narita.jpg)
-## Tokyo (Narita) Airport
+![Narita International Airport](/assets/images/travel/narita.jpg)
+## Narita International Airport
 _Oct 6, 2017 · Tokyo, Japan_
 </div>
 
