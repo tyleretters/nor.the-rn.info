@@ -8,6 +8,11 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### ★ American Gods by Neil Gaiman
+This has been on my reading list for almost 15 years! Most of the action takes place in the midwest at (or fictitiously around) places I've frequented. I'm a sucker for Americana, road trips, and the mythic so this checked all the boxes. Highly recommended.
+
+---
+
 ### ★ Loving What Is by Byron Katie
 So this book was an absolute treasure. Katie's view is that suffering comes from the stories we have about our situations - not the situations themselves. By inquiring and probing these thoughts we can begin to unravel them. I highly recommend this book to anyone looking to grow and heal.
 
