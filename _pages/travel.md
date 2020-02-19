@@ -6,6 +6,42 @@ permalink: /travel/
 <div class="row row-travel">
 
 <div class="col-md-4" markdown="1">
+![El Matador State Beach](/assets/images/travel/el-matador-state-beach.jpg)
+## El Matador State Beach
+_Feb 8, 2020 · Malibu, California_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Pescadero Creek Park](/assets/images/travel/pescadero-creek-park.jpg)
+## Pescadero Creek Park
+_Jan 19, 2020 · Loma Mar, California_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Hollywood Forever Cemetery](/assets/images/travel/hollywood-forever.jpg)
+## Hollywood Forever Cemetery
+_Nov 10, 2019 · Los Angeles, California_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Sky City](/assets/images/travel/sky-city.jpg)
+## Sky City
+_Oct 10, 2019 · North Acomita Village, New Mexico_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Haystack Rock](/assets/images/travel/haystack-rock.jpg)
+## Haystack Rock
+_Aug 17, 2019 · Cannon Beach, Orgegon_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Kennebunkport Harbor](/assets/images/travel/kennebunkport-harbor.jpg)
+## Kennebunkport Harbor
+_May 31, 2019 · Kennebunkport, Maine_
+</div>
+
+<div class="col-md-4" markdown="1">
 ![LaSalle Street](/assets/images/travel/lasalle.jpg)
 ## LaSalle Street
 _Dec 15, 2018 · Chicago Board of Trade, Illinois_
@@ -99,6 +135,18 @@ _Jul 20, 2017 · Goose Island, Chicago · [http://lostarts.co/](http://lostarts.
 ![Cliffside Park](/assets/images/travel/summer-adventures.jpg)
 ## Summer Adventures
 _Jul 2, 2017 · Cliffside Park, Wisconsin_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Niagra Falls](/assets/images/travel/niagra-falls.jpg)
+## Niagra Falls
+_Nov 30, 2015 · Niagra Falls, New York_
+</div>
+
+<div class="col-md-4" markdown="1">
+![Bourbon Street](/assets/images/travel/bourbon-street.jpg)
+## Bourbon Street
+_Nov 6, 2015 · New Orleans, Louisiana_
 </div>
 
 <div class="col-md-4" markdown="1">
