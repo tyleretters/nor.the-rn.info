@@ -137,6 +137,13 @@ _Jul 20, 2017 · Goose Island, Chicago · [http://lostarts.co/](http://lostarts.
 _Jul 2, 2017 · Cliffside Park, Wisconsin_
 </div>
 
+
+<div class="col-md-4" markdown="1">
+![Fishing the Atlantic](/assets/images/travel/jacksonville.jpg)
+## Fishing the Atlantic
+_Jun 3, 2016 · Jacksonville Beach, Florida_
+</div>
+
 <div class="col-md-4" markdown="1">
 ![Niagra Falls](/assets/images/travel/niagra-falls.jpg)
 ## Niagra Falls
