@@ -250,12 +250,14 @@ h2.post-footer {
   color: #333333; }
 
 .earlier-post,
-.later-post {
+.later-post,
+.more-posts {
   margin-bottom: 10px;
   margin-top: 10px;
   text-align: center; }
   .earlier-post a,
-  .later-post a {
+  .later-post a,
+  .more-posts a {
     color: #ffffff;
     background-color: #333333;
     display: block;
@@ -263,7 +265,9 @@ h2.post-footer {
     border-radius: 4px; }
     .earlier-post a:hover, .earlier-post a:active,
     .later-post a:hover,
-    .later-post a:active {
+    .later-post a:active,
+    .more-posts a:hover,
+    .more-posts a:active {
       color: #ffffff;
       background: #034279;
       text-decoration: none; }
