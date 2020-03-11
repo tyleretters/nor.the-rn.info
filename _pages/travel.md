@@ -6,6 +6,12 @@ permalink: /travel/
 <div class="row row-travel">
 
 <div class="col-md-4" markdown="1">
+![Garfield Park Conservatory](/assets/images/travel/garfield-park-conservatory.jpg)
+## Garfield Park Conservatory
+_Mar 10, 2020 · Chicago, Illinois_
+</div>
+
+<div class="col-md-4" markdown="1">
 ![El Matador State Beach](/assets/images/travel/el-matador-state-beach.jpg)
 ## El Matador State Beach
 _Feb 8, 2020 · Malibu, California_
