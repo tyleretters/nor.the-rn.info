@@ -30,3 +30,10 @@ Other beauties of the zeitgeist:
 6. We have a new paradigm shifting event in time. I would argue the other big ones of the 21st century have been 9/11, The '08 Crash, The 2016 Election. Events like these are important for cultural and artistic progress.
 
 I feel hope and solidarity with humanity. I believe we will pass through this and be stronger because of it. With any luck, these days may even become a turning point for meaningful change in how we organize our society, the things we value, and the way we are to one another.
+
+---
+**Addendum**
+
+My father-in-law and I went on an adventure today. This is his 2007 Ford Mustang GT outside McDonalds. The cashiers wore different disposable gloves for each transaction. Patrons were still using the touchscreens to order their food. (I paid with Apple Pay.) It is Shamrock Shake season.
+
+![2007 Ford Mustang GT & McDonalds](/assets/images/mustang-and-mcdonalds.jpg)
