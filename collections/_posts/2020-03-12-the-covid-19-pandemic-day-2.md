@@ -16,6 +16,10 @@ I'm not on many social networks but the memes are on fire right now.
 
 ![The car is on fire](/assets/images/the-car-is-on-fire.jpg)
 
+And, sorry, this is to apropos to not share. The post office by my studio:
+
+![And the flags are all dead at the top of their poles](/assets/images/the-flags-are-all-dead.jpg)
+
 Other beauties of the zeitgeist:
 
 1. WHO exists. It has a protocol (declaration of pandemic) that worked. It snapped us into action.
