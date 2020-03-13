@@ -34,6 +34,6 @@ I feel hope and solidarity with humanity. I believe we will pass through this an
 ---
 **Addendum**
 
-My father-in-law and I went on an adventure today. This is his 2007 Ford Mustang GT outside McDonalds. The cashiers wore different disposable gloves for each transaction. Patrons were still using the touchscreens to order their food. (I paid with Apple Pay.) It is Shamrock Shake season.
-
 ![2007 Ford Mustang GT & McDonalds](/assets/images/mustang-and-mcdonalds.jpg)
+
+My father-in-law and I went on an adventure today. This is his 2007 Ford Mustang GT outside McDonalds. The cashiers wore different disposable gloves for each transaction. Patrons were still using the touchscreens to order their food. (I paid with Apple Pay.) It is Shamrock Shake season.
