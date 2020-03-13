@@ -10,7 +10,7 @@ Suddenly, reality seems real again.
 
 WHO declared COVID-19 a pandemic yesterday. Now, the air is charged with something. To some - heck to a former *me* - this charge would register as fear and anxiety. But now it registers as life. I am saddened by those who have died. It is tragic. But through this tragedy, things matter again. Things seem possible again. I suppose all it took was March Madness being cancelled to snap us out of the capitalistic reveries of the 21st century.
 
-Hand shakes and hugs are things of a the past. It happened in hours. Last night, I went out for drinks with colleagues and we already knew the new alternative rituals: fists bumps, elbow taps, and feet slogs.
+Hand shakes and hugs are things of a the past. It happened in hours. Last night, I went out for drinks with colleagues and we already knew the avant rituals: fist bumps, elbow taps, and feet slogs.
 
 I'm not on many social networks but the memes are on fire right now.
 
@@ -27,7 +27,7 @@ Other beauties of the zeitgeist:
 3. The internet has again proven its value in organizing us during crisis.
 4. A non-zero amount people will be pondering their mortality seriously for the first time. Perhaps they will choose to live differently.
 5. A non-zero amount people will be pondering the state of the world seriously for the first time. Perhaps we will choose to live differently.
-6. We have a new paradigm shifting event in time. I would argue the other big ones of the 21st century have been 9/11, The '08 Crash, The 2016 Election. Events like these are important for cultural and artistic progress.
+6. We have a new paradigm shifting event in time. I would argue the other big ones of the 21st century have been 9/11, The '08 Crash, The '16 Election. Events like these are important for cultural and artistic progress.
 
 I feel hope and solidarity with humanity. I believe we will pass through this and be stronger because of it. With any luck, these days may even become a turning point for meaningful change in how we organize our society, the things we value, and the way we are to one another.
 
