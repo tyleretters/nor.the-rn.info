@@ -8,6 +8,12 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### Quiet by Susan Cain
+
+Quiet covers the introvert/extrovert dichotomy and the values our culture place on each. Amazingly, this book helped me reconnect with my true self. I'm super introverted, but due to my career I'm often pressured to *pass* for an extrovert. Here's to structuring my life with more solitude.
+
+---
+
 ### ★ American Gods by Neil Gaiman
 This has been on my reading list for almost 15 years! Most of the action takes place in the midwest at (or fictitiously around) places I've frequented. I'm a sucker for Americana, road trips, and the mythic so this checked all the boxes. Highly recommended.
 
