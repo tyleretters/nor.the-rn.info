@@ -6,7 +6,6 @@ date: 2020-03-14 12:52 -0500
 
 ![John Hopkins COVID-19 Dashboard](/assets/images/coronavirus-dashboard.png)
 
-
 So many rumors flying around, it is hard to know what to believe.
 
 I'm holed up in my father-in-laws basement in the suburbs of Chicago, avoiding the stress of setting up for the party. Yes. A party. For my brother-in-law and his fiancée. Folks are flying in for it. My wife and I are unhappy that the party wasn't called off, are unhappy that we didn't have the nerve to cancel ourselves, are unhappy that we're still here and without our own mode of transportation.
