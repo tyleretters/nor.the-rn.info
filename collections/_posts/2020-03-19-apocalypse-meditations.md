@@ -12,7 +12,7 @@ It was a slight whisper of a thought at first. Then it grew. I repeated it in my
 
 ---
 
-Amidst my spiralling depression and anxiety of 2019, I started what I lovingly call *apocalypse meditations*. These spawned from the work I've done with the 15 Commitments of Conscoius Leadership. Essentially, apocalypse meditations are both an inventory and an acceptance of where you are in life right now. They take the form of a series of bubbling, mutating pieces of self-inquiry:
+Amidst my spiraling depression and anxiety of 2019, I started what I lovingly call *apocalypse meditations*. These spawned from the work I've done with the 15 Commitments of Conscious Leadership. Essentially, apocalypse meditations are both an inventory and an acceptance of where you are in life right now. They take the form of a series of bubbling, mutating pieces of self-inquiry:
 
  - One day I will die.
  - If I were to die today, am I at peace with those I love?
