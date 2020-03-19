@@ -8,7 +8,7 @@ I came to terms with my mortality at a young age. It was 2006. I was 18, commuti
 
 I put the book down and looked out the window: *"I am going to die."*
 
-It was a slight whisper of a thought at first. Then it grew. I repeated it in my mind with increased confidence and certainty. After five or six iterations I was at peace with the finality and certainty of it all.
+It was a slight whisper of a thought at first. Then it grew. I repeated it in my mind with increased confidence and certainty. After five or six iterations I was at peace with the finality.
 
 ---
 
