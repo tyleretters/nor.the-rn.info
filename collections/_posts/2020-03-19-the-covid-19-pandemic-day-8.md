@@ -23,7 +23,7 @@ I got home, washed all my clothing, took a shower, and started playing Skyrim.
 
 ![Timefall](/assets/images/timefall.jpg)
 
-Timefall
+Timefall.
 
 ![Roaring 20s](/assets/images/roaring-20s.jpg)
 
