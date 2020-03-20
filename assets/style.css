@@ -31,6 +31,9 @@ a:hover.about-link {
   color: #ffffff;
   background: #0687f5; }
 
+time {
+  color: #b3b3b3; }
+
 blockquote {
   border-left: 1px solid #b3b3b3;
   padding-left: 20px;
