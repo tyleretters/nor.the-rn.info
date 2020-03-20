@@ -2,6 +2,7 @@
 layout: post
 title: 'Sediment of Attachment'
 date: 2019-03-24 20:45 -0500
+sagas: thoughts
 ---
 
 ![Sediment of Attachment Illustration]({{ site.image_path | append: "sediment.jpg" }})

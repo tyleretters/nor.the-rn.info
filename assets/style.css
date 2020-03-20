@@ -346,4 +346,11 @@ button.btn-max {
 .row-projects img {
   width: 100%; }
 
+.row-date,
+.row-saga {
+  display: none; }
+  .row-date.active,
+  .row-saga.active {
+    display: flex; }
+
 /*# sourceMappingURL=style.css.map */

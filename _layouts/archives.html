@@ -5,28 +5,103 @@ layout: default
 <div class="row">
   <div class="col">
     <h1>{{ page.title | escape }}</h1>
+    <p>Sort by: <button class="btn btn-primary btn-sm view-date active">Date</button> <button class="btn btn-outline-primary btn-sm view-saga">Saga</button></p>
   </div>
 </div>
 {%- endif -%}
 
-<div class="row">
+<div class="row row-date active">
   {% for post in site.posts %}
-    {% assign currentdate = post.date | date: "%Y" %}
-    {% if currentdate != date %}
-      {% unless forloop.first %}</ul></div>{% endunless %}
-      <div class="col-md-4">
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul></div>{% endunless %}
+    <div class="col-md-4">
       <h2>{{ currentdate }}</h2>
       <ul>
       {% assign date = currentdate %}
-    {% endif %}
+      {% endif %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }},
+            <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+              {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+              {{ post.date | date: date_format }}
+            </time>
+          </a>
+        </li>
+      {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row row-saga">
+
+  {% assign covid_posts = site.posts | where: "sagas", "covid" %}
+  {% assign thoughts_posts = site.posts | where: "sagas", "thoughts" %}
+  {% assign mythologies_posts = site.posts | where: "sagas", "mythologies" %}
+  {% assign art_posts = site.posts | where: "sagas", "art" %}
+
+  <div class="col-md-4">
+    <h2>COVID-19</h2>
+    <ul>
+      {% for post in covid_posts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }},
-          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
             {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
             {{ post.date | date: date_format }}
           </time>
         </a>
       </li>
-    {% if forloop.last %}</ul>{% endif %}
-  {% endfor %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h2>Thoughts</h2>
+    <ul>
+      {% for post in thoughts_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }},
+          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+            {{ post.date | date: date_format }}
+          </time>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h2>Personal Mythologies</h2>
+    <ul>
+      {% for post in mythologies_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }},
+          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+            {{ post.date | date: date_format }}
+          </time>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h2>Art</h2>
+    <ul>
+      {% for post in art_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }},
+          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+            {{ post.date | date: date_format }}
+          </time>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
 </div>
