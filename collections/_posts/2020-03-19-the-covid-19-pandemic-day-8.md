@@ -2,6 +2,7 @@
 layout: post
 title: 'The COVID-19 Pandemic, Day 8'
 date: 2020-03-19 09:04 -0500
+sagas: covid
 ---
 
 ![Self Isolation](/assets/images/self-isolation.jpg)
@@ -15,3 +16,15 @@ I saw two other people with face masks.
 San Francisco is ordered to shelter-in-place and here, in Santa Clarita, in the same state, people are continuing on like nothing is wrong.
 
 I got home, washed all my clothing, took a shower, and started playing Skyrim.
+
+---
+
+**Addendum**
+
+![Timefall](/assets/images/timefall.jpg)
+
+Timefall
+
+![Roaring 20s](/assets/images/roaring-20s.jpg)
+
+The Roaring 20s indeed.
