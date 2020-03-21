@@ -3,6 +3,7 @@ layout: post
 title: 'Personal Mythologies III: Toonami'
 date: 2020-01-05
 youtubeId: SpTe49f5b1I
+sagas: mythologies
 ---
 
 {% include youtube.html id=page.youtubeId %}

@@ -2,10 +2,10 @@
 layout: post
 title: 'The COVID-19 Pandemic, Day 4'
 date: 2020-03-14 12:52 -0500
+sagas: covid
 ---
 
 ![John Hopkins COVID-19 Dashboard](/assets/images/coronavirus-dashboard.png)
-
 
 So many rumors flying around, it is hard to know what to believe.
 

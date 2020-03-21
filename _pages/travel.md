@@ -180,4 +180,10 @@ _Nov 20, 2014 · Mayne Stage, Chicago_
 _Jul 25, 2014 · Fox River Grove, Illinois_
 </div>
 
+<div class="col-md-4" markdown="1">
+![Chicago from Above](/assets/images/travel/chicago-from-above.jpg)
+## Chicago from Above
+_Jul 31, 2013 · Chicago, Illinois_
+</div>
+
 </div>

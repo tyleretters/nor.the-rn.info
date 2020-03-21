@@ -208,6 +208,23 @@ function copy(inElement) {
 $(function() {
 
 /*
+ * Toggles for Archives.
+ */
+$('.view-date').on('click', function() {
+  $('.view-date').addClass('active').addClass('btn-primary').removeClass('btn-outline-primary');
+  $('.view-saga').removeClass('active').addClass('btn-outline-primary');
+  $('.row-date').addClass('active');
+  $('.row-saga').removeClass('active');
+});
+
+$('.view-saga').on('click', function() {
+  $('.view-saga').addClass('active').addClass('btn-primary').removeClass('btn-outline-primary');
+  $('.view-date').removeClass('active').addClass('btn-outline-primary');
+  $('.row-saga').addClass('active');
+  $('.row-date').removeClass('active');
+});
+
+/*
  * Make all post images link to high res versions of themsleves.
  * The other options besides JS were to do it in markdown which is an awful writing experience
  * or extend Jekyll to do this during compilation. This was 3 lines.

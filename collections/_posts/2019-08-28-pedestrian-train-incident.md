@@ -2,6 +2,7 @@
 layout: post
 title: "Pedestrian Train Incident"
 date: 2019-08-28
+sagas: thoughts
 ---
 I wonder if they knew it was going to happen? Or if they were caught by surprise? Worse... if they weren't. Was it a tragic slip? A fatal miscalculation? Or was it pre-meditated?
 
