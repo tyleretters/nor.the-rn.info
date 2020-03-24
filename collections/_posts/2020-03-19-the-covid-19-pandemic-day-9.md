@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The COVID-19 Pandemic, Day 8'
+title: 'The COVID-19 Pandemic, Day 9'
 date: 2020-03-19 09:04 -0500
 sagas: covid
 ---
