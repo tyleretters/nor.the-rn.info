@@ -8,6 +8,12 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### Blink by Malcolm Gladwell
+
+What lies beneath our snap judgments? What circumstances cloud our intuition? Why does more information not necessarily correllate with better decisions? Blink was a satisfying journey to answering these questions.
+
+---
+
 ### Quiet by Susan Cain
 
 Quiet covers the introvert/extrovert dichotomy and the values our culture place on each. Amazingly, this book helped me reconnect with my true self. I'm super introverted, but due to my career I'm often pressured to *pass* for an extrovert. Here's to structuring my life with more solitude.
