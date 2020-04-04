@@ -2,6 +2,7 @@
 layout: post
 title: "the legacy of our lost cause"
 date: 2017-01-01
+sagas: releases
 ---
 [![the legacy of our lost cause](/assets/images/the-legacy-of-our-lost-cause.jpg)](https://northerninformation.bandcamp.com/album/the-legacy-of-our-lost-cause)
 

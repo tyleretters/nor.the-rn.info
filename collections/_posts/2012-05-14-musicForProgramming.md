@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "musicForProgramming();"
-date:   2012-05-14
+date: 2012-05-14
+sagas: releases
 ---
 [![musicForProgramming();]({{ site.image_path | append: "musicforprogramming.jpg" }})](http://musicforprogramming.net/)
 

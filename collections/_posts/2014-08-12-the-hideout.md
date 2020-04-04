@@ -2,6 +2,7 @@
 layout: post
 title: "The Hideout"
 date: 2014-08-12
+sagas: events
 ---
 ![The Hideout](/assets/images/2014-08-23.jpg)
 

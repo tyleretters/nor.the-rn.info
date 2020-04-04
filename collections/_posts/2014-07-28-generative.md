@@ -2,6 +2,7 @@
 layout: post
 title: "generative"
 date: 2014-07-28
+sagas: releases
 ---
 ![generative](/assets/images/generative.gif)
 

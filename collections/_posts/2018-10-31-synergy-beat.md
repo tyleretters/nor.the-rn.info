@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Synergy Beat"
-date:   2018-10-31
+date: 2018-10-31
+sagas: releases
 ---
 ![Synergy Beat]({{ site.image_path | append: "synergy-beat.jpg" }})
 

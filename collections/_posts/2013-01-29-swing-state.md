@@ -2,6 +2,7 @@
 layout: post
 title: "Swing State"
 date: 2013-01-29
+sagas: events
 ---
 ![Swing State](/assets/images/2013-02-01.jpg)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Everything is everywhere now'
 date: 2019-03-28 06:17 -0500
 youtubeId: d6fxVx3upPc
+sagas: releases
 ---
 
 {% include youtube.html id=page.youtubeId %}

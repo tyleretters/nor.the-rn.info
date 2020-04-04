@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Prolegomenon"
-date:   2012-10-15
+date: 2012-10-15
+sagas: releases
 ---
 [![Prolegomenon]({{ site.image_path | append: "prolegomenon.jpg" }} "Prolegomenon")](http://connectednesslocus.bandcamp.com/album/prolegomenon)
 

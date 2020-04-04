@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "The Five Colors [Remixed]"
-date:   2012-09-19
+date: 2012-09-19
+sagas: releases
 ---
 [![The Five Colors, Remixed]({{ site.image_path | append: "the-five-colors-remixed.jpg" }} "The Five Colors, Remixed")](https://bridgesofkonigsberg.bandcamp.com/album/the-five-colors-remixed)
 

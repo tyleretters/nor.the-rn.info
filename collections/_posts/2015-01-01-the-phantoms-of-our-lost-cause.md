@@ -2,6 +2,7 @@
 layout: post
 title: "the phantoms of our lost cause"
 date: 2015-01-01
+sagas: releases
 ---
 [![the phantoms of our lost cause](/assets/images/the-phantoms-of-our-lost-cause.jpg)](https://northerninformation.bandcamp.com/album/the-phantoms-of-our-lost-cause)
 

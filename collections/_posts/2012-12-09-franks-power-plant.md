@@ -2,6 +2,7 @@
 layout: post
 title: "Franks Power Plant"
 date: 2012-12-09
+sagas: events
 ---
 ![Franks Power Plant](/assets/images/2013-01-05.jpg)
 

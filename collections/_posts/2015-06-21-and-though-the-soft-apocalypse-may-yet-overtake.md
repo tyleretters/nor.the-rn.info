@@ -2,6 +2,7 @@
 layout: post
 title: "and though the soft apocalypse may yet overtake"
 date: 2015-06-21
+sagas: releases
 ---
 [![and though the soft apocalypse may yet overtake](/assets/images/and-though-the-soft-apocalypse-may-yet-overtake.jpg)](https://northerninformation.bandcamp.com/album/and-though-the-soft-apocalypse-may-yet-overtake)
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Endless Field Saga Tour"
 date: 2013-08-19
+sagas: events
 ---
 ![Endless Field Saga Tour](/assets/images/2013-08-31.jpg)
 

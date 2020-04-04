@@ -2,6 +2,7 @@
 layout: post
 title: "Earphoria"
 date: 2015-03-15
+sagas: events
 ---
 [![Earphoria](/assets/images/2015-04-11.jpg)](https://www.facebook.com/events/395973437253973/)
 
