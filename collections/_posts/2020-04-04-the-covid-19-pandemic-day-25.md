@@ -2,6 +2,7 @@
 layout: post
 title: 'The COVID-19 Pandemic, Day 25'
 date: 2020-04-04 11:19 -0500
+sagas: covid
 ---
 
 ![X Marks the Distance](/assets/images/x-marks-the-distance.jpg)
