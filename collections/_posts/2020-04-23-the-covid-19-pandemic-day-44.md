@@ -20,8 +20,8 @@ A third of my day is for working. A third of my day is for sleeping. A third of 
 
 I see several possible futures.
 
-1. Restaurant, travel, and all adjacent industries never really recover; the rich get richer while austerity blues and Soylent lines for the rest of us; it is never really quite safe to leave your domicile ever again but then again maybe it never was?
-2. Eventual economic recovery and return to some species of normalcy but featuring even more hyper-polarized societal fault lines (e.g. Western States Pact) plus eco-cyberpunk HazMat fashion startups are to the 2020s what the internet was to the 2010s.
+1. Restaurant, travel, and all adjacent industries never really recover; the rich get richer while it's austerity blues and Soylent lines for the rest of us; it's never quite safe to leave your domicile ever again but then again maybe it never was?
+2. Eventual economic recovery and return to some species of normalcy but featuring even more hyper-polarized societal fault lines (e.g. Western States Pact) plus eco-cyberpunk hazmat fashion startups are to the 2020s what the internet was to the 2010s.
 3. Contact tracing surveillance-industrial bio-shrapnel autocracy.
 4. Slow rolling cataclysms, the Gibsonian jackpot, harried rumors, one day the internet doesn't work, fade-to-black.
 
@@ -35,9 +35,9 @@ Being a teenager is all, "Sign here. Yeah, yeah, you'll make enough..."
 
 Being an adult is all, "How are you going to make rent this month and pay down your student debt?"
 
-But if I believe in any one of my four futures sketched out... it seems I should found one of those HazMat startups?
+But if I believe in any one of my four futures sketched out... it seems I should found one of those hazmat startups?
 
-Until now I've lived under the reasonable assumption that science and reason would shield me from the biological horrors of something like a pandemic. And the one-two punch of neoliberalism and democracy would smooth out any bumps to our regularly scheduled programming. My life would be, more or less, the same as it has always been.
+Until now I've lived under the reasonable assumption that science and technology would shield me from the biological horrors of something like a pandemic. And the one-two punch of neoliberalism and democracy would smooth out any bumps to our regularly scheduled programming. My life would be, more or less, the same as it has always been.
 
 ---
 
@@ -46,3 +46,5 @@ Apocalypse has the most fascinating etymology.
 From [etymonline.com](https://www.etymonline.com/word/apocalypse):
 
 > late 14c., "revelation, disclosure," from Church Latin apocalypsis "revelation," from Greek apokalyptein "uncover, disclose, reveal," from apo "off, away from" (see apo-) + kalyptein "to cover, conceal," from PIE root *kel- (1) "to cover, conceal, save." The Christian end-of-the-world story is part of the revelation in John of Patmos' book "Apokalypsis" (a title rendered into English as pocalipsis c. 1050, "Apocalypse" c. 1230, and "Revelations" by Wyclif c. 1380).
+
+Revelations abound.
