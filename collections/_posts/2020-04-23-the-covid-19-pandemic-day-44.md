@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The COVID-19 Pandemic, Day 44'
-date: 2020-04-23 21:02 -0500
+date: 2020-04-23 21:02
 sagas: covid
 ---
 
