@@ -220,7 +220,8 @@ nav .navbar-nav li {
   .container-fluid article.post ul {
     list-style-type: disc; }
   .container-fluid article.post ul, .container-fluid article.post ol {
-    margin: 20px 0 20px 10px; }
+    list-style-position: outside;
+    margin: 20px 0 20px 20px; }
     .container-fluid article.post ul li, .container-fluid article.post ol li {
       margin: 0 0 20px 0; }
 
