@@ -2,7 +2,7 @@
 layout: post
 title: "second chance"
 date: 2015-04-05
-sagas: art
+sagas: ["mtech", "art"]
 ---
 ![second chance](/assets/images/second-chance.jpg)
 

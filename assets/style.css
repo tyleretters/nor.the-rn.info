@@ -42,6 +42,16 @@ blockquote {
     font-size: 1rem;
     color: #333333; }
 
+pre {
+  background: #333333;
+  margin: 10px 0;
+  padding: 20px;
+  border-radius: 4px; }
+  pre code {
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: 0px; }
+
 hr {
   margin: 4rem 0;
   padding: 0;
