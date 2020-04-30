@@ -7,6 +7,10 @@ sagas: mtech
 
 ![Markov Chains](/assets/images/markov-chains.png)
 
+[Sean Booth via an interview on Resident Advisor](https://www.residentadvisor.net/features/2756):
+
+> [...] but it might at least resemble the way a person thinks. It's funny, I've been reading about Markov models and Markov chains recently, the results from Markov Chains are remarkably similar to what you get out of Watson or DeepMind, these super advanced language modelling things. And this article was about how unwieldy that kind of mega-gigantic, expensive AI is, because you can actually achieve very close results using Markov chains, and they're really fucking simple, they're computationally really easy to deal with, they're what people use for Twitterbots and things like that. So in some ways these simple conditional responses can resemble very high-end AI. Even though it's very simple, the result is close enough not to matter.
+
 I built a simple [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) patch that I wanted to share. I'm going to extend this into delay units and sequencers.
 
 I'm pretty happy with everything except the implementation of `if $i1 > $i2 then true else out2 true` forcing a `delay` to convert a true into a bang. I settled for this because `if` seemed to output to both outlets if I used the integer 1. And as far as I understand it, `if` cannot output bangs. There's probably a more elegant way to break the signal besides using 4 gates, too.
