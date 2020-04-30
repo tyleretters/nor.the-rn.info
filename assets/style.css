@@ -34,6 +34,12 @@ a:hover.about-link {
 time {
   color: #b3b3b3; }
 
+code {
+  color: #ffffff;
+  background: #333333;
+  padding: 4px;
+  border-radius: 4px; }
+
 blockquote {
   border-left: 1px solid #b3b3b3;
   padding-left: 20px;
@@ -84,6 +90,7 @@ hr::before {
       background: #0687f5; }
     .max-clipboard pre code.language-max {
       color: #ffffff;
+      background: none;
       font-size: 10px;
       line-height: 0px; }
 
