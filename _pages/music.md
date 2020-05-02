@@ -6,7 +6,7 @@ permalink: /music/
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'They Became What They Beheld'
+## As "They Became What They Beheld"
 </div>
 
 </div>
@@ -44,7 +44,7 @@ _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'Syngery Beat'
+## As "Syngery Beat"
 </div>
 
 </div>
@@ -80,7 +80,7 @@ _Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/syn
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'the northern information movement'
+## As "the northern information movement"
 </div>
 
 </div>
@@ -155,7 +155,7 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'Connectedness Locus'
+## As "Connectedness Locus"
 </div>
 
 </div>
@@ -209,7 +209,7 @@ _As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.c
 <div class="row">
 
 <div class="col" markdown="1">
-## As 'Everything Comes in Cycles; Everything Fades in Shades' & 'Ix'
+## As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"
 </div>
 
 </div>
