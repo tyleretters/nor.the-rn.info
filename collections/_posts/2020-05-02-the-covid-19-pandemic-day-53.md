@@ -40,7 +40,7 @@ Digital mourning gallery:
 
 In positive news, I decided it was time to invest in a [Monome Grid](https://monome.org/docs/grid/). Since selling most of my hardware a few years ago I have been *highly* discerning with any new purchases. The Grid has long been something that I considered one of my endgame instruments. I finally know enough Max to make something approaching proper use of the thing.
 
-Indeed, when I opened the box I had an experience of "correctness" that I haven't felt before. I imagine (fanasize) it is what guitar prodigies feel like when they first picked the instrument up. I would describe it as an intoxicating rush of possibility, joy, and awe. I haven't felt that about an instrument before. Last night I literally laughed out loud with happiness as I was learning how to patch with it. There is something special about programming with interactive hardware that is immensely satisfying.
+Indeed, when I opened the box I had an experience of "correctness" that I haven't felt before. I imagine (fantasize) it is what guitar prodigies feel like when they first picked the instrument up. I would describe it as an intoxicating rush of possibility, joy, and awe. I haven't felt that about an instrument before. Last night I literally laughed out loud with happiness as I was learning how to patch with it. There is something special about programming with interactive hardware that is immensely satisfying.
 
 ![Bunting playing Monome Grid](/assets/images/bunting-playing-monome-grid.jpg)
 
