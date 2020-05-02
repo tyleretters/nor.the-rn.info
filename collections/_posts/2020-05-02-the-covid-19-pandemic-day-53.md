@@ -28,7 +28,7 @@ Digital mourning gallery:
 *Via Stacie K. on Yelp*
 
 ![Neobeat](/assets/images/crown-neobeat.jpg)
-*[Neobeat](http://neobeat.pro/) that time [Ben Babbit](https://benbabbitt.bandcamp.com) played...*
+*[Neobeat](http://neobeat.pro/) that time [Ben Babbitt](https://benbabbitt.bandcamp.com) played...*
 
 ![Gaming with the guys](/assets/images/crown-gaming.jpg)
 *Gaming with the guys.*
