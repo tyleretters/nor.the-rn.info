@@ -18,6 +18,7 @@ collections_dir: collections
 collections:
   - blogroll
   - projects
+  - software
 jekyll_compose:
     auto_open: true
 include: ['_pages']
