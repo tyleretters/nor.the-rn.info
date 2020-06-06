@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: software
 title: Software
 permalink: /software/
 ---

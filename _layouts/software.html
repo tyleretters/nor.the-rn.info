@@ -1,0 +1,23 @@
+---
+layout: full
+---
+{% assign software_by_order = site.software | sort: "order" | reverse %}
+{% for ware in software_by_order %}
+
+<div class="row row-projects">
+  <div class="col">
+    <h2>{{ ware.name }}</h2>
+    <em>{{ ware.dates }}</em>
+  </div>
+</div>
+
+<div class="row row-projects">
+  <div class="col-md-6">
+    {{ ware.content }}
+  </div>
+   <div class="col-md-6">
+    <img src="{{ ware.image }}" />
+  </div>
+</div>
+
+{% endfor %}
