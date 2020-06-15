@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Greatest 5 Minutes in Music Education'
-date: 2020-05-15 12:59 -0500
+date: 2020-05-15
 youtubeId: Gt2zubHcER4
 sagas: thoughts
 ---
