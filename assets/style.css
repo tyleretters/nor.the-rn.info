@@ -37,11 +37,8 @@ a:hover.about-link {
 time {
   color: #b3b3b3; }
 
-code {
-  color: #ffffff;
-  background: #333333;
-  padding: 4px;
-  border-radius: 4px; }
+code.highlighter-rouge {
+  color: #034279; }
 
 audio {
   width: 100%; }
