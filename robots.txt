@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nor.the-rn.info/sitemap.xml
