@@ -65,7 +65,7 @@ Did you know it's been over 100 degrees Fahrenheit in the arctic circle this wee
 
 Looming over all of us is complete environmental collapse and we're fighting about tearing down fucking statues.
 
-Yes. Tearing down statues matters. Yes. Tear them down. Then can we please get on with the things existential threats?
+Yes. Tearing down statues matters. Yes. Tear them down. Then can we please get on with the more existential threats?
 
 If the virus has taught us anything it is that nature _does not care_ about your politics or gender or race or sex or religion.
 
