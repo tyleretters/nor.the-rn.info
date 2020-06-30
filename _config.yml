@@ -17,7 +17,7 @@ feed:
   path: feed.xml
 collections_dir: collections
 collections:
-  - blogroll
+  - related
   - projects
   - software
 jekyll_compose:
