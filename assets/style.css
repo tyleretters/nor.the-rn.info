@@ -382,4 +382,10 @@ button.btn-max {
   -webkit-columns: 3;
   -moz-columns: 3; }
 
+@media (max-width: 575.98px) {
+  .row-related-and-recommended ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1; } }
+
 /*# sourceMappingURL=style.css.map */
