@@ -207,6 +207,21 @@ function copy(inElement) {
  */
 $(function() {
 
+
+/*
+ * Toggles for About.
+ */
+$('.toggle-dystopia').on('click', function() {
+  $('.about-image-dystopia').addClass('active');
+  $('.about-image-happy').removeClass('active');
+});
+
+$('.toggle-happy').on('click', function() {
+  $('.about-image-happy').addClass('active');
+  $('.about-image-dystopia').removeClass('active');
+});
+
+
 /*
  * Toggles for Archives.
  */
@@ -223,6 +238,8 @@ $('.view-saga').on('click', function() {
   $('.row-saga').addClass('active');
   $('.row-date').removeClass('active');
 });
+
+
 
 /*
  * Make all post images link to high res versions of themsleves.

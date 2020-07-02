@@ -313,11 +313,6 @@ button.btn-max {
   padding: 10px;
   margin: 0px; }
 
-.container-fluid .aux ul li {
-  margin-bottom: 20px; }
-  .container-fluid .aux ul li em {
-    color: #b3b3b3; }
-
 .svg-icon {
   width: 16px;
   height: 16px;
@@ -376,6 +371,14 @@ button.btn-max {
   .row-date.active,
   .row-saga.active {
     display: flex; }
+
+.about-image-dystopia,
+.about-image-happy {
+  display: none;
+  color: #b3b3b3; }
+  .about-image-dystopia.active,
+  .about-image-happy.active {
+    display: block; }
 
 .row-related-and-recommended ul {
   columns: 3;
