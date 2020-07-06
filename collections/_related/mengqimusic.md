@@ -1,4 +1,4 @@
 ---
 website: https://www.mengqimusic.com/
-name: Wing Pinger
+name: Mengqi Music
 ---
