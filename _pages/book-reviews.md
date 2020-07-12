@@ -8,6 +8,12 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### Aphex Twin's Selected Ambient Works, Vol. 2 by Marc Weidenbaum
+
+An amazingly satisfying read. I’ve pondered the mysteries of this album for most of my life. Weidenbaum's analysis and reflections were an absolute joy.
+
+---
+
 ### Blink by Malcolm Gladwell
 
 What lies beneath our snap judgments? What circumstances cloud our intuition? Why does more information not necessarily correllate with better decisions? Blink was a satisfying journey to answering these questions.
