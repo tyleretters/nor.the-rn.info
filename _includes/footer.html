@@ -1,0 +1,36 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <nav class="navbar navbar-expand-sm">
+        <ul class="navbar-nav">
+          <li class="{% if page.title == 'Music' %}active{% endif %}">
+            <a class="nav-link" href="/music">{% if page.title == "Music" %}<span>&rarr;</span>{% endif %} Music</a>
+          </li>
+          <li class="{% if page.title == 'Software' %}active{% endif %}">
+            <a class="nav-link" href="/software">{% if page.title == "Software" %}<span>&rarr;</span>{% endif %} Software</a>
+          </li>          
+          <li class="{% if page.title == 'Projects' %}active{% endif %}">
+            <a class="nav-link" href="/projects">{% if page.title == "Projects" %}<span>&rarr;</span>{% endif %} Projects</a>
+          </li>
+          <li class="{% if page.title == 'About' %}active{% endif %}">
+             <a class="nav-link" href="/about">{% if page.title == "About" %}<span>&rarr;</span>{% endif %} About</a>
+          </li>
+          <li class="{% if page.title == 'Archives' %}active{% endif %}">
+            <a class="nav-link" href="/archives">{% if page.title == "Archives" %}<span>&rarr;</span>{% endif %} Archives</a>
+          </li>
+          <li class="{% if page.title == 'Related & Recommended' %}active{% endif %}">
+            <a class="nav-link" href="/related-and-recommended">{% if page.title == "Related & Recommended" %}<span>&rarr;</span>{% endif %} Related & Recommended</a>
+          </li>
+          <li class="{% if page.title == 'Book Reviews' %}active{% endif %}">
+            <a class="nav-link" href="/book-reviews">{% if page.title == "Book Reviews" %}<span>&rarr;</span>{% endif %} Book Reviews</a>
+          </li>
+          <li class="{% if page.title == 'Travel' %}active{% endif %}">
+            <a class="nav-link" href="/travel">{% if page.title == "Travel" %}<span>&rarr;</span>{% endif %} Travel</a>
+          </li>
+          <li class="{% if page.title == 'My Life in Playlists' %}active{% endif %}">
+            <a class="nav-link" href="/my-life-in-playlists">{% if page.title == "My Life in Playlists" %}<span>&rarr;</span>{% endif %} My Life in Playlists</a>
+          </li>
+      </div>
+    </div>
+  </nav>
+  </div>
+</footer>

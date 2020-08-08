@@ -185,9 +185,9 @@ hr::before
 
 .navbar
   background: url("images/nav-bg.jpg")
+  background-color: $black
   background-size: contain
   padding: 1.5rem 15px 1rem 15px
-  border-bottom: 2px solid $black
   align-items: baseline
 
 nav .navbar-nav li
@@ -222,6 +222,16 @@ nav .navbar-nav li
     &:hover
       text-decoration: none
 
+.site-header
+  border-bottom: 2px solid $black
+
+.site-footer
+  background: url("images/nav-bg.jpg")
+  background-color: $black
+  background-size: contain
+  padding: 1.5rem 15px 1rem 15px
+  border-top: 2px solid $black
+  width: 100%
 
 @media (max-width: 575.98px)
 
@@ -237,6 +247,7 @@ nav .navbar-nav li
 
   nav ul.navbar-nav
     margin-top: 10px
+    width: 100%
 
   nav .navbar-nav li
     margin-left: 0
@@ -433,13 +444,16 @@ button.btn-max
   &.active
     display: block
 
-.row-related-and-recommended ul
+.webring img
+  width: 100%
+
+.three-col
   columns: 3
   -webkit-columns: 3
   -moz-columns: 3
 
 @media (max-width: 575.98px)
-  .row-related-and-recommended ul
+  .three-col
     columns: 1
     -webkit-columns: 1
     -moz-columns: 1
