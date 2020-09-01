@@ -12,4 +12,3 @@ sagas: ['metch', 'music']
 > [...]
 > 
 > We live in strange times. It’s nice that some of the increasing strangeness is not only horrifying, but delightful.
-
