@@ -8,6 +8,12 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### ★ The Left Hand of Darkness by Ursula K. Le Guin
+
+Transcendent.
+
+---
+
 ### Aphex Twin's Selected Ambient Works, Vol. 2 by Marc Weidenbaum
 
 An amazingly satisfying read. I’ve pondered the mysteries of this album for most of my life. Weidenbaum's analysis and reflections were an absolute joy.
