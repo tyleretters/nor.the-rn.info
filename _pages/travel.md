@@ -44,7 +44,7 @@ _Oct 10, 2019 · North Acomita Village, New Mexico_
 <div class="col-md-4" markdown="1">
 ![Haystack Rock](/assets/images/travel/haystack-rock.jpg)
 ## Haystack Rock
-_Aug 17, 2019 · Cannon Beach, Orgegon_
+_Aug 17, 2019 · Cannon Beach, Oregon_
 </div>
 
 <div class="col-md-4" markdown="1">
