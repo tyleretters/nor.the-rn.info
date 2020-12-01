@@ -361,6 +361,16 @@ button.btn-max {
   font-family: monospace;
   text-align: center; }
 
+.home {
+  background: url("../images/bg.jpg") no-repeat center center fixed;
+  background-color: #212529;
+  background-size: cover; }
+  .home .navbar,
+  .home .site-header,
+  .home .site-footer {
+    border: none;
+    background: none; }
+
 .row-music a {
   text-decoration: none; }
 .row-music .container-fluid {
@@ -397,15 +407,21 @@ button.btn-max {
 .webring img {
   width: 100%; }
 
+.two-col {
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2; }
+
 .three-col {
-  columns: 3;
   -webkit-columns: 3;
-  -moz-columns: 3; }
+  -moz-columns: 3;
+  columns: 3; }
 
 @media (max-width: 575.98px) {
+  .two-col,
   .three-col {
-    columns: 1;
     -webkit-columns: 1;
-    -moz-columns: 1; } }
+    -moz-columns: 1;
+    columns: 1; } }
 
 /*# sourceMappingURL=style.css.map */

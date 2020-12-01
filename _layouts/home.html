@@ -1,35 +1,24 @@
----
-layout: default
----
-<div class="row">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-   <div class="col-lg-6 offset-lg-3 col-md-12">
-    {% for post in site.posts limit:3 %}
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+{% include head.html %}
 
-      <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h1>
-        <p class="post-meta">
-          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ post.date | date: date_format }}
-          </time> · <a href="{{ post.url | relative_url }}">Link</a>
-        </p>
-      </header>
+<body class="home">
 
-      <div class="post-content e-content" itemprop="articleBody">
-        {{ post.content }}
-      </div>
+{% include header.html %}
 
-    </article>
-    {% endfor %}
-  </div>
+<main class="container-fluid">
 
-</div>
+{% for item in site.data.home.items %}
+<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
 
-<div class="row">
-  <div class="col-lg-6 offset-lg-3 col-md-12 more-posts">
-    <a href="/archives">All Posts</a>
-  </div>
-</div>
+</main>
 
+{% include footer.html %}
+
+{% include javascript.html %}
+
+</body>
+
+</html>

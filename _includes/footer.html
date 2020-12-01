@@ -2,6 +2,9 @@
   <div class="wrapper">
     <nav class="navbar navbar-expand-sm">
         <ul class="navbar-nav">
+          <li class="{% if page.title == 'Blog' %}active{% endif %}">
+            <a class="nav-link" href="/blog">{% if page.title == "Blog" %}<span>&rarr;</span>{% endif %} Blog</a>
+          </li>
           <li class="{% if page.title == 'Music' %}active{% endif %}">
             <a class="nav-link" href="/music">{% if page.title == "Music" %}<span>&rarr;</span>{% endif %} Music</a>
           </li>

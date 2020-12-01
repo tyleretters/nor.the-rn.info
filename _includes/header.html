@@ -11,6 +11,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
+          <li class="{% if page.title == 'Blog' %}active{% endif %}">
+            <a class="nav-link" href="/blog">{% if page.title == "Blog" %}<span>&rarr;</span>{% endif %} Blog</a>
+          </li>
           <li class="{% if page.title == 'Music' %}active{% endif %}">
             <a class="nav-link" href="/music">{% if page.title == "Music" %}<span>&rarr;</span>{% endif %} Music</a>
           </li>
