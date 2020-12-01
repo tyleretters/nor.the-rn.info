@@ -6,7 +6,7 @@ layout: full
 
 <div class="row row-projects">
   <div class="col">
-    <h2>{{ project.name }}</h2>
+    <h2 id="{{ project.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.name }}</h2>
     <em>{{ project.dates }}</em>
   </div>
 </div>

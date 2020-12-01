@@ -1,13 +1,69 @@
 items:
 
-- title: alpha
-  img: alpha-img
-  url: alpha-url
+- title: Yggdrasil
+  img: yggdrasil.png
+  url: software#yggdrasil
 
-- title: beta
-  img: beta-img
-  url: beta-url
+- title: arcologies
+  img: arcologies.png
+  url: software#arcologies
 
-- title: gamma
-  img: gamma-img
-  url: gamma-url
+- title: dronecaster
+  img: dronecaster.png
+  url: software#dronecaster
+
+- title: Garfield Park Conservatory
+  img: travel/garfield-park-conservatory.jpg
+  url: travel
+
+- title: Cascades
+  img: cascades.png
+  url: software#cascades
+
+- title: Conway Music
+  img: conway-music.png
+  url: software#conway-music
+
+- title: Markov Music
+  img: markov-music.jpg
+  url: software#markov-music
+
+- title: Cascade
+  img: cascade.png
+  url: software#cascade
+
+- title: Second Chance
+  img: second-chance.jpg
+  url: software#second-chance
+
+- title: Manifesto
+  img: manifesto.jpg
+  url: projects#photography
+
+- title: Intertext
+  img: intertext.jpg
+  url: projects#intertext
+
+- title: Epicycle
+  img: epicycle.png
+  url: projects#epicycle
+
+- title: They Became What They Beheld
+  img: ep1.jpg
+  url: music#as-they-became-what-they-beheld
+
+- title: Synergy Beat
+  img: synergy-beat.jpg
+  url: music#as-synergy-beat
+
+- title: Batu Caves
+  img: travel/batu-caves.jpg
+  url: travel
+
+- title: the northern information movement
+  img: the-legacy-of-our-lost-cause.jpg
+  url: music#as-the-northern-information-movement
+
+- title: ECiC;EFiS
+  img: serial-index-of-unclaimed-memories.jpg
+  url: music#as-everything-comes-in-cycles-everything-fades-in-shades--ix

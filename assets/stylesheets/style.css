@@ -370,6 +370,15 @@ button.btn-max {
   .home .site-footer {
     border: none;
     background: none; }
+  .home .home-image {
+    display: inline-block; }
+    .home .home-image a {
+      display: block;
+      border: 10px solid transparent; }
+      .home .home-image a img {
+        display: block; }
+    .home .home-image a:hover, .home .home-image a:active {
+      border: 10px solid #0687f5; }
 
 .row-music a {
   text-decoration: none; }

@@ -7,10 +7,14 @@
 
 {% include header.html %}
 
-<main class="container-fluid">
+<main class="container-fluid two-col">
 
 {% for item in site.data.home.items %}
-<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+<div class="home-image mb-5">
+  <a href="{{ site.baseurl }}{{ item.url }}">
+    <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" class="img-fluid" />
+  </a>
+</div>
 {% endfor %}
 
 </main>
