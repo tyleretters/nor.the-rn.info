@@ -6,6 +6,46 @@ permalink: /music/
 <div class="row">
 
 <div class="col" markdown="1">
+## "The First Arcologists"
+</div>
+
+</div>
+
+<div class="row row-music">
+
+<div class="col-md-6" markdown="1">
+This album is a document of The First Arcologists and their first brave steps into the strange world we've suddenly found ourselves reckoning with. All of the tracks were composed with a piece of software called "Arcologies" that runs on a small custom art computer called Norns.
+
+With Arcologies, users build miniature worlds out of objects that wouldn't feel out of place in a 1980's fantasy game - crypts, tunnels, shrines, mazes, topiaries, etc. - and then play those miniature worlds as musical instruments, triggering interactions between the objects.
+
+Arcologies is a 21st century instrument for musical composition and discovery. It was designed by Tyler Etters as "an interactive environment for designing 2d sound arcologies with norns and grid" during the summer of 2020. Described as a "sanity project," it has attracted a small but passionate group of users.
+</div>
+
+<div class="col-md-6">
+
+<div class="container-fluid">
+
+<div class="row row-music">
+
+<div class="col-md-12" markdown="1">
+[![The First Arcologists](/assets/images/the-first-arcologists.jpg)
+_The First Arcologists, 2020_](https://goodglassrecords.bandcamp.com/album/the-first-arcologists)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<div class="row">
+
+<div class="col" markdown="1">
 ## As "They Became What They Beheld"
 </div>
 

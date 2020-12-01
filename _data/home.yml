@@ -8,6 +8,10 @@ items:
   img: arcologies.png
   url: software#arcologies
 
+- title: They Became What They Beheld
+  img: ep1.jpg
+  url: music#as-they-became-what-they-beheld
+
 - title: dronecaster
   img: dronecaster.png
   url: software#dronecaster
@@ -36,21 +40,17 @@ items:
   img: second-chance.jpg
   url: software#second-chance
 
-- title: Manifesto
-  img: manifesto.jpg
-  url: projects#photography
-
 - title: Intertext
   img: intertext.jpg
   url: projects#intertext
 
+- title: The First Arcologists
+  img: the-first-arcologists.jpg
+  url: music#the-first-arcologists
+
 - title: Epicycle
   img: epicycle.png
   url: projects#epicycle
-
-- title: They Became What They Beheld
-  img: ep1.jpg
-  url: music#as-they-became-what-they-beheld
 
 - title: Synergy Beat
   img: synergy-beat.jpg
@@ -67,3 +67,7 @@ items:
 - title: ECiC;EFiS
   img: serial-index-of-unclaimed-memories.jpg
   url: music#as-everything-comes-in-cycles-everything-fades-in-shades--ix
+
+- title: Manifesto
+  img: manifesto.jpg
+  url: projects#photography
