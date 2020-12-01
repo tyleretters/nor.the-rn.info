@@ -365,19 +365,25 @@ button.btn-max {
   background: url("../images/bg.jpg") no-repeat center center fixed;
   background-color: #212529;
   background-size: cover; }
+  .home .container-fluid {
+    padding-left: 5px;
+    padding-right: 5px; }
   .home .navbar,
   .home .site-header,
   .home .site-footer {
     border: none;
     background: none; }
-  .home .home-image {
-    display: inline-block; }
-    .home .home-image a {
+  .home .home-image,
+  .home .home-image img {
+    display: inline-block;
+    width: 100%; }
+    .home .home-image a,
+    .home .home-image img a {
       display: block;
       border: 10px solid transparent; }
-      .home .home-image a img {
-        display: block; }
-    .home .home-image a:hover, .home .home-image a:active {
+    .home .home-image a:hover, .home .home-image a:active,
+    .home .home-image img a:hover,
+    .home .home-image img a:active {
       border: 10px solid #0687f5; }
 
 .row-music a {

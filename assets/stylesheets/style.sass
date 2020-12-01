@@ -412,25 +412,28 @@ button.btn-max
   background-color: $black
   background-size: cover
 
+  .container-fluid
+    padding-left: 5px
+    padding-right: 5px
+
   .navbar,
   .site-header,
   .site-footer
     border: none
     background: none
 
-  .home-image
+  .home-image,
+  .home-image img
     display: inline-block
+    width: 100%
 
     a
       display: block
       border: 10px solid transparent
-
-      img
-        display: block
     
     a:hover, a:active
       border: 10px solid $blue
-  
+
 .row-music
   a
     text-decoration: none
