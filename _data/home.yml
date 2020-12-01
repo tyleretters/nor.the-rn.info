@@ -24,6 +24,10 @@ items:
   img: cascades.png
   url: software#cascades
 
+- title: Eternal September
+  img: eternal-september.jpg
+  url: https://tyleretters.github.io/arcologies-docs/#ecosystem
+
 - title: Conway Music
   img: conway-music.png
   url: software#conway-music
@@ -40,9 +44,17 @@ items:
   img: second-chance.jpg
   url: software#second-chance
 
+- title: Seven Weeks Later
+  img: seven-weeks-later.png
+  url: https://www.youtube.com/watch?v=OdgybasVW3E&list=PLe1BFUbUceS2N5GLgORKQrw1bsz2ZLwJ3&index=1
+
 - title: Intertext
   img: intertext.jpg
   url: projects#intertext
+
+- title: Yggdrasil Docs
+  img: clades.png
+  url: https://northern-information.github.io/yggdrasil-docs/
 
 - title: The First Arcologists
   img: the-first-arcologists.jpg
@@ -71,3 +83,7 @@ items:
 - title: Manifesto
   img: manifesto.jpg
   url: projects#photography
+
+- title: Ophelia
+  img: tyler-etters-ophelia.jpg
+  url: 2017/12/20/northern-information-movement-photos/

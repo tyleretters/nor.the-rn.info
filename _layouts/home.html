@@ -11,7 +11,7 @@
 
 {% for item in site.data.home.items %}
 <div class="home-image mb-5">
-  <a href="{{ site.baseurl }}{{ item.url }}">
+  <a href="{{ item.url }}">
     <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" class="img-fluid" />
   </a>
 </div>
