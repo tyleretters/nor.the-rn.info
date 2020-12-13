@@ -78,6 +78,17 @@ hr::before {
   padding: 0 0.25em;
   background: #ffffff; }
 
+.hr-music {
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-top: 4px solid #b3b3b3;
+  color: #b3b3b3;
+  text-align: center; }
+
+.hr-music::before {
+  content: ""; }
+
 .max-clipboard {
   display: none;
   margin-bottom: 20px; }

@@ -6,7 +6,59 @@ permalink: /music/
 <div class="row">
 
 <div class="col" markdown="1">
+## As "Northern Information"
+<hr class="hr-music">
+</div>
+
+</div>
+
+<div class="row row-music">
+
+<div class="col-md-6" markdown="1">
+- -13,800,000,000: the universe forms.
+- -4,500,000,000: the moon forms.
+- -66,000,000: the Chicxulub impactor kills 75% of everything.
+- 01945: the first nuclear device is detonated at the Trinity Site.
+- 01960: construction of the Arecibo Observatory begins.
+- 01963: construction of the Arecibo Observatory ends.
+- 01974: the Arecibo message is broadcast.
+- 01985: Carl Sagan's novel, Contact, is published.
+- 02020: the Arecibo Observatory collapses.
+- 03000: the 10,000 Year Clock chimes thrice.
+- +26,974: the Arecibo message arrives at M13.
+- +10^14: star formation ceases.
+- +10^40: black holes dominate the universe.
+- +10^100: if protons decay, the universe suffers heat death.
+
+*All above dates and events are inaccurate.
+</div>
+
+<div class="col-md-6">
+
+<div class="container-fluid">
+
+<div class="row row-music">
+
+<div class="col-md-12" markdown="1">
+[![The Arecibo Lamentations](/assets/images/the-arecibo-lamentations.jpg)
+_The Arecibo Lamentations, 2020_](https://northerninformation.bandcamp.com/album/the-arecibo-lamentations)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="row">
+
+<div class="col" markdown="1">
 ## "The First Arcologists"
+<hr class="hr-music">
 </div>
 
 </div>
@@ -47,6 +99,7 @@ _The First Arcologists, 2020_](https://goodglassrecords.bandcamp.com/album/the-f
 
 <div class="col" markdown="1">
 ## As "They Became What They Beheld"
+<hr class="hr-music">
 </div>
 
 </div>
@@ -85,6 +138,7 @@ _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 <div class="col" markdown="1">
 ## As "Syngery Beat"
+<hr class="hr-music">
 </div>
 
 </div>
@@ -121,6 +175,7 @@ _Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/syn
 
 <div class="col" markdown="1">
 ## As "the northern information movement"
+<hr class="hr-music">
 </div>
 
 </div>
@@ -196,6 +251,7 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 
 <div class="col" markdown="1">
 ## As "Connectedness Locus"
+<hr class="hr-music">
 </div>
 
 </div>
@@ -250,6 +306,7 @@ _As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.c
 
 <div class="col" markdown="1">
 ## As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"
+<hr class="hr-music">
 </div>
 
 </div>
