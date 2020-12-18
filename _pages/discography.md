@@ -59,7 +59,7 @@ permalink: /discography/
   2017            tyler etters & the northern information movement              the legacy of our lost cause                        LP                 Digital                  Principal Musician       Endless Field Studios
   2018            Synergy Beat                                                  Synergy Beat Music, Volume 1                        EP                 Digital                  Principal Musician       Intertext
   2019            They Became What They Beheld                                  EP1                                                 EP                 Digital                  Principal Musician       Intertext    
-  2020            The First Arcologists                                         The First Arcologists                               EP                 Digital                  Produce & Software       Good Glass Records    
+  2020            The First Arcologists                                         The First Arcologists                               EP                 Digital                  Producer & Software       Good Glass Records    
   2020            Northern Information                                          The Arecibo Lamentations                            EP                 Digital                  Principal Musician       Intertext    
 ==============================================================================================================================================================================================================================
 ```
