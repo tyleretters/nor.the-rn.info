@@ -7,9 +7,39 @@ permalink: /my-life-in-playlists/
 
 <div class="col-md-4" markdown="1">
 
+### 2020 · [Link](https://open.spotify.com/playlist/12uTS1AQt209R1QI8KBmp8?si=08v9obMNQdCaRoTk8UnV9Q)
+
+ - Kasvetli Kutlama by She Past Away
+ - I'll Keep Coming by Low Roar
+ - Not Afraid by アンジェラ (Vo. Alisa)
+ - Stare At The Sun by Thrice
+ - Fever by Pslam Trees
+ - The Means Whereby Lovers Are Waylaid by Telefon Tel Aviv
+ - Mad World (Feat. Michael Andrews) by by Gary Jules
+ - A Galaxy of Scars by The Third Eye Foundation
+ - Fantas by Caterina Barbieri
+ - Living Numbers by Northern Information
+ - Majula by Motoi Skuraba
+ - From Omens by Hilyard, Poemme
+ - A Sheltered Place - Phaeleh Remix by Way Out West, Phaeleh
+ - Ketracel by Steve Hauschildt
+ - BRIDGES by Ludvig Forssell
+ - City Ruins (Shade) by Keiichi Okabe
+ - Tear Vial by William Basinski
+ - Kryoptonite by Aneesh Gera
+ - With Broken Wings and Giants Tall by Bvdub
+ - r catzt by Autechre
+ - A1 by Celer
+ - And the Birds Are About To Bust Their Guts with Singing by Set Fire to Flames
+ - The Hell of You Come In by Lee Noble
+
+</div>
+
+<div class="col-md-4" markdown="1">
+
 ### 2019 · [Link](https://open.spotify.com/playlist/4BYKttjBkFRQ1ALJys4Xxv?si=zmEhsQjnRWmyS5dP8j15pA)
 
- - a younger version of myself, by Telefon Tel Aviv
+ - a younger version of myself by Telefon Tel Aviv
  - On The Embankment by Huerco S.
  - M04a by Maurizio
  - Our Holy Ghosts by The Felix Culpa

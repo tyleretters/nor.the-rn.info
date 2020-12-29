@@ -2,6 +2,7 @@
 layout: post
 title: 'That Which is Unique, Breaks'
 date: 2020-12-25 02:15
+sagas: thoughts
 ---
 
 [Simon Sarris, writing for The Map is Mostly Water:](https://simonsarris.substack.com/p/that-which-is-unique-breaks) 
