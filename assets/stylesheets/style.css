@@ -386,6 +386,9 @@ button.btn-max {
     background: none; }
   .home .home-image,
   .home .home-image img {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
     display: inline-block;
     width: 100%; }
     .home .home-image a,
@@ -397,6 +400,11 @@ button.btn-max {
     .home .home-image img a:active {
       border: 10px solid #0687f5; }
 
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
 .row-music a {
   text-decoration: none; }
 .row-music .container-fluid {

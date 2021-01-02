@@ -311,7 +311,6 @@ nav .navbar-nav li
       li
         margin: 0 0 20px 0
 
-
 .post, .col, .col-md-4, .col-md-6, .col-md-8
   margin-bottom: 50px
 
@@ -338,7 +337,6 @@ h2.post-footer
   iframe,
   img
     width: 100%
-
 
 .post-meta
   color: $grey
@@ -435,6 +433,9 @@ button.btn-max
 
   .home-image,
   .home-image img
+    animation: fadeInAnimation ease 3s
+    animation-iteration-count: 1 
+    animation-fill-mode: forwards
     display: inline-block
     width: 100%
 
@@ -444,6 +445,12 @@ button.btn-max
     
     a:hover, a:active
       border: 10px solid $blue
+
+@keyframes fadeInAnimation
+  0%
+    opacity: 0
+  100%
+    opacity: 1
 
 .row-music
   a
