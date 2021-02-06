@@ -8,6 +8,12 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
+### Agency by William Gibson
+
+Loved every word.
+
+---
+
 ### ★ The Left Hand of Darkness by Ursula K. Le Guin
 
 Transcendent.
