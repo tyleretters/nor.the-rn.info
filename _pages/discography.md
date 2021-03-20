@@ -61,5 +61,6 @@ permalink: /discography/
   2019            They Became What They Beheld                                  EP1                                                 EP                 Digital                  Principal Musician       Intertext    
   2020            The First Arcologists                                         The First Arcologists                               EP                 Digital                  Producer & Software      Good Glass Records    
   2020            Northern Information                                          The Arecibo Lamentations                            EP                 Digital                  Principal Musician       Intertext    
+  2021            STUXNET                                                       CARRIER (demo)                                      Demo               Digital                  Operator                 Intertext
 ==============================================================================================================================================================================================================================
 ```

@@ -1,5 +1,9 @@
 items:
 
+- title: CARRIER (demo)
+  img: carrier-demo.jpg
+  url: music#as-stuxnet
+
 - title: The Arecibo Lamentations
   img: the-arecibo-lamentations.jpg
   url: music#as-northern-information

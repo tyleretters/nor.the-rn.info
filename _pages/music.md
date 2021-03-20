@@ -6,6 +6,42 @@ permalink: /music/
 <div class="row">
 
 <div class="col" markdown="1">
+## As "STUXNET"
+<hr class="hr-music">
+</div>
+
+</div>
+
+<div class="row row-music">
+
+<div class="col-md-6" markdown="1">
+Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
+</div>
+
+<div class="col-md-6">
+
+<div class="container-fluid">
+
+<div class="row row-music">
+
+<div class="col-md-12" markdown="1">
+[![CARRIER (demo)](/assets/images/carrier-demo.jpg)
+_CARRIER (demo), 2021_](https://stuxnet.bandcamp.com)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="row">
+
+<div class="col" markdown="1">
 ## As "Northern Information"
 <hr class="hr-music">
 </div>
