@@ -1,5 +1,9 @@
 items:
 
+- title: CIPHER SUITE (demo)
+  img: cipher-suite-demo.jpg
+  url: music#as-stuxnet
+
 - title: CARRIER (demo)
   img: carrier-demo.jpg
   url: music#as-stuxnet
@@ -8,9 +12,9 @@ items:
   img: the-arecibo-lamentations.jpg
   url: music#as-northern-information
 
-- title: Yggdrasil
-  img: yggdrasil.png
-  url: software#yggdrasil
+- title: Yggdrasil Docs
+  img: clades.png
+  url: https://northern-information.github.io/yggdrasil-docs/
 
 - title: arcologies
   img: arcologies.png
@@ -48,6 +52,10 @@ items:
   img: cascade.png
   url: software#cascade
 
+- title: Yggdrasil
+  img: yggdrasil.png
+  url: software#yggdrasil
+
 - title: Second Chance
   img: second-chance.jpg
   url: software#second-chance
@@ -59,10 +67,6 @@ items:
 - title: Seven Weeks Later
   img: seven-weeks-later.png
   url: https://www.youtube.com/watch?v=OdgybasVW3E&list=PLe1BFUbUceS2N5GLgORKQrw1bsz2ZLwJ3&index=1
-
-- title: Yggdrasil Docs
-  img: clades.png
-  url: https://northern-information.github.io/yggdrasil-docs/
 
 - title: The First Arcologists
   img: the-first-arcologists.jpg

@@ -14,19 +14,24 @@ permalink: /music/
 
 <div class="row row-music">
 
-<div class="col-md-6" markdown="1">
+<div class="col-md-3" markdown="1">
 Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
 </div>
 
-<div class="col-md-6">
+<div class="col-md-9">
 
 <div class="container-fluid">
 
 <div class="row row-music">
 
-<div class="col-md-12" markdown="1">
+<div class="col-md-6" markdown="1">
+[![CIPHER SUITE (demo)](/assets/images/cipher-suite-demo.jpg)
+_CIPHER SUITE(demo), 2021_](https://stuxnet.bandcamp.com/album/cipher-suite-demo)
+</div>
+
+<div class="col-md-6" markdown="1">
 [![CARRIER (demo)](/assets/images/carrier-demo.jpg)
-_CARRIER (demo), 2021_](https://stuxnet.bandcamp.com)
+_CARRIER (demo), 2021_](https://stuxnet.bandcamp.com/album/carrier-demo)
 </div>
 
 </div>
@@ -36,6 +41,8 @@ _CARRIER (demo), 2021_](https://stuxnet.bandcamp.com)
 </div>
 
 </div>
+
+
 
 
 
