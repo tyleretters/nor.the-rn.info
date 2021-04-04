@@ -57,10 +57,14 @@ permalink: /discography/
   2015            tyler etters & the northern information movement              and though the soft apocalypse may yet overtake     LP                 Digital                  Principal Musician       Endless Field Studios
   2016            tyler etters & the northern information movement              the phantom time trilogy                            Anthology          Cassette, Digital        Principal Musician       Endless Field Studios
   2017            tyler etters & the northern information movement              the legacy of our lost cause                        LP                 Digital                  Principal Musician       Endless Field Studios
+  2017            tyler etters & the northern information movement              dispatches from the prime meridian                  LP                 Digital                  Principal Musician       Endless Field Studios
+  2017            tyler etters & the northern information movement              reverence                                           LP                 Digital                  Principal Musician       Endless Field Studios
+  2017            tyler etters & the northern information movement              the arcadian nights trilogy                         Anthology          Digital                  Principal Musician       Endless Field Studios
   2018            Synergy Beat                                                  Synergy Beat Music, Volume 1                        EP                 Digital                  Principal Musician       Intertext
   2019            They Became What They Beheld                                  EP1                                                 EP                 Digital                  Principal Musician       Intertext    
   2020            The First Arcologists                                         The First Arcologists                               EP                 Digital                  Producer & Software      Good Glass Records    
   2020            Northern Information                                          The Arecibo Lamentations                            EP                 Digital                  Principal Musician       Intertext    
   2021            STUXNET                                                       CARRIER (demo)                                      Demo               Digital                  Operator                 Intertext
+  2021            STUXNET                                                       CIPHER SUITE (demo)                                 Demo               Digital                  Operator                 Intertext
 ==============================================================================================================================================================================================================================
 ```
