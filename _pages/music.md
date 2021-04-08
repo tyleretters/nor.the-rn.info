@@ -7,7 +7,7 @@ permalink: /music/
 
 <div class="col" markdown="1">
 ## As "STUXNET"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -50,7 +50,7 @@ _CARRIER (demo), 2021_](https://stuxnet.bandcamp.com/album/carrier-demo)
 
 <div class="col" markdown="1">
 ## As "Northern Information"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -101,7 +101,7 @@ _The Arecibo Lamentations, 2020_](https://northerninformation.bandcamp.com/album
 
 <div class="col" markdown="1">
 ## "The First Arcologists"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -142,7 +142,7 @@ _The First Arcologists, 2020_](https://goodglassrecords.bandcamp.com/album/the-f
 
 <div class="col" markdown="1">
 ## As "They Became What They Beheld"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -181,7 +181,7 @@ _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 <div class="col" markdown="1">
 ## As "Syngery Beat"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -218,7 +218,7 @@ _Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/syn
 
 <div class="col" markdown="1">
 ## As "the northern information movement"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -294,7 +294,7 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 
 <div class="col" markdown="1">
 ## As "Connectedness Locus"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>
@@ -349,7 +349,7 @@ _As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.c
 
 <div class="col" markdown="1">
 ## As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"
-<hr class="hr-music">
+<hr class="hr-standard">
 </div>
 
 </div>

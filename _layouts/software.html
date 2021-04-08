@@ -1,22 +1,23 @@
 ---
 layout: full
 ---
-{% assign software_by_order = site.software | sort: "order" | reverse %}
-{% for ware in software_by_order %}
+{% assign software_by_order = site.data.software.items | sort: "order" | reverse %}
+{% for software in software_by_order %}
 
 <div class="row row-projects">
   <div class="col">
-    <h2 id="{{ ware.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ ware.name }}</h2>
-    <em>{{ ware.dates }}</em>
+    <h2 id="{{ software.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.name }}</h2>
+    <em>{{ software.dates }}</em>
+    <hr class="hr-standard">
   </div>
 </div>
 
 <div class="row row-projects">
   <div class="col-md-6">
-    {{ ware.content }}
+    {{ software.content | markdownify }}
   </div>
    <div class="col-md-6">
-    <img src="{{ ware.image }}" />
+    <img src="{{ software.image }}" />
   </div>
 </div>
 

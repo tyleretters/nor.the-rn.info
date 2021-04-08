@@ -1,0 +1,72 @@
+items:
+
+- order: 202104
+  name: norns community
+  dates: 2021 - Present
+  image: /assets/images/norns-community-home.jpg
+  content: |
+    [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my design process here](/2021/04/07/building-norns-community).
+
+
+- order: 202002
+  name: Intertext
+  dates: 2018 - Present
+  image: /assets/images/intertext.png
+  content: |
+    [Intertext](https://intertext.bandcamp.com) is where I release my music. It is a hermitic, one-man, non-label. Intertext has no branding, no lettermark, no mission, no social media presence, no marketing strategy. This paragraph is the only "about" section that exists. Mark Fisher introduced me to the word and if you're looking to get lost in a wormhole, I highly recommend [this Wikipedia article](https://en.wikipedia.org/wiki/Intertextuality).
+
+- order: 202001
+  name: Photography
+  dates: 2005 - Present
+  image: /assets/images/manifesto.jpg
+  content: |
+    I started working with film in 2005 at [Columbia College Chicago](https://www.colum.edu). After learning my way around the darkroom I started experimenting with crossprocessing and multipe exposures. This image is a manifesto of sorts: quadruple exposure, crossprocessed, no Photoshop.
+
+    I used to have a bunch of my work on Flickr. Some of terms of the latest platform ownership transfer made me uncomfortable so I took it all down. Maybe I'll create a gallery here on NI some day...
+
+- order: 201902
+  name: Coordinated Universal Time
+  dates: 2019
+  image: /assets/images/utc.png
+  content: |
+    [Coordinated Universal Time](https://tyleretters.github.io/apodcastfornow.com/) was a podcast for now. Conceived as a semiotic blitz of found sounds, field recordings, interviews, theory-crafting, science-fiction, sonic collage, and original dub techno. We only had 5 episodes but it was an incredible ride. The [first episode](https://anchor.fm/apodcastfornow/episodes/To-Realize-a-Commoner-Earth-e43vu5) will go down in the history books as one of my favorite pieces of work.
+    
+    There are audio and video versions of each episode:
+
+    1. **To Realize a Commoner Earth** [Audio](https://anchor.fm/apodcastfornow/episodes/To-Realize-a-Commoner-Earth-e43vu5) \| [Video](https://www.youtube.com/watch?v=MmdfABfeFKQ)
+    2. **Angel Marcloid** [Audio](https://anchor.fm/apodcastfornow/episodes/Angel-Marcloid-e4a5sl) \| [Video](https://www.youtube.com/watch?v=1cLiPm7GeEo)
+    3. **From the Forest to the Stars** [Audio](https://anchor.fm/apodcastfornow/episodes/From-the-Forest-to-the-Stars-e4hc5h) \| [Video](https://www.youtube.com/watch?v=BV4v9BXr_x4)
+    4. **Concourses Above and Below** [Audio](https://anchor.fm/apodcastfornow/episodes/Concourses-Above-and-Below-e5c0r8) \| [Video](https://www.youtube.com/watch?v=v89oFOO_iZI)
+    5. **Gabriele de Seta** [Audio](https://anchor.fm/apodcastfornow/episodes/Gabriele-de-Seta-e9ogmu) \| [Video](https://www.youtube.com/watch?v=cKF4b4qWe08)
+    
+    See [this post](/2019/05/24/coordinated-universal-time) for more info.
+
+- order: 201701
+  name: Endless Field Studios
+  dates: 2005 - 2017
+  image: /assets/images/efs.png
+  content: |
+    Pasha Petrosyan and I founded EFS in 2005 as a label to release our own music. We started with CDs and quickly moved to digital, hosting MP3s of local artists for download before Bandcamp was a thing. We had over 50 releases and more shows than I can remember in our 12 year run.
+
+- order: 201001
+  name: Epicycle
+  dates: 2010
+  image: /assets/images/epicycle.png
+  content: |
+    Epicycle is an indulgent typeface I designed (developed?) combining post-structuralist sensibilities with wild style graffiti. If the graphic design program required a senior thesis, this would have been mine.
+
+- order: 200901
+  name: The Third Coast
+  dates: 2009
+  image: /assets/images/the-third-coast.jpg
+  content: |
+    In the fall of 2009 I photographed a dozen locations spread along northeastern Illinois coastline. Most of the shots are landscapes, but this self-portrait is my favorite.
+
+    Again, this used to all be on Flickr, but some of terms of the latest platform ownership transfer made me uncomfortable so I took it down. Maybe I’ll create a gallery here on NI some day…
+
+- order: 200701
+  name: Hollow Moon Studios
+  dates: 2004 - 2007
+  image: /assets/images/tyler-etters-a-glass-reality.jpg
+  content: |
+    My father gave me a digital camera for my birthday and I wasted no time learning the art of filmmaking. I love the complexity of film. In it, you have all the arts: design theatre, music, writing... For several years I wanted to become a cinematographer of some sort but switched majors in college.
