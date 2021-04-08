@@ -3,10 +3,9 @@ items:
 - order: 202104
   name: norns community
   dates: 2021 - Present
-  image: /assets/images/norns-community-home.jpg
+  image: /assets/images/norns-community-sitemap.jpg
   content: |
-    [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my design process here](/2021/04/07/building-norns-community).
-
+    [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my design process here](/2021/04/07/building-norns-tags).
 
 - order: 202002
   name: Intertext

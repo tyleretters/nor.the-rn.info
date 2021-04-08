@@ -3,4 +3,4 @@ layout: about
 title: About
 permalink: /about/
 ---
-Northern Information is the blog of polymath-artist Tyler Etters. Releasing music at [Intertext](https://intertext.bandcamp.com). Vice President at [Highland](https://highlandsolutions.com). I think about the future a lot.
+Northern Information is the blog of polymath-artist Tyler Etters. Releasing music at [Intertext](https://intertext.bandcamp.com) as [STUXNET](https://stuxnet.me). Vice President at [Highland](https://highlandsolutions.com). I think about the future a lot.

@@ -16,10 +16,6 @@ plugins:
 feed:
   path: feed.xml
 collections_dir: collections
-collections:
-  - related
-  - projects
-  - software
 jekyll_compose:
     auto_open: true
 include: ['_pages']

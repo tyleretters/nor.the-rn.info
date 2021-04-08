@@ -15,7 +15,7 @@ a, a:link, a:visited, a:active {
 a:hover {
   color: #034279; }
 
-a.about-link {
+.container-about-links a {
   color: #ffffff;
   background: #333333;
   width: 100%;
@@ -25,8 +25,7 @@ a.about-link {
   padding: 10px 0 10px 0;
   text-decoration: none;
   border-radius: 4px; }
-
-a:hover.about-link {
+.container-about-links a:hover {
   color: #ffffff;
   background: #034279; }
 
