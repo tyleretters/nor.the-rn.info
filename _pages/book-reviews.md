@@ -8,7 +8,7 @@ _Selected recently read books in roughly reverse-chronological order._
 
 ---
 
-### Shape Up by Jason Fried
+### Shape Up by Ryan Singer
 
 Having practiced mashing, waterfall, scrum, kanban, and scrumban - I'm pretty sure this is the *least worst* way to build software as a team.
 
