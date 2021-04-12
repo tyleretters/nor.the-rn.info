@@ -25,13 +25,22 @@ Post-pandemic concept project exploring information security, AI, capitalism, cy
 <div class="row row-music">
 
 <div class="col-md-6" markdown="1">
+[![MATRYOSHKA (demo)](/assets/images/matryoshka-demo.jpg)
+_MATRYOSHKA (demo), 2021_](https://stuxnet.bandcamp.com/album/matryoshka    -demo)
+</div>
+
+<div class="col-md-6" markdown="1">
 [![CIPHER SUITE (demo)](/assets/images/cipher-suite-demo.jpg)
-_CIPHER SUITE(demo), 2021_](https://stuxnet.bandcamp.com/album/cipher-suite-demo)
+_CIPHER SUITE (demo), 2021_](https://stuxnet.bandcamp.com/album/cipher-suite-demo)
 </div>
 
 <div class="col-md-6" markdown="1">
 [![CARRIER (demo)](/assets/images/carrier-demo.jpg)
 _CARRIER (demo), 2021_](https://stuxnet.bandcamp.com/album/carrier-demo)
+</div>
+
+<div class="col-md-6" markdown="1">
+&nbsp;
 </div>
 
 </div>
