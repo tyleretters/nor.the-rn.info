@@ -1,0 +1,37 @@
+---
+layout: full
+---
+<div class="row">
+  <div class="col">
+    <p><em>Tyler Etters, Canonical & Apocryphal Discography 2005 - 2021 (Incomplete)</em></p>
+    <div class="table-responsive">
+      <table class="table table-discography table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Year</th>
+            <th scope="col">Project</th>
+            <th scope="col">Release</th>
+            <th scope="col">Type</th>
+            <th scope="col">Format</th>
+            <th scope="col">Role </th>
+            <th scope="col">Label</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% assign discography_by_order = site.data.discography.items | sort: "order" | reverse %}
+        {% for discography in discography_by_order %}
+          <tr>
+            <td>{{ discography.year }}</td>
+            <td>{{ discography.project }}</td>
+            <td>{{ discography.release }}</td>
+            <td>{{ discography.type }}</td>
+            <td>{{ discography.format }}</td>
+            <td>{{ discography.role }}</td>
+            <td>{{ discography.label }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

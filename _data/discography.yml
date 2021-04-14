@@ -1,0 +1,523 @@
+items:
+
+  - order: 1
+    year: 2005
+    project: Tyler Etters & Paul Petrosyan
+    release: A Glass Reality OST
+    type: Soundtrack
+    format: None
+    role: Co-Writer 
+    label: Independent
+
+  - order: 2
+    year: 2006
+    project: Inocula
+    release: Inoculation 1
+    type: Demo
+    format: CD-R
+    role: Band Member
+    label: Georgetown
+
+  - order: 3
+    year: 2006
+    project: Ix
+    release: Ix E.P.
+    type: EP
+    format: CD-R
+    role: Band Member
+    label: Independent
+
+  - order: 4
+    year: 2006
+    project: Ix
+    release: Ix E.P. Special Edition
+    type: EP
+    format: CD-R
+    role: Band Member
+    label: Independent
+
+  - order: 5
+    year: 2006
+    project: Lucid End
+    release: Files
+    type: EP
+    format: CD-R
+    role: Principal Musician
+    label: Independent
+
+  - order: 6
+    year: 2006
+    project: Ix
+    release: Yet These Memories Isolated Us 
+    type: Single 
+    format: CD-R
+    role: Band Member
+    label: Independent
+
+  - order: 7
+    year: 2006
+    project: Inocula
+    release: Inoculation 2 v1
+    type: Demo
+    format: CD-R
+    role: Band Member
+    label: Seek Productions
+
+  - order: 8
+    year: 2007
+    project: Ix
+    release: Descent Into Dreams
+    type: LP
+    format: CD
+    role: Band Member
+    label: Endless Field Studios
+
+  - order: 9
+    year: 2007
+    project: Lucid End
+    release: Lie Down in Darkness
+    type: Single 
+    format: CD-R
+    role: Principal Musician
+    label: Independent
+
+  - order: 10
+    year: 2007
+    project: Inocula
+    release: Inoculation 2 v2
+    type: Demo
+    format: CD-R
+    role: Band Member
+    label: Red Door
+
+  - order: 11
+    year: 2007
+    project: Lucid End
+    release: Time to Breathe; Time to Think 
+    type: LP
+    format: CD-R
+    role: Principal Musician
+    label: Independent
+
+  - order: 12
+    year: 2007
+    project: Lucid End
+    release: The Killing Tree
+    type: Single 
+    format: CD-R
+    role: Principal Musician
+    label: Independent
+
+  - order: 13
+    year: 2007
+    project: Inocula
+    release: Inoculation 3
+    type: Demo
+    format: CD
+    role: Band Member
+    label: Red Door
+
+  - order: 14
+    year: 2007
+    project: Lucid End
+    release: Organica Lensing
+    type: Single 
+    format: CD
+    role: Principal Musician
+    label: Independent
+
+  - order: 15
+    year: 2008
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Gates E.P. 
+    type: EP
+    format: CD, Digital
+    role: Band Member
+    label: Endless Field Studios
+
+  - order: 16
+    year: 2008
+    project: Inocula
+    release: Suntelia Aeon
+    type: LP
+    format: CD, Digital
+    role: Band Member
+    label: Karma Productions
+
+  - order: 17
+    year: 2009
+    project: Connectedness Locus
+    release: As Quippolous Codes Quietly Count 
+    type: LP
+    format: CD, Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 18
+    year: 2009
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Session 050309
+    type: Single 
+    format: Digital
+    role: Band Member
+    label: Endless Field Studios
+
+  - order: 19
+    year: 2009
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Serial Index of Unclaimed Memories
+    type: LP
+    format: Digital
+    role: Band Member
+    label: Endless Field Studios
+
+  - order: 20
+    year: 2010
+    project: Connectedness Locus
+    release: When the Paint Peels
+    type: EP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 21
+    year: 2010
+    project: Connectedness Locus
+    release: As Constellations Quietly Cross
+    type: Podcast
+    format: Digital
+    role: Principal Musician
+    label: Alrealon
+
+  - order: 22
+    year: 2010
+    project: Connectedness Locus
+    release: Tomorrow's Universe
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Alrealon
+
+  - order: 23
+    year: 2010
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Endless Field Studios, Volume 1
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 24
+    year: 2010
+    project: Connectedness Locus
+    release: Endless Field Studios, Volume 1
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 25
+    year: 2011
+    project: Connectedness Locus
+    release: Refill - Remixes
+    type: Remix Album
+    format: Digital
+    role: Contributor
+    label: Independent
+
+  - order: 26
+    year: 2011
+    project: Tyler Etters
+    release: adamjmoore ep
+    type: LP
+    format: Digital
+    role: Producer
+    label: Endless Field Studios
+
+  - order: 27
+    year: 2011
+    project: Connectedness Locus
+    release: Terraforms 
+    type: LP
+    format: CD, Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 28
+    year: 2012
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Endless Field Studios, Volume 2
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 29
+    year: 2012
+    project: Connectedness Locus
+    release: Endless Field Studios, Volume 2
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 30
+    year: 2012
+    project: Connectedness Locus
+    release: The Five Colors [Remixed]
+    type: Remix Album
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 31
+    year: 2012
+    project: Connectedness Locus
+    release: Prolegomenon 
+    type: EP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 32
+    year: 2012
+    project: Connectedness Locus
+    release: Rebuild
+    type: Remix Album
+    format: CD, Digital
+    role: Contributor
+    label: n5md
+
+  - order: 33
+    year: 2013
+    project: tyler etters & the northern information movement
+    release: the geometrie of our lost cause
+    type: LP
+    format: Cassette, Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 34
+    year: 2013
+    project: Connectedness Locus
+    release: It's 2016 A. D. 
+    type: LP
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 35
+    year: 2013
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: It's 2016 A. D. 
+    type: LP
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 36
+    year: 2013
+    project: tyler etters & the northern information movement
+    release: blue, the most celestial color 
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 37
+    year: 2013
+    project: tyler etters & the northern information movement
+    release: senescence 
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 38
+    year: 2013
+    project: Everything Comes in Cycles; Everything Fades in Shades
+    release: Endless Field Studios, Volume 3
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 39
+    year: 2013
+    project: Connectedness Locus
+    release: Endless Field Studios, Volume 3
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 40
+    year: 2013
+    project: tyler etters & the northern information movement
+    release: Endless Field Studios, Volume 3
+    type: Compilation
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 41
+    year: 2014
+    project: tyler etters & the northern information movement
+    release: "the #shadow_fi trilogy"
+    type: Anthology
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 42
+    year: 2014
+    project: tyler etters & the northern information movement
+    release: T-Girl Single
+    type: Single Remix
+    format: Digital
+    role: Contributor
+    label: Endless Field Studios
+
+  - order: 43
+    year: 2014
+    project: tyler etters & the northern information movement
+    release: My Sisters (Provenance Remix)
+    type: Single Remix
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 44
+    year: 2015
+    project: tyler etters & the northern information movement
+    release: the phantoms of our lost cause 
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 45
+    year: 2015
+    project: tyler etters & the northern information movement
+    release: zulu
+    type: LP
+    format: Digital
+    role: Band Member
+    label: Endless Field Studios
+
+  - order: 46
+    year: 2015
+    project: tyler etters & the northern information movement
+    release: and though the soft apocalypse may yet overtake
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 47
+    year: 2016
+    project: tyler etters & the northern information movement
+    release: the phantom time trilogy 
+    type: Anthology 
+    format: Cassette, Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 48
+    year: 2017
+    project: tyler etters & the northern information movement
+    release: the legacy of our lost cause 
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 49
+    year: 2017
+    project: tyler etters & the northern information movement
+    release: dispatches from the prime meridian
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 50
+    year: 2017
+    project: tyler etters & the northern information movement
+    release: reverence
+    type: LP
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 51
+    year: 2017
+    project: tyler etters & the northern information movement
+    release: the arcadian nights trilogy
+    type: Anthology 
+    format: Digital
+    role: Principal Musician
+    label: Endless Field Studios
+
+  - order: 52
+    year: 2018
+    project: Synergy Beat
+    release: Synergy Beat Music, Volume 1 
+    type: EP
+    format: Digital
+    role: Principal Musician
+    label: Intertext
+
+  - order: 53
+    year: 2019
+    project: They Became What They Beheld 
+    release: EP1 
+    type: EP
+    format: Digital
+    role: Principal Musician
+    label: Intertext 
+
+  - order: 54
+    year: 2020
+    project: The First Arcologists
+    release: The First Arcologists 
+    type: EP
+    format: Digital
+    role: Producer & Software 
+    label: Good Glass Records 
+
+  - order: 55
+    year: 2020
+    project: Northern Information
+    release: The Arecibo Lamentations 
+    type: EP
+    format: Digital
+    role: Principal Musician
+    label: Intertext 
+
+  - order: 56
+    year: 2021
+    project: STUXNET
+    release: CARRIER (demo)
+    type: Demo
+    format: Digital
+    role: Operator
+    label: Intertext
+
+  - order: 57
+    project: STUXNET
+    year: 2021
+    release: CIPHER SUITE (demo)
+    type: Demo
+    format: Digital
+    role: Operator
+    label: Intertext
+
+  - order: 58
+    project: STUXNET
+    year: 2021
+    release: MATRYOSHKA (demo)
+    type: Demo
+    format: Digital
+    role: Operator
+    label: Intertext

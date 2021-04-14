@@ -5,12 +5,14 @@ $lightGrey: lighten($grey, 50%)
 $veryLightGrey: lighten($grey, 50%)
 $white: #ffffff
 $black: #212529
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 
 body
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+  font-family: $sans-serif
 
 code, pre
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+  font-family: $monospace
 
 p
   overflow: hidden
@@ -69,6 +71,9 @@ pre
     color: $white
     font-size: 1rem
     line-height: 0px
+
+.table-discography
+  font-family: $monospace
 
 hr 
   margin: 4rem 0
