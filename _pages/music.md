@@ -16,6 +16,8 @@ permalink: /music/
 
 <div class="col-md-3" markdown="1">
 Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
+
+<a href="https://stuxnet.bandcamp.com" class="block-link">Listen to "STUXNET"</a>
 </div>
 
 <div class="col-md-9">
@@ -83,6 +85,8 @@ _CARRIER (demo), 2021_](https://stuxnet.bandcamp.com/album/carrier-demo)
 - +10^100: if protons decay, the universe suffers heat death.
 
 *All above dates and events are inaccurate.
+
+<a href="https://northerninformation.bandcamp.com" class="block-link">Listen to "Northern Information"</a>
 </div>
 
 <div class="col-md-6">
@@ -123,6 +127,8 @@ This album is a document of The First Arcologists and their first brave steps in
 With Arcologies, users build miniature worlds out of objects that wouldn't feel out of place in a 1980's fantasy game - crypts, tunnels, shrines, mazes, topiaries, etc. - and then play those miniature worlds as musical instruments, triggering interactions between the objects.
 
 Arcologies is a 21st century instrument for musical composition and discovery. It was designed by Tyler Etters as "an interactive environment for designing 2d sound arcologies with norns and grid" during the summer of 2020. Described as a "sanity project," it has attracted a small but passionate group of users.
+
+<a href="https://goodglassrecords.bandcamp.com/album/the-first-arcologists" class="block-link">Listen to "The First Arcologists"</a>
 </div>
 
 <div class="col-md-6">
@@ -162,6 +168,8 @@ _The First Arcologists, 2020_](https://goodglassrecords.bandcamp.com/album/the-f
 "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
 
 – Edmund Snow Carpenter, 1970
+
+<a href="https://theybecamewhattheybeheld.bandcamp.com/album/ep1" class="block-link">Listen to "They Became What They Beheld"</a>
 </div>
 
 <div class="col-md-6">
@@ -199,6 +207,9 @@ _EP1, 2019_](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 <div class="col-md-6" markdown="1">
 Synergy Beat: Future World Digest is a cyberpunk anime zine from the mind of Gage Lindsten. The project assembles many talented artists. We did the whole thing in just a couple weeks. I was on soundtrack duty. For each song, I assumed the role of a (silly) fictitious band.
+
+<a href="https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1" class="block-link">Listen to "Synergy Beat"</a>
+
 </div>
 
 <div class="col-md-6">
@@ -236,6 +247,8 @@ _Synergy Beat Music, Volume 1, 2018_](https://synergybeat.bandcamp.com/album/syn
 
 <div class="col-md-3" markdown="1">
 #shadow_fi: a self-defined genre and rough approximation of ambient post-rock blended with drone and lo-fi. 2017 brought The Arcadian Nights trilogy, 2015 The Phantom Time Trilogy, and 2013 The #shadow_fi Trilogy.
+
+<a href="https://northerninformation.bandcamp.com" class="block-link">Listen to "the northern information movement"</a>
 </div>
 
 <div class="col-md-9">
@@ -314,6 +327,8 @@ _the geometrie of our lost cause, 2013_](https://northerninformation.bandcamp.co
 "In one-dimensional complex dynamics, the connectedness locus is a subset of the parameter space of rational functions, which consists of those parameters for which the corresponding Julia set is connected."
 
 — Wikipedia
+
+<a href="https://connectednesslocus.bandcamp.com" class="block-link">Listen to "Conectedness Locus"</a>
 </div>
 
 <div class="col-md-9">
@@ -367,6 +382,8 @@ _As Quippolous Codes Quietly Count, 2009_](https://connectednesslocus.bandcamp.c
 
 <div class="col-md-3" markdown="1">
 Ix came first but soon evolved into ECiC;EFiS - same parameters, techniques, equipment. Just more focused. These three releases constitute an arc inquiry. Pasha Petrosyan and I worked on these projects "on the side" while we were in a metalcore band together. I say "on the side" because in retrospect our hearts were always here.
+
+<a href="https://ecicefis.bandcamp.com" class="block-link">Listen to "ECiC;EFiS"</a>
 </div>
 
 <div class="col-md-9">
