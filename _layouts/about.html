@@ -15,10 +15,10 @@ layout: full
     {{ content }}
     <div class="container-fluid px-0">
       <div class="row">
-        {% assign links_by_order = site.data.links.items | sort: "order" %}
-        {% for link in links_by_order %}
+        {% assign about_by_order = site.data.about.items | sort: "order" %}
+        {% for about in about_by_order %}
         <div class="col-lg-6 col-md-12 col-tighten">
-          <a href="{{ link.url }}" class="block-link"><i class="{{ link.icon }}"></i> {{ link.title }}</a>
+          <a href="{{ about.url }}" class="block-link"><i class="{{ about.icon }}"></i> {{ about.title }}</a>
         </div>
         {% endfor %}
       </div>
