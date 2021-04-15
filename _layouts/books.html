@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col">
+    {{ content }}
+  </div>
+</div>
+{% assign books_by_order = site.data.books.items %}
+{% for book in books_by_order %}
+<div class="row mb-5">
+  <div class="col">
+    <h2>{{ book.title }}</h2>
+    {{ book.content | markdownify }}
+  </div>
+</div>
+{% endfor %}

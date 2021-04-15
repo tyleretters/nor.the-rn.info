@@ -1,10 +1,10 @@
 ---
-layout: full
+layout: default
 ---
 {% assign projects_by_order = site.data.projects.items | sort: "order" | reverse %}
 {% for project in projects_by_order %}
 
-<div class="row row-projects">
+<div class="row mb-5">
   <div class="col">
     <h2 id="{{ project.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.name }}</h2>
     <em>{{ project.dates }}</em>
@@ -12,7 +12,7 @@ layout: full
   </div>
 </div>
 
-<div class="row row-projects">
+<div class="row row-img-100 mb-5">
   <div class="col-md-6">
     {{ project.content | markdownify }}
   </div>

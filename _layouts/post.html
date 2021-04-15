@@ -1,44 +1,35 @@
 ---
-layout: default
+layout: default_blog
 ---
-<div class="row">
-  <div class="col-lg-6 offset-lg-3 col-md-12">
-    
-    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-      <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-meta">
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            {{ page.date | date: date_format }}
-          </time>
-        </p>
-      </header>
-
-      <div class="post-content e-content" itemprop="articleBody">
+<div class="row row-img-100 mb-5">
+  <div class="col">
+    <article class="post">
+      <h1>{{ page.title | escape }}</h1>
+      <time datetime="{{ page.date | date_to_xmlschema }}" class="mb-2">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      <div>
         {{ content }}
       </div>
-
     </article>
-
   </div>
 </div>
-
-<div class="row">
-  <div class="col-lg-6 offset-lg-3 col-md-12">
-    <h2 class="post-footer">More Posts</h2>
+<div class="row mb-2">
+  <div class="col">
+    <h2>More Posts</h2>
+    <hr class="hr-standard">
   </div>
 </div>
-<div class="row">
-  <div class="col-lg-3 offset-lg-3 col-md-6 later-post">
-      {% if page.next.url %}
-        <a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
-      {% endif %}
+<div class="row mb-5">
+  <div class="col-md-6 later-post">
+    {% if page.next.url %}
+      <a href="{{ page.next.url }}" class="block-link">&larr; {{ page.next.title }}</a>
+    {% endif %}
   </div>
-  <div class="col-lg-3 col-md-6 earlier-post">
+  <div class="col-md-6 earlier-post">
     {% if page.previous.url %}
-      <a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
+      <a href="{{ page.previous.url }}" class="block-link">{{ page.previous.title }} &rarr;</a>
     {% endif %}
   </div>
 </div>

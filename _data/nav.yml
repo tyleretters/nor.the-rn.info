@@ -1,0 +1,61 @@
+items:
+
+- order: 1
+  name: Blog
+  short-name: 📓&nbsp;Blog
+  url: /blog
+
+- order: 2
+  name: Music
+  short-name: 🔊&nbsp;Music
+  url: /music
+
+- order: 3
+  name: Software
+  short-name: 💾&nbsp;Software
+  url: /software
+
+- order: 4
+  name: Projects
+  short-name: 🔬&nbsp;Projects
+  url: /projects
+
+- order: 5
+  name: About 
+  short-name: 🧬&nbsp;About
+  url: /about
+
+- order: 6
+  name: Related & Recommended
+  short-name: 🌿&nbsp;Links
+  url: /related-and-recommended
+
+- order: 7
+  name: Book Reviews 
+  short-name: 📚&nbsp;Books
+  url: /book-reviews
+
+- order: 8
+  name: Travel
+  short-name: 🗺️&nbsp;Travel
+  url: /travel
+
+- order: 9
+  name: My Life in Playlists
+  short-name: 🎧 Playlists
+  url: /my-life-in-playlists
+
+- order: 10
+  name: Discography
+  short-name: 💿&nbsp;Discography
+  url: /discography
+
+- order: 11
+  name: Archives
+  short-name: 📂&nbsp;Archives
+  url: /archives
+
+- order: 12
+  name: Atom Feed
+  short-name: 🗿&nbsp;Feed
+  url: /atom-feed

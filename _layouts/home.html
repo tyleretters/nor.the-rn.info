@@ -1,28 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+<html lang="en">
 {% include head.html %}
-
 <body class="home">
-
-{% include header.html %}
-
-<main class="container-fluid two-col">
-
-{% for item in site.data.home.items %}
-<div class="home-image mb-5">
-  <a href="{{ item.url }}">
-    <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
-  </a>
-</div>
-{% endfor %}
-
+<main class="container-fluid">
+  <div class="row">
+    <div class="col-md-2 px-0">
+      {% include sidebar.html %}
+    </div>
+    <div class="col-md-10">
+      <div class="container-fluid two-col">
+        {% for item in site.data.home.items %}
+        <div class="home-image mb-5">
+          <a href="{{ item.url }}">
+            <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </main>
-
-{% include footer.html %}
-
 {% include javascript.html %}
-
 </body>
-
 </html>

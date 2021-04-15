@@ -1,0 +1,163 @@
+items:
+
+- title: Magic Mountain Parkway
+  image: magic-mountain-parkway.jpg
+  date: Mar 31, 2020
+  location: Valencia, California
+
+- title: Garfield Park Conservatory
+  image: garfield-park-conservatory.jpg
+  date: Mar 10, 2020
+  location: Chicago, Illinois
+
+- title: El Matador State Beach
+  image: el-matador-state-beach.jpg
+  date: Feb 8, 2020
+  location: Malibu, California
+
+- title: Pescadero Creek Park
+  image: pescadero-creek-park.jpg
+  date: Jan 19, 2020
+  location: Loma Mar, California
+
+- title: Hollywood Forever Cemetery
+  image: hollywood-forever.jpg
+  date: Nov 10, 2019
+  location: Los Angeles, California
+
+- title: Sky City
+  image: sky-city.jpg
+  date: Oct 10, 2019
+  location: North Acomita Village, New Mexico
+
+- title: Haystack Rock
+  image: haystack-rock.jpg
+  date: Aug 17, 2019
+  location: Cannon Beach, Oregon
+
+- title: Kennebunkport Harbor
+  image: kennebunkport-harbor.jpg
+  date: May 31, 2019
+  location: Kennebunkport, Maine
+
+- title: LaSalle Street
+  image: lasalle.jpg
+  date: Dec 15, 2018
+  location: Chicago Board of Trade, Illinois
+
+- title: Panorama Point
+  image: panorama-point.jpg
+  date: Nov 17, 2018
+  location: Boulder, Colorado
+
+- title: davis-station
+  image: davis-station.jpg
+  date: Sep 20, 2018
+  location: Somerville, Massachusetts
+
+- title: NAL 15' Bubble Chamber
+  image: fermilab.jpg
+  date: Sep 6, 2018
+  location: Fermilab, Illinois
+  content: |
+    [History](https://history.fnal.gov/neutrino.html)
+
+- title: Warren Dunes
+  image: warren-dunes.jpg
+  date: Jun 8, 2018
+  location: Warren Dunes State Park, Michigan
+
+- title: L'Anse Bay
+  image: lanse-bay.jpg
+  date: May 26, 2018
+  location: L'Anse Bay, Michigan
+
+- title: Wood Carving
+  image: wood-carving.jpg
+  date: May 7, 2018
+  location: Minneapolis, Minnesota
+
+- title: Sedona
+  image: sedona.jpg
+  date: May 4, 2018
+  location: Sedona, Arizona
+
+- title: The Voodoo Lounge
+  image: voodoo-lounge.jpg
+  date: Apr 30, 2018
+  location: French Quarter, New Orleans
+
+- title: Batu Caves Temple
+  image: batu-caves.jpg
+  date: Oct 8, 2017
+  location: Batu Caves Temple, Malaysia
+
+- title: Sunrise Hotel (Night)
+  image: sunrise-hotel-night.jpg
+  date: Oct 8, 2017
+  location: Petaling Jaya, Malaysia
+
+- title: Sunrise Hotel (Day)
+  image: sunrise-hotel-day.jpg
+  date: Oct 6, 2017
+  location: Petaling Jaya, Malaysia
+
+- title: Narita International Airport
+  image: narita.jpg
+  date: Oct 6, 2017
+  location: Tokyo, Japan
+
+- title: Cliffside Park
+  image: buchanan.jpg
+  date: Aug 9, 2017
+  location: Buchanan, Michigan
+
+- title: Lost Arts
+  image: lost-arts.jpg
+  date: Jul 20, 2017
+  location: Goose Island, Chicago
+  content: |
+    [http://lostarts.co/](http://lostarts.co/)
+
+- title: Cliffside Park
+  image: summer-adventures.jpg
+  date: Jul 2, 2017
+  location: Cliffside Park, Wisconsin
+
+
+- title: Fishing the Atlantic
+  image: jacksonville.jpg
+  date: Jun 3, 2016
+  location: Jacksonville Beach, Florida
+
+- title: Niagra Falls
+  image: niagra-falls.jpg
+  date: Nov 30, 2015
+  location: Niagra Falls, New York
+
+- title: Bourbon Street
+  image: bourbon-street.jpg
+  date: Nov 6, 2015
+  location: New Orleans, Louisiana
+
+- title: Another World
+  image: another-world.jpg
+  date: Jul 25, 2015
+  location: MS-DOS
+  content: |
+    [Another World](https://en.wikipedia.org/wiki/Another_World_(video_game))
+
+- title: Mayne Stage
+  image: mayne-stage.jpg
+  date: Nov 20, 2014
+  location: Mayne Stage, Chicago
+
+- title: Norge Ski Jump
+  image: norge-ski-jump.jpg
+  date: Jul 25, 2014
+  location: Fox River Grove, Illinois
+
+- title: Chicago from Above
+  image: chicago-from-above.jpg
+  date: Jul 31, 2013
+  location: Chicago, Illinois

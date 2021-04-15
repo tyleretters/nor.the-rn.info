@@ -1,25 +1,28 @@
 ---
-layout: full
+layout: default
 ---
 {% assign music_by_order = site.data.music.items | sort: "order" %}
 {% for music in music_by_order %}
-<div class="row">
+
+<div class="row mb-5">
   <div class="col">
     <h2>{{ music.name }}</h2>
+    <em>{{ music.dates }}</em>
     <hr class="hr-standard">
   </div>
 </div>
-<div class="row row-music">
+
+<div class="row row-img-100 mb-5">
   <div class="{{ music.left-class }}">
     {{ music.content | markdownify }}
     <a href="{{ music.url }}" class="block-link">Listen Now</a>
   </div>
   <div class="{{ music.right-class }}">
     <div class="container-fluid">
-      <div class="row row-music">
+      <div class="row">
         {% assign releases_by_order = music.releases | sort: "order" | reverse %}
         {% for release in releases_by_order %}
-        <div class="{{ music.release-class }}">
+        <div class="{{ music.release-class }} mb-5">
           <a href="{{ release.url }}">
             <img src="/assets/images/{{ release.image}}" alt="{{ release.title }}" />
             <em>{{ release.title}}, {{ release.year }}</em>
@@ -30,4 +33,5 @@ layout: full
     </div>
   </div>
 </div>
+
 {% endfor %}

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col">
+    {{ content }}
+  </div>
+</div>
+{% assign playlists_by_order = site.data.playlists.items %}
+{% for playlist in playlists_by_order %}
+<div class="row mb-5">
+  <div class="col">
+    <h2>{{ playlist.title }}</h2>
+    {{ playlist.content | markdownify }}
+    {% if playlist.url %}
+      <a href="{{ playlist.url }}">Listen to {{ playlist.title }} on Spotify</a>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
