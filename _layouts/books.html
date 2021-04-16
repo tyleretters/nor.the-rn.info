@@ -10,7 +10,7 @@ layout: default
 {% for book in books_by_order %}
 <div class="row mb-5">
   <div class="col">
-    <h2>{{ book.title }}</h2>
+    <h1>{{ book.title }}</h1>
     {{ book.content | markdownify }}
   </div>
 </div>

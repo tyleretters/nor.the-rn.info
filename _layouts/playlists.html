@@ -10,7 +10,7 @@ layout: default
 {% for playlist in playlists_by_order %}
 <div class="row mb-5">
   <div class="col">
-    <h2>{{ playlist.title }}</h2>
+    <h1>{{ playlist.title }}</h1>
     {{ playlist.content | markdownify }}
     {% if playlist.url %}
       <a href="{{ playlist.url }}">Listen to {{ playlist.title }} on Spotify</a>

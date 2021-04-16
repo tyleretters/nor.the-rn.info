@@ -10,9 +10,9 @@ layout: default
 {% for software in software_by_order %}
 <div class="row mb-5">
   <div class="col">
-    <h2 id="{{ software.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.name }}</h2>
+    <h1 id="{{ software.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.name }}</h1>
     <em>{{ software.dates }}</em>
-    <hr class="hr-standard">
+    <hr>
   </div>
 </div>
 <div class="row row-img-100 mb-5">

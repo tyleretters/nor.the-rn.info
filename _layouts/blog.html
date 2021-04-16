@@ -6,10 +6,7 @@ layout: default
   <div class="col">
     <article class="post">
       <h1>{{ post.title | escape }}</h1>
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ post.date | date: date_format }}
-      </time> · <a href="{{ post.url | relative_url }}">Link</a>
+      <em>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ post.date | date: date_format }}</em> · <a href="{{ post.url | relative_url }}">Link</a>
       <hr class="hr-standard">
       {{ post.content }}
     </article>
@@ -19,7 +16,6 @@ layout: default
 <div class="row mb-5">
   <div class="col">
     <h2>More Posts</h2>
-    <hr class="hr-standard mb-2">
     <a href="/archives" class="block-link">Archives</a>
   </div>
 </div>
