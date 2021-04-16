@@ -140,6 +140,8 @@ nav {
     display: block;
     width: 75px;
     height: 35px; }
+  nav .site-logo:hover .ni {
+    fill: #0687f5; }
   nav .ni {
     fill: #b3b3b3; }
   nav ul {
@@ -181,8 +183,6 @@ nav {
   background-size: cover; }
   .home nav .ni {
     fill: #ffffff; }
-  .home nav a.site-logo:hover .ni {
-    fill: #0687f5; }
   .home nav a {
     text-decoration: none;
     color: #ffffff; }
