@@ -50,7 +50,8 @@ items:
 
 - order: 9
   name: My Life in Playlists
-  emoji: 🎧 Playlists
+  emoji: 🎧
+  short-name: Playlists
   url: /my-life-in-playlists
 
 - order: 10
