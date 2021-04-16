@@ -2,60 +2,71 @@ items:
 
 - order: 1
   name: Blog
-  short-name: 📓&nbsp;Blog
+  emoji: 📓
+  short-name: Blog
   url: /blog
 
 - order: 2
   name: Music
-  short-name: 🔊&nbsp;Music
+  emoji: 🔊
+  short-name: Music
   url: /music
 
 - order: 3
   name: Software
-  short-name: 💾&nbsp;Software
+  emoji: 💾
+  short-name: Software
   url: /software
 
 - order: 4
   name: Projects
-  short-name: 🔬&nbsp;Projects
+  emoji: 🔬
+  short-name: Projects
   url: /projects
 
 - order: 5
   name: About 
-  short-name: 🧬&nbsp;About
+  emoji: 🧬
+  short-name: About
   url: /about
 
 - order: 6
   name: Related & Recommended
-  short-name: 🌿&nbsp;Links
+  emoji: 🌿
+  short-name: Links
   url: /related-and-recommended
 
 - order: 7
   name: Book Reviews 
-  short-name: 📚&nbsp;Books
+  emoji: 📚
+  short-name: Books
   url: /book-reviews
 
 - order: 8
   name: Travel
-  short-name: 🗺️&nbsp;Travel
+  emoji: 🗺️
+  short-name: Travel
   url: /travel
 
 - order: 9
   name: My Life in Playlists
-  short-name: 🎧 Playlists
+  emoji: 🎧 Playlists
   url: /my-life-in-playlists
 
 - order: 10
   name: Discography
-  short-name: 💿&nbsp;Discography
+  emoji: 💿
+  short-name: Discography
   url: /discography
 
 - order: 11
   name: Archives
-  short-name: 📂&nbsp;Archives
+  emoji: 📂
+  short-name: Archives
   url: /archives
 
 - order: 12
   name: Atom Feed
-  short-name: 🗿&nbsp;Feed
+  emoji: 🗿
+  short-name: Feed
   url: /atom-feed
