@@ -8,6 +8,8 @@ $black: #212529
 $sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 $monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 
+
+
 // typography
 
 body
@@ -125,6 +127,8 @@ hr,
   padding: 10px
   border-radius: 4px
 
+
+
 // structure
 
 main
@@ -164,12 +168,13 @@ nav
   padding: 1.5rem 15px 1rem 15px
   align-items: baseline
 
-  .site-logo
+  .site-logo a
     display: block
     width: 75px
     height: 35px
+    margin-bottom: 10px
 
-  .site-logo:hover .ni
+  .site-logo a:hover .ni
     fill: $blue
 
   .ni
@@ -188,7 +193,12 @@ nav
       span
         font-style: italic
 
+@media (max-width: 767.98px)
 
+  nav ul
+    -webkit-columns: 3
+    -moz-columns: 3
+    columns: 3
 
 // blog
 

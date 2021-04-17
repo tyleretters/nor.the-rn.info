@@ -140,11 +140,12 @@ main {
 nav {
   padding: 1.5rem 15px 1rem 15px;
   align-items: baseline; }
-  nav .site-logo {
+  nav .site-logo a {
     display: block;
     width: 75px;
-    height: 35px; }
-  nav .site-logo:hover .ni {
+    height: 35px;
+    margin-bottom: 10px; }
+  nav .site-logo a:hover .ni {
     fill: #0687f5; }
   nav .ni {
     fill: #b3b3b3; }
@@ -163,6 +164,11 @@ nav {
       nav ul a:hover span {
         font-style: italic; }
 
+@media (max-width: 767.98px) {
+  nav ul {
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    columns: 3; } }
 .post {
   margin-bottom: 200px; }
   .post ul {

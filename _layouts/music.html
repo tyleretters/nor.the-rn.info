@@ -6,7 +6,7 @@ layout: default
 
 <div class="row mb-5">
   <div class="col">
-    <h1>{{ music.name }}</h1>
+    <h1 id="{{ music.name | remove: '"' | replace: " ", "-" | downcase }}">{{ music.name }}</h1>
     <em>{{ music.dates }}</em>
     <hr>
   </div>
