@@ -44,6 +44,10 @@ a.block-link {
     color: #ffffff;
     background: #034279; }
 
+a.view-date:not([href]):not([tabindex]),
+a.view-saga:not([href]):not([tabindex]) {
+  color: #0687f5; }
+
 ::selection {
   color: #ffffff;
   background: #0687f5; }
@@ -79,8 +83,8 @@ pre {
   margin: 4rem 0;
   padding: 0;
   border: none;
-  border-top: 1px solid #b3b3b3;
-  color: #b3b3b3;
+  border-top: 1px solid #f2f2f2;
+  color: #f2f2f2;
   text-align: center; }
 
 .post hr::before {
@@ -97,15 +101,15 @@ hr,
   margin: 10px 0 0 0;
   padding: 0;
   border: none;
-  border-top: 2px solid #b3b3b3;
-  color: #b3b3b3;
+  border-top: 2px solid #f2f2f2;
+  color: #f2f2f2;
   text-align: center; }
 
 .post .hr-standard::before {
   content: ""; }
 
 .well {
-  border: 2px solid #b3b3b3;
+  border: 2px solid #f2f2f2;
   margin: 10px 0;
   padding: 10px;
   border-radius: 4px; }
@@ -150,6 +154,7 @@ nav {
   nav .ni {
     fill: #b3b3b3; }
   nav ul {
+    margin: 0;
     list-style: none; }
     nav ul a,
     nav ul a:link,
@@ -165,10 +170,13 @@ nav {
         font-style: italic; }
 
 @media (max-width: 767.98px) {
+  nav {
+    padding: 5px; }
+
   nav ul {
-    -webkit-columns: 3;
-    -moz-columns: 3;
-    columns: 3; } }
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2; } }
 .post {
   margin-bottom: 200px; }
   .post ul {

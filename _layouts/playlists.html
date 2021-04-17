@@ -13,7 +13,7 @@ layout: default
     <h1>{{ playlist.title }}</h1>
     {{ playlist.content | markdownify }}
     {% if playlist.url %}
-      <a href="{{ playlist.url }}">Listen to {{ playlist.title }} on Spotify</a>
+      <a href="{{ playlist.url }}" class="block-link">Listen to {{ playlist.title }} on Spotify</a>
     {% endif %}
   </div>
 </div>

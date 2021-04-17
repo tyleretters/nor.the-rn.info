@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
+<div class="row">
+  <div class="col">
+    {{ content }}
+  </div>
+</div>
 {% assign projects_by_order = site.data.projects.items | sort: "order" | reverse %}
 {% for project in projects_by_order %}
-
 <div class="row mb-5">
   <div class="col">
     <h1 id="{{ project.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.name }}</h1>
@@ -11,7 +15,6 @@ layout: default
     <hr>
   </div>
 </div>
-
 <div class="row row-img-100 mb-5">
   <div class="col-md-6">
     {{ project.content | markdownify }}
@@ -20,5 +23,4 @@ layout: default
     <img src="{{ project.image }}" />
   </div>
 </div>
-
 {% endfor %}
