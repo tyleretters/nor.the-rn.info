@@ -14,19 +14,19 @@ items:
     - order: 3
       image: matryoshka-demo.jpg
       title: MATRYOSHKA (demo)
-      url: https://stuxnet.bandcamp.com/album/matryoshka-demo
+      url: https://distrokid.com/hyperfollow/stuxnet/matryoshka-demo
       year: 2021
 
     - order: 2
       image: cipher-suite-demo.jpg
       title: CIPHER SUITE (demo)
-      url: https://stuxnet.bandcamp.com/album/cipher-suite-demo
+      url: https://distrokid.com/hyperfollow/stuxnet/cipher-suite-demo
       year: 2021
 
     - order: 1
       image: carrier-demo.jpg
       title: CARRIER (demo)
-      url: https://stuxnet.bandcamp.com/album/carrier-demo
+      url: https://distrokid.com/hyperfollow/stuxnet/carrier-demo
       year: 2021
 
 - order: 2
