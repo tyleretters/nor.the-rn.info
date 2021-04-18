@@ -9,7 +9,14 @@ items:
   release-class: col-md-6
   content: |
     Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
+
   releases:
+
+    - order: 4
+      image: times-firewall-demo.jpg
+      title: TIME'S FIREWALL (demo)
+      url: https://stuxnet.bandcamp.com/album/times-firewall-demo
+      year: 2021
 
     - order: 3
       image: matryoshka-demo.jpg
@@ -53,6 +60,7 @@ items:
     - +10^100: if protons decay, the universe suffers heat death.
 
     *All above dates and events are inaccurate.
+
   releases:
 
     - order: 1
