@@ -59,6 +59,13 @@ a.block-link
     color: $white
     background: $darkBlue
 
+a.block-link-disable
+  cursor: not-allowed
+  background: $grey
+  
+  &:hover
+    background: $grey
+
 a.view-date:not([href]):not([tabindex]),
 a.view-saga:not([href]):not([tabindex])
   color: $blue
@@ -77,9 +84,10 @@ audio
   width: 100%
 
 blockquote
-  border-left: 1px solid $lightGrey
-  padding-left: 20px
-  margin-left: 5px
+  border-left: 2px solid $lightGrey
+  background: $veryLightGrey
+  padding: 11px 5px 5px 20px
+  border-radius: 4px
 
   p
     font-size: 1rem
@@ -96,40 +104,41 @@ pre
     font-size: 1rem
     line-height: 0px
 
-.post hr
-  margin: 4rem 0
-  padding: 0
-  border: none
-  border-top: 1px solid $veryLightGrey
-  color: $veryLightGrey
-  text-align: center
-
-.post hr::before
-  content: "§"
-  display: inline-block
-  position: relative
-  top: -.9rem
-  font-size: 1rem
-  padding: 0 0.25em
-  background: $white
-
-hr,
-.post .hr-standard
-  margin: 10px 0 10px 0
-  padding: 0
-  border: none
-  border-top: 2px solid $veryLightGrey
-  color: $veryLightGrey
-  text-align: center
-
-.post .hr-standard::before
-  content: ""
-
 .well
-  border: 2px solid $veryLightGrey
+  border: 2px solid $lightGrey
+  background: $veryLightGrey
   margin: 10px 0
   padding: 10px
   border-radius: 4px
+
+// horizontal rules
+
+hr
+  padding: 0
+  border: none
+  border-top: 2px solid $veryLightGrey
+  color: $lightGrey
+
+.post
+  
+  hr
+    text-align: center
+    margin: 2rem 0
+
+  hr.hr-standard
+    margin: 1rem 0
+
+  hr::before
+    content: "§"
+    display: inline-block
+    position: relative
+    top: -.9rem
+    font-size: 1rem
+    padding: 0 0.25em
+    background: $white
+
+  hr.hr-standard::before
+    content: ""
 
 
 

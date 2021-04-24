@@ -246,7 +246,7 @@ $('.view-saga').on('click', function() {
  * The other options besides JS were to do it in markdown which is an awful author/writing
  * experience or extend Jekyll to do this during compilation. This was 3 lines.
  */
-$('.post-content img').each(function() {
+$('.img-link img').each(function() {
   $(this).wrap('<a href="' + this.src + '"></a>');
 });
 

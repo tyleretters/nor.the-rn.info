@@ -9,7 +9,7 @@ layout: default
 <div class="row row-img-100 mb-5">
 {% assign travel_by_order = site.data.travel.items %}
 {% for travel in travel_by_order %}
-  <div class="col-md-4 mb-5 travel-item">
+  <div class="col-md-4 mb-5 travel-item img-link">
     <img src="/assets/images/travel/{{ travel.image }}" alt="{{ travel.title }}" />
     <p><strong>{{ travel.title }}</strong><p>
     <p><em>{{ travel.date }} · {{ travel.location }}</em></p>

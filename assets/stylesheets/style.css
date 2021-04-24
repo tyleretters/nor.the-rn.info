@@ -44,6 +44,12 @@ a.block-link {
     color: #ffffff;
     background: #034279; }
 
+a.block-link-disable {
+  cursor: not-allowed;
+  background: #333333; }
+  a.block-link-disable:hover {
+    background: #333333; }
+
 a.view-date:not([href]):not([tabindex]),
 a.view-saga:not([href]):not([tabindex]) {
   color: #0687f5; }
@@ -62,9 +68,10 @@ audio {
   width: 100%; }
 
 blockquote {
-  border-left: 1px solid #b3b3b3;
-  padding-left: 20px;
-  margin-left: 5px; }
+  border-left: 2px solid #b3b3b3;
+  background: #f2f2f2;
+  padding: 11px 5px 5px 20px;
+  border-radius: 4px; }
   blockquote p {
     font-size: 1rem;
     color: #333333; }
@@ -79,14 +86,24 @@ pre {
     font-size: 1rem;
     line-height: 0px; }
 
-.post hr {
-  margin: 4rem 0;
+.well {
+  border: 2px solid #b3b3b3;
+  background: #f2f2f2;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px; }
+
+hr {
   padding: 0;
   border: none;
-  border-top: 1px solid #f2f2f2;
-  color: #f2f2f2;
-  text-align: center; }
+  border-top: 2px solid #f2f2f2;
+  color: #b3b3b3; }
 
+.post hr {
+  text-align: center;
+  margin: 2rem 0; }
+.post hr.hr-standard {
+  margin: 1rem 0; }
 .post hr::before {
   content: "§";
   display: inline-block;
@@ -95,24 +112,8 @@ pre {
   font-size: 1rem;
   padding: 0 0.25em;
   background: #ffffff; }
-
-hr,
-.post .hr-standard {
-  margin: 10px 0 10px 0;
-  padding: 0;
-  border: none;
-  border-top: 2px solid #f2f2f2;
-  color: #f2f2f2;
-  text-align: center; }
-
-.post .hr-standard::before {
+.post hr.hr-standard::before {
   content: ""; }
-
-.well {
-  border: 2px solid #f2f2f2;
-  margin: 10px 0;
-  padding: 10px;
-  border-radius: 4px; }
 
 main {
   padding-bottom: 30px; }

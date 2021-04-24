@@ -3,7 +3,7 @@ layout: default_blog
 ---
 <div class="row row-img-100 mb-5">
   <div class="col">
-    <article class="post">
+    <article class="post img-link">
       <h1>{{ page.title | escape }}</h1>
       <em>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ page.date | date: date_format }}</em>
       <hr class="hr-standard">
@@ -14,6 +14,7 @@ layout: default_blog
 <div class="row mb-2">
   <div class="col">
     <h2>More Posts</h2>
+    <hr class="hr-standard">
   </div>
 </div>
 <div class="row mb-5">
@@ -27,6 +28,8 @@ layout: default_blog
   <div class="col-md-6 earlier-post">
     {% if page.previous.url %}
       <a href="{{ page.previous.url }}" class="block-link">{{ page.previous.title }} &rarr;</a>
+    {% else %}
+      <a href="/2009/11/08/swing-state" class="block-link block-link-disable">End of Blog</a>
     {% endif %}
   </div>
 </div>
