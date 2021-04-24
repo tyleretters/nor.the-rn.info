@@ -5,13 +5,9 @@ layout: default_blog
   <div class="col">
     <article class="post">
       <h1>{{ page.title | escape }}</h1>
-      <time datetime="{{ page.date | date_to_xmlschema }}" class="mb-2">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      <div>
-        {{ content }}
-      </div>
+      <em>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ page.date | date: date_format }}</em>
+      <hr class="hr-standard">
+      {{ page.content }}
     </article>
   </div>
 </div>
@@ -24,6 +20,8 @@ layout: default_blog
   <div class="col-md-6 later-post">
     {% if page.next.url %}
       <a href="{{ page.next.url }}" class="block-link">&larr; {{ page.next.title }}</a>
+    {% else %}
+      <a href="/2009/11/08/swing-state" class="block-link">&larr; To The Beginning</a>
     {% endif %}
   </div>
   <div class="col-md-6 earlier-post">

@@ -177,16 +177,14 @@ nav {
     -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2; } }
-.post {
-  margin-bottom: 200px; }
-  .post ul {
-    list-style-type: disc; }
-  .post ul, .post ol {
-    list-style-position: inside;
-    margin: 20px 0 20px 5px;
-    padding-left: 20px; }
-    .post ul li, .post ol li {
-      margin: 0 0 1rem 0; }
+.post ul {
+  list-style-type: disc; }
+.post ul, .post ol {
+  list-style-position: inside;
+  margin: 20px 0 20px 5px;
+  padding-left: 20px; }
+  .post ul li, .post ol li {
+    margin: 0 0 1rem 0; }
 
 .post-content iframe,
 .post-content img {
