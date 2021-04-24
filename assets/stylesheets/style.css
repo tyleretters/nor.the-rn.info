@@ -93,18 +93,22 @@ pre {
   padding: 10px;
   border-radius: 4px; }
 
+.upper em,
+footer p {
+  color: #b3b3b3; }
+
 hr {
   padding: 0;
   border: none;
   border-top: 2px solid #f2f2f2;
-  color: #b3b3b3; }
+  color: #b3b3b3;
+  margin: 1rem 0; }
 
-.post hr {
+.content hr {
   text-align: center;
   margin: 2rem 0; }
-.post hr.hr-standard {
-  margin: 1rem 0; }
-.post hr::before {
+
+.content hr::before {
   content: "§";
   display: inline-block;
   position: relative;
@@ -112,8 +116,6 @@ hr {
   font-size: 1rem;
   padding: 0 0.25em;
   background: #ffffff; }
-.post hr.hr-standard::before {
-  content: ""; }
 
 main {
   padding-bottom: 30px; }
@@ -139,7 +141,7 @@ main {
   .col-tighten a {
     margin-bottom: 0; }
 
-.row-img-100 img {
+.img-100 img {
   width: 100%; }
 
 nav {
@@ -178,21 +180,14 @@ nav {
     -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2; } }
-.post ul {
+.content ul {
   list-style-type: disc; }
-.post ul, .post ol {
+.content ul, .content ol {
   list-style-position: inside;
   margin: 20px 0 20px 5px;
   padding-left: 20px; }
-  .post ul li, .post ol li {
+  .content ul li, .content ol li {
     margin: 0 0 1rem 0; }
-
-.post-content iframe,
-.post-content img {
-  width: 100%; }
-
-.post-meta {
-  color: #333333; }
 
 .home {
   background: url("../images/bg.jpg") no-repeat center center fixed;
@@ -244,10 +239,12 @@ nav {
   float: left;
   width: 100px; }
 
-.travel-item p {
+.travel-item h2 {
+  font-size: 1.5rem;
   margin: 0; }
-  .travel-item p em {
-    color: #b3b3b3; }
+.travel-item p {
+  margin: 0;
+  color: #b3b3b3; }
 
 .table-discography {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }

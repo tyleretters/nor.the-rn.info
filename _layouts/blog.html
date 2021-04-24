@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
+<div class="row">
+  <div class="col upper">
+    <p><em>{{ site.description }}</em></p>
+  </div>
+</div>
 {% for post in site.posts limit:3 %}
-<div class="row row-img-100 mb-5">
+<div class="row mb-5">
   <div class="col">
-    <article class="post img-link">
-      <h1>{{ post.title | escape }}</h1>
-      <em>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ post.date | date: date_format }}</em> · <a href="{{ post.url | relative_url }}">Link</a>
-      <hr class="hr-standard">
-      {{ post.content }}
+    <article>
+      <h1>{{ post.title }}</h1>
+      <time>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ post.date | date: date_format }}</time> · <a href="{{ post.url | relative_url }}">Link</a>
+      <hr>
+      <div class="content img-100 img-link">
+        {{ post.content }}
+      </div>
     </article>
   </div>
 </div>

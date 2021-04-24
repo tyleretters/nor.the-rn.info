@@ -111,6 +111,12 @@ pre
   padding: 10px
   border-radius: 4px
 
+.upper em,
+footer p
+  color: $lightGrey
+
+
+
 // horizontal rules
 
 hr
@@ -118,17 +124,13 @@ hr
   border: none
   border-top: 2px solid $veryLightGrey
   color: $lightGrey
+  margin: 1rem 0
 
-.post
-  
-  hr
+.content hr
     text-align: center
     margin: 2rem 0
 
-  hr.hr-standard
-    margin: 1rem 0
-
-  hr::before
+.content hr::before
     content: "§"
     display: inline-block
     position: relative
@@ -136,9 +138,6 @@ hr
     font-size: 1rem
     padding: 0 0.25em
     background: $white
-
-  hr.hr-standard::before
-    content: ""
 
 
 
@@ -170,7 +169,7 @@ main
   a
     margin-bottom: 0
 
-.row-img-100 img
+.img-100 img
     width: 100%
 
 
@@ -219,7 +218,7 @@ nav
 
 // blog
 
-.post
+.content
 
   ul
     list-style-type: disc
@@ -232,13 +231,6 @@ nav
     li
       margin: 0 0 1rem 0
 
-.post-content
-  iframe,
-  img
-    width: 100%
-
-.post-meta
-  color: $grey
 
 
 
@@ -281,6 +273,8 @@ nav
     .container-fluid
       padding: 0
 
+
+
 // about
 
 .about-image-dystopia,
@@ -311,10 +305,14 @@ nav
 
 
 // travel
-.travel-item p
-  margin: 0
+.travel-item
   
-  em
+  h2
+    font-size: 1.5rem
+    margin: 0
+
+  p
+    margin: 0
     color: $lightGrey
 
 

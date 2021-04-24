@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-  <div class="col">
+  <div class="col upper">
     {{ content }}
   </div>
 </div>
@@ -11,8 +11,10 @@ layout: default
 <div class="row mb-5">
   <div class="col">
     <h1>{{ book.title }}</h1>
-    <hr class="hr-standard">
-    {{ book.content | markdownify }}
+    <hr>
+    <div class="content">
+      {{ book.content | markdownify }}
+    </div>
   </div>
 </div>
 {% endfor %}

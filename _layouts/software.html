@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-  <div class="col">
+  <div class="col upper">
     {{ content }}
   </div>
 </div>
@@ -15,11 +15,11 @@ layout: default
     <hr>
   </div>
 </div>
-<div class="row row-img-100 mb-5">
+<div class="row mb-5">
   <div class="col-md-6">
     {{ software.content | markdownify }}
   </div>
-   <div class="col-md-6 img-link">
+   <div class="col-md-6 img-100 img-link">
     <img src="{{ software.image }}" />
   </div>
 </div>

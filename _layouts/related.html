@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-<p><em>A melange of new media aritsts, collectives, organizations, writers, musicians, friends, and foes...</em></p>
-<div class="row row-related-and-recommended">
+<div class="row">
+  <div class="col upper">
+    {{ content }}
+  </div>
+</div>
+<div class="row">
   <div class="col">
     <ul class="three-col">
       {% for related in site.data.related.items %}
