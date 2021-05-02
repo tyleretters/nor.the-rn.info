@@ -4,7 +4,7 @@
     {% assign nav_by_order = site.data.nav.items | sort: "order" %}
     {% for nav in nav_by_order %}
     <li>
-      <a href="{{ nav.url }}">{% if page.title == nav.name %}<span>&rarr;</span>{% endif %}&nbsp;{{ nav.emoji }}&nbsp;<span>{{ nav.short-name }}</span></a>
+      <a href="{{ nav.url }}">{% if page.title == nav.name %}<span>&rarr;</span>{% endif %}&nbsp;{{ nav.emoji }}&nbsp;&nbsp;<span>{{ nav.short-name }}</span></a>
     </li>
     {% endfor %}
   </ul>

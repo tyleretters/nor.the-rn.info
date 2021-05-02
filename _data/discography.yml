@@ -1,5 +1,14 @@
 items:
 
+- order: 60
+  project: STUXNET
+  year: 2021
+  release: LONG LIVE THE LOST ONES
+  type: LP
+  format: Digital
+  role: Operator
+  label: Intertext
+
 - order: 59
   project: STUXNET
   year: 2021

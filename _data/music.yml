@@ -12,6 +12,12 @@ items:
 
   releases:
 
+    - order: 5
+      image: long-live-the-lost-ones.jpg
+      title: LONG LIVE THE LOST ONES
+      url: https://stuxnet.bandcamp.com/album/long-live-the-lost-ones
+      year: 2021
+
     - order: 4
       image: times-firewall-demo.jpg
       title: TIME'S FIREWALL (demo)
