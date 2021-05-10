@@ -173,3 +173,9 @@ This was a really fun project to be a part of. Once we were reasonably certain w
 A special shout out to Jordan - working with him was an absolute joy. He was measured, pragmatic, selfless, and gave me lots of help as I learned how ClojureScript worked.
 
 I hope you enjoy using [norns.community](https://norns.community) as much as I enjoyed making it. My hope is for this community nurtured wiki to become the defacto place to learn about all of the amazing scripts out there.
+
+---
+
+## Update
+
+[Jordan has written a lovely post chroniciling his experience.](https://www.eigenbahn.com/2021/05/10/norns-community)
