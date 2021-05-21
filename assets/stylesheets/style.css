@@ -54,6 +54,10 @@ a.view-date:not([href]):not([tabindex]),
 a.view-saga:not([href]):not([tabindex]) {
   color: #0687f5; }
 
+a.view-date:not([href]):not([tabindex]):hover,
+a.view-saga:not([href]):not([tabindex]):hover {
+  color: #ffffff; }
+
 ::selection {
   color: #ffffff;
   background: #0687f5; }
