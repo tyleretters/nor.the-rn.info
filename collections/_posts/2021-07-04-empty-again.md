@@ -4,7 +4,7 @@ title: 'Empty, Again'
 date: 2021-07-04
 saga: thoughts
 ---
-Four weeks ago we were [inspired](https://www.youtube.com/playlist?list=PLDeicGW8SQOx1PM5iAuSNZVw28XyyawCJ). Three weeks ago we started to [understand](https://northern-information.github.io/mapcore/). Two weeks ago we decided to make an [album](https://mapcorps.bandcamp.com/album/mapsquest-2). One week ago we planned a [party](https://www.twitch.tv/videos/1076515493/). Today I woke up empty, again.
+Four weeks ago we were [inspired](https://www.youtube.com/playlist?list=PLDeicGW8SQOx1PM5iAuSNZVw28XyyawCJ). Three weeks ago we started to [understand](https://northern-information.github.io/mapcore/). Two weeks ago we decided to make an [album](https://mapcorps.bandcamp.com/album/mapsquest-2). One week ago we planned a [party](https://youtu.be/pDPxkfbZWdw/). Today I woke up empty, again.
 
 For many, the start never happens. The blank canvas is too overwhelming or the "idea of the idea" is too intoxicating. After all, to never start is to never fail.
 
