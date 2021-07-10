@@ -120,6 +120,9 @@ function census(x, y) {
 
 function buildNextGeneration() {
   config.generation++;
+  if (config.generation > 23) {
+    seed();
+  }
   document.getElementById('next').innerHTML = makeGrid(config.x, config.y);
   live = [];
   for (var iy = config.y - 1; iy >= 0; iy--) {

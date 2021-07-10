@@ -6,9 +6,7 @@ $veryLightGrey: lighten($grey, 75%)
 $white: #ffffff
 $black: #212529
 $sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
-
-
+$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace  
 
 // typography
 
@@ -401,6 +399,16 @@ button.btn-max
 
 
 // game of life
+
+.conway
+  background: #1A1A1A
+  .cell[data-toggle='0'] 
+    color: #1A1A1A
+  .cell[data-toggle='1'] 
+    color: #f7931e
+  p
+    color: #cccccc
+    width: 100%
 
 #life 
   width: 200px
