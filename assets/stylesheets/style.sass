@@ -50,8 +50,9 @@ ol
     
   li::before
     counter-increment: li
-    content: counter(li, decimal-leading-zero) " - "
+    content: counter(li, decimal-leading-zero) " "
     margin-right: 0.25em
+    color: $lightGrey
 
 a.block-link
   color: $white
@@ -125,6 +126,7 @@ pre
   border-radius: 4px
 
 .upper em,
+.lower em,
 footer p
   color: $lightGrey
 
@@ -332,21 +334,28 @@ nav
 
 
 
+// books
+
+// .book-title
+//   text-align: right
+
+// @media (max-width: 767.98px)
+
+//   .book-title
+//     text-align: left
+
+
+// playlists
+
+.playlists ol
+  margin-left: 0
+  padding-left: 0
+
+
 // discography
 
 .table-discography
   font-family: $monospace
-
-
-// books
-
-.book-title
-  text-align: right
-
-@media (max-width: 767.98px)
-
-  .book-title
-    text-align: left
 
 
 // archives
