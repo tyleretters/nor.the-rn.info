@@ -15,7 +15,6 @@ plugins:
   - jekyll-sitemap
 feed:
   path: feed.xml
-collections_dir: collections
 jekyll_compose:
     auto_open: true
 include: ['_pages']
