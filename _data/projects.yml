@@ -1,5 +1,12 @@
 items:
 
+- order: 202105
+  name: FLASH CRASH
+  dates: 2021 - Present
+  image: /assets/images/flash-crash-event.jpg
+  content: |
+    [FLASH CRASH](https://flashcrash.net) is a recursive livecoding online event I organize. The brand dies and is reborn for each event.
+
 - order: 202104
   name: norns community
   dates: 2021 - Present

@@ -34,13 +34,24 @@ a:active
 a:hover
   color: $darkBlue
 
-ul, ol
+ul
   list-style-position: inside
   margin: 0 0 1rem 0
   padding: 0
 
   li
     margin: 0 0 10px 0
+
+ol
+  counter-reset: li  
+  list-style-type: none
+  margin: 0 0 1rem 0
+  padding: 0
+    
+  li::before
+    counter-increment: li
+    content: counter(li, decimal-leading-zero) " - "
+    margin-right: 0.25em
 
 a.block-link
   color: $white
@@ -275,7 +286,9 @@ nav
     .container-fluid
       padding: 0
 
-
+.container-fluid.no-gutters
+  padding-left: 0
+  padding-right: 0
 
 // about
 
@@ -324,6 +337,16 @@ nav
 .table-discography
   font-family: $monospace
 
+
+// books
+
+.book-title
+  text-align: right
+
+@media (max-width: 767.98px)
+
+  .book-title
+    text-align: left
 
 
 // archives

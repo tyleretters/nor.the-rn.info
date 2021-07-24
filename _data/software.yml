@@ -63,3 +63,11 @@ items:
   image: /assets/images/yggdrasil.png
   content: |
     Described as "a norns cyberdeck tracker," this project was a rapid release with the "Northern Information Applied Sciences and Phantasms Working Division." Check out the [docs](https://northern-information.github.io/yggdrasil-docs) and see the thread [over at llllllll.co](http://l.llllllll.co/yggdrasil).
+
+- order: 202101
+  name: goldeneye
+  dates: 2020
+  image: /assets/images/goldeneye.jpg
+  content: |
+    Entropic background radiation. The last sequencer before the EMPs hit. As always, the conversation is on [llllllll.co](https://l.llllllll.co/goldeneye).
+    

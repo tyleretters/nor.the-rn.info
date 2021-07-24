@@ -12,6 +12,12 @@ items:
 
   releases:
 
+    - order: 6
+      image: countersurveillance.jpg
+      title: COUNTERSURVEILLANCE
+      url: https://stuxnet.bandcamp.com/album/countersurveillance
+      year: 2021
+
     - order: 5
       image: long-live-the-lost-ones.jpg
       title: LONG LIVE THE LOST ONES

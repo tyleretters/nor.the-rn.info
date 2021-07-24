@@ -1,5 +1,23 @@
 items:
 
+- order: 62
+  project: STUXNET
+  year: 2021
+  release: COUNTERSURVEILLANCE
+  type: LP
+  format: Digital
+  role: Operator
+  label: Intertext
+
+- order: 61
+  project: STUXNET
+  year: 2021
+  release: MAPSQUEST
+  type: LP
+  format: Digital
+  role: Operator
+  label: Map Corps
+
 - order: 60
   project: STUXNET
   year: 2021
