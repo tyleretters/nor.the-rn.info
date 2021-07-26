@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="col upper">
-    {{ content }}
-  </div>
-</div>
+{% include subtitle.html %}
 {% assign projects_by_order = site.data.projects.items | sort: "order" | reverse %}
 {% for project in projects_by_order %}
 <div class="row mb-5">

@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+subtitle: 
 permalink: /about/
 ---
 Born and raised in the American midwest. I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago. My practice incorporates electronic music, new media, code, photography, design, and film.

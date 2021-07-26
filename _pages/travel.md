@@ -1,6 +1,6 @@
 ---
 layout: travel
 title: Travel
+subtitle: From the before times...
 permalink: /travel/
 ---
-_From the before times..._

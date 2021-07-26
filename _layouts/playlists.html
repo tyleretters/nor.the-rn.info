@@ -1,20 +1,29 @@
 ---
 layout: default
 ---
+{% include subtitle.html %}
 <div class="row">
-  <div class="col upper">
+  <div class="col">
+    <div class="container-fluid content no-gutters">
+{% assign playlists_by_order = site.data.playlists.items %}
+{% for playlist in playlists_by_order %}
+      <div class="row mb-5">
+        <div class="col-md-4">
+          <h1 class="playlist-title">{{ playlist.title }}</h1>
+          {% if playlist.url %}
+            <a href="{{ playlist.url }}">Listen to {{ playlist.title }} on Spotify</a>
+          {% endif %}
+        </div>
+        <div class="col-md-8 playlists">
+          {{ playlist.content | markdownify }}
+        </div>
+      </div>
+{% endfor %}
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col lower">
     {{ content }}
   </div>
 </div>
-{% assign playlists_by_order = site.data.playlists.items %}
-{% for playlist in playlists_by_order %}
-<div class="row mb-5">
-  <div class="col">
-    <h1>{{ playlist.title }}</h1>
-    {{ playlist.content | markdownify }}
-    {% if playlist.url %}
-      <a href="{{ playlist.url }}">Listen to {{ playlist.title }} on Spotify</a>
-    {% endif %}
-  </div>
-</div>
-{% endfor %}
