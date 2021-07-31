@@ -1,12 +1,8 @@
-items:
+col_1_items:
 
 - title: fc210807
   img: fc210807.jpg
   url: https://llllllll.co/t/45273
-
-- title: COUNTERSURVEILLANCE
-  img: countersurveillance.jpg
-  url: music#as-stuxnet
 
 - title: MAPSQUEST
   img: mapsquest.jpg
@@ -44,10 +40,6 @@ items:
   img: clades.png
   url: https://northern-information.github.io/yggdrasil-docs/
 
-- title: arcologies
-  img: arcologies.png
-  url: software#arcologies
-
 - title: They Became What They Beheld
   img: ep1.jpg
   url: music#as-they-became-what-they-beheld
@@ -55,6 +47,16 @@ items:
 - title: dronecaster
   img: dronecaster.png
   url: software#dronecaster
+
+- title: ECiC;EFiS
+  img: serial-index-of-unclaimed-memories.jpg
+  url: music#as-everything-comes-in-cycles-everything-fades-in-shades--ix
+
+col_2_items:
+
+- title: arcologies
+  img: arcologies.png
+  url: software#arcologies
 
 - title: Garfield Park Conservatory
   img: travel/garfield-park-conservatory.jpg
@@ -115,10 +117,6 @@ items:
 - title: the northern information movement
   img: the-legacy-of-our-lost-cause.jpg
   url: music#as-the-northern-information-movement
-
-- title: ECiC;EFiS
-  img: serial-index-of-unclaimed-memories.jpg
-  url: music#as-everything-comes-in-cycles-everything-fades-in-shades--ix
 
 - title: Manifesto
   img: manifesto.jpg

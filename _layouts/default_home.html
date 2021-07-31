@@ -8,15 +8,26 @@
       {% include sidebar.html %}
     </div>
     <div class="col-md-10">
-      <div class="container-fluid two-col">
-        {% for item in site.data.home.items %}
-        <div class="home-image">
-          <a href="{{ item.url }}">
-            <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
-          </a>
-        </div>
-        {% endfor %}
-      </div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col">
+            {% for item in site.data.home.col_1_items %}
+            <div class="home-image">
+              <a href="{{ item.url }}">
+                <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+          <div class="col">
+            {% for item in site.data.home.col_2_items %}
+            <div class="home-image">
+              <a href="{{ item.url }}">
+                <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
     </div>
   </div>
 </main>
