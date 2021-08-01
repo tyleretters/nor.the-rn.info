@@ -12,6 +12,12 @@ items:
 
   releases:
 
+    - order: 7
+      image: human-interference-task-force.jpg
+      title: HUMAN INTERFERENCE TASK FORCE
+      url: https://stuxnet.bandcamp.com/album/human-interference-task-force
+      year: 2021
+
     - order: 6
       image: countersurveillance.jpg
       title: COUNTERSURVEILLANCE
