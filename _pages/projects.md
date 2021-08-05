@@ -1,6 +1,6 @@
 ---
 layout: projects
 title: Projects
+subtitle: Notable endeavors typically spanning multiple years.
 permalink: /projects/
 ---
-_Notable endeavors typically spanning multiple years._

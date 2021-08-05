@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="col upper">
-    {{ content }}
-  </div>
-</div>
+{% include subtitle.html %}
 <div class="row mb-5">
 {% assign travel_by_order = site.data.travel.items %}
 {% for travel in travel_by_order %}

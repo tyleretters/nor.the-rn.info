@@ -2,14 +2,26 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.url == "/" %}
+    {%- assign my_title = site.title | append: " | " | append: "The abstraction of polymath-artist Tyler Etters." -%}
+{%- elsif page.title -%}
+    {%- assign my_title = page.title | append: " | " | append: site.title -%}
+{%- else -%}
+    {%- assign my_title = site.title -%}
+{% endif %}
+<title>{{ my_title }}</title>
 
-{% if page.url == "/" %}<title>{{ site.title }} | The blog of polymath-artist Tyler Etters.</title>{% elsif page.title %}<title>{{ page.title }} | Northern Information</title>{% else %}<title>{{ site.title }}</title>{% endif %}
+<meta property="og:title" content="{{ my_title }}">
+<meta property="og:site_name" content="{{ my_title }}">
+<meta property="og:url" content="{{ site.url }}">
+{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% else %}<meta property="og:description" content="{{ site.description }}">{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ site.url }}/assets/images/northern-information.jpg">
 
-{% seo title=false %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@tyleretters">
 <meta name="twitter:creator" content="@tyleretters">
-{% if page.url == "/" %}<meta name="twitter:title" content="{{ site.title }} | The blog of polymath-artist Tyler Etters.">{% elsif page.title %}<meta name="twitter:title" content="{{ page.title }} | Northern Information">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
+<meta name="twitter:title" content="{{ my_title }}">
 {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
 {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
 <meta name="twitter:image:src" content="{{ site.url }}/assets/images/northern-information.jpg">  
@@ -27,4 +39,5 @@
 <link rel="manifest" href="/site.webmanifest">
 
 {% feed_meta %}
+
 </head>

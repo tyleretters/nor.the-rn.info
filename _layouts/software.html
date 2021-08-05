@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="col upper">
-    {{ content }}
-  </div>
-</div>
+{% include subtitle.html %}
 {% assign software_by_order = site.data.software.items | sort: "order" | reverse %}
 {% for software in software_by_order %}
 <div class="row mb-5">
