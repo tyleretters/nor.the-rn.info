@@ -325,16 +325,6 @@ button.btn-max {
     background-color: #0687f5; }
   100% {
     background-color: #333333; } }
-.conway {
-  background: #1A1A1A; }
-  .conway .cell[data-toggle='0'] {
-    color: #1A1A1A; }
-  .conway .cell[data-toggle='1'] {
-    color: #f7931e; }
-  .conway p {
-    color: #cccccc;
-    width: 100%; }
-
 #life {
   width: 200px;
   height: 200px;
