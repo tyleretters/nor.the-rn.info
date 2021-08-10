@@ -7,7 +7,7 @@ sagas: ['thoughts', 'covid']
 
 This is a tale about a piece of bloody tissue and an apartment complex.
 
-Three days ago I noticed a piece of bloody tissue in the second level hallway. I did not pick it up. First: gross. Second: biohazard. Third: we are living are still living in a pandemic (yes, I continue to keep count: it is day 513.) Hopefully the responsible party was taking the trash down and they'd recognize their own blood on the way back home.
+Three days ago I noticed a piece of bloody tissue in the second level hallway. I did not pick it up. First: gross. Second: biohazard. Third: we are still living in a pandemic (yes, I continue to keep count: it is day 513.) Hopefully the responsible party was taking the trash down and they'd recognize their own blood on the way back home.
 
 Two days ago I left for a walk and was annoyed: the bloody tissue was still there! Any benefit of the doubt granted to my neighbor evaporated. The nerve!
 
