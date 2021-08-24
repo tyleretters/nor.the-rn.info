@@ -211,6 +211,8 @@ nav {
     color: #ffffff; }
   .home nav a:hover {
     color: #0687f5; }
+  .home .home-image {
+    margin-top: 15px; }
   .home .home-image,
   .home .home-image img {
     display: inline-block;
@@ -225,8 +227,6 @@ nav {
     .home .home-image img a:hover,
     .home .home-image img a:active {
       border: 10px solid #0687f5; }
-  .home .container-fluid {
-    padding-top: 15px; }
 
 @media (max-width: 767.98px) {
   .home .col-md-10 {
