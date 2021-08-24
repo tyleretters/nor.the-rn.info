@@ -11,7 +11,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col">
-            {% for item in site.data.home.col_1_items %}
+            {% for item in site.data.home %}
             <div class="home-image">
               <a href="{{ item.url }}">
                 <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
@@ -19,15 +19,8 @@
             </div>
             {% endfor %}
           </div>
-          <div class="col">
-            {% for item in site.data.home.col_2_items %}
-            <div class="home-image">
-              <a href="{{ item.url }}">
-                <img src="{{ site.baseurl}}/assets/images/{{ item.img }}" alt="{{ item.title }}" />
-              </a>
-            </div>
-            {% endfor %}
-          </div>
+        </div>
+      </div>
     </div>
   </div>
 </main>
