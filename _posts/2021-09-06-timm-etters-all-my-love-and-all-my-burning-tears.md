@@ -2,7 +2,7 @@
 layout: post
 title: 'Timm Etters: All My Love & All My Burning Tears'
 date: 2021-09-06
-saga: thoughts
+saga: ['thoughts']
 ---
 ![Timm Etters & Tyler Etters](/assets/images/timm-etters-and-tyler-etters.jpg)
 
