@@ -46,7 +46,7 @@ Once I got a little older, I would spend a weekend with him once or twice a year
 
 ![Lift](/assets/images/timm-etters-lift.jpg)
 
-![Tyler Painting](/assets/images/timm-etters-tyler-painting.jpg)
+![Tyler Painting](/assets/images/timm-etters-tyler-painting-at-whs.jpg)
 
 Timm let me go to work with him. Timm was [a prolific muralist](https://timmetters.com/murals) and often worked at schools. He loved working during school hours because he got to talk with all the kids. But sometimes he'd go in at night, blast hip-hop, and paint paint paint. Above we can see me following in is footsteps and painting a mural at my own high school.
 
