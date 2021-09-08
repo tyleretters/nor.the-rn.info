@@ -34,7 +34,7 @@ items:
   type: LP
   format: Digital
   role: Operator
-  label: Map Corps
+  label: MAP CORPS
 
 - order: 60
   project: STUXNET
