@@ -1,4 +1,6 @@
-col_1_items:
+- title: fc210904
+  img: fc210904.jpg
+  url: https://flashcrash.net/mission
 
 - title: fc210807
   img: fc210807.jpg
@@ -51,8 +53,6 @@ col_1_items:
 - title: ECiC;EFiS
   img: serial-index-of-unclaimed-memories.jpg
   url: music#as-everything-comes-in-cycles-everything-fades-in-shades--ix
-
-col_2_items:
 
 - title: arcologies
   img: arcologies.png

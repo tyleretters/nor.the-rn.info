@@ -1,4 +1,0 @@
-- Intro
-- Sound & Method
-- Names & Words
-- Image & Place

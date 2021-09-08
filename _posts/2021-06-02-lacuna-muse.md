@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacuna / Muse'
 date: 2021-06-02
-saga: thoughts
+saga: ['thoughts']
 ---
 According to dictionary.com:
 
