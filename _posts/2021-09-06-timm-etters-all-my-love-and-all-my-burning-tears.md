@@ -62,7 +62,7 @@ Timm was there with me when I bought my first instrument: turntables.
 
 Timm was a true 80s b-boy. Timm was a DJ. Timm was a living hip-hop and electronic music encyclopedia. On our drives, he'd always pull out the most eclectic and unique music. I was just a kid and totally hypnotized. From Kraftwerk to The Art of Noise; Seal to Run-DMC; Brian Eno to Herbie Hancock; Dancing Fantasy to Enigma; The Flying Steps to Linkin Park; DJ Shadow to Afrika Bambaataa. I could go on and on.
 
-![Linkin Park](/assets/images/timm-etters-linkin-park.jpg)
+![Linkin Park](/assets/images/timm-etters-before-linkin-park.jpg)
 
 Timm took me to my first concert: Linkin Park in 2004. I was 16 and had braces and spiky hair.
 
