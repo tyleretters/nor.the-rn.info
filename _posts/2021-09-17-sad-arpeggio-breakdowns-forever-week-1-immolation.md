@@ -4,7 +4,7 @@ title: 'S♯A♯B∞ Week 1: Immolation'
 date: 2021-09-17
 sagas: ['sab']
 ---
-![Glass](/assets/images/fab-glass.jpg)
+![Glass](/assets/images/sab-glass.jpg)
 
 "Can I bum one?" I ask Uncle Wayne.
 
@@ -28,7 +28,7 @@ This is my first time living in a world without [Timm Etters](/2021/09/06/timm-e
 
 ## Day 1: Escape from LA
 
-![ORD](/assets/images/fab-ord.jpg)
+![ORD](/assets/images/sab-ord.jpg)
 
 [Sage](https://sageetters.com) and I are driving down the 5 and laughing about our usual slew of cultural critique, inside jokes, and proclivities of our cat-child, Bunting.
 
@@ -42,7 +42,7 @@ Due to a communication snafu (my fault) both my divorced parental units show up 
 
 ## Day 2: Beloit
 
-![Beloit](/assets/images/fab-beloit.jpg)
+![Beloit](/assets/images/sab-beloit.jpg)
 
 I wake up in Beloit, Wisconsin.
 
@@ -50,7 +50,7 @@ I wake up in Beloit, Wisconsin.
 
 ## Day 3: Hangars & Weights
 
-![Hangar](/assets/images/fab-hangar.jpg)
+![Hangar](/assets/images/sab-hangar.jpg)
 
 My mother leaves early for another art show. I wake up and walk to a Uhaul facility. Secret codes, identity verifications, keys, and ciphers. I'm driving to an airplane hangar.
 
@@ -64,7 +64,7 @@ Small Cessna's taxi around the private airport. There's a cookout happening. We 
 
 ## Day 3: Funeral
 
-![Funeral](/assets/images/fab-funeral.jpg)
+![Funeral](/assets/images/sab-funeral.jpg)
 
 "Your father loves you a great deal," Uncle Wayne said.
 
@@ -96,7 +96,7 @@ Timm died the day of [Flash Crash 210904](https://flashcrash.net) and the debut 
 
 ## Day 6: Night of the Living Dead
 
-![Glass](/assets/images/fab-dead.jpg)
+![Glass](/assets/images/sab-dead.jpg)
 
 Mom, Willow, Will, and I sift through my old possessions. I give most of them away to Willow and Will. They are newly wed and have a new house.
 
@@ -106,7 +106,7 @@ We enjoy a home-cooked dinner. For the first time, we smoke marijuana together. 
 
 ## Day 7: Only Every Four Years or So
 
-![Culture](/assets/images/fab-culture.jpg)
+![Culture](/assets/images/sab-culture.jpg)
 
 I get to have dinner with both my parents only every four years or so. We meet in Union, Illinois.
 
@@ -114,7 +114,7 @@ I get to have dinner with both my parents only every four years or so. We meet i
 
 ## Day 8: To Chicago
 
-![Metra](/assets/images/fab-metra.jpg)
+![Metra](/assets/images/sab-metra.jpg)
 
 I wrap up work a little early and head to the Metra station in Harvard, Illinois. It has been such a gift to spend a week at my Mom's place, to see my sibling, to be back in my ancestral homelands.
 
