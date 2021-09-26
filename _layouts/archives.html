@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row">
   <div class="col">
-    <p>Sort by: <a class="btn btn-primary btn-sm view-date active">Date</a> <a class="btn btn-outline-primary btn-sm view-saga">Saga</a></p>
+    <p>Sort by: <a class="btn btn-primary btn-sm view-date active">Date</a> <a class="btn btn-outline-primary btn-sm view-saga">Saga</a> <a class="btn btn-outline-primary btn-sm view-digest">Digest</a></p>
   </div>
 </div>
 <div class="row row-date active">
@@ -27,6 +27,32 @@ layout: default
     {% endfor %}
   </div>
 </div>
+
+
+
+<div class="row row-digest">
+  {% assign digest_posts = site.posts | where: "digest", true | sort: "date"%}
+  <div class="col-md-12">
+    <h2>Digest</h2>
+    <p>You are in media res. I know your time is brief. This curated list of posts is designed to be read in chronological order and share a (hopefully) resonant slice of myself. I have endeavored to keep the cumulative reading time under 30 minutes. This feature was developed during the "Sad Arpeggio Breakdowns Forever" Tour in September 2021. The list will change depending on my current adventures, context, and focus.</p>
+    <ul>
+      <li><a href="/about">About</li>
+      {% for post in digest_posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ post.date | date: date_format }}
+        </time>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+
+
+
 <div class="row row-saga">
   {% assign sab_posts = site.posts | where: "sagas", "sab" %}
   {% assign covid_posts = site.posts | where: "sagas", "covid" %}

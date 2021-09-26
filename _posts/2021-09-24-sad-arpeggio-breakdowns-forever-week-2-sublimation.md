@@ -3,6 +3,7 @@ layout: post
 title: 'S♯A♯B∞ Week 2: Sublimation'
 date: 2021-09-24
 sagas: ['sab']
+digest: true
 ---
 
 ![Graffiti](/assets/images/sab-graffiti.jpg)

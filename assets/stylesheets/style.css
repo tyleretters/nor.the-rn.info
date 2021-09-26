@@ -62,11 +62,13 @@ a.block-link-disable {
     background: #333333; }
 
 a.view-date:not([href]):not([tabindex]),
-a.view-saga:not([href]):not([tabindex]) {
+a.view-saga:not([href]):not([tabindex]),
+a.view-digest:not([href]):not([tabindex]) {
   color: #0687f5; }
 
 a.view-date:not([href]):not([tabindex]):hover,
-a.view-saga:not([href]):not([tabindex]):hover {
+a.view-saga:not([href]):not([tabindex]):hover,
+a.view-digest:not([href]):not([tabindex]):hover {
   color: #ffffff; }
 
 ::selection {
@@ -243,11 +245,11 @@ nav {
 
 .about-image-dystopia,
 .about-image-happy {
-  display: none;
+  display: none !important;
   color: #b3b3b3; }
   .about-image-dystopia.active,
   .about-image-happy.active {
-    display: block; }
+    display: block !important; }
 
 .toggle-dystopia,
 .toggle-happy {
@@ -277,10 +279,12 @@ nav {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 .row-date,
-.row-saga {
+.row-saga,
+.row-digest {
   display: none; }
   .row-date.active,
-  .row-saga.active {
+  .row-saga.active,
+  .row-digest.active {
     display: flex; }
 
 button.btn-max {

@@ -228,16 +228,62 @@ $('.toggle-happy').on('click', function() {
 $('.view-date').on('click', function() {
   $('.view-date').addClass('active').addClass('btn-primary').removeClass('btn-outline-primary');
   $('.view-saga').removeClass('active').addClass('btn-outline-primary');
+  $('.view-digest').removeClass('active').addClass('btn-outline-primary');
   $('.row-date').addClass('active');
   $('.row-saga').removeClass('active');
+  $('.row-digest').removeClass('active');
 });
 
 $('.view-saga').on('click', function() {
   $('.view-saga').addClass('active').addClass('btn-primary').removeClass('btn-outline-primary');
   $('.view-date').removeClass('active').addClass('btn-outline-primary');
+  $('.view-digest').removeClass('active').addClass('btn-outline-primary');
   $('.row-saga').addClass('active');
   $('.row-date').removeClass('active');
+  $('.row-digest').removeClass('active');
 });
+
+$('.view-digest').on('click', function() {
+  $('.view-digest').addClass('active').addClass('btn-primary').removeClass('btn-outline-primary');
+  $('.view-date').removeClass('active').addClass('btn-outline-primary');
+  $('.view-saga').removeClass('active').addClass('btn-outline-primary');
+  $('.row-digest').addClass('active');
+  $('.row-date').removeClass('active');
+  $('.row-saga').removeClass('active');
+});
+
+/*
+ * GET parameters for the archives.
+ * https://stackoverflow.com/questions/19491336/how-to-get-url-parameter-using-jquery-or-plain-javascript
+ */
+
+var getUrlParameter = function getUrlParameter(sParam) {
+  var sPageURL = window.location.search.substring(1),
+    sURLVariables = sPageURL.split('&'),
+    sParameterName,
+    i;
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+    if (sParameterName[0] === sParam) {
+      return typeof sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+    }
+  }
+  return false;
+};
+
+var sort = getUrlParameter('sort');
+
+if (sort == 'date') {
+  $('.view-date').click();
+};
+
+if (sort == 'saga') {
+  $('.view-saga').click();
+};
+
+if (sort == 'digest') {
+  $('.view-digest').click();
+};
 
 
 

@@ -3,6 +3,7 @@ layout: post
 title: 'The Struggle for Meaning'
 date: 2020-04-19 12:34 -0500
 sagas: [covid, thoughts, art]
+digest: true
 ---
 
 ![The Sundered Electronicist, watercolor](/assets/images/the-sundered-electronicist.jpg)
@@ -86,7 +87,7 @@ Music communities are to me what churches are for others.
 
 ## Facing the Music & the Pandemic
 
-I'm never going to be famous. I'm never going to have a record deal. I'm never going to tour the world and play music for people in different countries. It isn't a lifestyle I want to live. And I don't deserve it. Others have devoted their entire lives to music. I haven't. I'm not special. I'm just a person who likes making art and who has had the privilege of sharing it with others. I've been further privileged to receive positive feedback.
+I'm not special. I'm just a person who likes making art and who has had the privilege of sharing it with others. I've been further privileged to receive positive feedback.
 
 (I've certainly received negative feedback, too. During one fateful performance in Wisconsin, the house crossfaded me out with Johnny Cash. I packed my shit up, blew off paying my tab, and cried on the entire drive home.)
 

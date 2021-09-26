@@ -3,6 +3,7 @@ layout: post
 title: 'The Sacred Underwriting of Your Life'
 date: 2021-04-23
 sagas: thoughts
+digest: true
 ---
 
 [Simon Sarris, writing for This Map is Mostly Water:](https://simonsarris.substack.com/p/stoicism-is-not-enough)

@@ -77,11 +77,13 @@ a.block-link-disable
     background: $grey
 
 a.view-date:not([href]):not([tabindex]),
-a.view-saga:not([href]):not([tabindex])
+a.view-saga:not([href]):not([tabindex]),
+a.view-digest:not([href]):not([tabindex])
   color: $blue
 
 a.view-date:not([href]):not([tabindex]):hover,
-a.view-saga:not([href]):not([tabindex]):hover
+a.view-saga:not([href]):not([tabindex]):hover,
+a.view-digest:not([href]):not([tabindex]):hover
   color: $white
 
 ::selection
@@ -300,11 +302,11 @@ nav
 
 .about-image-dystopia,
 .about-image-happy
-  display: none
+  display: none !important
   color: $lightGrey
 
   &.active
-    display: block
+    display: block !important
 
 .toggle-dystopia,
 .toggle-happy
@@ -365,7 +367,8 @@ nav
 // archives
 
 .row-date,
-.row-saga
+.row-saga,
+.row-digest
   display: none
 
   &.active
