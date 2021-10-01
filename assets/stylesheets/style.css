@@ -221,6 +221,7 @@ nav {
   .home .home-image,
   .home .home-image img {
     display: inline-block;
+    max-width: 500px;
     width: 100%; }
     .home .home-image a,
     .home .home-image img a {
