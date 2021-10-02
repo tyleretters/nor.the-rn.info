@@ -12,7 +12,7 @@ Week three; act three. I am not on a commuter train today, but I am at O'hare. I
 
 I'm headed "almost" home. I'm going to quarantine for three days in a crummy 2 star hotel until I can get a rapid PCR test. Testing on the road has been quite the experience. I've frequently shared my test results and adventures on social media.
 
-I am a testing junky. When was my last test? Where is my next test coming from? Gotta test today gotta test today... It was a nice thing to talk about with people, how to travel responsibily. Most folks were pretty suprised with the lengths I went to on my tour. I'm vaccinated. I wear a mask everywhere. I PCR every week. I rapid before I leave any domain.
+I am a testing junky. When was my last test? Where is my next test coming from? Gotta test today gotta test today... It was a nice thing to talk about with people, how to travel responsibly. Most folks were pretty suprised with the lengths I went to on my tour. I'm vaccinated. I wear a mask everywhere. I PCR every week. I rapid before I leave any domain.
 
 ---
 
@@ -37,7 +37,7 @@ Private.
 
 ![9/11 Memorial](/assets/images/sab-memorial.jpg)
 
-As frequent readers of Northern Information may be aware, 9/11 is an important aspect of my personal mythologies. In my layover in NYC I visit the memorial. Last time I was here it was still under constrcution. For some reason, I thought going to the memorial would give me closure. Everything would make sense and I could move on. Poof. Trauma gone.
+As frequent readers of Northern Information may be aware, 9/11 is an important aspect of my personal mythologies. In my layover in NYC I visit the memorial. Last time I was here it was still under construction. For some reason, I thought going to the memorial would give me closure. Everything would make sense and I could move on. Poof. Trauma gone.
 
 Nope.
 
