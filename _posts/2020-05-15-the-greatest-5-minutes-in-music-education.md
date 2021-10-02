@@ -3,7 +3,7 @@ layout: post
 title: 'The Greatest 5 Minutes in Music Education'
 date: 2020-05-15
 youtubeId: Gt2zubHcER4
-sagas: thoughts
+sagas: ['reflections']
 ---
 
 {% include youtube.html id=page.youtubeId %}

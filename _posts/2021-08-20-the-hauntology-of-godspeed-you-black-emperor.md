@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hauntology of Godspeed You! Black Emperor'
 date: 2021-08-20
-sagas: ['thoughts']
+sagas: ['reflections']
 ---
 
 I've been meaning to write this post for a long time but [TheLitCritGuy beat me to the punch](https://thehaunt.substack.com/p/soundtrack-to-the-end-of-history):

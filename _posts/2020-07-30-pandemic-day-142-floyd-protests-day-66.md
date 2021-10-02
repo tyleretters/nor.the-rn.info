@@ -2,7 +2,7 @@
 layout: post
 title: 'Pandemic Day 142 / Floyd Protests Day 66'
 date: 2020-07-30
-sagas: ['covid', 'thoughts']
+sagas: ['reflections', 'covid']
 ---
 
 A magnitude 4.2 earthquake woke us up today. I spent the first 32 years of my life in the midwest. There are no earthquakes in the midwest. This is a new experience for me. Though, according to my mother, I was in San Diego in the early 90s when a large earthquake hit. I have no recollection of this event.

@@ -2,7 +2,7 @@
 layout: post
 title: 'Rounding Errors'
 date: 2021-03-20 10:02 -0500
-sagas: ['thoughts']
+sagas: ['reflections']
 ---
 
 A collection of links and threads that demand pursuit // cannot be pursued.

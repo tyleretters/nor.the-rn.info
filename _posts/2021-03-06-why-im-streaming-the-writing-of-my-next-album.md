@@ -2,7 +2,7 @@
 layout: post
 title: "Why I'm Streaming the Making of My Next Album"
 date: 2021-03-06 10:54 -0600
-sagas: ['thoughts', 'mtech']
+sagas: ['reflections', 'mtech']
 ---
 
 I'm live streaming the making of my next album on [Twitch](https://twitch.tv/tyleretters).

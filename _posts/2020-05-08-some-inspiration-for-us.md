@@ -2,7 +2,7 @@
 layout: post
 title: 'Some Inspiration for Us'
 date: 2020-05-08
-sagas: thoughts
+sagas: ['reflections']
 ---
 
 ![Hill with Sunshine](/assets/images/some-inspiration-for-us.jpg)

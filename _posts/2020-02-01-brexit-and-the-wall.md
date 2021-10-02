@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Brexit and the Wall'
-date: 2020-02-01 10:21 -0600
-sagas: thoughts
+date: 2020-02-01
+sagas: ['reflections']
 ---
 
 ![Brexit](/assets/images/brexit-big-ben.png)

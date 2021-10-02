@@ -2,7 +2,7 @@
 layout: post
 title: 'The Struggle for Meaning'
 date: 2020-04-19 12:34 -0500
-sagas: [covid, thoughts, art]
+sagas: ['covid', 'reflections', 'art']
 digest: true
 ---
 

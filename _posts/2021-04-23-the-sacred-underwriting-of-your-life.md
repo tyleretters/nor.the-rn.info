@@ -2,7 +2,7 @@
 layout: post
 title: 'The Sacred Underwriting of Your Life'
 date: 2021-04-23
-sagas: thoughts
+sagas: ['reflections']
 digest: true
 ---
 

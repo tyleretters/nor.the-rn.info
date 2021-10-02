@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'The EOY Info Sessions'
-date: 2020-12-29 13:25 -0600
-sagas: thoughts
+date: 2020-12-29
+sagas: ['reflections']
 ---
 
 ![Summer, 1974](/assets/images/summer-1974.png)

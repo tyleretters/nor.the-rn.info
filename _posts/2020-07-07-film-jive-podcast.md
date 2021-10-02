@@ -2,7 +2,7 @@
 layout: post
 title: 'Film Jive Podcast'
 date: 2020-07-07
-sagas: ['thoughts', 'covid']
+sagas: ['reflections', 'covid']
 ---
 
 ![Film Jive](/assets/images/film-jive.jpg)

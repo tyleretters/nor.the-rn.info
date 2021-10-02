@@ -2,7 +2,7 @@
 layout: post
 title: 'Towards the Polymyth'
 date: 2020-09-15
-sagas: thoughts
+sagas: ['reflections']
 digest: true
 ---
 

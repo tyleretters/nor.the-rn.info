@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Fear Imm(a/i)nence"
-sagas: thoughts
+sagas: ['reflections']
+date: 2019-03-03
 digest: true
 ---
 
