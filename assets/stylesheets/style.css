@@ -1,7 +1,4 @@
 @charset "UTF-8";
-body {
-  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
-
 h1,
 h2 {
   margin-top: 20px; }
@@ -181,12 +178,6 @@ nav {
     nav ul a:active,
     nav ul a:hover {
       text-decoration: none; }
-      nav ul a span,
-      nav ul a:link span,
-      nav ul a:visited span,
-      nav ul a:active span,
-      nav ul a:hover span {
-        font-style: italic; }
 
 @media (max-width: 767.98px) {
   nav {
