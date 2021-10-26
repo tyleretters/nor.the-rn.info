@@ -15,7 +15,7 @@ Fortune favors the bold!
 
 Jeremy Bentham, utilitarianist, would be an interesting one to ask about this. A common thought experiment amongst utilitarians and their critics is, "Would you sacrifice the life of a human child to save the planet?" My refrain (until today) has been, "No, but I would destroy whatever malevolent thing would strike such a proposition."
 
-There's a new question on the block now now: "Would you sacrifice the life of a human child so you could *buy* the safety of the world?"
+There's a new question on the block now: "Would you sacrifice the life of a human child so you could *buy* the safety of the world?"
 
 Burke, of course, has no interest in buying the safety of the world, or otherwise. He's selling the lives of Ripley and Newt for a personal gain.
 
