@@ -1,6 +1,36 @@
 items:
 
 - order: 1
+  name: 'As "Sidereal Lobby"'
+  dates: 2021 - Present
+  url: https://sidereallobby.bandcamp.com
+  left-class: col-md-3
+  right-class: col-md-9
+  release-class: col-md-6
+  content: |
+    APE SHALL NOT KILL APE.
+
+  releases:
+
+    - order: 3
+      image: fciv.jpg
+      title: FCIV
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
+
+    - order: 2
+      image: deep-state-music.jpg
+      title: Deep State Music
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
+
+    - order: 1
+      image: beaches.jpg
+      title: Beaches
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
+
+- order: 2
   name: 'As "STUXNET"'
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
@@ -54,7 +84,7 @@ items:
       url: https://distrokid.com/hyperfollow/stuxnet/carrier-demo
       year: 2021
 
-- order: 2
+- order: 3
   name: 'As "Northern Information"'
   dates: 2020
   url: https://northerninformation.bandcamp.com
@@ -87,7 +117,7 @@ items:
       url: https://northerninformation.bandcamp.com/album/the-arecibo-lamentations
       year: 2020
 
-- order: 3
+- order: 4
   name: '"The First Arcologists"'
   dates: 2020
   url: https://goodglassrecords.bandcamp.com/album/the-first-arcologists
@@ -109,7 +139,7 @@ items:
       url: https://goodglassrecords.bandcamp.com/album/the-first-arcologists
       year: 2020
 
-- order: 4
+- order: 5
   name: 'As "They Became What They Beheld"'
   dates: 2019
   url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
@@ -129,7 +159,7 @@ items:
       url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
       year: 2019
 
-- order: 5
+- order: 6
   name: 'As "Synergy Beat"'
   dates: 2018
   url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
@@ -147,7 +177,7 @@ items:
       url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
       year: 2018
 
-- order: 6
+- order: 7
   name: 'As "the northern information movement"'
   dates: 2012 - 2017
   url: https://northerninformation.bandcamp.com
@@ -251,7 +281,7 @@ items:
       url: https://connectednesslocus.bandcamp.com/album/as-quippolous-codes-quietly-count
       year: 2009
 
-- order: 7
+- order: 8
   name: 'As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"'
   dates: 2005 - 2009
   url: https://ecicefis.bandcamp.com
