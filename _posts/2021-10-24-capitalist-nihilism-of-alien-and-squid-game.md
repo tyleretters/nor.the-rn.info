@@ -77,7 +77,7 @@ Or perhaps they too, like everyone in Squid Game, is drowning in debt?
 
 ---
 
-## "..Yes, but everyone else gets more than us."
+## "... Yes, but everyone else gets more than us."
 
 ![Burke](/assets/images/capitalist-nihilism-7.jpg)
 
