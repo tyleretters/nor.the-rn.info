@@ -7,7 +7,6 @@ image_path: /assets/images/
 permalink: pretty
 sort_by: year, month
 order: reverse
-google_analytics: UA-22848601-3
 markdown: kramdown
 theme: minima
 plugins:
