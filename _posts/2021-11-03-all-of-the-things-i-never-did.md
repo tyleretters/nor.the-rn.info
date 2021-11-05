@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'All the Things I Never Did'
+title: 'All of the Things I Never Did'
 date: 2021-11-03
 sagas: ['reflections']
 ---
