@@ -13,6 +13,9 @@ code,
 pre {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
+article {
+  max-width: 800px; }
+
 a,
 a:link,
 a:visited,
