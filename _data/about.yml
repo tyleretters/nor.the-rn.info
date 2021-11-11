@@ -1,72 +1,21 @@
 items:
 
-
 - order: 1
-  icon: fas fa-moon fa-fw
-  title: Sidereal Lobby
-  url: https://sidereallobby.com
-
-- order: 2
-  icon: fas fa-bolt fa-fw
-  title: Flash Crash
-  url: https://flashcrash.net
-
-- order: 3
-  icon: fas fa-globe fa-fw
-  title: Map Corps
-  url: https://mapcorps.net
-
-- order: 4
-  icon: fas fa-skull-crossbones fa-fw
-  title: P2P Pirate Radio
-  url: https://llllllll.co/t/norns-study-group-project-p2p-pirate-radio/49013/7
-
-- order: 5
-  icon: fas fa-code-branch fa-fw
-  title: gemini://tilde.club/~tse
-  url: gemini://tilde.club/~tse
-
-- order: 6
-  icon: fas fa-bug fa-fw
-  title: STUXNET
-  url: https://stuxnet.me
-
-- order: 7
   icon: far fa-envelope fa-fw
   title: tyler@etters.co
   url: mailto:tyler@etters.co
 
-- order: 8
+- order: 2
   icon: fab fa-instagram fa-fw
   title: "@tyleretters"
   url: https://instagram.com/tyleretters
 
-- order: 9
-  icon: fab fa-twitch fa-fw
-  title: Twitch
-  url: https://twitch.tv/tyleretters
-
-- order: 10
-  icon: fab fa-youtube fa-fw
-  title: YouTube
-  url: https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg
-
-- order: 11
-  icon: fas fa-heart fa-fw
-  title: My Love
-  url: https://etters.co
-
-- order: 12
+- order: 3
   icon: fab fa-github fa-fw
   title: "@tyleretters"
   url: https://tyleretters.github.io
 
-- order: 13
+- order: 4
   icon: fas fa-music fa-fw
   title: Intertext
   url: https://intertext.bandcamp.com
-
-- order: 14
-  icon: fas fa-globe fa-fw
-  title: Highland
-  url: https://highlandsolutions.com
