@@ -9,13 +9,3 @@ items:
   icon: fab fa-instagram fa-fw
   title: "@tyleretters"
   url: https://instagram.com/tyleretters
-
-- order: 3
-  icon: fab fa-github fa-fw
-  title: "@tyleretters"
-  url: https://tyleretters.github.io
-
-- order: 4
-  icon: fas fa-music fa-fw
-  title: Intertext
-  url: https://intertext.bandcamp.com
