@@ -6,7 +6,7 @@ permalink: /about/
 ---
 My name is Tyler Etters and I am a polymath-artist. I use "polymath" to describe my curiosity and proficiency with [software development](https://github.com/tyleretters), graphic/UX/product/conceptual design, community organizing, leadership, consulting, teaching, and strategy. As an artist, my practice incorporates electronic music, new media, design, writing, photography, and film. I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 
-I was born and raised in the American midwest but now I live in California with [Sage](https://etters.co). Her and I have been sharing our lives together since 2010. I'm often reading fiction, theory, and science. I love to travel and be on the stage but most of my time is spent:
+I was born and raised in the American midwest but now I live in California with [Sage](https://etters.co). Her and I have been sharing our lives together since 2010. I'm often reading fiction, theory, and science. I love travel, tattoos, motorcycling, celestial phenomenon (like eclipses), and to be on the stage. During the pandemic, most of my time has been spent:
 
 - Serving as Vice President at [Highland](https://highlandsolutions.com).
 - Teaching and sharing at [Map Corps](https://mapcorps.net) and the [monome community](https://llllllll.co).
