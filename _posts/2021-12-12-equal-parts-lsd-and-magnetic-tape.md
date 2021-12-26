@@ -4,8 +4,8 @@ title: 'Equal Parts LSD and Magnetic Tape'
 date: 2021-12-12
 sagas: ['reflections']
 ---
-
 [Erik Davis, writing for Burning Shore:](https://www.burningshore.com/p/beatles-and-blotters)
+<!--x-->
 
 > In this sense, nostalgia is just another form of mediation—another technique of circulating images and melodies and stories through the portals of time. That’s part of the paradox of the Beatles: while making fantastically novel and innovative music, they were also the most mediated thing you could imagine, saturated inside and out with signs and frames and codes.
 >

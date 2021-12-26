@@ -4,8 +4,8 @@ title: 'The Lost Roll'
 date: 2019-06-27 06:26 -0500
 sagas: art
 ---
-
 I can't believe it has been six years since I shot film. I used to go out just about every week. I forgot how much I enjoyed it. Each roll became something of a time capsule and, like my tattoos, helped me move through time.
+<!--x-->
 
 Years ago, I used to work in the photo department at Sam's Club so I had easy access to developing and processing my own film. Not to mention I was going to Columbia College Chicago and had access to a fantastic dark room.
 

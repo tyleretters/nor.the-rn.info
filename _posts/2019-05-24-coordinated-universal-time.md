@@ -4,8 +4,8 @@ title: 'Coordinated Universal Time'
 date: 2019-05-24
 sagas: art
 ---
-
 As I type, episode one of [Coordinated Universal Time](https://apodcastfornow.com) is merrily propagating its little way through the RSS mycelium of the internet. We uploaded it to [Anchor.fm](https://anchor.fm/apodcastfornow) a couple days ago.
+<!--x-->
 
 On April 3rd, I shared an idea in the Locutory:
 

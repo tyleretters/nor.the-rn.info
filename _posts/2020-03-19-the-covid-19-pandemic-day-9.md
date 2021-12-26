@@ -4,10 +4,10 @@ title: 'The COVID-19 Pandemic, Day 9'
 date: 2020-03-19 09:04 -0500
 sagas: covid
 ---
-
 ![Self Isolation](/assets/images/self-isolation.jpg)
 
 Sage and I have been self isolating all week. I left the house for the first time yesterday to make copies of keys and mail them to my mom. She is going to rescue my plants. I do not expect to return to Chicago for months.
+<!--x-->
 
 Leaving the house yesterday was harrowing. My journey took me to no less than three locksmiths, one hardware store, the post office, and a coffee shop to get beans.
 

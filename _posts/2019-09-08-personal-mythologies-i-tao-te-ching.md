@@ -4,13 +4,13 @@ title: 'Personal Mythologies I: Tao Te Ching'
 date: 2019-09-08 13:50 -0500
 sagas: mythologies
 ---
-
 > The more clever and crafty the men,  
 > The oftener strange things happen.  
 > 
 > *Tao Te Ching, Ch. 57, John C. H. Wu Translation*
 
 Ain't it the truth? My anxiety of the news on any given day is allayed by these two lines.
+<!--x-->
 
 [We teleported a photon to a satellite?](https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/) Of course we did.
 

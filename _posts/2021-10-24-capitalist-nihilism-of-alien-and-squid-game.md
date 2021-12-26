@@ -4,10 +4,10 @@ title: 'The Capitalist Nihilism of Alien & Squid Game'
 date: 2021-10-24
 sagas: ['reflections']
 ---
-
 ![Burke, Aliens](/assets/images/capitalist-nihilism-1.jpg)
 
 If sacrificing a child for personal monetary gain is not an example of capitalist nihilism, I don't know what is.
+<!--x-->
 
 This is exactly what Carter J. Burke (Paul Reiser) in Aliens (1986), attempts to do when he locks Ripley (Sigourney Weaver) and Newt (Carrie Henn) in the medbay with a facehugger. He plans to return with their impregnated bodies and receive a fat Company bonus check. A few shots linger on his haunted face as he reckons with the decision. But of course he flips the camera off and tries not to think about it.
 

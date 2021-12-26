@@ -4,8 +4,8 @@ title: 'Pandemic Day 126 / Floyd Protests Day 50'
 date: 2020-07-14
 sagas: covid
 ---
-
 [Al Tenhundfeld writing on Simple Thread's blog](https://www.simplethread.com/your-team-is-smoldering/):
+<!--x-->
 
 > At work, your team is smoldering. At home, your family is smoldering. Your friends are smoldering. Everyone you know and love and care about is smoldering. As a nation, we are smoldering.
 >

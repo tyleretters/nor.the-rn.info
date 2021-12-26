@@ -4,10 +4,10 @@ title: 'The COVID-19 Pandemic, Day 2'
 date: 2020-03-12 18:30 -0500
 sagas: covid
 ---
-
 ![Chicago, March 12](/assets/images/covid-19-pandemic-day-2.jpg)
 
 Suddenly, reality seems real again.
+<!--x-->
 
 WHO declared COVID-19 a pandemic yesterday. Now, the air is charged with something. To some - heck to a former *me* - this charge would register as fear and anxiety. But now it registers as life. I am saddened by those who have died. It is tragic. But through this tragedy, things matter again. Things seem possible again. I suppose all it took was March Madness being cancelled to snap us out of the capitalistic reveries of the 21st century.
 

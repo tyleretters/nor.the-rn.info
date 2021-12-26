@@ -4,10 +4,10 @@ title: 'The COVID-19 Pandemic, Day 25'
 date: 2020-04-04 11:19 -0500
 sagas: covid
 ---
-
 ![X Marks the Distance](/assets/images/x-marks-the-distance.jpg)
 
 Time feels funny. Slow burn perpetual crisis. Asymmetric anguish: internet, grocer, family, self. Back up the chain. All plans waylaid. The sudden cancelation of the future. How far forward should we clear our calendars?
+<!--x-->
 
 Are we just getting started or are we just starting to get it?
 

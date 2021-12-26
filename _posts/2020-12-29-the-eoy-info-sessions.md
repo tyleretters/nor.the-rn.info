@@ -4,10 +4,10 @@ title: 'The EOY Info Sessions'
 date: 2020-12-29
 sagas: ['reflections']
 ---
-
 ![Summer, 1974](/assets/images/summer-1974.png)
 
 I tire of reading about this year, thinking about this year, considering what this year "means" in the broader historical context of this bewildering project known as The Human Race. But, alas, it would be unfair to my future self to not document my lived experience while inhabiting this particular fold of temporality.
+<!--x-->
 
 <iframe src="https://open.spotify.com/embed/playlist/12uTS1AQt209R1QI8KBmp8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

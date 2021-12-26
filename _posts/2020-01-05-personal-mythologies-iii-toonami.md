@@ -5,10 +5,10 @@ date: 2020-01-05
 youtubeId: SpTe49f5b1I
 sagas: mythologies
 ---
-
 {% include youtube.html id=page.youtubeId %}
 
 When I was a boy, I watched a lot of [Toonami](https://en.wikipedia.org/wiki/Toonami).
+<!--x-->
 
 Toonami was a programming block on Cartoon Network that specialzed in Japense imports. It was some of my first exposure to anime, and by extension Japanese culture. I spent many years thinking I was literally the only person in the USA who knew about anime.
 

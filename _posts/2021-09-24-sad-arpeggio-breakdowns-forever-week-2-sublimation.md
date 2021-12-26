@@ -5,10 +5,10 @@ date: 2021-09-24
 sagas: ['sab']
 digest: true
 ---
-
 ![Graffiti](/assets/images/sab-graffiti.jpg)
 
 It is important for me to see the city. [Last I was here](/2020/03/12/the-covid-19-pandemic-day-2/) things were quite grim. That paranoid, phantom city haunted me.
+<!--x-->
 
 But Chicago has healed, adapted, moved on. I'm ashamed I ever doubted it.
 

@@ -4,8 +4,8 @@ title: 'An Unorthodox Protocol for Casting a Meaningful Vote'
 date: 2019-08-01
 sagas: ['reflections']
 ---
-
 From Greg Graffin's Punk Manifesto:
+<!--x-->
 
 >1. Determine whether you care about the general well-being of society (If you do not, skip to step 7, if you do, continue on)
 >2. Determine whether you are a privileged citizen (If you are not, then proceed to step number 6, if you are, read steps 3, 4, and 5 only)

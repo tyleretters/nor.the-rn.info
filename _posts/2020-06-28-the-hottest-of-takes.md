@@ -5,10 +5,10 @@ date: 2020-06-28
 sagas: ['thoughts', 'covid']
 digest: true
 ---
-
 ![Europa & Jupiter](/assets/images/europa-jupiter.jpg)
 
 Every fucking second we waste fighting (and writing blogs) about race, politics, gender, religion, and sex is a second we will never get back.
+<!--x-->
 
 I write from a place of privilege. I'm white, skinny, cis, hetero. I've had a great life. I've always had food to eat and a roof over my head. My experience with police officers is pretty firmly relegated to being chased out of nature preserves after curfew when I was 13.
 

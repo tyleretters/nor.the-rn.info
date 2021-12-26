@@ -16,3 +16,4 @@ feed:
 jekyll_compose:
     auto_open: true
 include: ['_pages']
+excerpt_separator: <!--x-->

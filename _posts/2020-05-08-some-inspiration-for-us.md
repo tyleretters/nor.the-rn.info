@@ -4,10 +4,10 @@ title: 'Some Inspiration for Us'
 date: 2020-05-08
 sagas: ['reflections']
 ---
-
 ![Hill with Sunshine](/assets/images/some-inspiration-for-us.jpg)
 
 Brian Crabtree via the [monome](https://monome.org) newsletter:
+<!--x-->
 
 > we hope you are staying healthy and positive in this unsettling sea of new normals. as many of the places we live start to resemble failed states we believe that imagination is more important than ever, making art is brave and revolutionary, and how we process this reality just might give us a better map for the one we'd like to create.
 

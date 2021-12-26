@@ -8,6 +8,7 @@ digest: true
 ![Glass](/assets/images/sab-glass.jpg)
 
 "Can I bum one?" I ask Uncle Wayne.
+<!--x-->
 
 I don't smoke. Well, I only smoke if I'm drunk and out on the town with the boys, or - apparently - at funerals of my closest loved ones. He obliges and passes me a Marlboro 100.
 

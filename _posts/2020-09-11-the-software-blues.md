@@ -4,8 +4,8 @@ title: 'The Software Blues'
 date: 2020-09-11
 sagas: ['events', 'mtech', 'art']
 ---
-
 I'm going to be giving a talk for [Babycastles](https://babycastles.com) on September 20th.
+<!--x-->
 
 ![The Software Blues](/assets/images/the-software-blues.png)
 

@@ -4,8 +4,8 @@ title: 'Personal Mythologies II: 9/11'
 date: 2019-09-11 05:00 -0500
 sagas: mythologies
 ---
-
 Where were you when it happened?
+<!--x-->
 
 > During first period English class, our social studies teacher popped his head into the room and announced, "A plane has hit the world trade center," and promptly disappeared like a prairie gopher. We were dumbfounded. What is the World Trade Center? Why did a plane hit it?
 >

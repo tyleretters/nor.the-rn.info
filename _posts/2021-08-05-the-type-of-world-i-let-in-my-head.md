@@ -4,8 +4,8 @@ title: 'The Type of World I Let in My Head'
 date: 2021-08-05
 sagas: ['thoughts', 'covid']
 ---
-
 This is a tale about a piece of bloody tissue and an apartment complex.
+<!--x-->
 
 Three days ago I noticed a piece of bloody tissue in the second level hallway. I did not pick it up. First: gross. Second: biohazard. Third: we are still living in a pandemic (yes, I continue to keep count: it is day 513.) Hopefully the responsible party was taking the trash down and they'd recognize their own blood on the way back home.
 

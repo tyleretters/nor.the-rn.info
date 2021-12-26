@@ -4,10 +4,10 @@ title: 'Brexit and the Wall'
 date: 2020-02-01
 sagas: ['reflections']
 ---
-
 ![Brexit](/assets/images/brexit-big-ben.png)
 
 Just 31 days into the new decade, at 11:00PM GMT, Britain left the European Union. Recorded bells from Big Ben - currently under renovation - pealed in the new era. Only time will tell what comes next, what this all means.
+<!--x-->
 
 ![Brexit](/assets/images/brexit-celebration.png)
 

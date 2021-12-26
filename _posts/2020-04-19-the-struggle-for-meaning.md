@@ -5,11 +5,10 @@ date: 2020-04-19 12:34 -0500
 sagas: ['covid', 'reflections', 'art']
 digest: true
 ---
-
 ![The Sundered Electronicist, watercolor](/assets/images/the-sundered-electronicist.jpg)
 *The Sundered Electronicist by Tyler Etters, watercolor, 2020*
 
-The great struggles of my life have always been near the peak of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). To quote Wikipedia:
+The great struggles of my life have always been near the peak of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).<!--x--> To quote Wikipedia:
 
 > "What a man can be, he must be." This quotation forms the basis of the perceived need for self-actualization. This level of need refers to the realization of one's full potential. Maslow describes this as the desire to accomplish everything that one can, to become the most that one can be.
 

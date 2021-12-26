@@ -9,6 +9,7 @@ tags: mtech
 ![norns community home](/assets/images/norns-community-home.jpg)
 
 This is a visual account of building [https://norns.community](https://norns.community). It is divded into 4 sections:
+<!--x-->
 
 1. Overview
 2. The Design Challenge

@@ -6,6 +6,7 @@ sagas: ['reflections']
 digest: true
 ---
 We are drawn to the monomyth because it makes sense and our lives simply don't. We're afraid of our own stories because they are unlike the stories we're familiar with. These two forces create a feedback loop.
+<!--x-->
 
 The monomyth is the "only story" there is to tell. It is the hero's journey: a step into the unknown, meeting a mentor, the darkest hour, then triumph, the return home. 
 
