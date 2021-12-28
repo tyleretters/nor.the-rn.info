@@ -16,10 +16,16 @@ body
 
 h1,
 h2
-  margin-top: 20px
+  margin-top: 0
+
 
 h1.page-title
+  margin-top: 20px
   color: $lightGrey
+
+@media (max-width: 575.98px)
+  h1.page-title
+    margin-top: 0
 
 code,
 pre
@@ -133,7 +139,8 @@ pre
 
 .upper em,
 .lower em,
-footer p
+.footer,
+.light-grey
   color: $lightGrey
 
 
@@ -196,20 +203,8 @@ main
 // nav
  
 nav
-  padding: 25px 15px 1rem 15px
+  padding: 15px
   align-items: baseline
-
-  .site-logo a
-    display: block
-    width: 75px
-    height: 35px
-    margin-bottom: 10px
-
-  .site-logo a:hover .ni
-    fill: $blue
-
-  .ni
-    fill: $lightGrey
 
   ul
     margin: 0
@@ -228,9 +223,9 @@ nav
     padding: 5px
 
   nav ul
-    -webkit-columns: 2
-    -moz-columns: 2
-    columns: 2
+    -webkit-columns: 3
+    -moz-columns: 3
+    columns: 3
 
 // blog
 
@@ -248,57 +243,6 @@ nav
       margin: 0 0 1rem 0
 
 
-
-
-// home
-
-.home
-  background: url("../images/bg.jpg") no-repeat center center fixed
-  background-color: $black
-  background-size: cover
-
-  nav
-    
-    .ni
-      fill: $white
-    
-    a
-      text-decoration: none
-      color: $white
-
-    a:hover
-      color: $blue
-
-  .home-image
-    margin-top: 15px
-
-  .home-image,
-  .home-image img
-    display: inline-block
-    max-width: 500px
-    width: 100%
-
-    a
-      display: block
-      border: 10px solid transparent
-      margin: 0
-      padding: 0
-    
-    a:hover, a:active
-      border: 10px solid $blue
-
-@media (max-width: 767.98px)
-
-  .home .col-md-10
-    padding: 0
-
-    .container-fluid
-      padding: 0
-
-.container-fluid.no-gutters
-  padding-top: 25px
-  padding-left: 0
-  padding-right: 0
 
 // about
 
@@ -330,6 +274,7 @@ nav
 
 
 // travel
+
 .travel-item
   
   h2
@@ -342,28 +287,17 @@ nav
 
 
 
-// books
-
-// .book-title
-//   text-align: right
-
-// @media (max-width: 767.98px)
-
-//   .book-title
-//     text-align: left
-
-
 // playlists
 
 .playlists ol
   margin-left: 0
   padding-left: 0
 
-
 // discography
 
 .table-discography
   font-family: $monospace
+
 
 
 // archives

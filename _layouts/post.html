@@ -7,10 +7,10 @@ layout: default_blog
   </div>
 </div>
 <div class="row mb-5">
-  <div class="col">
+  <div class="col col-lg-8">
     <article>
       <h1>{{ page.title }}</h1>
-      <time>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ page.date | date: date_format }}</time>
+      <time>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ page.date | date: date_format }}</time> · <a href="/feed.xml">XML</a> 
       <hr>
       <div class="content img-link img-100">
         {{ page.content }}
@@ -18,21 +18,15 @@ layout: default_blog
     </article>
   </div>
 </div>
-<div class="row mb-2">
-  <div class="col">
-    <h2>More Posts</h2>
-    <hr>
-  </div>
-</div>
 <div class="row mb-5">
-  <div class="col-md-6 later-post">
+  <div class="col col-lg-4 later-post">
     {% if page.next.url %}
       <a href="{{ page.next.url }}" class="block-link">&larr; {{ page.next.title }}</a>
     {% else %}
       <a href="/2009/11/08/swing-state" class="block-link">&larr; To The Beginning</a>
     {% endif %}
   </div>
-  <div class="col-md-6 earlier-post">
+  <div class="col col-lg-4 earlier-post">
     {% if page.previous.url %}
       <a href="{{ page.previous.url }}" class="block-link">{{ page.previous.title }} &rarr;</a>
     {% else %}

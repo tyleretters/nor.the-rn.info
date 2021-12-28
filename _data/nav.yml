@@ -1,73 +1,46 @@
 items:
 
-- order: 1
-  name: Blog
-  emoji: 📓
-  short-name: Blog
-  url: /blog
-
-- order: 2
-  name: Music
-  emoji: 🔊
+- name: Music
+  emoji: 💿
   short-name: Music
   url: /music
 
-- order: 3
-  name: Software
+- name: Software
   emoji: 💾
   short-name: Software
   url: /software
 
-- order: 4
-  name: Projects
+- name: Projects
   emoji: 🔬
   short-name: Projects
   url: /projects
 
-- order: 5
-  name: About 
+- name: About 
   emoji: 🧬
   short-name: About
   url: /about
 
-- order: 6
-  name: Related & Recommended
+- name: Related & Recommended
   emoji: 🌿
   short-name: Links
   url: /related-and-recommended
 
-- order: 7
-  name: Book Reviews 
+- name: Book Reviews 
   emoji: 📚
   short-name: Books
   url: /book-reviews
 
-- order: 8
-  name: Travel
+- name: Travel
   emoji: 🗺️
   short-name: Travel
   url: /travel
 
-- order: 9
-  name: My Life in Playlists
+- name: My Life in Playlists
   emoji: 🎧
   short-name: Playlists
   url: /my-life-in-playlists
 
-- order: 10
-  name: Discography
-  emoji: 💿
-  short-name: Discography
-  url: /discography
-
-- order: 11
-  name: Archives
+- name: Archives
   emoji: 📂
   short-name: Archives
   url: /archives
-
-- order: 12
-  name: Atom Feed
-  emoji: 🗿
-  short-name: Feed
-  url: /atom-feed

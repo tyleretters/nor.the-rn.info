@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-subtitle: 
 permalink: /about/
+subtitle: 
 ---
 My name is Tyler Etters and I am a polymath-artist. I use "polymath" to describe my curiosity and proficiency with [software development](https://github.com/tyleretters), graphic/UX/product/conceptual design, community organizing, leadership, consulting, teaching, and strategy. As an artist, my practice incorporates electronic music, new media, design, writing, photography, and film. I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 

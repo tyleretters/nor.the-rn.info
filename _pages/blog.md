@@ -1,6 +1,7 @@
 ---
-layout: blog
+layout: redirect
 title: Blog
-subtitle:
 permalink: /blog/
+redirect_to: /
+subtitle:
 ---

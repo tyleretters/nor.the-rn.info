@@ -1,4 +1,6 @@
 ---
-layout: default_home
+layout: blog
+title: Blog
+subtitle:
+permalink: /
 ---
-.
