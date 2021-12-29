@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Third Patch'
+title: My Third Patch
 date: 2020-06-17
 sagas: ['modular', 'mtech']
 ---

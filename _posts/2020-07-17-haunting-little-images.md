@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Haunting Little Images'
-date: 2020-07-17 17:08 -0500
-sagas: covid
+title: Haunting Little Images
+date: 2020-07-17
+sagas: ['covid']
 ---
 [Peter C. Baker, writing for the Guardian](https://www.theguardian.com/world/2020/mar/31/how-will-the-world-emerge-from-the-coronavirus-crisis):
 <!--x-->

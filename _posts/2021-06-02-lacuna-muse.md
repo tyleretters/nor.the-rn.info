@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Lacuna / Muse'
+title: Lacuna / Muse
 date: 2021-06-02
-sagas: ['reflections']
+sagas: ['wildcard']
 ---
 According to dictionary.com:
 <!--x-->

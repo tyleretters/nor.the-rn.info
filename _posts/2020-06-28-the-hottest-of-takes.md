@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Hottest of Takes'
+title: The Hottest of Takes
 date: 2020-06-28
 sagas: ['thoughts', 'covid']
 digest: true

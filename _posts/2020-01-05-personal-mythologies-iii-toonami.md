@@ -2,10 +2,9 @@
 layout: post
 title: 'Personal Mythologies III: Toonami'
 date: 2020-01-05
-youtubeId: SpTe49f5b1I
-sagas: mythologies
+sagas: ['mythologies']
 ---
-{% include youtube.html id=page.youtubeId %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpTe49f5b1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When I was a boy, I watched a lot of [Toonami](https://en.wikipedia.org/wiki/Toonami).
 <!--x-->

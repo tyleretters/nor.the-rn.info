@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Resistor"
+title: The Resistor
 date: 2017-06-28
-sagas: events
+sagas: ['events']
 ---
 [![The Resistor](/assets/images/2017-07-14.jpg)](https://www.facebook.com/events/242495859571819/)
 

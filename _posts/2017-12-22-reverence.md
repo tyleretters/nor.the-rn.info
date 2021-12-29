@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "reverence"
-date:   2017-12-22
-sagas: releases
+title: reverence
+date: 2017-12-22
+sagas: ['releases']
 ---
 [![reverence](/assets/images/reverence.jpg)](https://northerninformation.bandcamp.com/album/reverence)
 

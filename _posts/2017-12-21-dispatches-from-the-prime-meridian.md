@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "dispatches from the prime meridian"
-date:   2017-12-21
-sagas: releases
+title: dispatches from the prime meridian
+date: 2017-12-21
+sagas: ['releases']
 ---
 [![dispatches from the prime meridian](/assets/images/dispatches-from-the-prime-meridian.jpg)](https://northerninformation.bandcamp.com/album/dispatches-from-the-prime-meridian)
 

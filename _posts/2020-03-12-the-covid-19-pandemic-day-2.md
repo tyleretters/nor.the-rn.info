@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'The COVID-19 Pandemic, Day 2'
-date: 2020-03-12 18:30 -0500
-sagas: covid
+title: The COVID-19 Pandemic, Day 2
+date: 2020-03-12
+sagas: ['covid']
 ---
 ![Chicago, March 12](/assets/images/covid-19-pandemic-day-2.jpg)
 

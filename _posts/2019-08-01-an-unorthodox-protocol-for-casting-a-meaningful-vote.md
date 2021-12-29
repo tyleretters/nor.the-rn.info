@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'An Unorthodox Protocol for Casting a Meaningful Vote'
+title: An Unorthodox Protocol for Casting a Meaningful Vote
 date: 2019-08-01
-sagas: ['reflections']
+sagas: ['wildcard']
 ---
 From Greg Graffin's Punk Manifesto:
 <!--x-->

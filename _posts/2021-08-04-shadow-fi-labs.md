@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shadow Fi Labs'
+title: Shadow Fi Labs
 date: 2021-08-04
 sagas: ['mtech', 'modular', 'thoughts']
 ---

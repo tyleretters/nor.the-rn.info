@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Thus the Future Must Be Salvaged From the Debris and Noise of Collapse'
+title: Thus the Future Must Be Salvaged From the Debris and Noise of Collaps
 date: 2021-11-03
-sagas: ['reflections']
+sagas: ['wildcard']
 ---
 From [Soundtrack To The End of History Part Two](https://thehaunt.substack.com/p/soundtrack-to-the-end-of-history-28f):
 <!--x-->

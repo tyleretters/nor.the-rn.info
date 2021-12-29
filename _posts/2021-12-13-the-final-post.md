@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Final Post"
+title: The Final Post
 date: 2021-12-13
-sagas: reflections
+sagas: ['wildcard']
 ---
 Whenever a social media user dies, there is exactly one final post in their short-term memory.
 

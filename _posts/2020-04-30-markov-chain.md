@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Markov Chain'
+title: Markov Chain
 date: 2020-04-30
-sagas: mtech
+sagas: ['mtech']
 ---
 ![Markov Chains](/assets/images/markov-chains.png)
 

@@ -3,7 +3,6 @@ email: tyler@etters.co
 description: Northern Information is the abstraction of polymath-artist Tyler Etters.
 baseurl: /
 url: https://nor.the-rn.info
-image_path: /assets/images/
 permalink: pretty
 sort_by: year, month
 order: reverse
@@ -11,6 +10,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 feed:
   path: feed.xml
 jekyll_compose:

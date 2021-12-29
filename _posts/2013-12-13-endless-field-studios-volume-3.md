@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "a certain darkness, first snow"
+title: a certain darkness, first snow
 date: 2013-12-13
-sagas: releases
+sagas: ['releases']
 ---
 [![Endless Field Studios, Volume 3](/assets/images/endless-field-studios-volume-3.jpg)](https://endlessfieldstudios.bandcamp.com/album/endless-field-studios-volume-3)
 

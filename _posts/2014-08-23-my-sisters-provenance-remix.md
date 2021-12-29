@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "my sisters (provenance remix)"
+title: my sisters (provenance remix)
 date: 2014-08-23
-sagas: releases
+sagas: ['releases']
 ---
 ![my sisters (provenance remix)](/assets/images/my-sisters-provenance-remix.jpg)
 

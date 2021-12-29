@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Software Blues'
+title: The Software Blues
 date: 2020-09-11
 sagas: ['events', 'mtech', 'art']
 ---

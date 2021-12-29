@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "the #shadow_fi trilogy"
+title: 'the #shadow_fi trilogy'
 date: 2014-01-15
-sagas: releases
+sagas: ['releases']
 ---
 [![the #shadow_fi trilogy](/assets/images/the-shadow-fi-trilogy.jpg)](https://open.spotify.com/artist/6sbjf88uIA5dFemPeCamJa)
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "We Are Drawn to the Monomyth"
+title: We Are Drawn to the Monomyth
 date: 2019-11-10
-sagas: ['reflections']
+sagas: ['wildcard']
 digest: true
 ---
 We are drawn to the monomyth because it makes sense and our lives simply don't. We're afraid of our own stories because they are unlike the stories we're familiar with. These two forces create a feedback loop.

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "They Became What They Beheld"
+title: They Became What They Beheld
 date: 2019-03-03
+sagas: ['releases']
 ---
-[![EP1]({{ site.image_path | append: "ep1.jpg" }})](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
+[![EP1](/assets/images/ep1.jpg)](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 I've just [released an EP](https://theybecamewhattheybeheld.bandcamp.com/album/ep1) under the monkier "They Became What They Beheld". I don't have much to say about this one other than I've been working on this project for several years. I hope you enjoy listening as much as I enjoyed making it.
 <!--x-->

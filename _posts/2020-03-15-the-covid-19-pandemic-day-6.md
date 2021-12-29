@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'The COVID-19 Pandemic, Day 5'
-date: 2020-03-15 23:41 -0500
-sagas: covid
+title: The COVID-19 Pandemic, Day 5
+date: 2020-03-15
+sagas: ['covid']
 ---
 ![Cyberpunk AF](/assets/images/cyberpunk-af.jpg)
 *Cyperpunk AF.*

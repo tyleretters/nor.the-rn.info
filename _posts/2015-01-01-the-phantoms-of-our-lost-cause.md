@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "the phantoms of our lost cause"
+title: the phantoms of our lost cause
 date: 2015-01-01
-sagas: releases
+sagas: ['releases']
 ---
 [![the phantoms of our lost cause](/assets/images/the-phantoms-of-our-lost-cause.jpg)](https://northerninformation.bandcamp.com/album/the-phantoms-of-our-lost-cause)
 
@@ -10,8 +10,6 @@ From the digital liner notes: "these are the phantoms of our lost cause. this al
 
 Here is the video for 'there is no death, only reorganization':
 
-{% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LS2xn5Wnb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{% endraw %}
 
 And here are the Ableton Live [Phantom MK Racks](https://s3.us-east-2.amazonaws.com/northerninformation/the-phantoms-mk-racks.zip).

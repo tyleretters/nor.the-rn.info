@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Pandemic Day 126 / Floyd Protests Day 50'
+title: Pandemic Day 126 / Floyd Protests Day 50
 date: 2020-07-14
-sagas: covid
+sagas: ['covid']
 ---
 [Al Tenhundfeld writing on Simple Thread's blog](https://www.simplethread.com/your-team-is-smoldering/):
 <!--x-->

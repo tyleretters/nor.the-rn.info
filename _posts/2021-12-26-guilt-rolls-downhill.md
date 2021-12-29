@@ -2,7 +2,7 @@
 layout: post
 title: 'Guilt Rolls Downhill'
 date: 2021-12-26
-sagas: reflections
+sagas: ['wildcard']
 ---
 ![Silent Hill 2](/assets/images/silent-hill-2.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'arcologies'
+title: arcologies
 date: 2020-08-30
 sagas: ['music', 'events', 'mtech']
 ---

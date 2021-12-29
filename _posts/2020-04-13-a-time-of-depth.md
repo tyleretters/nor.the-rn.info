@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'A Time of Depth'
-date: 2020-04-13 10:27 -0500
-sagas: covid
+title: A Time of Depth
+date: 2020-04-13
+sagas: ['covid']
 ---
 [Rebecca Solnit writing for The Guardian](https://www.theguardian.com/world/2020/apr/07/what-coronavirus-can-teach-us-about-hope-rebecca-solnit):
 <!--x-->

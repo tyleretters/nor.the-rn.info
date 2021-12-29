@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Equal Parts LSD and Magnetic Tape'
+title: Equal Parts LSD and Magnetic Tape
 date: 2021-12-12
-sagas: ['reflections']
+sagas: ['wildcard']
 ---
 [Erik Davis, writing for Burning Shore:](https://www.burningshore.com/p/beatles-and-blotters)
 <!--x-->

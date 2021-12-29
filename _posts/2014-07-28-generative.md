@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "generative"
+title: generative
 date: 2014-07-28
-sagas: releases
+sagas: ['releases']
 ---
 ![generative](/assets/images/generative.gif)
 

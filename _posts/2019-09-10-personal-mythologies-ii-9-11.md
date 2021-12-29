@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Personal Mythologies II: 9/11'
-date: 2019-09-11 05:00 -0500
-sagas: mythologies
+date: 2019-09-11
+sagas: ['mythologies']
 ---
 Where were you when it happened?
 <!--x-->

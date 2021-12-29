@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On How Difficult it is to Dispose Hazardous Materials"
+title: On How Difficult it is to Dispose Hazardous Materials
 date: 2019-11-23
-sagas: ['reflections']
+sagas: ['wildcard']
 ---
 I believe that if you sell a thing you ought to be obligated to also dispose of that thing.
 <!--x-->

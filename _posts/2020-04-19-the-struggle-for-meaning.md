@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'The Struggle for Meaning'
-date: 2020-04-19 12:34 -0500
-sagas: ['covid', 'reflections', 'art']
+title: The Struggle for Meaning
+date: 2020-04-19
+sagas: ['covid', 'wildcard', 'art']
 digest: true
 ---
 ![The Sundered Electronicist, watercolor](/assets/images/the-sundered-electronicist.jpg)

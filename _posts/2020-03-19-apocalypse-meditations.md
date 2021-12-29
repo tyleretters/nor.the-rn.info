@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Apocalypse Meditations'
-date: 2020-03-19 08:53 -0500
+title: Apocalypse Meditations
+date: 2020-03-19
 sagas: ['refelctions', 'covid']
 ---
 I came to terms with my mortality at a young age. It was 2006. I was 18, commuting to college on the Metra, reading Stephen King's *The Dark Tower*. (I think it was book five, but I'm not sure.)

@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: "Turned Incandescent"
+title: Turned Incandescent
 date: 2010-06-27
-sagas: releases
+sagas: ['releases']
 ---
-[![Endless Field Studios, Volume 1]({{ site.image_path | append: "endless-field-studios-volume-1.jpg" }} "Endless Field Studios, Volume 1")](http://endlessfieldstudios.bandcamp.com/album/endless-field-studios-volume-1)
+[![Endless Field Studios, Volume 1](/assets/images/endless-field-studios-volume-1.jpg)](http://endlessfieldstudios.bandcamp.com/album/endless-field-studios-volume-1)
 
 I've got a new track on [Endless Field Studios, Volume 1](http://endlessfieldstudios.bandcamp.com/album/endless-field-studios-volume-1).
 

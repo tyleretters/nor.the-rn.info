@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Swing State"
+title: Swing State
 date: 2011-01-01
-sagas: events
+sagas: ['events']
 ---
 ![Swing State](/assets/images/2011-01-01.jpg)

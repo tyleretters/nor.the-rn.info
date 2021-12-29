@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Synergy Beat"
+title: Synergy Beat
 date: 2018-10-31
-sagas: releases
+sagas: ['releases']
 ---
-![Synergy Beat]({{ site.image_path | append: "synergy-beat.jpg" }})
+![Synergy Beat](/assets/images/synergy-beat.jpg)
 
 I just completed the soundtrack for [Synergy Beat: Future World Digest](https://synergybeat.club/), a cyberpunk anime zine from the mind of Gage Lindsten. The project assembles many talented artists and we did the whole thing in just a couple weeks. For each track, I assumed the role of a (silly) fictitious band:
 

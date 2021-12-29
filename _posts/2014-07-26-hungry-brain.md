@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hungry Brain"
+title: Hungry Brain
 date: 2014-07-26
-sagas: events
+sagas: ['events']
 ---
 ![Hungry Brain](/assets/images/2014-07-28.jpg)
 

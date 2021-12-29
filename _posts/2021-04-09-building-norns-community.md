@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Building "norns community"'
-date: 2021-04-09 06:45 -0500
-tags: mtech
+title: Building "norns community"
+date: 2021-04-09
+sagas: ['mtech']
 ---
 ## Overview
 

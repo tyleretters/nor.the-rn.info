@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'The COVID-19 Pandemic, Day 36'
-date: 2020-04-15 13:55 -0500
-sagas: covid
+title: The COVID-19 Pandemic, Day 36
+date: 2020-04-15
+sagas: ['covid']
 ---
 We've been sheltering-in-place for one month. California is a nice state. It is sunny here. The air is clear. My friends, family, and co-workers back in Illinois have been experiencing what I now understand to be a typically confused spring for the midwest. Snowstorms one day, sunny and warm the next. Always wet.
 <!--x-->

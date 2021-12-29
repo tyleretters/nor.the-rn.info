@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Hegemony of the DAW
-sagas: mtech
-date: 2021-05-05 20:59 -0500
+date: 2021-05-05
+sagas: ['mtech']
 ---
 [Michael Terren, in The Hegemony of the DAW:](https://disclaimer.org.au/contents/where-and-how-to-gather/the-hegemony-of-the-daw)
 <!--x-->

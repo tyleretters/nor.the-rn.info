@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'arcologies Covered by CDM'
-date: 2020-09-01 16:44 -0500
+title: arcologies Covered by CDM
+date: 2020-09-01
 sagas: ['metch', 'music']
 ---
 [Peter Kirn, writing for CDM:](https://cdm.link/2020/09/arcologies-is-wonderfully-archaic-music-art-for-monome-norns/)
