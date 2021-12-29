@@ -1,11 +1,11 @@
 <nav class="container-fluid sticky-top">
   <ul class="row">
-    <li class="col-6 col-md-12">
+    <li class="col-4 col-md-12">
       <a href="/">{% if page.url == "/" %}<span>&rarr;</span>{% endif %}&nbsp;🛰&nbsp;&nbsp;<span>Home</span></a>
     </li>
     {% assign nav_by_order = site.data.nav.items | sort: "short-name" %}
     {% for nav in nav_by_order %}
-    <li class="col-6 col-md-12">
+    <li class="col-4 col-md-12">
       <a href="{{ nav.url }}">{% if page.title == nav.name %}<span>&rarr;</span>{% endif %}&nbsp;{{ nav.emoji }}&nbsp;&nbsp;<span>{{ nav.short-name }}</span></a>
     </li>
     {% endfor %}
