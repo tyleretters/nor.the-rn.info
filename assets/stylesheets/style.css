@@ -227,12 +227,6 @@ nav ul a:hover {
   nav {
     padding: 5px;
   }
-
-  nav ul {
-    -webkit-columns: 3;
-    -moz-columns: 3;
-    columns: 3;
-  }
 }
 .content ul {
   list-style-type: disc;
