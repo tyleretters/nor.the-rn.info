@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog
-subtitle:
+layout: index
+title: Index
 permalink: /
 ---
+Let's go.

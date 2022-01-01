@@ -1,7 +1,6 @@
 ---
-layout: redirect
+layout: blog
 title: Blog
-permalink: /blog/
-redirect_to: /
-subtitle:
+subtitle: The moon sets, the batteries run dry, and a cold, dreamless sleep overcomes...
+permalink: /blog
 ---

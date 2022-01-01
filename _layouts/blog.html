@@ -1,27 +1,9 @@
 ---
-layout: default
+layout: abstract
 ---
-<div class="row">
-  <div class="col upper">
-    <p><em>{{ site.description }}</em></p>
-  </div>
-</div>
-{% for post in site.posts limit:3 %}
-<div class="row mb-5">
-  <div class="col col-lg-8">
-    <article>
-      <h1>{{ post.title }}</h1>
-      <time>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}{{ post.date | date: date_format }}</time> · <a href="/feed.xml">XML</a> · <a href="{{ post.url | relative_url }}">Link</a>
-      <hr>
-      <div class="content img-100 img-link">
-        {{ post.content }}
-      </div>
-    </article>
-  </div>
-</div>
+{% include title.html %}
+{% include blognav.html %}
+{% for post in site.posts limit: 3 %}
+{% assign page = post %}
+{% include article.html %}
 {% endfor %}
-<div class="row mb-5">
-  <div class="col col-lg-8">
-    <a href="/archives" class="block-link">Archives</a>
-  </div>
-</div>

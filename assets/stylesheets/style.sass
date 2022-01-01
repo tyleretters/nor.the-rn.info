@@ -1,404 +1,283 @@
-$blue: #0687f5
-$darkBlue: darken($blue, 25%)
-$grey: #333333
-$lightGrey: lighten($grey, 50%)
-$veryLightGrey: lighten($grey, 75%)
-$white: #ffffff
-$black: #212529
-$maxWidth: 800px
-$sansSerif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace  
+/**
+ * VARIABLES
+ * VARIABLES
+ * VARIABLES
+ * VARIABLES
+ * VARIABLES
+ */
 
-// typography
+$black: #212529
+$white: #ffffff
+$grey: #565f68
+$light-grey: #d0d4d9
+$blue: #0687f5
+$inverted-blue: #f9780a
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+
+/**
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ */
 
 body
-  font-family: $sansSerif
+  color: $black
+  background: $white
+  font-family: $sans-serif
 
-h1,
-h2
-  margin-top: 0
+h1, h2
+  font-size: 2rem
+  line-height: 2.2rem
+  font-weight: 500
 
+h3
+  font-size: 1.3rem
+  line-height: 1.3rem
+  font-weight: 500
 
-h1.page-title
-  margin-top: 20px
-  color: $lightGrey
+h4
+  font-size: 1rem
+  line-height: 1.3rem
+  font-weight: 500
 
-@media (max-width: 575.98px)
-  h1.page-title
-    margin-top: 0
-
-code,
-pre
-  font-family: $monospace
-
-article
-  max-width: $maxWidth
-
-a,
-a:link,
-a:visited,
-a:active
-  color: $blue
-  text-decoration: underline
-
-a:hover
-  color: $darkBlue
+p, li, time
+  font-size: 1rem
+  line-height: 1.3rem
+  font-weight: 400
 
 ul
-  list-style-position: inside
-  margin: 0 0 1rem 0
-  padding: 0
-
-  li
-    margin: 0 0 10px 0
-
-ol
-  counter-reset: li  
-  list-style-type: none
-  margin: 0 0 1rem 0
-  padding: 0
-    
-  li::before
-    counter-increment: li
-    content: counter(li, decimal-leading-zero) " "
-    margin-right: 0.25em
-    color: $lightGrey
-
-a.block-link
-  color: $white
-  background: $blue
-  width: 100%
-  display: block
-  text-align: center
-  margin-bottom: 16px
-  padding: 10px 0 10px 0
-  text-decoration: none
-  border-radius: 4px
-
-  &:hover
-    color: $white
-    background: $darkBlue
-
-a.block-link-disable
-  cursor: not-allowed
-  background: $grey
-  
-  &:hover
-    background: $grey
-
-a.view-date:not([href]):not([tabindex]),
-a.view-saga:not([href]):not([tabindex]),
-a.view-digest:not([href]):not([tabindex])
-  color: $blue
-
-a.view-date:not([href]):not([tabindex]):hover,
-a.view-saga:not([href]):not([tabindex]):hover,
-a.view-digest:not([href]):not([tabindex]):hover
-  color: $white
-
-::selection
-  color: $white
-  background: $blue
-
-time
-  color: $lightGrey
-
-code.highlighter-rouge
-  color: $darkBlue
-
-audio
-  width: 100%
-
-blockquote
-  border-left: 2px solid $lightGrey
-  background: $veryLightGrey
-  padding: 11px 5px 5px 20px
-  border-radius: 4px
-
-  p
-    font-size: 1rem
-    color: $grey
-
-pre
-  background: $grey
-  margin: 10px 0
-  padding: 20px
-  border-radius: 4px
-  
-  code
-    color: $white
-    font-size: 1rem
-    line-height: 0px
-
-.well
-  border: 2px solid $lightGrey
-  background: $veryLightGrey
-  margin: 10px 0
-  padding: 10px
-  border-radius: 4px
-
-.upper em,
-.lower em,
-.footer,
-.light-grey
-  color: $lightGrey
-
-
-
-// horizontal rules
-
-hr
-  padding: 0
-  border: none
-  border-top: 2px solid $veryLightGrey
-  color: $lightGrey
-  margin: 1rem 0
-
-.content hr
-    text-align: center
-    margin: 2rem 0
-
-.content hr::before
-    content: "§"
-    display: inline-block
-    position: relative
-    top: -.9rem
-    font-size: 1rem
-    padding: 0 0.25em
-    background: $white
-
-
-
-// structure
-
-main
-  padding-bottom: 30px
-
-.three-col
-  -webkit-columns: 3
-  -moz-columns: 3
-  columns: 3
-
-@media (max-width: 575.98px)
-  .two-col,
-  .three-col
-    -webkit-columns: 1
-    -moz-columns: 1
-    columns: 1
-
-.col-tighten
-  margin-bottom: 20px
-
-  a
-    margin-bottom: 0
-
-.img-100 img
-    width: 100%
-    max-width: $maxWidth
-    margin: auto
-    display: block
-
-
-
-// nav
- 
-nav
-  padding: 15px
-  align-items: baseline
-
-  ul
-    margin: 0
-    list-style: none
-
-    a,
-    a:link,
-    a:visited,
-    a:active,
-    a:hover
-      text-decoration: none
-
-@media (max-width: 767.98px)
-
-  nav
-    padding: 5px
-
-// blog
-
-.content
-
-  ul
-    list-style-type: disc
-
-  ul, ol
-    list-style-position: inside
-    margin: 20px 0 20px 5px
-    padding-left: 20px
-
-    li
-      margin: 0 0 1rem 0
-
-
-
-// about
-
-.about-image-dystopia,
-.about-image-happy
-  display: none !important
-  color: $lightGrey
-
-  &.active
-    display: block !important
-
-.toggle-dystopia,
-.toggle-happy
-  cursor: pointer
-  color: $blue
-  text-decoration: underline
-
-  &:hover
-    color: $darkBlue
-
-
-
-// related & recommended
-
-.webring img
-  float: left
-  width: 100px
-
-
-
-// travel
-
-.travel-item
-  
-  h2
-    font-size: 1.5rem
-    margin: 0
-
-  p
-    margin: 0
-    color: $lightGrey
-
-
-
-// playlists
-
-.playlists ol
-  margin-left: 0
-  padding-left: 0
-
-// discography
-
-.table-discography
-  font-family: $monospace
-
-
-
-// archives
-
-.row-date,
-.row-saga,
-.row-digest
-  display: none
-
-  &.active
-    display: flex
-
-
-
-// clipboard
-
-button.btn-max
-  margin-bottom: 10px
-  margin-top: 10px
-  text-align: center
-  color: $white
-  background-color: $grey
-  display: block
-  padding: 10px
-  
-  &:hover, &:active
-    color: $white
-    background: $darkBlue
-    text-decoration: none  
-
-.max-clipboard p
-  padding: 10px
-  margin: 0px
-
-.max-clipboard
-  display: none
-  margin-bottom: 20px
-
-  p span
-    display: none
-    color: $blue
-  
-  pre
-    background: $grey
-    margin: 10px 0
-    padding: 10px
-    border-radius: 4px
-  
-    &.code-copied
-      background: $blue
-
-    code.language-max
-      color: $white
-      background: none
-      font-size: 10px
-      line-height: 0px
-
-.code-copied
-  -webkit-animation: backgroundanimation 2s linear forwards
-  animation: backgroundanimation 2s linear forwards
-
-@-webkit-keyframes backgroundanimation
-  0%
-    background-color: $blue
-  100%
-    background-color: $grey
-
-@keyframes backgroundanimation
-  0%
-    background-color: $blue
-  100%
-    background-color: $grey
-
-
-
-// game of life
-
-#life 
-  width: 200px
-  height: 200px
-  margin: 0 auto 1rem auto
-  display: block
-  z-index: -1
-  position: relative
-  
-.cell 
-  font-size: 64px
-  line-height: 0px
-  width: 20px
-  height: 20px
+  list-style: none
   margin: 0
   padding: 0
-  float: left
 
-  &[data-toggle='0'] 
+li
+  margin: 0
+
+pre, code
+  font-family: $monospace
+
+.img-100
+  width: 100%
+  margin: auto
+  display: block
+
+::selection
+  background: $blue
+  color: $white
+
+.invert
+  background: $black
+
+  h1, h2, h3, p, time, li
     color: $white
+
+  a, a:link, a:visited
+    color: $inverted-blue
+
+  a:hover, a:active
+    color: lighten($inverted-blue, 30%)
+
+  .bb, .bt, .br, .bb-md, .br-md
+    border-color: $white
+
+h1.page-title
+  font-size: 2rem
+
+.btn
+  padding: 0 1rem 0 1rem
+  border: 2px solid $blue
+  border-radius: 0
+  color: $blue
+  text-decoration: underline
+  font-weight: 500
+  transition: none
+
+  &:hover
+    color: $white
+    background: $blue
+
+/**
+ * ARTICLE
+ * ARTICLE
+ * ARTICLE
+ * ARTICLE
+ * ARTICLE
+ */
+
+article
+
+  img
+    border: 1px solid $blue
+    @extend .img-100
+
+  pre, code
+    background: $black
+    color: $white
+    border-radius: 4px
+
+  pre
+    padding: 1rem
   
-  &[data-toggle='1'] 
-    color: $blue
+  code
+    padding: 2px 4px
 
-.cell-row 
-  height: 20px
+  blockquote
+    border-left: 1px solid $black
+    padding-left: 1rem
 
-#next 
-  display: none
+  hr
+    opacity: 1
+    border-top: 1px solid $grey
 
-#ui
-  font-family: monospace
-  text-align: center
+  ol, ul
+    padding: 0 0 0 1.2rem
+
+  ul
+    list-style: disc
+
+  li
+    margin-bottom: 1rem
+
+/**
+ * NAV
+ * NAV
+ * NAV
+ * NAV
+ * NAV
+ */
+
+.b
+  overflow: hidden
+  padding: 0
+
+  h1, h2, h3, h4
+    margin: 0 0 .2rem 0
+
+    span
+      line-height: 0
+      font-size: .8rem
+      text-transform: uppercase
+
+nav a,
+.grid a,
+.dummy
+  padding-right: calc(var(--bs-gutter-x) * .5)
+  padding-left: calc(var(--bs-gutter-x) * .5)
+  color: $black
+  text-decoration: none
+  height: 100%
+  width: 100%
+  display: inline-block
+
+.grid a:focus-visible div,
+nav a:focus-visible div
+  outline: 3px solid $blue
+
+.grid a:hover,
+nav a:hover
+  background: $blue
+  color: $white
+
+.grid a.active,
+nav a.active
+  background: $black
+  color: $white
+
+.bt
+  border-top: 1px solid $black
+
+.bb
+  border-bottom: 1px solid $black
+
+.br
+  border-right: 1px solid $black
+
+@media (min-width: 768px)
+  .bb-md
+    border-bottom: 1px solid $black
+
+  .br-md
+    border-right: 1px solid $black
+
+.bg-spectrum
+  background: $blue
+  background: -webkit-linear-gradient(   left,  red, orange, yellow, lime, cyan, blue, indigo, violet, white, black)
+  background:      -o-linear-gradient(   right, red, orange, yellow, lime, cyan, blue, indigo, violet, white, black)
+  background:    -moz-linear-gradient(   right, red, orange, yellow, lime, cyan, blue, indigo, violet, white, black)
+  background:         linear-gradient(to right, red, orange, yellow, lime, cyan, blue, indigo, violet, white, black)
+  background-size: 600% 600%
+  -webkit-animation: spectrumAnimation 48s linear infinite
+     -moz-animation: spectrumAnimation 48s linear infinite
+          animation: spectrumAnimation 48s linear infinite
+
+@-webkit-keyframes spectrumAnimation
+  0%
+    background-position:0% 50%
+  50%
+    background-position:100% 50%
+  100%
+    background-position:0% 50%
+
+@-moz-keyframes spectrumAnimation
+  0%
+    background-position:0% 50%
+  50%
+    background-position:100% 50%
+  100%
+    background-position:0% 50%
+
+@keyframes spectrumAnimation
+  0%
+    background-position:0% 50%
+  50%
+    background-position:100% 50%
+  100%
+    background-position:0% 50%
+
+/**
+ * 404
+ * 404
+ * 404
+ * 404
+ * 404
+ */
+
+.four-oh-four
+  background: url(/assets/images/crown-via-phill-c-on-yelp.jpg) bottom center
+  background-size: cover
+  padding-top: 100px
+  height: 800px
+
+  h1
+    font-size: 4rem
+    margin-bottom: 2rem
+
+  p
+    font-size: 2rem
+    line-height: 2.4rem
+
+/**
+ * BREAKPOINTS
+ * BREAKPOINTS
+ * BREAKPOINTS
+ * BREAKPOINTS
+ * BREAKPOINTS
+ */
+
+// sm
+@media (min-width: 576px)
+
+// md
+@media (min-width: 768px)
+
+// lg
+@media (min-width: 992px)
+
+// xl
+@media (min-width: 1200px)
+
+// xxl
+@media (min-width: 1400px)

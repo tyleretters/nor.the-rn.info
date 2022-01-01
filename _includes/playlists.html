@@ -1,0 +1,25 @@
+<div class="container-fluid">
+  {% assign limit = 3 %}
+  {% assign total = 0 %}
+  {% assign counter = 1 %}
+  {% for playlist in site.data.playlists %}
+  {% if counter == 1 %}<div class="row">{% endif %}
+    <div class="col-sm-12 col-md-6 px-3 py-3 b bb{% cycle " br", " br-md" %}">
+        <div>
+          <h2 id="{{ playlist.title | downcase | replace: " / ", "-" | replace: " ", "-" | replace: ":", ""}}">{{ playlist.title }}</h2>
+          {% if playlist.url %}<p><a href="{{ playlist.url }}" class="btn">Listen on Spotify&#9415;</a></p>{% endif %}
+          <p>{{ playlist.content | markdownify }}</p>
+        </div>
+    </div>
+    {% assign total = total | plus: 1 %}
+    {% assign counter = counter | plus: 1 %}
+    {% if counter == limit %}
+      {% assign counter = 1 %}
+      </div> 
+    {% elsif site.data.playlists.size == total %}
+        <div class="col bb invert"></div>
+      </div> 
+    {% endif %}
+  {% endfor %}
+  </div>
+ </div>

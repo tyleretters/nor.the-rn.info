@@ -1,0 +1,14 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12 col-md-5 b bb-md py-3 px-3">
+      <div class="">
+        <h1 id="{{ software.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.name }}</h1>
+        <p>{{ software.dates }}</p>
+        {{ software.content | markdownify }}
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-7 b bb pt-md-3 pb-3 pe-3 ps-3 ps-md-0">
+      <a href="{{ software.image }}"><img src="{{ software.image }}" class="img-100" /></a>
+    </div>
+  </div>
+</div>

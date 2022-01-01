@@ -1,0 +1,14 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12 col-md-5 b bb-md py-3 px-3">
+      <div>
+        <h1 id="{{ project.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.name }}</h1>
+        <p>{{ project.dates }}</p>
+        {{ project.content | markdownify }}
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-7 b bb pt-md-3 pb-3 pe-3 ps-3 ps-md-0">
+      <a href="{{ project.image }}"><img src="{{ project.image }}" class="img-100" /></a>
+    </div>
+  </div>
+</div>

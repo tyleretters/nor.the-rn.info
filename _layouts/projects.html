@@ -1,22 +1,8 @@
 ---
-layout: default
+layout: abstract
 ---
-{% include subtitle.html %}
-{% assign projects_by_order = site.data.projects.items | sort: "order" | reverse %}
+{% include title.html %}
+{% assign projects_by_order = site.data.projects | sort: "order" | reverse %}
 {% for project in projects_by_order %}
-<div class="row mb-5">
-  <div class="col">
-    <h1 id="{{ project.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.name }}</h1>
-    <em>{{ project.dates }}</em>
-    <hr>
-  </div>
-</div>
-<div class="row mb-5">
-  <div class="col-md-6">
-    {{ project.content | markdownify }}
-  </div>
-   <div class="col-md-6 img-100 img-link">
-    <img src="{{ project.image }}" />
-  </div>
-</div>
+{% include projects.html %}
 {% endfor %}

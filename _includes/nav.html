@@ -1,13 +1,54 @@
-<nav class="container-fluid sticky-top">
-  <ul class="row">
-    <li class="col-4 col-md-12">
-      <a href="/">{% if page.url == "/" %}<span>&rarr;</span>{% endif %}&nbsp;🛰&nbsp;&nbsp;<span>Home</span></a>
-    </li>
-    {% assign nav_by_order = site.data.nav.items | sort: "short-name" %}
-    {% for nav in nav_by_order %}
-    <li class="col-4 col-md-12">
-      <a href="{{ nav.url }}">{% if page.title == nav.name %}<span>&rarr;</span>{% endif %}&nbsp;{{ nav.emoji }}&nbsp;&nbsp;<span>{{ nav.short-name }}</span></a>
-    </li>
-    {% endfor %}
-  </ul>
+<nav class="container-fluid" role="navigation" aria-hidden="true">
+  <div class="row">
+    <div class="col b bb pt-1 bg-spectrum"></div>
+  </div>
+  <div class="row">
+    <div class="col-6 col-md-5 b bb br">
+      <a href="/" tabindex="0" class="d-flex align-items-end pt-1{% if page.url == "/" %} active" aria-current="page{% endif %}">
+        <div><h1>Northern<br>Information,<br>LLC</h1></div>
+      </a>
+    </div>
+    <div class="col-6 col-md-3 b bb br-md">
+      <a href="/software" tabindex="0" class="d-flex align-items-end pt-5{% if page.url == "/software" %} active" aria-current="page{% endif %}">
+        <div><h2>Software</h2></div>
+      </a>
+    </div>
+    <div class="col-6 col-md-2 b bb br">
+      <a href="/music" class="d-flex align-items-end pt-5{% if page.url == "/music" %} active" aria-current="page{% endif %}">
+        <div><h2>Music</h2></div>
+      </a>
+    </div>
+    <div class="col-6 col-md-2 b bb">
+      <a href="/blog" class="d-flex align-items-end pt-5{% if page.url == "/blog" or page.url == "/archives" or page.sagas | size > 0 %} active" aria-current="page{% endif %}">
+        <div><h2>Blog</h2></div>
+      </a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6 col-md-3 b bb br">
+      <a href="/about" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/about" %} active" aria-current="page{% endif %}">
+        <div><h3>About</h3></div>
+      </a>
+    </div>
+    <div class="col-6 col-md-2 b bb br-md">
+      <a href="/links" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/links" %} active" aria-current="page{% endif %}">
+        <div><h3>Links</h3></div>
+      </a>
+    </div>
+    <div class="col-4 col-md-3 b bb br">
+      <a href="/projects" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/projects" %} active" aria-current="page{% endif %}">
+        <div><h3>Projects</h3></div>
+      </a>
+    </div>
+    <div class="col-4 col-md-2 b bb br">
+      <a href="/playlists" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/playlists" %} active" aria-current="page{% endif %}">
+        <div><h3>Playlists</h3></div>
+      </a>
+    </div>
+    <div class="col-4 col-md-2 b bb">
+      <a href="/books" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/books" %} active" aria-current="page{% endif %}">
+        <div><h3>Books</h3></div>
+      </a>
+    </div>
+  </div>
 </nav>

@@ -1,0 +1,13 @@
+<article class="container-fluid">
+  <div class="row">
+    <div class="col col-md-6 offset-md-3 pt-5">
+        <h1>{{ page.title }}</h1>
+        <p><time>{{ page.date | date: "%b %-d, %Y" }}</time> · <a href="{{ page.url }}">Permalink</a> · <a href="/feed.xml">XML</a></p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col col-md-6 offset-md-3 pb-5">
+      {{ page.content }}
+    </div>
+  </div>
+</article>

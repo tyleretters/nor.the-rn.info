@@ -1,7 +1,6 @@
 ---
 layout: books
-title: Book Reviews
-permalink: /book-reviews/
-subtitle: |
-  *Selected recently read books in roughly reverse-chronological order.*
+title: Books
+subtitle: Selected short reviews.
+permalink: /books
 ---

@@ -1,22 +1,9 @@
 ---
-layout: default
+layout: abstract
 ---
-{% include subtitle.html %}
-{% assign software_by_order = site.data.software.items | sort: "order" | reverse %}
+{% include title.html %}
+{% include softwarenav.html %}
+{% assign software_by_order = site.data.software | sort: "order" | reverse %}
 {% for software in software_by_order %}
-<div class="row mb-5">
-  <div class="col">
-    <h1 id="{{ software.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.name }}</h1>
-    <em>{{ software.dates }}</em>
-    <hr>
-  </div>
-</div>
-<div class="row mb-5">
-  <div class="col-md-6">
-    {{ software.content | markdownify }}
-  </div>
-   <div class="col-md-6 img-100 img-link">
-    <img src="{{ software.image }}" />
-  </div>
-</div>
+{% include software.html %}
 {% endfor %}

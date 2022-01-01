@@ -1,21 +1,5 @@
 ---
-layout: default
+layout: abstract
 ---
-{% include subtitle.html %}
-<div class="row">
-  <div class="col">
-    <div class="container-fluid content no-gutters px-0">
-{% assign books_by_order = site.data.books.items %}
-{% for book in books_by_order %}
-      <div class="row mb-5">
-        <div class="col-md-4">
-          <p class="book-title"><strong>{{ book.title }}</strong></p>
-        </div>
-        <div class="col-md-8">
-          {{ book.content | markdownify }}
-        </div>
-      </div>
-{% endfor %}
-    </div>
-  </div>
-</div>
+{% include title.html %}
+{% include books.html %}

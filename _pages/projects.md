@@ -1,7 +1,6 @@
 ---
 layout: projects
 title: Projects
-permalink: /projects/
-subtitle: |
-  *Notable endeavors typically spanning multiple years.*
+subtitle: To make a prairie it takes a clover and one bee. One clover, and a bee. And revery.
+permalink: /projects
 ---

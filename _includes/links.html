@@ -1,0 +1,37 @@
+<div class="container-fluid grid">
+  {% assign limit = 7 %}
+  {% assign total = 0 %}
+  {% assign counter = 1 %}
+  {% for link in site.data.links %}
+    {% if counter == 1 %}<div class="row">{% endif %}
+    <div class="col-6 col-md-2 b bb{% if counter != 6 %} br-md{% endif %}{% cycle " br", "" %}">
+      <a class="d-flex align-items-end pb-1 pt-4 pt-md-2" href="{{ link.url }}">
+        <div><h4>{{ link.title }}</h4></div>
+      </a>
+    </div>
+    {% assign total = total | plus: 1 %}
+    {% assign counter = counter | plus: 1 %}
+    {% if counter == limit %}
+      {% assign counter = 1 %}
+      </div> 
+    {% elsif site.data.links.size == total %}
+        <div class="col"></div>
+      </div> 
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+    <div class="col-6 col-md-4 pt-5 pb-3">
+      <div class="dummy">
+        <h1>Webring</h1>
+        <p>Additionally, this <a href="https://webring.xxiivv.com/#random">webring</a> is an attempt to inspire artists &amp; developers to build their own website and share traffic among each other. The ring welcomes personalized websites such as <b>diaries, wikis &amp; portfolios</b>.</p>
+        <p>To add yourself to the ring, submit a <a href="https://github.com/XXIIVV/webring#join-the-webring">pull request</a>.</p>
+      </div>
+    </div>
+    <div class="col-6 col-md-2 pt-5 pb-3 px-0">
+      <div class="dummy px-0">
+        <a class="webring" href="https://webring.xxiivv.com/#random"><img src="https://webring.xxiivv.com/icon.black.svg" class="img-100" /></a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,7 +1,6 @@
 ---
 layout: music
 title: Music
-permalink: /music/
-subtitle: |
-  *Art fuels life, not the other way around. [Full discography.](/discography)*
+subtitle: The next life will be darker than this so we must prepare a light.
+permalink: /music
 ---

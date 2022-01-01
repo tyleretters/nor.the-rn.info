@@ -1,4 +1,16 @@
-items:
+- order: 202101
+  name: goldeneye
+  dates: 2021
+  image: /assets/images/goldeneye.jpg
+  content: |
+    Entropic background radiation. The last sequencer before the EMPs hit. As always, the conversation is on [llllllll.co](https://l.llllllll.co/goldeneye).
+
+- order: 202011
+  name: Yggdrasil
+  dates: 2020
+  image: /assets/images/yggdrasil.png
+  content: |
+    Described as "a norns cyberdeck tracker," this project was a rapid release with the "Northern Information Applied Sciences and Phantasms Working Division." Check out the [docs](https://northern-information.github.io/yggdrasil-docs) and see the thread [over at llllllll.co](http://l.llllllll.co/yggdrasil).
 
 - order: 202009
   name: arcologies
@@ -7,16 +19,13 @@ items:
   content: |
     Described as "an interactive environment for designing 2d sound arcologies," this project has been my primary focus in 2020. Check out the [docs](https://tyleretters.github.io/arcologies-docs), see the thread [over at llllllll.co](http://l.llllllll.co/arcologies) and watch some of [the numerous videos](https://www.youtube.com/watch?v=vucFRt5Pz1Q&list=PLe1BFUbUceS2N5GLgORKQrw1bsz2ZLwJ3).
 
-- order: 201901
-  name: Cascade
-  dates: 2019
-  image: /assets/images/cascade.png
+- order: 202008
+  name: dronecaster
+  dates: 2020
+  image: /assets/images/dronecaster.png
   content: |
-    Cascade is a M4L sequencer that holds every combination of eighth notes possible in a 4/4 bar. I wrote a [lengthly post about it on Highland's blog](https://journal.highlandsolutions.com/meet-cascade-a-piece-of-music-software-i-built-with-max-and-rapid-prototyping-d8ce9bda3a5b) and made [a short demo video](https://www.youtube.com/watch?v=VQhQaYClE78&feature=youtu.be).
+    A community project using [SuperCollider]([https://supercollider.github.io/) to make drones for [norns](https://monome.org/docs/norns). See the thread [over at llllllll.co](http://l.llllllll.co/dronecaster) and watch [the video](https://www.youtube.com/watch?v=sYnHYDg3rhg).
 
-    [Download the patch, M4L Device, and demo.](https://s3.us-east-2.amazonaws.com/northerninformation/cascade.zip)
-    
-    `md5: a4814aa628af0f42ca25465e8870497f`
 
 - order: 202003
   name: Cascades
@@ -32,19 +41,23 @@ items:
   content: |
     Conway Music is a grid application for Max4Live. It uses Conway's Game of Life help you create melodies and rhythms. See the thread [over at llllllll.co](http://l.llllllll.co/conway) and watch [the demo video](https://www.youtube.com/watch?v=ptIJ6MizZ88).
 
-- order: 202008
-  name: dronecaster
-  dates: 2020
-  image: /assets/images/dronecaster.png
-  content: |
-    A community project using [SuperCollider]([https://supercollider.github.io/) to make drones for [norns](https://monome.org/docs/norns). See the thread [over at llllllll.co](http://l.llllllll.co/dronecaster) and watch [the video](https://www.youtube.com/watch?v=sYnHYDg3rhg).
-
 - order: 202001
   name: Markov Music
   dates: 2020
   image: /assets/images/markov-music.jpg
   content: |
     Markov Music is a grid application for Max. It uses a simple three-node Markov chain as a backbone to let you create melodies and rhythms. See the thread [over at llllllll.co](http://l.llllllll.co/markov) and watch [the demo video](https://www.youtube.com/watch?v=Ta6-JZP_aJ0).
+
+- order: 201901
+  name: Cascade
+  dates: 2019
+  image: /assets/images/cascade.png
+  content: |
+    Cascade is a M4L sequencer that holds every combination of eighth notes possible in a 4/4 bar. I wrote a [lengthly post about it on Highland's blog](https://journal.highlandsolutions.com/meet-cascade-a-piece-of-music-software-i-built-with-max-and-rapid-prototyping-d8ce9bda3a5b) and made [a short demo video](https://www.youtube.com/watch?v=VQhQaYClE78&feature=youtu.be).
+
+    [Download the patch, M4L Device, and demo.](https://s3.us-east-2.amazonaws.com/northerninformation/cascade.zip)
+    
+    `md5: a4814aa628af0f42ca25465e8870497f`
 
 - order: 201501
   name: Second Chance
@@ -56,18 +69,3 @@ items:
     [Download for macOS.](https://s3.us-east-2.amazonaws.com/northerninformation/second-chance.app.zip)
 
     `md5: 4f67f4888f3da39911b4e992f78b7d5b`
-
-- order: 202011
-  name: Yggdrasil
-  dates: 2020
-  image: /assets/images/yggdrasil.png
-  content: |
-    Described as "a norns cyberdeck tracker," this project was a rapid release with the "Northern Information Applied Sciences and Phantasms Working Division." Check out the [docs](https://northern-information.github.io/yggdrasil-docs) and see the thread [over at llllllll.co](http://l.llllllll.co/yggdrasil).
-
-- order: 202101
-  name: goldeneye
-  dates: 2020
-  image: /assets/images/goldeneye.jpg
-  content: |
-    Entropic background radiation. The last sequencer before the EMPs hit. As always, the conversation is on [llllllll.co](https://l.llllllll.co/goldeneye).
-    

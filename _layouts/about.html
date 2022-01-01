@@ -1,32 +1,5 @@
 ---
-layout: default
+layout: abstract
 ---
-<div class="row mb-5">
-  <div class="col upper">
-    <p><em>{{ site.description }}</em><p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-6 col-md-12 img-100">
-    <img src="/assets/images/tyler-in-maine-2019.jpg" class="about-image-happy active"/>
-    <em class="text-center about-image-happy active">Switch to the new <span class="toggle-dystopia">severe dystopia photo</span> from the after times.</em>
-    <img src="/assets/images/tyler-etters-mask.jpg" class="about-image-dystopia"/>
-    <em class="text-center about-image-dystopia">Switch to the old <span class="toggle-happy">happy-go-lucky photo</span> from the before times.</em>
-  </div>
-  <div class="col-lg-6 col-md-12">
-    <div id="life"></div>
-    <div id="next"></div>
-    <p class="text-center text-monospace">generation <span id="generation">0</span>, <a href="#" onclick="seed()">seed</a></p>
-    {{ content }}
-    <div class="container-fluid px-0">
-      <div class="row">
-        {% assign about_by_order = site.data.about.items | sort: "order" %}
-        {% for about in about_by_order %}
-        <div class="col-lg-6 col-md-12 col-tighten">
-          <a href="{{ about.url }}" class="block-link"><i class="{{ about.icon }}"></i> {{ about.title }}</a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div>
+{% include title.html %}
+{% include about.html %}

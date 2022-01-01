@@ -1,5 +1,32 @@
-<div class="row">
-  <div class="col col-lg-8 mt-5">
-    <p class="footer">Northern Information LLC, 2006 &mdash; {{ "now" | date: "%Y" }}<br><a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0) Attribution 4.0 International<a></p>
+<div class="container-fluid py-5 invert">
+  <div class="row">
+    <div class="col-6 col-md-3 mb-5">
+      <h3>Northern Information, LLC</h3>
+      <ul>
+        <li>2006 &mdash; {{ "now" | date: "%Y" }}, <a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)</a></li>
+        {% assign here = site.data.footer.here %}
+        {% for link in here %}
+          <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-6 col-md-2 mb-5">
+      <h3>Elsewhere</h3>
+      <ul>
+        {% assign elsewhere = site.data.footer.elsewhere %}
+        {% for link in elsewhere %}
+          <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+     <div class="col-6 col-md-2 mb-5">
+      <h3>Affiliates</h3>
+      <ul>
+        {% assign affiliates = site.data.footer.affiliates %}
+        {% for link in affiliates %}
+          <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </div>

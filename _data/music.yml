@@ -1,12 +1,7 @@
-items:
-
 - order: 1
   name: 'As "Sidereal Lobby"'
   dates: 2021 - Present
   url: https://sidereallobby.bandcamp.com
-  left-class: col-md-3
-  right-class: col-md-9
-  release-class: col-md-6
   content: |
     APE SHALL NOT KILL APE.
 
@@ -34,9 +29,6 @@ items:
   name: 'As "STUXNET"'
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
-  left-class: col-md-3
-  right-class: col-md-9
-  release-class: col-md-6
   content: |
     Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
 
@@ -88,9 +80,6 @@ items:
   name: 'As "Northern Information"'
   dates: 2020
   url: https://northerninformation.bandcamp.com
-  left-class: col-md-6
-  right-class: col-md-6
-  release-class: col-md-12
   content: |
     - -13,800,000,000: the universe forms.
     - -4,500,000,000: the moon forms.
@@ -121,9 +110,6 @@ items:
   name: '"The First Arcologists"'
   dates: 2020
   url: https://goodglassrecords.bandcamp.com/album/the-first-arcologists
-  left-class: col-md-6
-  right-class: col-md-6
-  release-class: col-md-12
   content: |
     This album is a document of The First Arcologists and their first brave steps into the strange world we’ve suddenly found ourselves reckoning with. All of the tracks were composed with a piece of software called “Arcologies” that runs on a small custom art computer called Norns.
 
@@ -143,9 +129,6 @@ items:
   name: 'As "They Became What They Beheld"'
   dates: 2019
   url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
-  left-class: col-md-6
-  right-class: col-md-6
-  release-class: col-md-12
   content: |
     "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
 
@@ -163,9 +146,6 @@ items:
   name: 'As "Synergy Beat"'
   dates: 2018
   url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
-  left-class: col-md-6
-  right-class: col-md-6
-  release-class: col-md-12
   content: |
     Synergy Beat: Future World Digest is a cyberpunk anime zine from the mind of Gage Lindsten. The project assembles many talented artists. We did the whole thing in just a couple weeks. I was on soundtrack duty. For each song, I assumed the role of a (silly) fictitious band.
 
@@ -181,9 +161,6 @@ items:
   name: 'As "the northern information movement"'
   dates: 2012 - 2017
   url: https://northerninformation.bandcamp.com
-  left-class: col-md-3
-  right-class: col-md-9
-  release-class: col-md-4
   content: |
     #shadow_fi: a self-defined genre and rough approximation of ambient post-rock blended with drone and lo-fi. 2017 brought The Arcadian Nights trilogy, 2015 The Phantom Time Trilogy, and 2013 The #shadow_fi Trilogy.
 
@@ -247,9 +224,6 @@ items:
   name: 'As "Connectedness Locus"'
   dates: 2008 - 2012
   url: https://connectednesslocus.bandcamp.com
-  left-class: col-md-3
-  right-class: col-md-9
-  release-class: col-md-6
   content: |
     "In one-dimensional complex dynamics, the connectedness locus is a subset of the parameter space of rational functions, which consists of those parameters for which the corresponding Julia set is connected."
 
@@ -285,9 +259,6 @@ items:
   name: 'As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"'
   dates: 2005 - 2009
   url: https://ecicefis.bandcamp.com
-  left-class: col-md-3
-  right-class: col-md-9
-  release-class: col-md-6
   content: |
     Ix came first but soon evolved into ECiC;EFiS - same parameters, techniques, equipment. Just more focused. These three releases constitute an arc inquiry. Pasha Petrosyan and I worked on these projects “on the side” while we were in a metalcore band together. I say “on the side” because in retrospect our hearts were always here.
 

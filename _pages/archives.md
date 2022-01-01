@@ -1,6 +1,6 @@
 ---
 layout: archives
 title: Archives
-permalink: /archives/
-subtitle: 
+subtitle: Blog posts date back to 2009.
+permalink: /archives
 ---

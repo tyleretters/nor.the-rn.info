@@ -1,0 +1,37 @@
+<nav class="container-fluid invert">
+  <div class="row">
+    <div class="col-sm-12 col-md-4 b bt br-md earlier-post">
+      {% if page.next.url %}
+        {% assign url = page.next.url %}
+        {% assign title = page.next.title %}
+        {% assign date = page.next.date | date: "%b %-d, %Y" %}
+      {% else %}
+        {% assign url = site.posts.last.url %}
+        {% assign title = site.posts.last.title %}
+        {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
+      {% endif %}
+      <a href="{{ url }}" class="d-flex align-items-end pb-2 pt-4">
+        <div><h3><span>&larr; {{ date }}</span><br>{{ title }}</h3></div>
+      </a>
+    </div>
+    <div class="col-sm-12 col-md-4 b bt br-md">
+      <a href="/archives" class="d-flex align-items-end pb-2 pt-4">
+        <div><h3>Archives</h3></div>
+      </a>
+    </div>
+    <div class="col-sm-12 col-md-4 b bt later-post">
+      {% if page.previous.url %}
+        {% assign url = page.previous.url %}
+        {% assign title = page.previous.title %}
+        {% assign date = page.previous.date | date: "%b %-d, %Y" %}
+      {% else %}
+        {% assign url = site.posts.first.url %}
+        {% assign title = site.posts.first.title %}
+        {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
+      {% endif %}
+      <a href="{{ url }}" class="d-flex align-items-end pb-2 pt-4">
+        <div><h3><span>{{ date }} &rarr;</span><br>{{ title }}</h3></div>
+      </a>
+    </div>
+  </div>
+</nav>
