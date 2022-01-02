@@ -79,7 +79,7 @@ pre, code {
 .invert a:hover, .invert a:active {
   color: #fdca9f;
 }
-.invert .bb, .invert .bt, .invert .br, .invert .bb-md, .invert .br-md {
+.invert .bb, .invert .bt, .invert .br, .invert .bb-md, .invert .bb-bt, .invert .br-md {
   border-color: #ffffff;
 }
 
@@ -202,6 +202,10 @@ nav a.active {
 }
 
 @media (min-width: 768px) {
+  .bt-md {
+    border-top: 1px solid #212529;
+  }
+
   .bb-md {
     border-bottom: 1px solid #212529;
   }

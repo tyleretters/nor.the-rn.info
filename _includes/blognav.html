@@ -1,6 +1,6 @@
 <nav class="container-fluid invert">
   <div class="row">
-    <div class="col-sm-12 col-md-4 b bt br-md earlier-post">
+    <div class="col-sm-12 col-md-4 b bb-md bt br-md earlier-post">
       {% if page.next.url %}
         {% assign url = page.next.url %}
         {% assign title = page.next.title %}
@@ -14,12 +14,12 @@
         <div><h3><span>&larr; {{ date }}</span><br>{{ title }}</h3></div>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 b bt br-md">
+    <div class="col-sm-12 col-md-4 b bb-md bt br-md">
       <a href="/archives" class="d-flex align-items-end pb-2 pt-4">
         <div><h3>Archives</h3></div>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 b bt later-post">
+    <div class="col-sm-12 col-md-4 b bb bt later-post">
       {% if page.previous.url %}
         {% assign url = page.previous.url %}
         {% assign title = page.previous.title %}
