@@ -88,7 +88,7 @@ Bourbon Street, Nov 6, 2015 @ New Orleans, Louisiana
 ![Another World](/assets/images/another-world.jpg)
 Another World, Jul 25, 2015 @ MS-DOS [Another World](https://en.wikipedia.org/wiki/Another_World_(video_game))
 
-![Mayne Stage](/assets/images/mayne-stage-billoard.jpg)
+![Mayne Stage](/assets/images/mayne-stage-billboard.jpg)
 Mayne Stage, Nov 20, 2014 @ Mayne Stage, Chicago
 
 ![Norge Ski Jump](/assets/images/norge-ski-jump.jpg)
