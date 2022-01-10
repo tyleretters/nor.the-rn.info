@@ -153,6 +153,23 @@ article li {
 }
 
 /**
+ * * MUSIC
+ * * MUSIC
+ * * MUSIC
+ * * MUSIC
+ * * MUSIC
+ * */
+.music ol, .music ul {
+  padding: 0 0 0 1.2rem;
+}
+.music ul {
+  list-style: disc;
+}
+.music li {
+  margin-bottom: 1rem;
+}
+
+/**
  * * NAV
  * * NAV
  * * NAV
