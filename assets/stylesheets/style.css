@@ -14,8 +14,12 @@
  * */
 body {
   color: #212529;
-  background: #ffffff;
+  background: #212529;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.gesso {
+  background: #ffffff;
 }
 
 h1, h2 {
@@ -101,6 +105,10 @@ h1.page-title {
   background: #0687f5;
 }
 
+.overflow-visible {
+  overflow: visible;
+}
+
 /**
  * * ARTICLE
  * * ARTICLE
@@ -108,6 +116,10 @@ h1.page-title {
  * * ARTICLE
  * * ARTICLE
  * */
+article h1 {
+  font-size: 3rem;
+  line-height: 3.3rem;
+}
 article img {
   border: 1px solid #0687f5;
 }
@@ -160,11 +172,16 @@ article li {
   text-transform: uppercase;
 }
 
-nav a,
+.calc-gutter, nav a,
 .grid a,
 .dummy {
   padding-right: calc(var(--bs-gutter-x) * 0.5);
   padding-left: calc(var(--bs-gutter-x) * 0.5);
+}
+
+nav a,
+.grid a,
+.dummy {
   color: #212529;
   text-decoration: none;
   height: 100%;
@@ -195,6 +212,10 @@ nav a.active {
 
 .bb {
   border-bottom: 1px solid #212529;
+}
+
+.bb-transparent {
+  border-bottom: 1px solid transparent;
 }
 
 .br {

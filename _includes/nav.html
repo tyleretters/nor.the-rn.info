@@ -2,10 +2,74 @@
   <div class="row">
     <div class="col b bb pt-1 bg-spectrum"></div>
   </div>
-  <div class="row">
+  <div class="row d-md-none">
+    <div class="col-6 px-0 br bb">
+      <a href="/" tabindex="0" class="pt-1{% if page.url == "/" %} active" aria-current="page{% endif %}">
+        <div class="container-fluid calc-gutter">
+          <div class="row">
+            <div class="col b bb-transparent">
+              <div><h1>Northern</h1></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col b bb-transparent overflow-visible">
+              <div><h1>Information,</h1></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col b">
+              <div><h1>LLC</h1></div>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-6 bb">
+      <div class="container-fluid px-0">
+        <div class="row">
+          <div class="col b bb">
+            <a href="/software" class="pt-1{% if page.url == "/software" %} active" aria-current="page{% endif %}">
+              <div><h2>Software</h2></div>
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col b bb">
+            <a href="/music" class="{% if page.url == "/music" %} active" aria-current="page{% endif %}">
+              <div><h2>Music</h2></div>
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col b">
+            <a href="/blog" class="{% if page.url == "/blog" or page.url == "/archives" or page.sagas | size > 0 %} active" aria-current="page{% endif %}">
+              <div><h2>Blog</h2></div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row d-none d-md-flex">
     <div class="col-6 col-md-5 b bb br">
       <a href="/" tabindex="0" class="d-flex align-items-end pt-1{% if page.url == "/" %} active" aria-current="page{% endif %}">
-        <div><h1>Northern<br>Information,<br>LLC</h1></div>
+        <div class="container-fluid calc-gutter">
+          <div class="row">
+            <div class="col b bb-transparent">
+              <h1>Northern</h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col b bb-transparent">
+              <h1>Information,</h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col b">
+              <h1>LLC</h1>
+            </div>
+          </div>
+        </div>
       </a>
     </div>
     <div class="col-6 col-md-3 b bb br-md">
@@ -25,28 +89,28 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-6 col-md-3 b bb br">
-      <a href="/about" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/about" %} active" aria-current="page{% endif %}">
+    <div class="col-3 col-md-3 b bb br">
+      <a href="/about" class="d-flex align-items-end pb-1 pt-2{% if page.url == "/about" %} active" aria-current="page{% endif %}">
         <div><h3>About</h3></div>
       </a>
     </div>
-    <div class="col-6 col-md-2 b bb br-md">
-      <a href="/links" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/links" %} active" aria-current="page{% endif %}">
+    <div class="col-3 col-md-2 b bb br">
+      <a href="/links" class="d-flex align-items-end pb-1 pt-2{% if page.url == "/links" %} active" aria-current="page{% endif %}">
         <div><h3>Links</h3></div>
       </a>
     </div>
-    <div class="col-4 col-md-3 b bb br">
-      <a href="/projects" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/projects" %} active" aria-current="page{% endif %}">
+    <div class="col-6 col-md-3 b bb br-md">
+      <a href="/projects" class="d-flex align-items-end pb-1 pt-2{% if page.url == "/projects" %} active" aria-current="page{% endif %}">
         <div><h3>Projects</h3></div>
       </a>
     </div>
-    <div class="col-4 col-md-2 b bb br">
-      <a href="/playlists" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/playlists" %} active" aria-current="page{% endif %}">
+    <div class="col-3 col-md-2 b bb br d-none d-md-flex">
+      <a href="/playlists" class="d-flex align-items-end pb-1 pt-2{% if page.url == "/playlists" %} active" aria-current="page{% endif %}">
         <div><h3>Playlists</h3></div>
       </a>
     </div>
-    <div class="col-4 col-md-2 b bb">
-      <a href="/books" class="d-flex align-items-end pb-1 pt-4 pt-md-2{% if page.url == "/books" %} active" aria-current="page{% endif %}">
+    <div class="col-2 b bb d-none d-md-flex">
+      <a href="/books" class="d-flex align-items-end pb-1 pt-2{% if page.url == "/books" %} active" aria-current="page{% endif %}">
         <div><h3>Books</h3></div>
       </a>
     </div>
