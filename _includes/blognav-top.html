@@ -1,6 +1,11 @@
 <nav class="container-fluid">
   <div class="row">
-    <div class="col-sm-12 col-md-4 b bb-md bt br-md earlier-post d-none d-md-flex">
+    <div class="col-sm-12 col-md-2 b bb br-md">
+      <a href="/archives" class="d-flex align-items-end pt-3 pb-2">
+        <div><h3>Archives</h3></div>
+      </a>
+    </div>
+    <div class="col-sm-12 col-md-4 b bb br-md earlier-post d-none d-md-flex">
       {% if page.next.url %}
         {% assign url = page.next.url %}
         {% assign title = page.next.title %}
@@ -14,12 +19,7 @@
         <div><h3><span>&larr; {{ date }}</span><br>{{ title }}</h3></div>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 b bb bt br-md">
-      <a href="/archives" class="d-flex align-items-end pt-3 pb-2">
-        <div><h3>Archives</h3></div>
-      </a>
-    </div>
-    <div class="col-sm-12 col-md-4 b bb bt later-post d-none d-md-flex">
+    <div class="col-sm-12 col-md-4 b bb br-md later-post d-none d-md-flex">
       {% if page.previous.url %}
         {% assign url = page.previous.url %}
         {% assign title = page.previous.title %}
@@ -31,6 +31,11 @@
       {% endif %}
       <a href="{{ url }}" class="d-flex align-items-end pt-3 pb-2">
         <div><h3><span>{{ date }} &rarr;</span><br>{{ title }}</h3></div>
+      </a>
+    </div>
+    <div class="col-sm-12 col-md-2 b bb">
+      <a href="/feed.xml" class="d-flex align-items-end pt-3 pb-2">
+        <div><h3>XML</h3></div>
       </a>
     </div>
   </div>
