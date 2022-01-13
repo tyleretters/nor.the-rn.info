@@ -2,23 +2,23 @@
   <div class="row">
     <div class="col b bb pt-1 bg-spectrum"></div>
   </div>
-  <div class="row d-md-none bb">
+  <div class="row d-md-none">
     <div class="col-6 px-0 br">
-      <a href="/" tabindex="0" class="pt-1{% if page.url == "/" %} active" aria-current="page{% endif %}">
+      <a href="/" tabindex="0" class="px-0 pt-1{% if page.url == "/" %} active" aria-current="page{% endif %}">
         <div class="container-fluid calc-gutter">
           <div class="row">
             <div class="col b bb-transparent">
-              <div><h1>Northern</h1></div>
+              <div><h1 class="calc-gutter">Northern</h1></div>
             </div>
           </div>
           <div class="row">
             <div class="col b bb-transparent overflow-visible">
-              <div><h1>Information,</h1></div>
+              <div><h1 class="calc-gutter">Information,</h1></div>
             </div>
           </div>
           <div class="row">
-            <div class="col b">
-              <div><h1>LLC</h1></div>
+            <div class="col b bb">
+              <div><h1 class="calc-gutter">LLC</h1></div>
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col b ">
+          <div class="col b bb">
             <a href="/blog" class="{% if page.url == "/blog" or page.url == "/archives" or page.sagas | size > 0 %} active" aria-current="page{% endif %}">
               <div><h2>Blog</h2></div>
             </a>
