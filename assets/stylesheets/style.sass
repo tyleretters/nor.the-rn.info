@@ -105,6 +105,10 @@ h1.page-title
 .overflow-visible
   overflow: visible
 
+.calc-gutter
+  padding-right: calc(var(--bs-gutter-x) * .5)
+  padding-left: calc(var(--bs-gutter-x) * .5)
+
 /**
  * ARTICLE
  * ARTICLE
@@ -171,33 +175,64 @@ article
     margin-bottom: 1rem
 
 /**
- * NAV
- * NAV
- * NAV
- * NAV
- * NAV
+ * NAV & "GRID"
+ * NAV & "GRID"
+ * NAV & "GRID"
+ * NAV & "GRID"
+ * NAV & "GRID"
  */
 
-.b
-  overflow: hidden
-  padding: 0
+.grid-mobile
+
+  br
+    display: none
+
+  a
+    padding: 0
 
   h1, h2, h3, h4
-    margin: 0 0 .2rem 0
+    @extend .calc-gutter
+    display: inline-block
+    margin: 1rem 0 .5rem 0
 
     span
       line-height: 0
       font-size: .8rem
       text-transform: uppercase
 
-.calc-gutter
-  padding-right: calc(var(--bs-gutter-x) * .5)
-  padding-left: calc(var(--bs-gutter-x) * .5)
+  h2
+    font-size: 1.6rem
+    line-height: 1.6rem
+    font-weight: 500
+
+  h3
+    @extend h4
+
+
+  p
+    @extend .calc-gutter
+
+.grid
+
+  a
+    padding: 0
+
+  h1, h2, h3, h4
+    @extend .calc-gutter
+    display: inline-block
+    margin: 1rem 0 .5rem 0
+
+    span
+      line-height: 0
+      font-size: .8rem
+      text-transform: uppercase
+
+  p
+    @extend .calc-gutter
 
 nav a,
 .grid a,
 .dummy
-  @extend .calc-gutter
   color: $black
   text-decoration: none
   height: 100%
@@ -217,6 +252,10 @@ nav a:hover
 nav a.active
   background: $black
   color: $white
+
+.b
+  overflow: hidden
+  padding: 0
 
 .bt
   border-top: 1px solid $black
@@ -239,6 +278,36 @@ nav a.active
 
   .br-md
     border-right: 1px solid $black
+
+/**
+ * 404
+ * 404
+ * 404
+ * 404
+ * 404
+ */
+
+.four-oh-four
+  background: url(/assets/images/crown-via-phill-c-on-yelp.jpg) bottom center
+  background-size: cover
+  padding-top: 100px
+  height: 800px
+
+  h1
+    font-size: 4rem
+    margin-bottom: 2rem
+
+  p
+    font-size: 2rem
+    line-height: 2.4rem
+
+/**
+ * SPECTRUM
+ * SPECTRUM
+ * SPECTRUM
+ * SPECTRUM
+ * SPECTRUM
+ */
 
 .bg-spectrum
   background: $blue
@@ -274,28 +343,6 @@ nav a.active
     background-position:100% 50%
   100%
     background-position:0% 50%
-
-/**
- * 404
- * 404
- * 404
- * 404
- * 404
- */
-
-.four-oh-four
-  background: url(/assets/images/crown-via-phill-c-on-yelp.jpg) bottom center
-  background-size: cover
-  padding-top: 100px
-  height: 800px
-
-  h1
-    font-size: 4rem
-    margin-bottom: 2rem
-
-  p
-    font-size: 2rem
-    line-height: 2.4rem
 
 /**
  * BREAKPOINTS

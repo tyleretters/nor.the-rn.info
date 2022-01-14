@@ -34,7 +34,7 @@ h3 {
   font-weight: 500;
 }
 
-h4 {
+h4, .grid-mobile h3 {
   font-size: 1rem;
   line-height: 1.3rem;
   font-weight: 500;
@@ -109,6 +109,11 @@ h1.page-title {
   overflow: visible;
 }
 
+.calc-gutter, .grid p, .grid h1, .grid h2, .grid h3, .grid h4, .grid-mobile p, .grid-mobile h1, .grid-mobile h2, .grid-mobile h3, .grid-mobile h4 {
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+}
+
 /**
  * * ARTICLE
  * * ARTICLE
@@ -170,32 +175,44 @@ article li {
 }
 
 /**
- * * NAV
- * * NAV
- * * NAV
- * * NAV
- * * NAV
+ * * NAV & "GRID"
+ * * NAV & "GRID"
+ * * NAV & "GRID"
+ * * NAV & "GRID"
+ * * NAV & "GRID"
  * */
-.b {
-  overflow: hidden;
+.grid-mobile br {
+  display: none;
+}
+.grid-mobile a {
   padding: 0;
 }
-.b h1, .b h2, .b h3, .b h4 {
-  margin: 0 0 0.2rem 0;
+.grid-mobile h1, .grid-mobile h2, .grid-mobile h3, .grid-mobile h4 {
+  display: inline-block;
+  margin: 1rem 0 0.5rem 0;
 }
-.b h1 span, .b h2 span, .b h3 span, .b h4 span {
+.grid-mobile h1 span, .grid-mobile h2 span, .grid-mobile h3 span, .grid-mobile h4 span {
   line-height: 0;
   font-size: 0.8rem;
   text-transform: uppercase;
 }
-
-.calc-gutter, nav a,
-.grid a,
-.dummy {
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
+.grid-mobile h2 {
+  font-size: 1.6rem;
+  line-height: 1.6rem;
+  font-weight: 500;
 }
-
+.grid a {
+  padding: 0;
+}
+.grid h1, .grid h2, .grid h3, .grid h4 {
+  display: inline-block;
+  margin: 1rem 0 0.5rem 0;
+}
+.grid h1 span, .grid h2 span, .grid h3 span, .grid h4 span {
+  line-height: 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
 nav a,
 .grid a,
 .dummy {
@@ -221,6 +238,11 @@ nav a:hover {
 nav a.active {
   background: #212529;
   color: #ffffff;
+}
+
+.b {
+  overflow: hidden;
+  padding: 0;
 }
 
 .bt {
@@ -252,6 +274,35 @@ nav a.active {
     border-right: 1px solid #212529;
   }
 }
+/**
+ * * 404
+ * * 404
+ * * 404
+ * * 404
+ * * 404
+ * */
+.four-oh-four {
+  background: url(/assets/images/crown-via-phill-c-on-yelp.jpg) bottom center;
+  background-size: cover;
+  padding-top: 100px;
+  height: 800px;
+}
+.four-oh-four h1 {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+.four-oh-four p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+/**
+ * * SPECTRUM
+ * * SPECTRUM
+ * * SPECTRUM
+ * * SPECTRUM
+ * * SPECTRUM
+ * */
 .bg-spectrum {
   background: #0687f5;
   background: -webkit-linear-gradient(left, red, orange, yellow, lime, cyan, blue, indigo, violet, white, black);
@@ -297,28 +348,6 @@ nav a.active {
     background-position: 0% 50%;
   }
 }
-/**
- * * 404
- * * 404
- * * 404
- * * 404
- * * 404
- * */
-.four-oh-four {
-  background: url(/assets/images/crown-via-phill-c-on-yelp.jpg) bottom center;
-  background-size: cover;
-  padding-top: 100px;
-  height: 800px;
-}
-.four-oh-four h1 {
-  font-size: 4rem;
-  margin-bottom: 2rem;
-}
-.four-oh-four p {
-  font-size: 2rem;
-  line-height: 2.4rem;
-}
-
 /**
  * * BREAKPOINTS
  * * BREAKPOINTS
