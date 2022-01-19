@@ -125,6 +125,9 @@ article h1 {
   font-size: 3rem;
   line-height: 3.3rem;
 }
+article p {
+  line-height: 1.8rem;
+}
 article img {
   border: 1px solid #0687f5;
 }
@@ -181,9 +184,6 @@ article li {
  * * NAV & "GRID"
  * * NAV & "GRID"
  * */
-.grid-mobile br {
-  display: none;
-}
 .grid-mobile a {
   padding: 0;
 }
