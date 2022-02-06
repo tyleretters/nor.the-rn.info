@@ -56,7 +56,14 @@ elsewhere:
 - name: LinkedIn
   url: https://www.linkedin.com/in/tyleretters
 
+- name: Eth
+  url: https://tyleretters.eth
+
+
 affiliates:
+
+- name: Coral Carrier Incarnadine
+  url: https://cci.dev
 
 - name: DXMC
   url: https://deusexmachina.company
