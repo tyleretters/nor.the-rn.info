@@ -8,8 +8,10 @@ My practice incorporates software, electronic music, writing, new media, design,
 
 I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 
-Email me: [tyler@etters.co](mailto:tyler@etters.co)
+**Contact (Not Accepting New Projects)**
 
+- [tyler@etters.co](mailto:tyler@etters.co) *(insecure, Gmail)*
+- [screaming-orchid@deusexmachina.company](mailto:screaming-orchid@deusexmachina.company) *(secure, Protonmail)*
 
 <div class="about-dream px-3 py-3 mb-3 mt-4" markdown="1">
 **Last Night I Was Probably Dreaming About:**
