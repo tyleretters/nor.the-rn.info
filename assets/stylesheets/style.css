@@ -192,6 +192,25 @@ article li {
 }
 
 /**
+ * * ABOUT
+ * * ABOUT
+ * * ABOUT
+ * * ABOUT
+ * * ABOUT
+ * */
+.about-dream {
+  border: 5px solid #212529;
+}
+
+.about-aid {
+  border: 5px solid #565f68;
+}
+
+.about-ice {
+  border: 5px solid #d0d4d9;
+}
+
+/**
  * * NAV & "GRID"
  * * NAV & "GRID"
  * * NAV & "GRID"
