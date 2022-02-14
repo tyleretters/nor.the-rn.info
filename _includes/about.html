@@ -1,15 +1,11 @@
 <div class="container-fluid about-container invert">
   <div class="row b bb">
-    <article class="col-sm-12 col-md-4 px-0 pt-3 bt br-md">
+    <article class="col-sm-12 col-md-4 px-0 py-3 bt br-md">
       <p>My practice incorporates software, electronic music, writing, new media, design, photography, community organizing, and teaching.</p>
       <p>I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.</p>
       <ul>
-        <li class="mb-1""><a href="mailto:tyler@etters.co">Gmail</a></li>
-        <li class="mb-1""><a href="https://deusexmachina.company/assets/images/screaming-orchid.jpg">ProtonMail & Signal</a></li>
-        {% assign elsewhere = site.data.footer.elsewhere %}
-        {% for link in elsewhere %}
-          <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
-        {% endfor %}
+        <li><a href="mailto:tyler@etters.co">Gmail</a></li>
+        <li><a href="https://deusexmachina.company/assets/images/screaming-orchid.jpg">ProtonMail & Signal</a></li>
       </ul>
     </article>
     <div class="col-sm-12 col-md-8 px-0 b bt">
@@ -21,31 +17,26 @@
       <h2>Operations</h2>
     </div>
   </div>
-  <div class="row">
-    <div class="col-sm-12 col-md-4 pt-3 b bb br-md">
-      <div class="about-dream">
-        <p><strong>Active</strong></p>
-        <ul>
-          <li><a href="https://output.com">Output</a>, <em>Senior Web Engineer (full time)</em></li>
-          <li>Continuum Hack, <em>forthcoming film with the <a href="https://www.stinerbros.com/">Stiner Brothers</a></em></li>
-          <li><a href="https://channel.xyz">channel</a>, <em>Front End Engineer</em></li>
-          <li><a href="https://cci.dev">Coral Carrier Incarnadine</a>, <em>passion project</em></li>
-          <li><a href="https://github.com/monome/norns">norns</a>, <em>Contributor</em></li>
-        </ul>
-      </div>
+  <div class="row about-operations">
+    <div class="col-sm-12 col-md-4 py-3 b bb br-md">
+      <p><strong>Active</strong></p>
+      <ul>
+        <li><a href="https://output.com">Output</a>, <em>Senior Web Engineer (full time)</em></li>
+        <li>Continuum Hack, <em>forthcoming film with the <a href="https://www.stinerbros.com/">Stiner Brothers</a></em></li>
+        <li><a href="https://channel.xyz">channel</a>, <em>Front End Engineer</em></li>
+        <li><a href="https://cci.dev">Coral Carrier Incarnadine</a>, <em>passion project</em></li>
+        <li><a href="https://github.com/monome/norns">norns</a>, <em>Contributor</em></li>
+      </ul>
     </div>
-    <div class="col-sm-12 col-md-4 pt-3 b bb br-md">
-      <div class="about-aid">
+    <div class="col-sm-12 col-md-4 py-3 b bb br-md">
       <p><strong>Divesting</strong></p>
       <ul>
         <li><a href="https://flashcrash.net">Flash Crash</a>, <em>seeking community organizers &amp; VJs</em></li>
         <li><a href="https://github.com/northern-information/arcologies/">arcologies</a>, <em>seeking primary maintainer</em></li>
         <li><a href="https://github.com/northern-information/yggdrasil/">yggdrasil</a>, <em>seeking primary maintainer</em></li>
       </ul>
-      </div>
     </div>
-    <div class="col-sm-12 col-md-4 pt-3 bb">
-      <div class="about-ice">
+    <div class="col-sm-12 col-md-4 py-3 b bb">
       <p><strong>Iced</strong></p>
       <ul>
         <li><a href="https://deusexmachina,company">DXMC</a>, <em>client services arm of Northern Information</em></li>
@@ -54,7 +45,6 @@
         <li><a href="https://sidereallobby.com">Sidereal Lobby</a>, <em>ape shall not kill ape</em></li>
         <li><a href="https://twitch.tv/tyleretters">Twitch</a>, <em>music and code streams</em></li>
       </ul>
-      </div>
     </div>
   </div>
 </div>

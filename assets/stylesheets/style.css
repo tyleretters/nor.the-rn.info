@@ -224,9 +224,15 @@ article li {
 .about-container ul {
   list-style: none;
 }
-.about-container .about-dream ul li,
-.about-container .about-aid ul li,
-.about-container .about-ice ul li {
+.about-container ul li {
+  margin-bottom: 0.25rem;
+}
+.about-container .about-operations ul {
+  margin-left: 2rem;
+  list-style: hiragana;
+}
+.about-container .about-operations ul li {
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
