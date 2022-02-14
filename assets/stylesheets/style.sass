@@ -119,9 +119,34 @@ h1.page-title
 
 .lost
   font-family: $monospace
-  font-size: 4rem
-  margin: 300px 0px
-  line-height: 4rem
+  font-size: 2rem
+  line-height: 2rem
+
+@media (min-width: 576px)
+  .lost
+    font-size: 3rem
+    line-height: 3rem
+
+// md
+@media (min-width: 768px)
+  .lost
+    font-size: 4rem
+    line-height: 4rem
+
+// lg
+@media (min-width: 992px)
+  .lost
+    font-size: 5rem
+    line-height: 5rem
+
+// xl
+@media (min-width: 1200px)
+  .lost
+    font-size: 6rem
+    line-height: 6rem
+
+// xxl
+@media (min-width: 1400px)
   
 
 /**
@@ -200,14 +225,18 @@ article
  * ABOUT
  */
 
-.about-dream
-  border: 5px solid $black
+.about-container
+  p, h2, ul
+    @extend .calc-gutter
 
-.about-aid
-  border: 5px solid $grey
+  ul
+    list-style: none
 
-.about-ice
-  border: 5px solid $light-grey
+  .about-dream,
+  .about-aid,
+  .about-ice
+    ul li
+      margin-bottom: 1rem
 
 /**
  * NAV & "GRID"
@@ -275,6 +304,10 @@ nav a,
   width: 100%
   display: inline-block
 
+
+nav a br
+  display: none
+
 .grid a:focus-visible div,
 nav a:focus-visible div
   outline: 3px solid $blue
@@ -305,7 +338,12 @@ nav a.active
 .br
   border-right: 1px solid $black
 
+
 @media (min-width: 768px)
+
+  nav a br
+    display: inline
+
   .bt-md
     border-top: 1px solid $black
 
