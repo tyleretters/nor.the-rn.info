@@ -9,7 +9,7 @@ sagas: ['wildcard']
 
 *They say every driveway in the United States of America is connected.*
 
-Northbound on the five. Saturday afternoon gridlock. Lane splitting — while legal in California — is a power I reserve for only the direst of biological situations. The art of riding fundamentally the art of one single task:<!--x--> increase the of odds of not dying, every second, with utter vigilance, ad infinitum.
+Northbound on the five. Saturday afternoon gridlock. Lane splitting — while legal in California — is a power I reserve for only the direst of biological situations. The art of riding is fundamentally the art of one single task:<!--x--> increase the of odds of not dying, every second, with utter vigilance, ad infinitum.
 
 *I think the SSRI withdrawals are finally over.*
 
@@ -45,7 +45,7 @@ I firmly believe we are living on borrowed time. If it's not the foretold [Big O
 
 I have been refining my mudra accordingly.
 
-To start: I'm 34. I've run the numbers: I am not going to be alive when I'm "retirement age" in 2060. The way I see it, if I do make it that long, then it means we figured some shit out and something resembling UBI exists. The over under of this scenario is 1 in 1000.
+To start: I'm 34. I've run the numbers. I am not going to be alive when I'm "retirement age" in 2060. The way I see it, if I do make it that long, then it means we figured some shit out and something resembling UBI exists. The over under of this scenario is 1 in 1000.
 
 I am not being hyperbolic when I say dying in anthropocene is my retirement strategy.
 
