@@ -35,11 +35,14 @@ elsewhere:
 - name: GitHub
   url: https://github.com/northern-information
 
-- name: Bandcamp
-  url: https://intertext.bandcamp.com
+- name: ENS
+  url: https://tyleretters.eth
 
 - name: Instagram
   url: https://instagram.com/tyleretters
+
+- name: Bandcamp
+  url: https://intertext.bandcamp.com
 
 - name: Twitch
   url: https://twitch.tv/tyleretters
@@ -56,8 +59,6 @@ elsewhere:
 - name: LinkedIn
   url: https://www.linkedin.com/in/tyleretters
 
-- name: Eth
-  url: https://tyleretters.eth
 
 
 affiliates:
@@ -68,7 +69,7 @@ affiliates:
 - name: DXMC
   url: https://deusexmachina.company
 
-- name: Flash Crash
+- name: FLASH CRASH
   url: https://flashcrash.net
 
 - name: Sidereal Lobby

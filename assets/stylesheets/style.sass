@@ -102,6 +102,22 @@ h1.page-title
     color: $white
     background: $blue
 
+.invert
+  a.btn
+    background-color: $inverted-blue
+    border-color: $inverted-blue
+    color: $black
+
+    &:hover,
+    &:active
+      background-color: $black
+      color: $inverted-blue  
+
+
+  .btn-primary
+    display: block
+    
+
 .overflow-visible
   overflow: visible
 
@@ -237,8 +253,8 @@ article
 
   .about-operations
     ul
-      margin-left: 2rem
-      list-style: hiragana
+      margin-left: 1.2rem
+      list-style: decimal
 
       li
         margin-top: 1rem
@@ -309,6 +325,9 @@ nav a,
   height: 100%
   width: 100%
   display: inline-block
+  
+  p
+    margin: 1rem 0 1rem 0
 
 
 nav a br

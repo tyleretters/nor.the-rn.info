@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: 
 subtitle: Northern Information is the abstraction of polymath-artist Tyler Etters.
 permalink: /about
 ---

@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Books
+title: 
 subtitle: Selected short reviews.
 permalink: /books
 ---

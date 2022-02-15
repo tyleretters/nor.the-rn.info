@@ -105,6 +105,19 @@ h1.page-title {
   background: #0687f5;
 }
 
+.invert a.btn {
+  background-color: #f9780a;
+  border-color: #f9780a;
+  color: #212529;
+}
+.invert a.btn:hover, .invert a.btn:active {
+  background-color: #212529;
+  color: #f9780a;
+}
+.invert .btn-primary {
+  display: block;
+}
+
 .overflow-visible {
   overflow: visible;
 }
@@ -228,8 +241,8 @@ article li {
   margin-bottom: 0.25rem;
 }
 .about-container .about-operations ul {
-  margin-left: 2rem;
-  list-style: hiragana;
+  margin-left: 1.2rem;
+  list-style: decimal;
 }
 .about-container .about-operations ul li {
   margin-top: 1rem;
@@ -287,6 +300,11 @@ nav a,
   height: 100%;
   width: 100%;
   display: inline-block;
+}
+nav a p,
+.grid a p,
+.dummy p {
+  margin: 1rem 0 1rem 0;
 }
 
 nav a br {
