@@ -75,7 +75,7 @@ I believed, like so many of my friends, that I just had to work hard enough and 
 
 *There is no trust fund at the end of the rainbow. There is no generational wealth for us.*
 
-Rent on our a two bedroom apartment in Los Angeles county is about 40% of my take-home pay. The idea of ever owning a home a beyond absurd. (A house even smaller than our apartment costs around 10x what we make in a year.) Having a three bedroom apartment or even a two car garage would be a luxury beyond our wildest dreams. Heck, having a one car garage that we can jam both a Yaris and a Harley into feels absolutely opulent.
+Rent on our a two bedroom apartment in Los Angeles county is about 40% of my take-home pay. The idea of ever owning a home is beyond absurd. (A house even smaller than our apartment costs around 10x what we make in a year.) Having a three bedroom apartment or even a two car garage would be a luxury beyond our wildest dreams. Heck, having a one car garage that we can jam both a Yaris and a Harley into feels absolutely opulent.
 
 ![https://www.longtermtrends.net/home-price-median-annual-income-ratio/](/assets/images/home-to-income-ratio.png)
 

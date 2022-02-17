@@ -1,12 +1,12 @@
 <div class="container-fluid">
   <div class="row invert">
-    <div class="col pt-2 px-0">
+    <div class="col px-0">
       <div class="dummy grid">
         {% if page.sagas | size > 0 %}
-          <h1>Blog</h1>
+          <h1 class="mb-0">Blog</h1>
           <p>The moon sets, the batteries run dry, and a cold, dreamless sleep overcomes...</p>
         {% else %}
-          <h1>{{ page.title }}</h1>
+          {% if page.title %}<h1 class="mb-0">{{ page.title }}</h1>{% endif %}
           {{ page.subtitle | markdownify }}
         {% endif %}
       </div>

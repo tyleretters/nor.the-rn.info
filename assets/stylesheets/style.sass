@@ -102,6 +102,22 @@ h1.page-title
     color: $white
     background: $blue
 
+.invert
+  a.btn
+    background-color: $inverted-blue
+    border-color: $inverted-blue
+    color: $black
+
+    &:hover,
+    &:active
+      background-color: $black
+      color: $inverted-blue  
+
+
+  .btn-primary
+    display: block
+    
+
 .overflow-visible
   overflow: visible
 
@@ -119,9 +135,34 @@ h1.page-title
 
 .lost
   font-family: $monospace
-  font-size: 4rem
-  margin: 300px 0px
-  line-height: 4rem
+  font-size: 2rem
+  line-height: 2rem
+
+@media (min-width: 576px)
+  .lost
+    font-size: 3rem
+    line-height: 3rem
+
+// md
+@media (min-width: 768px)
+  .lost
+    font-size: 4rem
+    line-height: 4rem
+
+// lg
+@media (min-width: 992px)
+  .lost
+    font-size: 5rem
+    line-height: 5rem
+
+// xl
+@media (min-width: 1200px)
+  .lost
+    font-size: 6rem
+    line-height: 6rem
+
+// xxl
+@media (min-width: 1400px)
   
 
 /**
@@ -200,14 +241,24 @@ article
  * ABOUT
  */
 
-.about-dream
-  border: 5px solid $black
+.about-container
+  p, h2, ul
+    @extend .calc-gutter
 
-.about-aid
-  border: 5px solid $grey
+  ul
+    list-style: none
 
-.about-ice
-  border: 5px solid $light-grey
+    li
+      margin-bottom: .25rem
+
+  .about-operations
+    ul
+      margin-left: 1.2rem
+      list-style: decimal
+
+      li
+        margin-top: 1rem
+        margin-bottom: 1rem
 
 /**
  * NAV & "GRID"
@@ -274,6 +325,13 @@ nav a,
   height: 100%
   width: 100%
   display: inline-block
+  
+  p
+    margin: 1rem 0 1rem 0
+
+
+nav a br
+  display: none
 
 .grid a:focus-visible div,
 nav a:focus-visible div
@@ -305,7 +363,12 @@ nav a.active
 .br
   border-right: 1px solid $black
 
+
 @media (min-width: 768px)
+
+  nav a br
+    display: inline
+
   .bt-md
     border-top: 1px solid $black
 

@@ -105,11 +105,24 @@ h1.page-title {
   background: #0687f5;
 }
 
+.invert a.btn {
+  background-color: #f9780a;
+  border-color: #f9780a;
+  color: #212529;
+}
+.invert a.btn:hover, .invert a.btn:active {
+  background-color: #212529;
+  color: #f9780a;
+}
+.invert .btn-primary {
+  display: block;
+}
+
 .overflow-visible {
   overflow: visible;
 }
 
-.calc-gutter, .grid p, .grid h1, .grid h2, .grid h3, .grid h4, .grid-mobile p, .grid-mobile h1, .grid-mobile h2, .grid-mobile h3, .grid-mobile h4 {
+.calc-gutter, .grid p, .grid h1, .grid h2, .grid h3, .grid h4, .grid-mobile p, .grid-mobile h1, .grid-mobile h2, .grid-mobile h3, .grid-mobile h4, .about-container p, .about-container h2, .about-container ul {
   padding-right: calc(var(--bs-gutter-x) * 0.5);
   padding-left: calc(var(--bs-gutter-x) * 0.5);
 }
@@ -123,11 +136,34 @@ h1.page-title {
  * */
 .lost {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 4rem;
-  margin: 300px 0px;
-  line-height: 4rem;
+  font-size: 2rem;
+  line-height: 2rem;
 }
 
+@media (min-width: 576px) {
+  .lost {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .lost {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+}
+@media (min-width: 992px) {
+  .lost {
+    font-size: 5rem;
+    line-height: 5rem;
+  }
+}
+@media (min-width: 1200px) {
+  .lost {
+    font-size: 6rem;
+    line-height: 6rem;
+  }
+}
 /**
  * * ARTICLE
  * * ARTICLE
@@ -198,16 +234,19 @@ article li {
  * * ABOUT
  * * ABOUT
  * */
-.about-dream {
-  border: 5px solid #212529;
+.about-container ul {
+  list-style: none;
 }
-
-.about-aid {
-  border: 5px solid #565f68;
+.about-container ul li {
+  margin-bottom: 0.25rem;
 }
-
-.about-ice {
-  border: 5px solid #d0d4d9;
+.about-container .about-operations ul {
+  margin-left: 1.2rem;
+  list-style: decimal;
+}
+.about-container .about-operations ul li {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 /**
@@ -262,6 +301,15 @@ nav a,
   width: 100%;
   display: inline-block;
 }
+nav a p,
+.grid a p,
+.dummy p {
+  margin: 1rem 0 1rem 0;
+}
+
+nav a br {
+  display: none;
+}
 
 .grid a:focus-visible div,
 nav a:focus-visible div {
@@ -302,6 +350,10 @@ nav a.active {
 }
 
 @media (min-width: 768px) {
+  nav a br {
+    display: inline;
+  }
+
   .bt-md {
     border-top: 1px solid #212529;
   }
