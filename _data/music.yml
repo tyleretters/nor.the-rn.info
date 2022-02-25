@@ -1,5 +1,5 @@
 - order: 1
-  name: 'As "Sidereal Lobby"'
+  name: 'Sidereal Lobby'
   dates: 2021 - Present
   url: https://sidereallobby.bandcamp.com
   content: |
@@ -26,7 +26,7 @@
       year: 2021
 
 - order: 2
-  name: 'As "STUXNET"'
+  name: 'STUXNET'
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
   content: |
@@ -55,29 +55,29 @@
     - order: 4
       image: times-firewall-demo.jpg
       title: TIME'S FIREWALL (demo)
-      url: https://stuxnet.bandcamp.com/album/times-firewall-demo
+      url: false
       year: 2021
 
     - order: 3
       image: matryoshka-demo.jpg
       title: MATRYOSHKA (demo)
-      url: https://distrokid.com/hyperfollow/stuxnet/matryoshka-demo
+      url: false
       year: 2021
 
     - order: 2
       image: cipher-suite-demo.jpg
       title: CIPHER SUITE (demo)
-      url: https://distrokid.com/hyperfollow/stuxnet/cipher-suite-demo
+      url: false
       year: 2021
 
     - order: 1
       image: carrier-demo.jpg
       title: CARRIER (demo)
-      url: https://distrokid.com/hyperfollow/stuxnet/carrier-demo
+      url: false
       year: 2021
 
 - order: 3
-  name: 'As "Northern Information"'
+  name: 'Northern Information'
   dates: 2020
   url: https://northerninformation.bandcamp.com
   content: |
@@ -126,7 +126,7 @@
       year: 2020
 
 - order: 5
-  name: 'As "They Became What They Beheld"'
+  name: 'They Became What They Beheld'
   dates: 2019
   url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
   content: |
@@ -143,7 +143,7 @@
       year: 2019
 
 - order: 6
-  name: 'As "Synergy Beat"'
+  name: 'Synergy Beat'
   dates: 2018
   url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
   content: |
@@ -158,7 +158,7 @@
       year: 2018
 
 - order: 7
-  name: 'As "the northern information movement"'
+  name: 'the northern information movement'
   dates: 2012 - 2017
   url: https://northerninformation.bandcamp.com
   content: |
@@ -221,7 +221,7 @@
       year: 2013
 
 - order: 8
-  name: 'As "Connectedness Locus"'
+  name: 'Connectedness Locus'
   dates: 2008 - 2012
   url: https://connectednesslocus.bandcamp.com
   content: |
@@ -256,7 +256,7 @@
       year: 2009
 
 - order: 9
-  name: 'As "Everything Comes in Cycles; Everything Fades in Shades" & "Ix"'
+  name: 'Everything Comes in Cycles; Everything Fades in Shades & Ix'
   dates: 2005 - 2009
   url: https://ecicefis.bandcamp.com
   content: |
