@@ -105,6 +105,18 @@ h1.page-title {
   background: #0687f5;
 }
 
+.btn-unavailable {
+  border: 2px solid #212529;
+  background: #212529;
+  color: #ffffff;
+  text-decoration: none;
+  cursor: not-allowed;
+}
+.btn-unavailable:hover {
+  color: #ffffff;
+  background: #212529;
+}
+
 .invert a.btn {
   background-color: #f9780a;
   border-color: #f9780a;

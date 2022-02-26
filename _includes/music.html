@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col-sm-12 col-md-4 b bb-md py-3 px-3">
       <div class="music">
-        <h1 id="{{ music.name | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ music.name }}</h1>
+        <h1 id="{{ music.name | downcase | replace: " / ", "-" |  replace: " &", "" | replace: " ", "-" | replace: ";", "" }}">{{ music.name }}</h1>
         <p>{{ music.dates }}</p>
         <p><a href="{{ music.url }}" class="btn">Explore</a></p>
         {{ music.content | markdownify }}
@@ -15,7 +15,11 @@
           {% for release in release_by_order %}
           <div class="col-sm-12 col-md-4 mb-3">
             <a href="/assets/images/{{ release.image }}"><img src="/assets/images/{{ release.image }}" class="img-100 mb-2" /></a>
+            {% if release.url %}
               <a href="{{ release.url }}" class="btn d-block mb-2"> Listen</a>
+            {% else %}
+              <a href="#" class="btn btn-unavailable d-block mb-2">No Longer Available</a>
+            {% endif %}
             <p><strong>{{ release.title }}</strong>, {{ release.year }}</p>
           </div>
           {% endfor %}
