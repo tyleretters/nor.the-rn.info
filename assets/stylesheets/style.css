@@ -139,6 +139,10 @@ h1.page-title {
   padding-left: calc(var(--bs-gutter-x) * 0.5);
 }
 
+.color-inverted-blue {
+  color: #f9780a;
+}
+
 /**
  * * INDEX
  * * INDEX

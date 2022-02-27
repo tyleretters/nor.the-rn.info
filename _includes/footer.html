@@ -1,10 +1,10 @@
 <div class="container-fluid py-5 invert">
   <div class="row">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4 mb-3 mb-md-0">
       <h3 class="mb-1">Northern Information, LLC</h3>
       <p class="mb-1">2008 &mdash; {{ "now" | date: "%Y" }}, <a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)</a></p>
     </div>
-    <div class="col-4 col-md-2 mb-5">
+    <div class="col-4 col-md-2">
       <ul>
         {% assign here = site.data.footer.here %}
         {% for link in here %}
@@ -12,21 +12,25 @@
         {% endfor %}
       </ul>
     </div>
-    <div class="col-4 col-md-2 mb-5">
+    <div class="col-4 col-md-2">
       <ul>
+          <li class="mb-1"><a href="https://bandcamp.us1.list-manage.com/subscribe?u=e82006751a8517b8fd440a182&id=68446b3abb">Newsletter</a> <span class="color-inverted-blue">/</span> <a href="https://us1.campaign-archive.com/home/?u=e82006751a8517b8fd440a182&id=68446b3abb">Archvies</a></li>
         {% assign elsewhere = site.data.footer.elsewhere %}
         {% for link in elsewhere %}
           <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
         {% endfor %}
       </ul>
     </div>
-    <div class="col-4 col-md-2 mb-5">
+    <div class="col-4 col-md-2">
       <ul>
         {% assign affiliates = site.data.footer.affiliates %}
         {% for link in affiliates %}
           <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
         {% endfor %}
       </ul>
+    </div>
+    <div class="col-6 offset-3 col-md-2 offset-md-0 my-5 my-md-0">
+      <img src="/assets/images/applied-sciences-and-phantasms-working-division.png" class="img-100" />
     </div>
   </div>
 </div>
