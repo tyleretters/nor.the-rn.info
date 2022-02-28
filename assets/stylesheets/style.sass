@@ -23,12 +23,17 @@ $monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier
  * CORE
  */
 
+.container-fluid
+  max-width: 1400px
+
 body
   color: $black
   background: $black
   font-family: $sans-serif
 
 .gesso
+  margin: auto
+  max-width: 1400px
   background: $white
 
 h1, h2
@@ -175,7 +180,26 @@ h1.page-title
 
 // xxl
 @media (min-width: 1400px)
-  
+
+
+/**
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ */
+
+
+footer 
+  strong
+    font-size: 1rem
+    color: $grey
+    text-transform: uppercase
+
+@media (min-width: 768px)
+  footer .row > div
+    padding-bottom: 500px!important
 
 /**
  * ARTICLE
@@ -370,16 +394,23 @@ nav a.active
   border-bottom: 1px solid $black
 
 .bb-transparent
-  border-bottom: 1px solid transparent
+  border-bottom: 1px solid transparent!important
 
 .br
   border-right: 1px solid $black
+
+.bl
+  border-left: 1px solid $black
 
 
 @media (min-width: 768px)
 
   nav a br
     display: inline
+
+
+  .bb-md-transparent
+    border-bottom: 1px solid transparent!important
 
   .bt-md
     border-top: 1px solid $black

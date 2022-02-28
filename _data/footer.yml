@@ -29,6 +29,9 @@ here:
 
 elsewhere:
 
+- name: Discord
+  url: https://discord.gg/9AQRe99KSM
+
 - name: GitHub
   url: https://github.com/northern-information
 
@@ -56,14 +59,12 @@ elsewhere:
 - name: LinkedIn
   url: https://www.linkedin.com/in/tyleretters
 
-
-
-affiliates:
+matryoshkas:
 
 - name: Coral Carrier Incarnadine
   url: https://cci.dev
 
-- name: DXMC
+- name: DEUS EX MACHINA COMPANY
   url: https://deusexmachina.company
 
 - name: FLASH CRASH
@@ -77,3 +78,6 @@ affiliates:
 
 - name: Stuxnet
   url: https://stuxnet.me
+
+- name: Intertext
+  url: https://intertext.bandcamp.com

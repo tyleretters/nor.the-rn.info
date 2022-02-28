@@ -12,6 +12,10 @@
  * * CORE
  * * CORE
  * */
+.container-fluid {
+  max-width: 1400px;
+}
+
 body {
   color: #212529;
   background: #212529;
@@ -19,6 +23,8 @@ body {
 }
 
 .gesso {
+  margin: auto;
+  max-width: 1400px;
   background: #ffffff;
 }
 
@@ -178,6 +184,24 @@ h1.page-title {
   .lost {
     font-size: 6rem;
     line-height: 6rem;
+  }
+}
+/**
+ * * FOOTER
+ * * FOOTER
+ * * FOOTER
+ * * FOOTER
+ * * FOOTER
+ * */
+footer strong {
+  font-size: 1rem;
+  color: #565f68;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  footer .row > div {
+    padding-bottom: 500px !important;
   }
 }
 /**
@@ -358,16 +382,24 @@ nav a.active {
 }
 
 .bb-transparent {
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid transparent !important;
 }
 
 .br {
   border-right: 1px solid #212529;
 }
 
+.bl {
+  border-left: 1px solid #212529;
+}
+
 @media (min-width: 768px) {
   nav a br {
     display: inline;
+  }
+
+  .bb-md-transparent {
+    border-bottom: 1px solid transparent !important;
   }
 
   .bt-md {
