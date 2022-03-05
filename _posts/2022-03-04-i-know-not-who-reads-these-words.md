@@ -15,7 +15,7 @@ I uninstalled Google Analytics some time ago.
 
 I am my own audience, now.<!--x-->
 
-If I can make one tiny fucking hole in their data &mdash; web, one unexpected [`rng`](https://en.wikipedia.org/wiki/Random_number_generation), one tiny source of curiosity and mystery and wonder &mdash; if I can do that - then my purpose is accomplished.
+If I can make one tiny fucking hole in their dataweb, one unexpected [`rng`](https://en.wikipedia.org/wiki/Random_number_generation), one tiny source of curiosity and mystery and wonder &mdash; if I can do that &mdash; then my purpose is accomplished.
 
 ## Operation March
 
