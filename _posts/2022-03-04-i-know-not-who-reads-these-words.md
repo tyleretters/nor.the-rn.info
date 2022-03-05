@@ -45,7 +45,7 @@ Our long-heralded film crossed a significant milestone last week. We were filmin
 
 ![CRYPTOPYRE](/assets/images/cryptopyre-sub-cipher.jpg)
 
-My weekly [CRYPTOPYRE](https://www.twitch.tv/tyleretters/schedule) streams shall continue for the foreseeable future. We've done three and each as been deliciously intimate. Let it be known my Twitch will be considered a failure if there is every more than ten people watching at once.
+My weekly [CRYPTOPYRE](https://www.twitch.tv/tyleretters/schedule) streams shall continue for the foreseeable future. We've done three and each as been deliciously intimate. Let it be known my Twitch will be considered a failure if ever there is more than ten people watching at once.
 
 [Do join our Discord.](https://discord.gg/FHDdUJugzU)
 
