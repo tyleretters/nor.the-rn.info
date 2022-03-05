@@ -1,11 +1,11 @@
-<nav class="container-fluid grid mt-5">
+<nav class="container-fluid grid invert">
   <div class="row">
-    <div class="col-sm-12 col-md-2 b bt br-md">
+    <div class="col-sm-12 col-md-2 b bt bb-md br-md">
       <a href="/archives">
         <h3><span class="d-none d-md-inline-block">&nbsp;</span><br class="d-none d-md-inline-block">Archives</h3>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 b bt br-md earlier-post">
+    <div class="col-sm-12 col-md-4 b bt br-md bb-md earlier-post">
       {% if page.next.url %}
         {% assign url = page.next.url %}
         {% assign title = page.next.title %}
@@ -16,10 +16,10 @@
         {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
       {% endif %}
       <a href="{{ url }}">
-        <h3><span>&larr; {{ date }}</span><br>{{ title }}</h3>
+        <h3><span class="d-none d-md-inline-block">&larr; {{ date }}</span><br>{{ title }}</h3>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 b bt br-md later-post">
+    <div class="col-sm-12 col-md-4 b bt br-md bb-md later-post">
       {% if page.previous.url %}
         {% assign url = page.previous.url %}
         {% assign title = page.previous.title %}
@@ -30,10 +30,10 @@
         {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
       {% endif %}
       <a href="{{ url }}">
-        <h3><span>{{ date }} &rarr;</span><br>{{ title }}</h3>
+        <h3><span class="d-none d-md-inline-block">{{ date }} &rarr;</span><br>{{ title }}</h3>
       </a>
     </div>
-    <div class="col-sm-12 col-md-2 b bt">
+    <div class="col-sm-12 col-md-2 b bt bb">
       <a href="/feed.xml">
         <h3><span class="d-none d-md-inline-block">XML Atom Feed</span><br class="d-none d-md-inline-block"><i class="fa-light fa-square-rss"></i> Subscribe</h3>
       </a>

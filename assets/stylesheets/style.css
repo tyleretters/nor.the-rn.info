@@ -211,6 +211,13 @@ footer strong {
  * * ARTICLE
  * * ARTICLE
  * */
+.article-p p {
+  line-height: 1.8rem;
+}
+
+article {
+  border-bottom: 1px solid #212529;
+}
 article h1 {
   font-size: 3rem;
   line-height: 3.3rem;

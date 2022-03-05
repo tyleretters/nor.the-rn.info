@@ -2,9 +2,9 @@
 layout: abstract
 ---
 {% include title.html %}
-{% include blognav-top.html %}
+{% include blognav-top-main.html %}
 {% for post in site.posts limit: 3 %}
 {% assign page = post %}
 {% include article.html %}
 {% endfor %}
-{% include blognav-bottom.html %}
+{% include blognav-bottom-main.html %}
