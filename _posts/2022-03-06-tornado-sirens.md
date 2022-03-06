@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tornado Sirens
-date: 2022-03-06
+date: 2022-03-05
 sagas: ['wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 5/31 of Operation March.*
