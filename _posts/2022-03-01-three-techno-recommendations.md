@@ -26,7 +26,7 @@ The Beatles were to rock 'n roll what Rhythm & Sound were to to dub techno. If n
 
 ![Serenity](/assets/images/serenity.jpg)
 
-This one from bvdub is sensual, passionate, intoxicating stuff. [He's got an online show this weekend.](https://bvdub.bandcamp.com/merch/thirteen-trips-around-the-sky-a-live-reinterpretation-of-we-were-the-sun?from=NORTHERN_INFORMATION_LLC)
+This one from bvdub is sensual, passionate, intoxicating stuff. [He's got an online show next weekend.](https://bvdub.bandcamp.com/merch/thirteen-trips-around-the-sky-a-live-reinterpretation-of-we-were-the-sun?from=NORTHERN_INFORMATION_LLC)
 
 [https://darla.com/products/bvdub-serenity](https://darla.com/products/bvdub-serenity)
 

@@ -256,6 +256,9 @@ article ul {
 article li {
   margin-bottom: 1rem;
 }
+article iframe, article audio {
+  width: 100%;
+}
 
 /**
  * * MUSIC
