@@ -3,8 +3,20 @@ layout: abstract
 ---
 {% include title.html %}
 {% include blognav-top-main.html %}
-{% for post in site.posts limit: 3 %}
-{% assign page = post %}
+
+{% assign page = site.posts[0] %}
 {% include article.html %}
-{% endfor %}
+{% include lost.html %}
+
+
+{% assign page = site.posts[1] %}
+{% include article.html %}
+{% include lost.html %}
+
+
+{% assign page = site.posts[3] %}
+{% include article.html %}
+
+
 {% include blognav-bottom-main.html %}
+{% include lost-bb.html %}
