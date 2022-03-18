@@ -32,7 +32,7 @@ A certain species of toxicity and antagonism is readily on display in Troll Co's
 
 How do you suppose the folks that keep Troll Co's website running feel about this? Instead of alienated, I would hazard a guess they feel similar to me in my current work situation: circumstances I am dubbing "light blue" collar.
 
-Today, I work at [Output](https://output.com). Yes, I work at a desk and stare at a screen all day. No, I don't worry worry about bashing my finger with a hammer and seven weeks subungual hematoma. But! My team has an on-call rotation in case stuff blows up in the middle of the night. Our tools are kept in dotfiles, not pickup trucks. Half of us ride motorcycles. We're in Zoom but wearing baseball caps and talking smack. And my sleeves are no longer a professional liability.
+Today, I work at [Output](https://output.com). Yes, I work at a desk and stare at a screen all day. No, I don't worry about bashing my finger with a hammer and enjoying seven weeks of subungual hematoma. But! My team has an on-call rotation in case stuff blows up in the middle of the night. Our tools are kept in dotfiles, not pickup trucks. Half of us ride motorcycles. We're in Zoom but wearing baseball caps and talking smack. And my sleeves are no longer a professional liability.
 
 Only upon returning to this "light blue" world did I recognize the strange species of self-contempt I harbored during my white collar days, the subliminal shame, the subconscious guilt. It burrowed deeper and deeper every time I went to the cleaners to retrieve my [fast fashion](https://www.express.com/) costumes.
 
