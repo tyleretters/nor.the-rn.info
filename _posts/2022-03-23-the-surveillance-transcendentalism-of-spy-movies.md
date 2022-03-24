@@ -12,7 +12,7 @@ The pandemic has forced me to evolve new methods of escapism. As any of my [Inst
 
 It is hard to remember, but 2012 was pre-Snowden, post-crash, pre-Trump, post-Deepwater Horizon, pre-Benghazi. What's interesting about this is, even in 2012 (before the Snowden revelations), spy movies were offering a new type of narrative to meet the libidinal desires spurred on by the ultimate post-9/11 antagonist: surveillance.
 
-![Goldeneye](/assets/images/the-bourne-legacy-goldeneye.jpg‌)
+![Goldeneye](/assets/images/the-bourne-legacy-goldeneye.jpg)
 
 In popular media, British spies fulfill the repressed desires of global dominion while American spies fulfill the repressed desires of transcending "the system." It is, "the sun never sets on the British Empire," versus, "We're trapped in the belly of this horrible machine, and the machine is bleeding to death."
 
