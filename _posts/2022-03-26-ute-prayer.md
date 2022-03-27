@@ -6,35 +6,35 @@ sagas: ['wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 26/31 of Operation March.*
 
-> Earth teach me stillness
+> Earth teach me stillness<br>
 > as the grasses are stilled with light.
 >
-> Earth teach me suffering
+> Earth teach me suffering<br>
 > as old stones suffer with memory.<!--x-->
 >
-> Earth teach me humility
+> Earth teach me humility<br>
 > as blossoms are humble with beginning.
 >
-> Earth teach me caring
+> Earth teach me caring<br>
 > as the mother who secures her young.
 >
-> Earth teach me courage
+> Earth teach me courage<br>
 > as the tree which stands all alone.
 >
-> Earth teach me limitation
+> Earth teach me limitation<br>
 > as the ant which crawls on the ground.
 >
-> Earth teach me freedom
+> Earth teach me freedom<br>
 > as the eagle which soars in the sky.
 >
-> Earth teach me resignation
+> Earth teach me resignation<br>
 > as the leaves which die in the fall.
 >
-> Earth teach me regeneration
+> Earth teach me regeneration<br>
 > as the seed which rises in the spring.
 >
-> Earth teach me to forget myself
+> Earth teach me to forget myself<br>
 > as melted snow forgets its life.
 >
-> Earth teach me to remember kindness
+> Earth teach me to remember kindness<br>
 > as dry fields weep with rain.
