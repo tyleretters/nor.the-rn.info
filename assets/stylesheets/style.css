@@ -149,6 +149,11 @@ h1.page-title {
   color: #f9780a;
 }
 
+.invert .color-grey,
+.color-grey {
+  color: #565f68;
+}
+
 /**
  * * INDEX
  * * INDEX
@@ -199,11 +204,6 @@ footer strong {
   text-transform: uppercase;
 }
 
-@media (min-width: 768px) {
-  footer .row > div {
-    padding-bottom: 500px !important;
-  }
-}
 /**
  * * ARTICLE
  * * ARTICLE

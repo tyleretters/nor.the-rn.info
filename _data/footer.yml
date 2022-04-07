@@ -61,23 +61,23 @@ elsewhere:
 
 matryoshkas:
 
-- name: Coral Carrier Incarnadine
+- name: CCI
   url: https://cci.dev
-
-- name: DEUS EX MACHINA COMPANY
-  url: https://deusexmachina.company
-
-- name: FLASH CRASH
-  url: https://flashcrash.net
-
-- name: Sidereal Lobby
-  url: https://sidereallobby.com
-
-- name: MAP CORPS
-  url: https://mapcorps.net
 
 - name: Stuxnet
   url: https://stuxnet.me
 
 - name: Intertext
   url: https://intertext.bandcamp.com
+
+- name: Flash Crash
+  url: https://flashcrash.net
+
+- name: Map Corps
+  url: https://mapcorps.net
+
+- name: SiLo
+  url: https://sidereallobby.com
+
+- name: DXMC
+  url: https://deusexmachina.company
