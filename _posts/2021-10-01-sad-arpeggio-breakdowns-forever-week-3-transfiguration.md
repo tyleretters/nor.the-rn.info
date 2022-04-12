@@ -14,15 +14,11 @@ I'm headed "almost" home. I'm going to quarantine for three days in a crummy 2 s
 
 I am a testing junky. When was my last test? Where is my next test coming from? Gotta test today gotta test today... It was a nice thing to talk about with people, how to travel responsibly. Most folks were pretty suprised with the lengths I went to on my tour. I'm vaccinated. I wear a mask everywhere. I PCR every week. I rapid before I leave any domain.
 
----
-
 ## Day 16: Half Hidden
 
 ![Half Hidden](/assets/images/sab-hidden.jpg)
 
 It is the final day of [half hidden](https://halfhidden.co)'s month long opening. There is a seven hour performance from [Emily Sprague](https://mlesprg.info/), an art gallery, a metaphysics reading room, dogs. Dan and I are on music room duty. We teach the public and kids about monome gear and show them how to make music. It is so much fun to see kids play with the instruments I've built. They are so open and happy and fully of energy and enthusiasm.
-
----
 
 ## Day 17: Meadow
 
@@ -30,8 +26,6 @@ It is the final day of [half hidden](https://halfhidden.co)'s month long opening
 
 Private.
 
-
----
 
 ## Day 18: 9/11 Memorial
 
@@ -45,16 +39,11 @@ Instead I walk around the two pools in an infinity symbol just crying and saying
 
 9/11 is now more confusing.
 
-
----
-
 ## Day 19: The Hotel Where All the Clocks Were Wrong
 
 ![Michigan Ave](/assets/images/sab-michigan.jpg)
 
 Back in Chicago, back to Highland. Jon and I spend the morning reflecting on how much the pandemic has cost us. Emotionally, spiritually, relationally. The business is fine. We're not. We walk by the old Highland office. I'm pointing to where I used to sit, on the 10th floor looking out over the Art Institute and into the celestial blue of Lake Michigan.
-
----
 
 ## Day 20: Central Camera
 
@@ -63,9 +52,6 @@ Back in Chicago, back to Highland. Jon and I spend the morning reflecting on how
 Katie-Sue and I walk down to the lake and smoke a joint. We've had an incredibley challenginging year together keeping Highland running. We make an awesome team.
 
 We walk back to have dinner and pass Central Camera - one of the key locations in the saga of my life. You know that feeling in RPGs where you finally make it back to town so you can go to the inn and all the stores to stock up for your next adventure? Yeah, Central Camera would be my first stop when I get back into the town. Stock up on film and pick up any camera's that got repaired. Window shop for bigger items out of my skill level. It is devastating to see it boarded up.
-
-
----
 
 ## Day 21: Pocket Universes
 
@@ -103,8 +89,6 @@ The point of the trip has been to continue rebuilding the new in the shell of th
 
 I walk back into my hotel and feel like I just got away with something - like I had just run a dungeon 30 levels above myself.
 
----
-
 ## Day 22: Thin Blue Line
 
 ![Test](/assets/images/sab-test.jpg)
@@ -115,8 +99,6 @@ This morning's test was the most emotional. A positive result would mean I could
 Alas. The thin blue line told me I was clear.
 
 This weekend I will be holed up in a hotel and I plan on sleeping for approximately 36 hours.
-
----
 
 Thanks for reading about the S♯A♯B∞ Tour, space cowboy.
 

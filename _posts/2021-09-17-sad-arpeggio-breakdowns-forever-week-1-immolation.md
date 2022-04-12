@@ -26,8 +26,6 @@ This is my first time seeing anyone in my family beyond of Sage and Bunting sinc
 
 This is my first time living in a world without [Timm Etters](/2021/09/06/timm-etters-all-my-love-and-all-my-burning-tears).
 
----
-
 ## Day 1: Escape from LA
 
 ![ORD](/assets/images/sab-ord.jpg)
@@ -40,15 +38,11 @@ LAX is surprisingly chill, though my flight is delayed two hours due to thunders
 
 Due to a communication snafu (my fault) both my divorced parental units show up at ORD. I feel awful.
 
----
-
 ## Day 2: Beloit
 
 ![Beloit](/assets/images/sab-beloit.jpg)
 
 I wake up in Beloit, Wisconsin.
-
----
 
 ## Day 3: Hangars & Weights
 
@@ -62,7 +56,6 @@ Willow and Will arrive and we make quick work of my limited possessions, loading
 
 Small Cessna's taxi around the private airport. There's a cookout happening. We eat hotdogs and potato salad and beans.
 
----
 
 ## Day 3: Funeral
 
@@ -74,13 +67,9 @@ His hair was a beautiful cascade of white. Liver spots on his forehead. His body
 
 The congregation exits the church. Everyone is gathered around Vicki, my aunt. One of the strongest people I know. They release butterflies for her and Timm.
 
----
-
 ## Day 4: Burial
 
 Private.
-
----
 
 ## Day 5: Mourning
 
@@ -94,8 +83,6 @@ Today I mourn with a tattoo from [Dark Heart](http://darkhearttattoo.com) and th
 
 Timm died the day of [Flash Crash 210904](https://flashcrash.net) and the debut of my new band, [Sidereal Lobby](https://sidereallobby.com).
 
----
-
 ## Day 6: Night of the Living Dead
 
 ![Glass](/assets/images/sab-dead.jpg)
@@ -104,15 +91,12 @@ Mom, Willow, Will, and I sift through my old possessions. I give most of them aw
 
 We enjoy a home-cooked dinner. For the first time, we smoke marijuana together. We settle in to watch Night of the Living Dead.
 
----
-
 ## Day 7: Only Every Four Years or So
 
 ![Culture](/assets/images/sab-culture.jpg)
 
 I get to have dinner with both my parents only every four years or so. We meet in Union, Illinois.
 
----
 
 ## Day 8: To Chicago
 
