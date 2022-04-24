@@ -194,7 +194,7 @@ Though this is a sci-fi tale, it takes place in our own timeline. Fragments of o
 
 ## Fine Art Sale
 
-![Eastern Bleach Cultist](/assets/images/eastern-bleach-cultist.png)
+![Eastern Bleach Cultist](/assets/images/eastern-bleach-cultist.jpg)
 
 **CCI NFT: Eastern Bleach Cultist**
 
