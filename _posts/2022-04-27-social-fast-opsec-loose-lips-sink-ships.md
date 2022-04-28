@@ -99,7 +99,7 @@ Meaning it shouldn't matter if you know I use a strong password and 2FA to acces
 
 And this in a really round about way brings us to the current Musk / Twitter controversy. (For those of you reading in the far future, it looks like Musk is going to acquire Twitter for $44 billion.) 
 
-There is a future where Musk, personally, will be able to read your DMs. He'll have jolly green terminal screen to clickity-clack your name into and pull up ever Twitter handle you've ever had. And read every message you ever sent. Ever message his exes ever sent...
+There is a future where Musk, personally, will be able to read your DMs. He'll have jolly green terminal screen to clickity-clack your name into and pull up ever Twitter handle you've ever had. And read every message you ever sent. Every message his exes ever sent...
 
 Free speech is pretty asymmetrical when you take unfathomable into the equation, eh?
 
