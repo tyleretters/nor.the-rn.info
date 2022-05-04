@@ -250,7 +250,7 @@ article ul {
 article li {
   margin-bottom: 1rem;
 }
-article li ol, article li ul {
+article li ul {
   margin-top: 1rem;
 }
 article iframe, article audio {
@@ -260,6 +260,13 @@ article iframe, article audio {
 br.article {
   opacity: 1;
   border-bottom: 1px solid #212529;
+}
+
+/**
+ * * TODO: Fix this - some conflict is happening somewhere...
+ * */
+article ol li ol {
+  margin-top: 1rem;
 }
 
 /**
