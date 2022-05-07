@@ -9,7 +9,7 @@ Welcome to a leviathan [Coral Carrier Incarnadine](https://cci.dev) update!
 
 CCI is an [open source](https://github.com/northern-information/cci) game for the [monome norns](https://monome.org) sound computer in which players lead the CC Incarnadine and her crew of climate-punks, nautical drones, and GMO algae on a mission to heal the desiccated coral reefs.
 
-We open the update with a canonical short story written by Coral Carrier Incarnadine contributor, [@pleco](https://llllllll.co/u/pleco). Afterwards, I'll share what I've been up to for the last several months. We close with a fine art sale.
+We open the update with a canonical short story written by Coral Carrier Incarnadine contributor, [@pleco](https://llllllll.co/u/pleco). Afterwards, I'll share what I've been up to for the last several months.
 
 ## Obibe’s Descent
 
@@ -191,42 +191,6 @@ Though this is a sci-fi tale, it takes place in our own timeline. Fragments of o
   - Bay Beacon Amaranth (BBA)
   - Dive Dreadnought Alabaster (DDA)
 - There is a new demographic of human that identifies as coraline. Their births are somehow related to coral reefs.
-
-## Fine Art Sale
-
-![Eastern Bleach Cultist](/assets/images/eastern-bleach-cultist.jpg)
-
-**CCI NFT: Eastern Bleach Cultist**
-
----
-
-*Eastern Bleach Cultists engage in forced necrosis - a technique of wetjacking coral to accelerate gene sequence (G$X) production. Upon collapse, a boon of G$X spasms into the waters for harvest and complete bleaching soon follows. Accellerationists all, the Easterners believe harvesting and binding a critical mass of G$X to their mycochain will bring about the New Second Moon.*
-
-- "Devirtualized" NFT.
-- Watercolor, ink, & pencil on acid free paper / PNG.
-- 9" / 4000px square.
-- Bidding starts now and ends in +30 days. (It can take up to two weeks for first-time crypto users to get setup.)
-- The winner will receive both the physical piece and the NFT.
-- Physical piece is *only available* for local pickup in Los Angeles. Complimentary, indefinite storage is offered in the Northern Information Escrow Entropy Vaults until heat death of the universe.
-- A 10% coral tithe will be placed in a CCI Foundation wallet and will be donated to saving the reefs. A public link and paper trail will be provided for transparency.
-- The remainder will go into the Northern Information, LLC coffers to fund a scuba diving trip to bear witness to coral-bleaching with my own eyes.
-- Buyer privacy guaranteed to the extent of Northern Information, LLC's cryptographic capabilities.
-- My ask if the piece is resold: future seller, please honor the above terms and tithe. Our R&D department is presently developing smart-contracts to programmatically enforce this.
-
----
-
-**Starting Bid** `0.5 WETH + gas fees, no reserve` (approximately $1,500 USD)
-
-[Bid now.](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/64546622107402868877537789731526558773199360685296154774085765115979499569153)
-
----
-
-The Eastern Bleach Cultist is priced for physical galleries and will offer a bold compliment to any digital collection - it is raw, made by hand, and anachronistic. The stark pallet of white, black, and two primary colors stand in bold defiance of current NFT trends of maximalist neons and garish ornamentation. Here, negative space and warped paper juxtapose a dynamic and cartoonish figure harboring the most sinister of intentions. 
-
-Dutifully digitized by me, the artist, with a high-end Canon and lovingly retouched in Photoshop to ensure maximal aura integrity
-
-Please get in touch if you would like advice with setting up your wallet and purchasing Ethereum. web3 can be
-more alien than the ocean depths.
 
 ## Call of the Ocean
 
