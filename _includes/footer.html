@@ -1,42 +1,6 @@
-<footer class="container-fluid invert">
+<footer class="container">
   <div class="row">
-    <div class="col-6 offset-3 col-md-4 offset-md-0 py-5 px-0 px-md-5 b-md br-md text-center order-4 order-md-1">
-      <a href="https://discord.gg/FHDdUJugzU"><img src="/assets/images/applied-sciences-and-phantasms-working-division.png" class="img-100 mb-3" /></a>
-      <h3>Northern Information, LLC</h3>
-      <p class="mb-1"><strong>2008 &mdash; {{ "now" | date: "%Y" }}</strong></p>
-    </div>
-    <div class="col-6 col-md-2 py-3 px-3 b br bb bb-md-transparent order-1 order-md-2">
-     <p class="mb-1"><strong>Here</strong></p>
-      <ul>
-        {% assign here = site.data.footer.here %}
-        {% for link in here %}
-          <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="col-6 col-md-2 py-3 px-3 b br-md bb bb-md-transparent order-2 order-md-3">
-     <p class="mb-1"><strong>Elsewhere</strong></p>
-      <ul>
-        <li class="mb-1"><a href="https://bandcamp.us1.list-manage.com/subscribe?u=e82006751a8517b8fd440a182&id=68446b3abb">Newsletter</a> <span class="color-inverted-blue">/</span> <a href="https://us1.campaign-archive.com/home/?u=e82006751a8517b8fd440a182&id=68446b3abb">Archvies</a></li>
-        <li class="mb-1"><a rel="me" href="https://merveilles.town/@tyleretters">Merveilles</a></li>
-        {% assign elsewhere = site.data.footer.elsewhere %}
-        {% for link in elsewhere %}
-        <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="col-6 col-md-2 py-3 px-3 b br bb bb-md-transparent order-2 order-md-3">
-      <p class="mb-1"><strong>Matryoshkas</strong></p>
-      <ul>
-        {% assign matryoshkas = site.data.footer.matryoshkas %}
-        {% for link in matryoshkas %}
-          <li class="mb-1"><a href="{{ link.url }}">{{ link.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="col-6 col-md-2 py-3 px-3 b bb bb-md-transparent order-3 order-md-4">
-      <p class="mb-1"><strong>Privacy Policy</strong></p>
-      <p class="color-grey">Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. Everything here is <a href="https://github.com/tyleretters/nor.the-rn.info">open source</a> and freely given with a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+    <div class="col">
     </div>
   </div>
- </footer>
+</footer>

@@ -1,0 +1,6 @@
+<article class="mb-10 px-0">
+  <h1 id="{{ project.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.title }}</h1>
+  <p>{{ project.dates }}</p>
+  <a href="{{ project.image }}"><img src="{{ project.image }}" /></a>
+  {{ project.content | markdownify }}
+</article>

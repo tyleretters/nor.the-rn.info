@@ -1,13 +1,13 @@
-<article class="container-fluid">
+<article class="container-fluid mb-10 px-0">
   <div class="row">
-    <div class="col col-md-6 offset-md-3 pt-5">
-        <h1>{{ page.title }}</h1>
-        <p><time>{{ page.date | date: "%b %-d, %Y" }}</time> · <a href="{{ page.url }}">Permalink</a></p>
+    <div class="col">
+        <h1>{{ post.title }}</h1>
+        <p><time>{{ post.date | date: "%b %-d, %Y" }}</time> · <a href="{{ post.url }}">Permalink</a> · <a href="{{ site.data.meta.github }}/{{ post.path }}">Edit</a></p>
     </div>
   </div>
   <div class="row">
-    <div class="col col-md-6 offset-md-3 pb-5">
-      {{ page.content }}
+    <div class="col">
+      {{ post.content }}
     </div>
   </div>
 </article>

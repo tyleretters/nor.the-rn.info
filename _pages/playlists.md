@@ -1,6 +1,6 @@
 ---
 layout: playlists
-title: 
-subtitle: The songs that have inspired, healed, and carried me.
+title: Playlists
 permalink: /playlists
+classes: playlists
 ---

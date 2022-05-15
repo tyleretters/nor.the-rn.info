@@ -1,10 +1,7 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include musicnav.html %}
 {% assign music_by_order = site.data.music | sort: "order" %}
 {% for music in music_by_order %}
-{% include music.html %}
+{% include article-music.html %}
 {% endfor %}
-{% include lost-bb.html %}

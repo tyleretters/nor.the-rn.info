@@ -1,5 +1,5 @@
 - order: 1
-  name: 'They Became What They Beheld'
+  title: They Became What They Beheld
   dates: 2019 - Present
   url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
   content: |
@@ -22,7 +22,7 @@
       year: 2019
 
 - order: 2
-  name: 'STUXNET'
+  title: STUXNET
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
   content: |
@@ -73,7 +73,7 @@
       year: 2021
 
 - order: 3
-  name: 'Sidereal Lobby'
+  title: Sidereal Lobby
   dates: 2021
   url: https://sidereallobby.bandcamp.com
   content: |
@@ -100,7 +100,7 @@
       year: 2021
 
 - order: 4
-  name: 'Northern Information'
+  title: Northern Information
   dates: 2020
   url: https://northerninformation.bandcamp.com
   content: |
@@ -131,7 +131,7 @@
 
 
 - order: 5
-  name: '"The First Arcologists"'
+  title: The First Arcologists
   dates: 2020
   url: https://goodglassrecords.bandcamp.com/album/the-first-arcologists
   content: |
@@ -150,7 +150,7 @@
       year: 2020
 
 - order: 6
-  name: 'Synergy Beat'
+  title: 'Synergy Beat'
   dates: 2018
   url: https://synergybeat.bandcamp.com/album/synergy-beat-music-volume-1
   content: |
@@ -165,7 +165,7 @@
       year: 2018
 
 - order: 7
-  name: 'the northern information movement'
+  title: the northern information movement
   dates: 2012 - 2017
   url: https://northerninformation.bandcamp.com
   content: |
@@ -228,7 +228,7 @@
       year: 2013
 
 - order: 8
-  name: 'Connectedness Locus'
+  title: Connectedness Locus
   dates: 2008 - 2012
   url: https://connectednesslocus.bandcamp.com
   content: |
@@ -263,7 +263,7 @@
       year: 2009
 
 - order: 9
-  name: 'Everything Comes in Cycles; Everything Fades in Shades & Ix'
+  title: Everything Comes in Cycles; Everything Fades in Shades & Ix
   dates: 2005 - 2009
   url: https://ecicefis.bandcamp.com
   content: |

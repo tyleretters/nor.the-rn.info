@@ -1,111 +1,36 @@
-<!-- < sm -->
-<nav class="container-fluid grid-mobile d-md-none" role="navigation" aria-hidden="true">
-  <div class="row">
-    <div class="col b bb pt-1 bg-spectrum"></div>
-  </div>
-  <div class="row b bb">
-    <div class="col-6 b br">
-      <a href="/"{% if page.url == "/" %} class="active" aria-current="page"{% endif %}>
-        <h1>Northern <br>Information, <br>LLC</h1>
-      </a>
-    </div>
-    <div class="col-6">
-      <div class="container-fluid px-0">
-        <div class="row">
-          <div class="col b bb">
-            <a href="/software"{% if page.url == "/software" %} class="active" aria-current="page"{% endif %}>
-              <h2><br>Software</h2>
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col b bb">
-            <a href="/music"{% if page.url == "/music" %} class="active" aria-current="page"{% endif %}>
-              <h2><br>Music</h2>
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col b">
-            <a href="/blog"{% if page.url == "/blog" %} class="active" aria-current="page"{% endif %}>
-              <h2><br>Blog</h2>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row bb">
-    <div class="col-4 b br">
-      <a href="/projects"{% if page.url == "/projects" %} class="active" aria-current="page"{% endif %}>
-        <h3>Projects</h3>
-      </a>
-    </div>
-    <div class="col-4 b br">
-      <a href="/about"{% if page.url == "/about" %} class="active" aria-current="page"{% endif %}>
-        <h3>About</h3>
-      </a>
-    </div>
-    <div class="col-4 b">
-      <a href="/links"{% if page.url == "/links" %} class="active" aria-current="page"{% endif %}>
-        <h3>Links</h3>
-      </a>
-    </div>
-  </div>
-</nav>
-
-<!-- > md -->
-<nav class="container-fluid grid d-none d-md-block" role="navigation" aria-hidden="true">
-  <div class="row">
-    <div class="col b bb pt-1 bg-spectrum"></div>
-  </div>
-  <div class="row b bb">
-    <div class="col-sm-12 col-md-4 b br">
-      <a href="/"{% if page.url == "/" %} class="active" aria-current="page"{% endif %}>
-        <h1>Northern <br>Information, <br>LLC</h1>
-      </a>
-    </div>
-    <div class="col-sm-12 col-md-4 b br">
-      <a href="/software"{% if page.url == "/software" %} class="active" aria-current="page"{% endif %}>
-        <h2><br><br>Software</h2>
-      </a>
-    </div>
-    <div class="col-sm-12 col-md-2 b br">
-      <a href="/music"{% if page.url == "/music" %} class="active" aria-current="page"{% endif %}>
-        <h2><br><br>Music</h2>
-      </a>
-    </div>
-    <div class="col-sm-12 col-md-2 b">
-      <a href="/blog"{% if page.url == "/blog" %} class="active" aria-current="page"{% endif %}>
-        <h2><br><br>Blog</h2>
-      </a>
-    </div>
-  </div>
-  <div class="row bb">
-    <div class="col-2 b br">
-      <a href="/about"{% if page.url == "/about" %} class="active" aria-current="page"{% endif %}>
-        <h3>About</h3>
-      </a>
-    </div>
-    <div class="col-2 b br">
-      <a href="/links"{% if page.url == "/links" %} class="active" aria-current="page"{% endif %}>
-        <h3>Links</h3>
-      </a>
-    </div>
-    <div class="col-4 b br">
-      <a href="/projects"{% if page.url == "/projects" %} class="active" aria-current="page"{% endif %}>
-        <h3>Projects</h3>
-      </a>
-    </div>
-    <div class="col-2 b br">
-      <a href="/playlists"{% if page.url == "/playlists" %} class="active" aria-current="page"{% endif %}>
-        <h3>Playlists</h3>
-      </a>
-    </div>
-    <div class="col-2 b">
-      <a href="/books"{% if page.url == "/books" %} class="active" aria-current="page"{% endif %}>
-        <h3>Books</h3>
-      </a>
-    </div>
-  </div>
+<nav id="nav">
+  <ul>
+  {% assign primaries = site.data.nav | where:"rank", "primary" %}
+  {% for primary in primaries %}
+    {% assign classes = primary.rank %}
+    {% if primary.children.size > 0 and primary.url == page.url %}
+      {% assign classes = classes | append: " has-children active" %}
+    {% elsif primary.children.size == nil and primary.url == page.url %}
+      {% assign classes = classes | append: " no-children active" %}
+    {% elsif primary.url == page.url %}
+      {% assign classes = classes | append: " active" %}
+    {% elsif page.url == "/" and primary.title == "Blog" %}
+      {% assign classes = classes | append: " active" %}
+    {% endif %}
+    <li class="{{classes}}">
+      <a href="{{ site.baseurl }}{{ primary.url }}" tabindex="{{ primary.tabindex }}" class="nav-{{primary.color}}">{{ primary.title }}</a>
+      {% if primary.children.size > 0 and primary.url == page.url %}
+        <ul class="children">
+        {% for child in primary.children %}
+          <li><a href="{{ site.baseurl }}{{ child.url }}" tabindex="{{ child.tabindex }}">{{ child.title }}</a></li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+  {% assign secondaries = site.data.nav | where:"rank", "secondary" %}
+  <p>{% for secondary in secondaries %}<a href="{{ secondary.url }}" tabindex="{{ secondary.tabindex }}">{{ secondary.title }}</a> {% endfor %}<a href="{{ site.data.meta.github }}/{{ page.path }}" tabindex="299">Edit</a></p>
+  {% assign tertiaries = site.data.nav | where:"rank", "tertiary" %}
+  <p><small>{% for tertiary in tertiaries %}<a href="{{ tertiary.url }}" tabindex="{{ tertiary.tabindex }}">{{ tertiary.title }}</a> {% endfor %}</small></p>
+  <p><small>Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. Everything here is <a href="https://github.com/tyleretters/nor.the-rn.info">open source</a> and freely given with a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small></p>
+  <hr/>
+  <p><small><a href="https://jekyllrb.com/">Jekyll</a> <code>site.time</code> run: <br/>{{ site.time }}</small></p>
+  <hr/>
+  <p><small>Northern Information, LLC<br/>2008 &mdash; 2022</small></p>
 </nav>

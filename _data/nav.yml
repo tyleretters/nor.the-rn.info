@@ -1,0 +1,198 @@
+- title: Blog
+  url: /blog
+  rank: primary
+  tabindex: 100
+  children:
+
+- title: Archives
+  url: /archives
+  rank: primary
+  tabindex: 110
+  children:
+  
+- title: Software
+  url: /software
+  rank: primary
+  tabindex: 120
+  children:
+
+  - title: goldeneye
+    url: '#goldeneye'
+    tabindex: 121
+
+  - title: Yggdrasil
+    url: '#yggdrasil'
+    tabindex: 122
+
+  - title: arcologies
+    url: '#arcologies'
+    tabindex: 123
+
+  - title: dronecaster
+    url: '#dronecaster'
+    tabindex: 124
+
+  - title: Cascades
+    url: '#cascades'
+    tabindex: 125
+
+  - title: Conway Music
+    url: '#conway-music'
+    tabindex: 126
+
+  - title: Markov Music
+    url: '#markov-music'
+    tabindex: 127
+
+  - title: Second Chance
+    url: '#second-chance'
+    tabindex: 128
+  
+  - title: Others...
+    url: https://github.com/tyleretters
+    tabindex: 129
+
+- title: Music
+  url: /music
+  rank: primary
+  tabindex: 130
+  children:
+
+  - title: 'They Became What They Beheld'
+    url: '#they-became-what-they-beheld'
+    tabindex: 131
+
+  - title: 'STUXNET'
+    url: '#stuxnet'
+    tabindex: 132
+
+  - title: 'Sidereal Lobby'
+    url: '#sidereal-lobby'
+    tabindex: 133
+
+  - title: 'Northern Information'
+    url: '#northern-information'
+    tabindex: 134
+
+  - title: 'Synergy Beat'
+    url: '#synergy-beat'
+    tabindex: 135
+
+  - title: 'the northern information movement'
+    url: '#the-northern-information-movement'
+    tabindex: 136
+
+  - title: 'Connectedness Locus'
+    url: '#connectedness-locus'
+    tabindex: 137
+
+  - title: 'Everything Comes in Cycles; Everything Fades in Shades & Ix'
+    url: '#everything-comes-in-cycles-everything-fades-in-shades-ix'
+    tabindex: 138
+
+  - title: 'Others...'
+    url: '/discography'
+    tabindex: 139
+
+# - title: Design
+#   url: /design
+#   rank: primary
+#   tabindex: 140
+#   children:
+
+- title: Projects
+  url: /projects
+  rank: primary
+  tabindex: 150
+  children:
+
+- title: Philosophy
+  url: /philosophy
+  rank: primary
+  tabindex: 160
+  children:
+
+- title: Playlists
+  url: /playlists
+  rank: secondary
+  tabindex: 200
+
+- title: Books
+  url: /books
+  rank: secondary
+  tabindex: 201
+
+- title: Links
+  url: /links
+  rank: secondary
+  tabindex: 202
+
+# - title: Tools 
+#   url: /tools
+#   rank: secondary
+#   tabindex: 203
+
+- title: About 
+  url: /about
+  rank: secondary
+  tabindex: 204
+
+- title: Meta 
+  url: /meta
+  rank: secondary
+  tabindex: 205
+
+- title: Feed 
+  url: /feed.xml
+  rank: secondary
+  tabindex: 206
+
+- title: Discord
+  url: https://discord.gg/9AQRe99KSM
+  rank: tertiary
+  tabindex: 300
+
+- title: GitHub
+  url: https://github.com/northern-information
+  rank: tertiary
+  tabindex: 301
+
+- title: ENS
+  url: https://tyleretters.eth
+  rank: tertiary
+  tabindex: 302
+
+- title: Instagram
+  url: https://instagram.com/tyleretters
+  rank: tertiary
+  tabindex: 303
+
+- title: Bandcamp
+  url: https://intertext.bandcamp.com
+  rank: tertiary
+  tabindex: 304
+
+- title: Twitch
+  url: https://twitch.tv/tyleretters
+  rank: tertiary
+  tabindex: 305
+
+- title: YouTube
+  url: https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg
+  rank: tertiary
+  tabindex: 306
+
+- title: SoundCloud
+  url: https://soundcloud.com/tyleretters
+  rank: tertiary
+  tabindex: 307
+
+- title: Twitter
+  url: https://twitter.com/tyleretters
+  rank: tertiary
+  tabindex: 308
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/tyleretters
+  rank: tertiary
+  tabindex: 309

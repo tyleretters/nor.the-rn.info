@@ -1,10 +1,7 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include softwarenav.html %}
 {% assign software_by_order = site.data.software | sort: "order" | reverse %}
 {% for software in software_by_order %}
-{% include software.html %}
+{% include article-software.html %}
 {% endfor %}
-{% include lost-bb.html %}

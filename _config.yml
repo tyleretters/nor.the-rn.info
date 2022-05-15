@@ -1,13 +1,11 @@
-# see _data/meta.yml
 baseurl: /
 url: https://nor.the-rn.info
 permalink: pretty
 sort_by: year, month
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-feed:
-  path: feed.xml
 include: ['_pages']
-excerpt_separator: <!--x-->

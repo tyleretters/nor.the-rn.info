@@ -1,6 +1,7 @@
 ---
 layout: books
-title: 
-subtitle: Selected short reviews.
+title: Books
 permalink: /books
+classes: books
 ---
+Short reviews of select recently-reads.

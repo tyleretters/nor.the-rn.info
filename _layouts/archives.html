@@ -1,5 +1,10 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include archives.html %}
+<h1>{{ page.title }}</h1>
+{{ content }}
+<article>
+{% for post in site.posts %}
+<p><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+{% endfor %}
+</article>

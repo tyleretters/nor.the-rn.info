@@ -1,0 +1,39 @@
+---
+layout: abstract
+---
+<main class="container-fluid">
+  <div class="row">
+    <div class="col col-md-10 mb-gutter">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Project</th>
+            <th>Release</th>
+            <th>Type</th>
+            <th>Format</th>
+            <th>Role</th>
+            <th>Label</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% assign discography_by_order = site.data.discography | sort: "order" | reverse %}
+        {% for release in discography_by_order %}
+          <tr>
+            <td>{{ release.year }}</td>
+            <td>{{ release.project }}</td>
+            <td>{{ release.release }}</td>
+            <td>{{ release.type }}</td>
+            <td>{{ release.format }}</td>
+            <td>{{ release.role }}</td>
+            <td>{{ release.label }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="col col-md-2">
+    {% include nav.html %}
+    </div>
+  </div>
+</main>

@@ -1,8 +1,33 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include blognav-top.html %}
+{% assign post = page %}
 {% include article.html %}
-{% include blognav-bottom.html %}
-{% include lost-bb.html %}
+<div class="container-fluid post-navigation mb-5 px-0">
+  <div class="row">
+    <div class="col pe-0">
+      {% if page.next.url %}
+        {% assign url = page.next.url %}
+        {% assign title = page.next.title %}
+        {% assign date = page.next.date | date: "%b %-d, %Y" %}
+      {% else %}
+        {% assign url = site.posts.last.url %}
+        {% assign title = site.posts.last.title %}
+        {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
+      {% endif %}
+      <a href="{{ url }}" class="later-post"><span>&larr; {{ date }}<br/>{{ title }}</span></a>
+    </div>
+    <div class="col ps-0">
+      {% if page.previous.url %}
+        {% assign url = page.previous.url %}
+        {% assign title = page.previous.title %}
+        {% assign date = page.previous.date | date: "%b %-d, %Y" %}
+      {% else %}
+        {% assign url = site.posts.first.url %}
+        {% assign title = site.posts.first.title %}
+        {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
+      {% endif %}
+      <a href="{{ url }}" class="earlier-post"><span>{{ date }} &rarr;<br/>{{ title }}</span></a>
+    </div>
+  </div>
+</div>

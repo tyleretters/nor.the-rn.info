@@ -1,6 +1,6 @@
 ---
 layout: links
-title: 
-subtitle: A melange of new media aritsts, collectives, organizations, writers, musicians, friends, and foes...
+title: Links
 permalink: /links
 ---
+A melange of new media aritsts, collectives, organizations, writers, musicians, friends, and foes...

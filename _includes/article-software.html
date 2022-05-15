@@ -1,0 +1,6 @@
+<article class="mb-10 px-0">
+  <h1 id="{{ software.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.title }}</h1>
+  <p>{{ software.dates }}</p>
+  <a href="{{ software.image }}"><img src="{{ software.image }}" /></a>
+  {{ software.content | markdownify }}
+</article>

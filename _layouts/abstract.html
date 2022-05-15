@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+{% include variables.html %}
 {% include head.html %}
-<body>
-<div class="gesso">
-{% include nav.html %}
+<body class="{{ page.classes }}">
+{% include header.html %}
 {{ content }}
 {% include footer.html %}
-</div>
-{% include scripts.html %}
+{% include script.html %}
 </body>
 </html>

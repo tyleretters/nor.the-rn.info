@@ -1,33 +1,33 @@
 - order: 202201
-  name: Coral Carrier Incarnadine
+  title: Coral Carrier Incarnadine
   dates: 2022 - Present
   image: /assets/images/coral-carrier-incarnadine.gif
   content: |
     Lead the CC Incarnadine and her crew of climate-punks, nautical drones, and GMO algae on a mission to heal the desiccated coral reefs. Follow the development at [https://cci.dev/](https://cci.dev/)
 
 - order: 202105
-  name: FLASH CRASH
+  title: FLASH CRASH
   dates: 2021 - Present
   image: /assets/images/flash-crash-event.jpg
   content: |
     [FLASH CRASH](https://flashcrash.net) is a recursive livecoding online event I organize. The brand dies and is reborn for each event.
 
 - order: 202104
-  name: norns community
+  title: norns community
   dates: 2021 - Present
-  image: /assets/images/norns-community-sitemap.jpg
+  image: /assets/images/norns-community.png
   content: |
     [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my design process here](/2021/04/09/building-norns-community).
 
 - order: 202002
-  name: Intertext
+  title: Intertext
   dates: 2018 - Present
   image: /assets/images/intertext.png
   content: |
     [Intertext](https://intertext.bandcamp.com) is where I release my music. It is a hermitic, one-man, non-label. Intertext has no branding, no lettermark, no mission, no social media presence, no marketing strategy. This paragraph is the only "about" section that exists. Mark Fisher introduced me to the word and if you're looking to get lost in a wormhole, I highly recommend [this Wikipedia article](https://en.wikipedia.org/wiki/Intertextuality).
 
 - order: 202001
-  name: Photography
+  title: Photography
   dates: 2005 - Present
   image: /assets/images/manifesto.jpg
   content: |
@@ -36,7 +36,7 @@
     I used to have a bunch of my work on Flickr. Some of terms of the latest platform ownership transfer made me uncomfortable so I took it all down. Maybe I'll create a gallery here on NI some day...
 
 - order: 201902
-  name: Coordinated Universal Time
+  title: Coordinated Universal Time
   dates: 2019
   image: /assets/images/utc.png
   content: |
@@ -53,21 +53,21 @@
     See [this post](/2019/05/24/coordinated-universal-time) for more info.
 
 - order: 201701
-  name: Endless Field Studios
+  title: Endless Field Studios
   dates: 2005 - 2017
   image: /assets/images/efs.png
   content: |
     Pasha Petrosyan and I founded EFS in 2005 as a label to release our own music. We started with CDs and quickly moved to digital, hosting MP3s of local artists for download before Bandcamp was a thing. We had over 50 releases and more shows than I can remember in our 12 year run.
 
 - order: 201001
-  name: Epicycle
+  title: Epicycle
   dates: 2010
   image: /assets/images/epicycle.png
   content: |
     Epicycle is an indulgent typeface I designed (developed?) combining post-structuralist sensibilities with wild style graffiti. If the graphic design program required a senior thesis, this would have been mine.
 
 - order: 200901
-  name: The Third Coast
+  title: The Third Coast
   dates: 2009
   image: /assets/images/the-third-coast.jpg
   content: |
@@ -76,7 +76,7 @@
     Again, this used to all be on Flickr, but some of terms of the latest platform ownership transfer made me uncomfortable so I took it down. Maybe I’ll create a gallery here on NI some day…
 
 - order: 200701
-  name: Hollow Moon Studios
+  title: Hollow Moon Studios
   dates: 2004 - 2007
   image: /assets/images/tyler-etters-a-glass-reality.jpg
   content: |

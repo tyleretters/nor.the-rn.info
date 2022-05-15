@@ -1,9 +1,7 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% assign projects_by_order = site.data.projects | sort: "order" | reverse %}
-{% for project in projects_by_order %}
-{% include projects.html %}
+{% assign project_by_order = site.data.projects | sort: "order" | reverse %}
+{% for project in project_by_order %}
+{% include article-project.html %}
 {% endfor %}
-{% include lost-bb.html %}

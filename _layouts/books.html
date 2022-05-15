@@ -1,5 +1,11 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include books.html %}
+<h1>Books</h1>
+{{ content }}
+{% for book in site.data.books %}
+<article class="mb-10">
+  <h1>{{ book.title }}</h2>
+  <p>{{ book.content }}</p>
+</article>
+{% endfor %}

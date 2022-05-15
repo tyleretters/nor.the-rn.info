@@ -1,5 +1,15 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include links.html %}
+<h1>{{ page.title }}</h1>
+{{ content }}
+<div class="container-fluid px-0">
+  <div class="row">
+    {% if page.url == '/links' %}
+      {% assign links = site.data.links %}
+    {% endif %}
+    {% for link in links %}
+    <div class="col-sm-12 col-md-6 col-lg-4"><a href="{{ link.url }}">{{ link.title }}</a></div>
+    {% endfor %}
+  </div>
+</div>

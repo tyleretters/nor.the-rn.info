@@ -1,5 +1,8 @@
 ---
-layout: abstract
+layout: page
 ---
-{% include title.html %}
-{% include playlists.html %}
+<h1>Playlists</h1>
+{% assign playlist_by_order = site.data.playlists %}
+{% for playlist in playlist_by_order %}
+{% include article-playlist.html %}
+{% endfor %}
