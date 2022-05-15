@@ -28,7 +28,7 @@ The Northern Information site refresh project was originally in a directory call
     3. The brighter the type, the more important or interactive.
     4. Remove duplicate filenames in different directories. (i.e. `_pages/software.html` and `_includes/software.html` became `_pages/software.html` and `_includes/article-software.html`)
     5. Remove legacy redirects that where probably only used by me.
-    6. Reintroduced the [discography](/discography) page.
+    6. Reintroduced the [Discography](/discography) page.
 6. Remove all content delivery network dependencies.
     1. No more jQuery.
     2. No more Font Awesome.
