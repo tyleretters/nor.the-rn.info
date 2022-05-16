@@ -1,5 +1,5 @@
 <nav id="nav">
-  <ul>
+  <ul class="mb-3">
   {% assign primaries = site.data.nav | where:"rank", "primary" %}
   {% for primary in primaries %}
     {% assign classes = primary.rank %}
