@@ -16,100 +16,134 @@
   tabindex: 120
   children:
 
+  - title: 'Coral Carrier Incarnadine'
+    url: '#coral-carrier-incarnadine'
+    tabindex: 121
+
   - title: goldeneye
     url: '#goldeneye'
-    tabindex: 121
+    tabindex: 122
 
   - title: Yggdrasil
     url: '#yggdrasil'
-    tabindex: 122
+    tabindex: 123
 
   - title: arcologies
     url: '#arcologies'
-    tabindex: 123
+    tabindex: 124
 
   - title: dronecaster
     url: '#dronecaster'
-    tabindex: 124
+    tabindex: 125
 
   - title: Cascades
     url: '#cascades'
-    tabindex: 125
+    tabindex: 126
 
   - title: Conway Music
     url: '#conway-music'
-    tabindex: 126
+    tabindex: 127
 
   - title: Markov Music
     url: '#markov-music'
-    tabindex: 127
+    tabindex: 128
 
   - title: Second Chance
     url: '#second-chance'
-    tabindex: 128
+    tabindex: 129
   
   - title: Others...
     url: https://github.com/tyleretters
-    tabindex: 129
+    tabindex: 130
 
 - title: Music
   url: /music
   rank: primary
-  tabindex: 130
+  tabindex: 140
   children:
 
   - title: 'They Became What They Beheld'
     url: '#they-became-what-they-beheld'
-    tabindex: 131
+    tabindex: 141
 
   - title: 'STUXNET'
     url: '#stuxnet'
-    tabindex: 132
+    tabindex: 142
 
   - title: 'Sidereal Lobby'
     url: '#sidereal-lobby'
-    tabindex: 133
+    tabindex: 143
 
   - title: 'Northern Information'
     url: '#northern-information'
-    tabindex: 134
+    tabindex: 144
 
   - title: 'Synergy Beat'
     url: '#synergy-beat'
-    tabindex: 135
+    tabindex: 145
 
   - title: 'the northern information movement'
     url: '#the-northern-information-movement'
-    tabindex: 136
+    tabindex: 146
 
   - title: 'Connectedness Locus'
     url: '#connectedness-locus'
-    tabindex: 137
+    tabindex: 147
 
   - title: 'Everything Comes in Cycles; Everything Fades in Shades & Ix'
     url: '#everything-comes-in-cycles-everything-fades-in-shades-ix'
-    tabindex: 138
+    tabindex: 148
 
   - title: 'Others...'
     url: '/discography'
-    tabindex: 139
-
-# - title: Design
-#   url: /design
-#   rank: primary
-#   tabindex: 140
-#   children:
+    tabindex: 149
 
 - title: Projects
   url: /projects
   rank: primary
-  tabindex: 150
+  tabindex: 160
   children:
+
+  - title: 'FLASH CRASH'
+    url: '#flash-crash'
+    tabindex: 161
+
+  - title: 'norns community'
+    url: '#norns-community'
+    tabindex: 162
+
+  - title: 'Intertext'
+    url: '#intertext'
+    tabindex: 163
+
+  - title: 'Photography'
+    url: '#photography'
+    tabindex: 164
+
+  - title: 'Coordinated Universal Time'
+    url: '#coordinated-universal-time'
+    tabindex: 165
+
+  - title: 'Endless Field Studios'
+    url: '#endless-field-studios'
+    tabindex: 166
+
+  - title: 'Epicycle'
+    url: '#epicycle'
+    tabindex: 167
+
+  - title: 'The Third Coast'
+    url: '#the-third-coast'
+    tabindex: 168
+
+  - title: 'Hollow Moon Studios'
+    url: '#hollow-moon-studios'
+    tabindex: 169
 
 - title: Philosophy
   url: /philosophy
   rank: primary
-  tabindex: 160
+  tabindex: 180
   children:
 
 - title: Playlists
@@ -127,25 +161,20 @@
   rank: secondary
   tabindex: 202
 
-# - title: Tools 
-#   url: /tools
-#   rank: secondary
-#   tabindex: 203
-
 - title: About 
   url: /about
   rank: secondary
-  tabindex: 204
+  tabindex: 203
 
 - title: Meta 
   url: /meta
   rank: secondary
-  tabindex: 205
+  tabindex: 204
 
 - title: Feed 
   url: /feed.xml
   rank: secondary
-  tabindex: 206
+  tabindex: 205
 
 - title: Discord
   url: https://discord.gg/9AQRe99KSM

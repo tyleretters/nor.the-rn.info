@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 title: Meta
 permalink: /meta
 ---

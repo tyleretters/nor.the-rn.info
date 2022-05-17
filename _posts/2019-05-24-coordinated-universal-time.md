@@ -28,40 +28,40 @@ Some of our name concepts: Hidden Cities, Hauntology Podcast, Hauntologists Work
 
 Some format ideas:
 
->1. Intro bump
->2. Deadpan intro by T⁂ with theme, thought, or topic of the episode
->3. "Initiate level" reading: easily accessible, relatable, etc.
->4. wYrD ZoNe 1
->5. "Acolyte" or "ascended" reading of classical / canonical / established / authoritative / published text
->6. wYrD ZoNe 2
->7. Meaty core. either recorded convening conversation or interview
->8. wYrD ZoNe 3
->9. Optional dj mix fun zone
->10. "Mantis Prayer" of the day
->11. Optional deadpan closing by T⁂
->12. Bibliography "text-to-speech" summary / credits / sources / citations
->13. Outro bump
+1. Intro bump
+2. Deadpan intro by T⁂ with theme, thought, or topic of the episode
+3. "Initiate level" reading: easily accessible, relatable, etc.
+4. wYrD ZoNe 1
+5. "Acolyte" or "ascended" reading of classical / canonical / established / authoritative / published text
+6. wYrD ZoNe 2
+7. Meaty core. either recorded convening conversation or interview
+8. wYrD ZoNe 3
+9. Optional dj mix fun zone
+10. "Mantis Prayer" of the day
+11. Optional deadpan closing by T⁂
+12. Bibliography "text-to-speech" summary / credits / sources / citations
+13. Outro bump
 
 Core principals:
 
->- Audio quality is non-negotiable. Lo-fi stuff is, of course, fine, desirable, etc., but if && >when we do interviews it will be professional and pleasant to listen to. We do not release sloppy >work.
->- Mystery && Wonder
->- Creative Commons
->- Crypto?
->- Charities
->- Discord
->- Website
->- Mystery && Wonder
->- Twitter
->- Open source the repo (for the website, not this one, commoner-earth)
->- Soundcloud?
->- iTunes?
->- etc?
->- YouTube versions? Yes. Video cap walking through Dubai... No further explanation. Just a video of the midwestern sky for the whole thing. Danger with video is it becomes a bottleneck for production/release...
->- Related need an avant-garde social media...
->- Structure that promotes novelty
->- Mystery && Wonder
->- “Précis"
+- Audio quality is non-negotiable. Lo-fi stuff is, of course, fine, desirable, etc., but if && >when we do interviews it will be professional and pleasant to listen to. We do not release sloppy >work.
+- Mystery && Wonder
+- Creative Commons
+- Crypto?
+- Charities
+- Discord
+- Website
+- Mystery && Wonder
+- Twitter
+- Open source the repo (for the website, not this one, commoner-earth)
+- Soundcloud?
+- iTunes?
+- etc?
+- YouTube versions? Yes. Video cap walking through Dubai... No further explanation. Just a video of the midwestern sky for the whole thing. Danger with video is it becomes a bottleneck for production/release...
+- Related need an avant-garde social media...
+- Structure that promotes novelty
+- Mystery && Wonder
+- “Précis"
 
 More mindflares:
 
@@ -70,15 +70,15 @@ More mindflares:
 
 More notes:
 
->- At the [Conscious Company Leaders Forum](https://consciouscompanyleadersforum.com/) in California. Wanted to try to disconnect but the ideas keep coming. I've plowed these fields long enough to know it as a gift. I took a hike through the redwood forest and recorded some segments.
->- Feedback from everyone continues to be positive. Adam was inspired and recorded hauntologies.aif and wants to be a regular contributor.
->- We're here to see things as they are and then organize how they ought to be.
->- Name idea: Internet Drift
->- "Hey drifters"
->- ID / id / Id
->- Forecasted Hauntologies from the Vaporwave Mall
->- Field notes books with the logo printed on it as a gift to patrons?
->- On air: "So what would be fun to do together? A book club? A writing prompt? A field recording assignment? Let us know."
+- At the [Conscious Company Leaders Forum](https://consciouscompanyleadersforum.com/) in California. Wanted to try to disconnect but the ideas keep coming. I've plowed these fields long enough to know it as a gift. I took a hike through the redwood forest and recorded some segments.
+- Feedback from everyone continues to be positive. Adam was inspired and recorded hauntologies.aif and wants to be a regular contributor.
+- We're here to see things as they are and then organize how they ought to be.
+- Name idea: Internet Drift
+- "Hey drifters"
+- ID / id / Id
+- Forecasted Hauntologies from the Vaporwave Mall
+- Field notes books with the logo printed on it as a gift to patrons?
+- On air: "So what would be fun to do together? A book club? A writing prompt? A field recording assignment? Let us know."
 
 It should be noted that before we started on UTC, we had setup a GitHub repository and Discord server to work on *some type of project* together, but we weren't sure what. So all of our thoughts and ideas were well captured and documented with version control.
 
