@@ -180,12 +180,15 @@ header
     border-radius: 2px
     color: $black
     font-size: 24px
+    padding: 0
     font-weight: 800
-    padding: 0 4px 5px 4px
+    height: 32px
+    line-height: 26px
     text-align: center
     text-decoration: none
     text-transform: uppercase
     float: right
+    width: 32px
 
     &:hover
       color: $black
@@ -201,6 +204,7 @@ header
  */
 
 nav
+  display: block
   background: $grey
 
   p
@@ -273,6 +277,10 @@ nav
             background: none
             color: $white
             text-decoration: underline
+
+@media (min-width: 768px)
+  nav
+    position: fixed
 
 /**
  * MAIN
