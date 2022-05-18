@@ -12,9 +12,7 @@ The great struggles of my life have always been near the peak of [Maslow's hiera
 
 > "What a man can be, he must be." This quotation forms the basis of the perceived need for self-actualization. This level of need refers to the realization of one's full potential. Maslow describes this as the desire to accomplish everything that one can, to become the most that one can be.
 
-Recommended listening for this post:
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3904350115/size=small/bgcol=ffffff/linkcol=0687f5/track=2413112558/transparent=true/" seamless><a href="http://northerninformation.bandcamp.com/album/blue-the-most-celestial-color">blue, the most celestial color by the northern information movement</a></iframe>
+Recommended listening for this post: [http://northerninformation.bandcamp.com/album/blue-the-most-celestial-color](http://northerninformation.bandcamp.com/album/blue-the-most-celestial-color)
 
 ## Self-Actualization
 

@@ -8,9 +8,7 @@ digest: true
 I've avoided writing or talking about this for almost half my life. Sometimes, parts would seep out in conversation with loved ones, therapists, band-mates, or colleagues. This was scary because part of my irrationality posited the very act of talking about it would cause it to accelerate. A self fulfilling prophecy, a magic spell. But it isn't. It is just a simple fear. Let's go into the fear together and see what there is to see, eh?
 <!--x-->
 
-Recommended listening for this post:
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1354433111/size=small/bgcol=ffffff/linkcol=0687f5/track=1511527624/transparent=true/" seamless><a href="http://northerninformation.bandcamp.com/album/reverence">reverence by the northern information movement</a></iframe>
+Recommended listening for this post: [http://northerninformation.bandcamp.com/album/reverence](http://northerninformation.bandcamp.com/album/reverence)
 
 ## Shadow of the Towers
 

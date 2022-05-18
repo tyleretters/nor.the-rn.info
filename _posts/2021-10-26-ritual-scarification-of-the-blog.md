@@ -15,16 +15,15 @@ I recently removed the "[IBM Plex](https://fonts.google.com/specimen/IBM+Plex+Sa
 >
 > So the trick just becomes to provide all those default system font names as the value for the font-family property for the element(s) that should use a system font. The browser will then use the first one that it can find on the current system. Keep in mind that this will also mean that the text will look different based on what system it is being read on. That’s not necessarily a bad thing however, as the text will feel native to the OS its being read on.
 
-
- The balancing of art, science, engineering, and design.
+The balancing of art, science, engineering, and design.
 
 It is a absolutely stunning piece of scientific/aesthetic functional-art:
 
-```css
-body {
+`body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-}
-```
+}`
+
+
 Anyways, funny thing about IBM Plex: [its got a history](https://www.ibm.com/plex/). Not unrelated, I also removed Google Analytics this week. And a funny thing about GA: not once have I leveraged its auspices for [https://nor.the-rn.info](https://nor.the-rn.info).
 
 Why?

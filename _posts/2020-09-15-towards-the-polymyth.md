@@ -8,9 +8,7 @@ digest: true
 This post has been rattling around in my head for a few months now. It picks up on threads I started in [Fear Imm(a/i)nnence](/2019/03/03/fear-immainence/) and [The Struggle for Meaning](/2020/04/19/the-struggle-for-meaning/).
 <!--x-->
 
-Recommended listening for this post:
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2439877166/size=small/bgcol=ffffff/linkcol=0687f5/track=2694079097/transparent=true/" seamless><a href="https://theybecamewhattheybeheld.bandcamp.com/album/ep1">EP1 by They Became What They Beheld</a></iframe>
+Recommended listening for this post: [ttps://theybecamewhattheybeheld.bandcamp.com/album/ep1](ttps://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 
 ## The Monomyth is a Lie
 
