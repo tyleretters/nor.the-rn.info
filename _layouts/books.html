@@ -3,9 +3,11 @@ layout: page
 ---
 <h1>Books</h1>
 {{ content }}
+<div class="books">
 {% for book in site.data.books %}
 <article class="mb-10">
   <h1>{{ book.title }}</h2>
   <p>{{ book.content }}</p>
 </article>
 {% endfor %}
+</div>

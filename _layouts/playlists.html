@@ -2,7 +2,10 @@
 layout: page
 ---
 <h1>Playlists</h1>
+{{ content }}
+<div class="playlists">
 {% assign playlist_by_order = site.data.playlists %}
 {% for playlist in playlist_by_order %}
 {% include article-playlist.html %}
 {% endfor %}
+</div>

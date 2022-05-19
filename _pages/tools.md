@@ -5,3 +5,10 @@ permalink: /tools
 ---
 # Tools
 
+## Software
+
+## Music
+
+## Writing
+
+## Photogrpahy

@@ -140,6 +140,28 @@
     url: '#hollow-moon-studios'
     tabindex: 169
 
+# - title: Tools
+#   url: /tools
+#   rank: primary
+#   tabindex: 150
+#   children:
+
+#   - title: 'Software'
+#     url: '#software'
+#     tabindex: 151
+
+#   - title: 'Music'
+#     url: '#music'
+#     tabindex: 152
+
+#   - title: 'Writing'
+#     url: '#writing'
+#     tabindex: 153
+
+#   - title: 'Photogrpahy'
+#     url: '#photography'
+#     tabindex: 154
+
 - title: Philosophy
   url: /philosophy
   rank: primary
