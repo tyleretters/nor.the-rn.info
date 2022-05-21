@@ -198,13 +198,13 @@
   rank: secondary
   tabindex: 205
 
-- title: Discord
-  url: https://discord.gg/9AQRe99KSM
+- title: Bandcamp
+  url: https://intertext.bandcamp.com
   rank: tertiary
   tabindex: 300
 
-- title: GitHub
-  url: https://github.com/northern-information
+- title: Discord
+  url: https://discord.gg/9AQRe99KSM
   rank: tertiary
   tabindex: 301
 
@@ -213,28 +213,28 @@
   rank: tertiary
   tabindex: 302
 
-- title: Instagram
-  url: https://instagram.com/tyleretters
+- title: GitHub
+  url: https://github.com/northern-information
   rank: tertiary
   tabindex: 303
 
-- title: Bandcamp
-  url: https://intertext.bandcamp.com
+- title: Instagram
+  url: https://instagram.com/tyleretters
   rank: tertiary
   tabindex: 304
 
-- title: Twitch
-  url: https://twitch.tv/tyleretters
+- title: LinkedIn
+  url: https://www.linkedin.com/in/tyleretters
   rank: tertiary
   tabindex: 305
 
-- title: YouTube
-  url: https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg
+- title: SoundCloud
+  url: https://soundcloud.com/tyleretters
   rank: tertiary
   tabindex: 306
 
-- title: SoundCloud
-  url: https://soundcloud.com/tyleretters
+- title: Twitch
+  url: https://twitch.tv/tyleretters
   rank: tertiary
   tabindex: 307
 
@@ -243,7 +243,7 @@
   rank: tertiary
   tabindex: 308
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/tyleretters
+- title: YouTube
+  url: https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg
   rank: tertiary
   tabindex: 309
