@@ -2,8 +2,7 @@
 layout: post
 title: 'S♯A♯B∞ Week 3: Transfiguration'
 date: 2021-10-01
-sagas: ['sab']
-digest: true
+tags: ['S♯A♯B∞']
 ---
 ![Transfiguration](/assets/images/sab-transfiguration.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title: Ultra Lounge
 date: 2013-07-20
-sagas: ['events']
+tags: ['Events']
 ---
 ![Ultra Lounge](/assets/images/2013-08-10.jpg)
 

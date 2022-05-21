@@ -2,7 +2,7 @@
 layout: post
 title: Prolegomenon
 date: 2012-10-15
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![Prolegomenon](/assets/images/prolegomenon.jpg)](http://connectednesslocus.bandcamp.com/album/prolegomenon)
 

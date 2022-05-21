@@ -2,7 +2,7 @@
 layout: post
 title: Flash Crash
 date: 2022-03-29
-sagas: ['events']
+tags: ['Events']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 29/31 of Operation March.*
 

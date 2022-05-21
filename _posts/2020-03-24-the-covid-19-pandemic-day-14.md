@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 14
 date: 2020-03-24
-sagas: ['covid']
+tags: ['Collapse']
 ---
 ![Spread Love Not Germs](/assets/images/spread-love-not-germs.jpg)
 

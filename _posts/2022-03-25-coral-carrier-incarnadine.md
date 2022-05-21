@@ -2,7 +2,7 @@
 layout: post
 title: Coral Carrier Incarnadine
 date: 2022-03-25
-sagas: ['wildcard']
+tags: ['Coral Carrier Incarnadine']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 25/31 of Operation March.*
 

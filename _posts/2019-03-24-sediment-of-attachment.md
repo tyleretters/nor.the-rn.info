@@ -2,7 +2,7 @@
 layout: post
 title: Sediment of Attachment
 date: 2019-03-24
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 ![Sediment of Attachment Illustration](/assets/images/sediment.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title: Studio Improvisation Series
 date: 2022-03-28
-sagas: ['wildcard']
+tags: ['Events']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 28/31 of Operation March.*
 

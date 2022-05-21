@@ -2,7 +2,7 @@
 layout: post
 title: 'Personal Mythologies I: Tao Te Ching'
 date: 2019-09-08
-sagas: ['mythologies']
+tags: ['Mythologies']
 ---
 > The more clever and crafty the men,  
 > The oftener strange things happen.  

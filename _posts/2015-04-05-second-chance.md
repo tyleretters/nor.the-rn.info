@@ -2,7 +2,7 @@
 layout: post
 title: second chance
 date: 2015-04-05
-sagas: ['mtech', 'art']
+tags: ['Music Technology', 'Art']
 ---
 ![second chance](/assets/images/second-chance.jpg)
 

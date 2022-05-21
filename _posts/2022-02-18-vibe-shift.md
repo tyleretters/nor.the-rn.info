@@ -2,7 +2,7 @@
 layout: post
 title: Vibe Shift
 date: 2022-02-18
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 [Allison P. Davis, writing for The Cut:](https://www.thecut.com/2022/02/a-vibe-shift-is-coming.html)
 

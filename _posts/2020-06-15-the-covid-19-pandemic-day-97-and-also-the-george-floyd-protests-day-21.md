@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 97 & (also) The George Floyd Protests, Day 21
 date: 2020-06-15
-sagas: ['covid']
+tags: ['Collapse']
 ---
 What is there to say anymore? Some places are reopening. Others are bracing for a second wave. There are no cases in New Zealand so they are having themselves full-stadium Rugby events.
 <!--x-->

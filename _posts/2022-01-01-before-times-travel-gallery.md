@@ -2,7 +2,7 @@
 layout: post
 title: Before Times Travel Gallery
 date: 2022-01-01
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 ![Magic Mountain Parkway](/assets/images/magic-mountain-parkway.jpg)
 Magic Mountain Parkway, Mar 31, 2020 @ Valencia, California

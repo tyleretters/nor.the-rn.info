@@ -2,8 +2,7 @@
 layout: post
 title: The Struggle for Meaning
 date: 2020-04-19
-sagas: ['covid', 'wildcard', 'art']
-digest: true
+tags: ['Collapse', 'Art']
 ---
 ![The Sundered Electronicist, watercolor](/assets/images/the-sundered-electronicist.jpg)
 *The Sundered Electronicist by Tyler Etters, watercolor, 2020*

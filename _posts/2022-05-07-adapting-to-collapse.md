@@ -2,7 +2,7 @@
 layout: post
 title: This Civilization is Already Dead
 date: 2022-05-07
-sagas: ['collapse']
+tags: ['Collapse']
 ---
 [Devine Lu Linvega:](https://wiki.xxiivv.com/site/ethics.html)
 

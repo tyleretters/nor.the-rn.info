@@ -2,7 +2,7 @@
 layout: post
 title: These Transactions Created a Context
 date: 2022-03-09
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 9/31 of Operation March.*
 

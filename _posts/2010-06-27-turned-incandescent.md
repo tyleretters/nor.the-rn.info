@@ -2,7 +2,7 @@
 layout: post
 title: Turned Incandescent
 date: 2010-06-27
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![Endless Field Studios, Volume 1](/assets/images/endless-field-studios-volume-1.jpg)](http://endlessfieldstudios.bandcamp.com/album/endless-field-studios-volume-1)
 

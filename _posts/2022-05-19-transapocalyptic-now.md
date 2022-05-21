@@ -2,7 +2,7 @@
 layout: post
 title: Transapocalyptic Now
 date: 2022-05-19
-sagas: ['wildcard']
+tags: ['Collapse']
 ---
 [Alex Steffen, writing for The Snap Forward](https://alexsteffen.substack.com/p/the-transapocalyptic-now):
 

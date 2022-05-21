@@ -2,7 +2,7 @@
 layout: post
 title: Lines Community Stream Video
 date: 2020-06-21
-sagas: ['mtech', 'events']
+tags: ['Music Technology', 'Events']
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bNbzTpxZqGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

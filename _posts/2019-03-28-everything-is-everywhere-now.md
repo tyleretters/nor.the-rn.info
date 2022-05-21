@@ -2,7 +2,7 @@
 layout: post
 title: Everything is everywhere now
 date: 2019-03-28
-sagas: ['releases']
+tags: ['Releases']
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fxVx3upPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

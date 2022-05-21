@@ -2,7 +2,7 @@
 layout: post
 title: Plain Text Sports
 date: 2022-03-22
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 22/31 of Operation March.*
 

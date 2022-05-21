@@ -2,7 +2,7 @@
 layout: post
 title: Apocalypse Mudra
 date: 2022-03-08
-sagas: ['wildcard']
+tags: ['Collapse']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 8/31 of Operation March.*
 

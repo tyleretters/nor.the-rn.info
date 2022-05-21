@@ -2,7 +2,7 @@
 layout: post
 title: Social Fast / OPSEC / Loose Lips Sink Ships
 date: 2022-04-27
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 I'm traveling soon. Why not pair with a social fast? Then it hit me: *everyone should social fast while traveling.* I owe a huge thanks to artist and friend [Gage Lindsten](https://www.instagram.com/gage_lindsten/) for reminding me social network fasts are a thing. Three reasons why you should social fast while traveling:<!--x--> 
 

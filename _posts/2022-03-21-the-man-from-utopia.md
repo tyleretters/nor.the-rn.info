@@ -2,7 +2,7 @@
 layout: post
 title: Man from Utopia
 date: 2022-03-21
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 21/31 of Operation March.*
 

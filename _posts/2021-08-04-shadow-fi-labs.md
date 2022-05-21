@@ -2,7 +2,7 @@
 layout: post
 title: Shadow Fi Labs
 date: 2021-08-04
-sagas: ['mtech', 'modular', 'thoughts']
+tags: ['Music Technology']
 ---
 ![Schematic](/assets/images/shadow-fi-labs-schematic.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Streaming the Making of My Next Album
 date: 2021-03-06
-sagas: ['wildcard', 'mtech']
+tags: ['Music Technology']
 ---
 I'm live streaming the making of my next album on [Twitch](https://twitch.tv/tyleretters).
 <!--x-->

@@ -2,7 +2,7 @@
 layout: post
 title: The Capitalist Nihilism of Alien & Squid Game
 date: 2021-10-24
-sagas: ['wildcard']
+tags: ['Thinkpieces']
 ---
 ![Burke, Aliens](/assets/images/capitalist-nihilism-1.jpg)
 

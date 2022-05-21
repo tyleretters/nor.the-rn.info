@@ -2,7 +2,7 @@
 layout: post
 title: Web3 Hopeful Linkdump
 date: 2022-01-24
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 ![channel.xyz](/assets/images/channel.xyz.png)
 

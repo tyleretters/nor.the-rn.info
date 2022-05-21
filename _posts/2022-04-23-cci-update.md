@@ -2,7 +2,7 @@
 layout: post
 title: CCI Update
 date: 2022-04-23
-sagas: ['cci']
+tags: ['Coral Carrier Incarnadine']
 ---
 
 Welcome to a leviathan [Coral Carrier Incarnadine](https://cci.dev) update!

@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 25
 date: 2020-04-04
-sagas: ['covid']
+tags: ['Collapse']
 ---
 ![X Marks the Distance](/assets/images/x-marks-the-distance.jpg)
 

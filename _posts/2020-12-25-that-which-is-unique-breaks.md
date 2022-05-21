@@ -2,7 +2,7 @@
 layout: post
 title: That Which is Unique, Breaks
 date: 2020-12-25
-sagas: ['wildcard']
+tags: ['Collapse']
 ---
 [Simon Sarris, writing for The Map is Mostly Water:](https://simonsarris.substack.com/p/that-which-is-unique-breaks) 
 <!--x-->

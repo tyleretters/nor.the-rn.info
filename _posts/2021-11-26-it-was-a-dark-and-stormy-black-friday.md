@@ -2,7 +2,7 @@
 layout: post
 title: It Was a Dark and Stormy Black Friday
 date: 2021-11-26
-sagas: ['wildcard']
+tags: ['Collapse']
 ---
 ![High Voltage](/assets/images/high-voltage.jpg)
 

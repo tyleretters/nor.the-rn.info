@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 9
 date: 2020-03-19
-sagas: ['covid']
+tags: ['Collapse']
 ---
 ![Self Isolation](/assets/images/self-isolation.jpg)
 

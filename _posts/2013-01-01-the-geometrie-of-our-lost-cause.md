@@ -2,7 +2,7 @@
 layout: post
 title: the geometrie of our lost cause
 date: 2013-01-01
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![the geometrie of our lost cause](/assets/images/the-geometrie-of-our-lost-cause.jpg)](https://northerninformation.bandcamp.com/album/the-geometrie-of-our-lost-cause)
 

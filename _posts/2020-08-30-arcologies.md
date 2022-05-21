@@ -2,7 +2,7 @@
 layout: post
 title: arcologies
 date: 2020-08-30
-sagas: ['music', 'events', 'mtech']
+tags: ['Music Technology', 'Events']
 ---
 [I've been busy the last few months.](https://tyleretters.github.io/arcologies-docs)
 <!--x-->

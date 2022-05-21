@@ -2,7 +2,7 @@
 layout: post
 title: Preparing for Defeat
 date: 2022-03-14
-sagas: ['wildcard']
+tags: ['Collapse']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 14/31 of Operation March.*
 

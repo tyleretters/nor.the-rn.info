@@ -2,7 +2,7 @@
 layout: post
 title: Lines Community Stream
 date: 2020-06-09
-sagas: ['events']
+tags: ['Events']
 ---
 ![Lines Community Stream: "Outside"](/assets/images/2020-06-20.jpg)
 

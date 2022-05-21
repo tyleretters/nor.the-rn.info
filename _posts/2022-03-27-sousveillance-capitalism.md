@@ -2,7 +2,7 @@
 layout: post
 title: Sousveillance Capitalism
 date: 2022-03-27
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 27/31 of Operation March.*
 

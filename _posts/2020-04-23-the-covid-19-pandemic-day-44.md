@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 44
 date: 2020-04-23
-sagas: ['covid']
+tags: ['Collapse']
 ---
 ![Power Lines](/assets/images/power-lines.png)
 *Still from a video I took last year... I mean two days ago.*

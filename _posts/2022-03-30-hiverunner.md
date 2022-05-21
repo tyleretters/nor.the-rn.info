@@ -2,7 +2,7 @@
 layout: post
 title: HIVERUNNER
 date: 2022-03-30
-sagas: ['wildcard']
+tags: ['Art']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 30/31 of Operation March.*
 

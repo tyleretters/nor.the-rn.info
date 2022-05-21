@@ -2,7 +2,7 @@
 layout: post
 title: Rounding Errors
 date: 2021-03-20
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 A collection of links and threads that demand pursuit // cannot be pursued.
 <!--x-->

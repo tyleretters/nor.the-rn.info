@@ -2,7 +2,7 @@
 layout: post
 title: My First Patch
 date: 2020-06-08
-sagas: ['modular', 'mtech']
+tags: ['Music Technology']
 ---
 ![My first patch](/assets/images/my-first-patch.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title: the phantom time trilogy
 date: 2016-01-01
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![the phantom time trilogy](/assets/images/the-phantom-time-trilogy.jpg)](https://open.spotify.com/album/0kpDme6grGlpudBK2ioy6Q)
 

@@ -2,8 +2,7 @@
 layout: post
 title: 'S♯A♯B∞ Week 1: Immolation'
 date: 2021-09-17
-sagas: ['sab']
-digest: true
+tags: ['S♯A♯B∞']
 ---
 ![Glass](/assets/images/sab-glass.jpg)
 

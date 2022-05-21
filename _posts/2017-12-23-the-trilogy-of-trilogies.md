@@ -2,8 +2,7 @@
 layout: post
 title: The Trilogy of Trilogies
 date: 2017-12-23
-sagas: ['releases']
-digest: true
+tags: ['Releases']
 ---
 ![Tyler Etters illustration by Gage Lindsten](/assets/images/tyler-etters-illustration.jpg)
 

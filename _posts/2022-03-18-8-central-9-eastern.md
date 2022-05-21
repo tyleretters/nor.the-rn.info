@@ -2,7 +2,7 @@
 layout: post
 title: 8 Central / 9 Eastern
 date: 2022-03-18
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 18/31 of Operation March.*
 

@@ -2,7 +2,7 @@
 layout: post
 title: Grid Keyboard
 date: 2020-05-03
-sagas: ['mtech']
+tags: ['Music Technology']
 ---
 ![Grid Keyboard](/assets/images/grid-keyboard.png)
 

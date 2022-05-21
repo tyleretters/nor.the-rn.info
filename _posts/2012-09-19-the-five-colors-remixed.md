@@ -2,7 +2,7 @@
 layout: post
 title: The Five Colors [Remixed]
 date: 2012-09-19
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![The Five Colors, Remixed](/assets/images/the-five-colors-remixed.jpg)](https://bridgesofkonigsberg.bandcamp.com/album/the-five-colors-remixed)
 

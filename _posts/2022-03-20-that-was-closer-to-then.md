@@ -2,7 +2,7 @@
 layout: post
 title: That was closer to then
 date: 2022-03-20
-sagas: ['wildcard']
+tags: ['Releases']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 20/31 of Operation March.*
 

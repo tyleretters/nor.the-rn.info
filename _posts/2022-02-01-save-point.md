@@ -2,7 +2,7 @@
 layout: post
 title: Save Point
 date: 2022-02-01
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 [Gahlord Dewald, writing for his newsletter:](https://gahlorddewald.com/)
 

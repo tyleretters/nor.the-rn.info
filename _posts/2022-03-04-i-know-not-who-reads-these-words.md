@@ -2,7 +2,7 @@
 layout: post
 title: I Know Not Who Reads These Words
 date: 2022-03-04
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 
 ![Cards, dice, shells](/assets/images/cards.jpg)

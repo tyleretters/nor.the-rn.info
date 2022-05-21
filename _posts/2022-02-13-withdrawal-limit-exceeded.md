@@ -2,7 +2,7 @@
 layout: post
 title: Withdrawal Limit Exceeded
 date: 2022-02-13
-sagas: ['wildcard']
+tags: ['Thinkpieces']
 ---
 
 ![Withdrawal Limit Exceeded](/assets/images/withdrawal-limit-exceeded.jpg)

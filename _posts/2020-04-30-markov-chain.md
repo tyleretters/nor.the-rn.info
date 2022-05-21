@@ -2,7 +2,7 @@
 layout: post
 title: Markov Chain
 date: 2020-04-30
-sagas: ['mtech']
+tags: ['Music Technology']
 ---
 ![Markov Chains](/assets/images/markov-chains.png)
 

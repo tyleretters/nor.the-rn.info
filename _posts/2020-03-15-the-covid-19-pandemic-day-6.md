@@ -2,7 +2,7 @@
 layout: post
 title: The COVID-19 Pandemic, Day 5
 date: 2020-03-15
-sagas: ['covid']
+tags: ['Collapse']
 ---
 ![Cyberpunk AF](/assets/images/cyberpunk-af.jpg)
 *Cyperpunk AF.*

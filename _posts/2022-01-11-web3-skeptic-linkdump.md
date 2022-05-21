@@ -2,7 +2,7 @@
 layout: post
 title: Web3 Skeptic Linkdump
 date: 2022-01-11
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 ![Change My Mind](/assets/images/change-my-mind.png)
 

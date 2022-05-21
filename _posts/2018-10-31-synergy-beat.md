@@ -2,7 +2,7 @@
 layout: post
 title: Synergy Beat
 date: 2018-10-31
-sagas: ['releases']
+tags: ['Releases']
 ---
 ![Synergy Beat](/assets/images/synergy-beat.jpg)
 

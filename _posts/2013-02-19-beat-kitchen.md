@@ -2,7 +2,7 @@
 layout: post
 title: Beat Kitchen
 date: 2013-02-19
-sagas: ['events']
+tags: ['Events']
 ---
 ![Beat Kitchen](/assets/images/2013-02-21.jpg)
 

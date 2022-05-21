@@ -2,7 +2,7 @@
 layout: post
 title: "Blur: Are Shite"
 date: 2022-01-19
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 [TheLitCritGuy, writing for The Haunt:](https://thehaunt.substack.com/p/the-sound-of-stars)
 

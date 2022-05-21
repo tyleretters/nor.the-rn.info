@@ -2,7 +2,7 @@
 layout: post
 title: senescence
 date: 2013-09-23
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![senescence](/assets/images/senescence.jpg)](https://northerninformation.bandcamp.com/album/senescence)
 

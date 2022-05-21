@@ -2,7 +2,7 @@
 layout: post
 title: "UI / UX Analysis of Elden Ring"
 date: 2022-03-24
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 24/31 of Operation March.*
 

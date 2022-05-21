@@ -2,7 +2,7 @@
 layout: post
 title: They Became What They Beheld
 date: 2019-03-03
-sagas: ['releases']
+tags: ['Releases']
 ---
 [![EP1](/assets/images/ep1.jpg)](https://theybecamewhattheybeheld.bandcamp.com/album/ep1)
 

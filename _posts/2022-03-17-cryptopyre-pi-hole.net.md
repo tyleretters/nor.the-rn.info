@@ -2,7 +2,7 @@
 layout: post
 title: "CRYPTOPYRE: pi-hole.net"
 date: 2022-03-17
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 17/31 of Operation March.*
 

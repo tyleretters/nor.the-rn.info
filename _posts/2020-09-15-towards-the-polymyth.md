@@ -2,8 +2,7 @@
 layout: post
 title: Towards the Polymyth
 date: 2020-09-15
-sagas: ['wildcard']
-digest: true
+tags: ['Thinkpieces']
 ---
 This post has been rattling around in my head for a few months now. It picks up on threads I started in [Fear Imm(a/i)nnence](/2019/03/03/fear-immainence/) and [The Struggle for Meaning](/2020/04/19/the-struggle-for-meaning/).
 <!--x-->

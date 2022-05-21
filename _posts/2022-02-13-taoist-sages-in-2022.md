@@ -2,7 +2,7 @@
 layout: post
 title: Taoist Sages in 2022
 date: 2022-02-13
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 [Erick Davis, writing for Burning Shore:](https://www.burningshore.com/)
 

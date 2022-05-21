@@ -2,8 +2,7 @@
 layout: post
 title: Empty, Again
 date: 2021-07-04
-sagas: ['wildcard']
-digest: true
+tags: ['Art']
 ---
 Four weeks ago we were [inspired](https://www.youtube.com/playlist?list=PLDeicGW8SQOx1PM5iAuSNZVw28XyyawCJ). Three weeks ago we started to [understand](https://northern-information.github.io/mapcore/). Two weeks ago we decided to make an [album](https://mapcorps.bandcamp.com/album/mapsquest-2). One week ago we planned a [party](https://youtu.be/pDPxkfbZWdw/). Today I woke up empty, again.
 <!--x-->

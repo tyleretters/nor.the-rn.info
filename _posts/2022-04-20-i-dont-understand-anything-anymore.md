@@ -2,7 +2,7 @@
 layout: post
 title: I Don't Understand Anything Anymore
 date: 2022-04-20
-sagas: ['wildcard']
+tags: ['Wildcard']
 ---
 [KC Cole, writing for Wired:](https://www.wired.com/story/i-dont-understand-anything-anymore/)
 

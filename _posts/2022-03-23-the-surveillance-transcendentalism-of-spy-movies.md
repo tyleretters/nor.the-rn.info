@@ -2,7 +2,7 @@
 layout: post
 title: The Surveillance Transcendentalism of Spy Movies
 date: 2022-03-23
-sagas: ['wildcard']
+tags: ['Thinkpieces']
 ---
 *Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 23/31 of Operation March.*
 
