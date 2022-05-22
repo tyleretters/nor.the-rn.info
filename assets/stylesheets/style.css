@@ -250,33 +250,31 @@ nav {
  * MAIN
  * MAIN
  */
-main {
-  overflow: scroll; }
-  main article {
-    overflow: scroll; }
-    main article blockquote {
-      padding-left: 1rem; }
-    main article blockquote,
-    main article ol,
-    main article ul {
+main article {
+  overflow: clip; }
+  main article blockquote {
+    padding-left: 1rem; }
+  main article blockquote,
+  main article ol,
+  main article ul {
+    border-left: 1px solid #6f6f6f; }
+    main article blockquote ol,
+    main article blockquote ul,
+    main article ol ol,
+    main article ol ul,
+    main article ul ol,
+    main article ul ul {
       border-left: 1px solid #6f6f6f; }
-      main article blockquote ol,
-      main article blockquote ul,
-      main article ol ol,
-      main article ol ul,
-      main article ul ol,
-      main article ul ul {
-        border-left: 1px solid #6f6f6f; }
-    main article ul li {
-      list-style-type: square; }
-    main article hr,
-    main article p,
-    main article ol,
-    main article ul {
-      max-width: 512px; }
-    main article img {
-      max-width: 512px;
-      margin-bottom: 1rem; }
+  main article ul li {
+    list-style-type: square; }
+  main article hr,
+  main article p,
+  main article ol,
+  main article ul {
+    max-width: 512px; }
+  main article img {
+    max-width: 512px;
+    margin-bottom: 1rem; }
 
 /**
  * 404
