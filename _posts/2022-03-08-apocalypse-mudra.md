@@ -4,8 +4,6 @@ title: Apocalypse Mudra
 date: 2022-03-08
 tags: ['Collapse']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 8/31 of Operation March.*
-
 This post is an attempt to tease out some more concrete thoughts about what I'm calling "apocalypse mudras" - stances, dispositions, and mental koans to ground myself in the inferno.<!--x-->
 
 I've had an impossible time articulating these concepts. The mudras are intimate, personal, and mostly invisible. I am going to use [DXMC](https://deusexmachina.company)'s virtues - themselves based off the [four cardinal virtues of antiquity](https://en.wikipedia.org/wiki/Cardinal_virtues) - as containers.

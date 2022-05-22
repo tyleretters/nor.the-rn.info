@@ -4,8 +4,6 @@ title: Man from Utopia
 date: 2022-03-21
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 21/31 of Operation March.*
-
 ![Man from Utopia](/assets/images/man-from-utopia.jpg)
 
 > "gotta tombstone hand anna graveyard mind just twenny two an ah don't mind dye'in" <!--x-->

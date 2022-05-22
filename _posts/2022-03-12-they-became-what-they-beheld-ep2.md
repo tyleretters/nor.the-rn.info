@@ -4,9 +4,6 @@ title: They Became What They Beheld, EP2
 date: 2022-03-12
 tags: ['Releases']
 ---
-
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 11/31 and node 12/31 of Operation March. Two nodes were required to forge EP2.*
-
 ![EP2](/assets/images/ep2.jpg)
 
 [Staggering through the canyon, diskette in hand, the tracks, the next two tracks.](https://theybecamewhattheybeheld.bandcamp.com/album/ep2) Does this clear things up? Or make matters worse?<!--x-->

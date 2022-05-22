@@ -4,13 +4,11 @@ title: Four Techno Recommendations
 date: 2022-03-01
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 1/31 of Operation March.*<!--x-->
-
 ## Birth of a New Day, 2015
 
 ![Birth of a New Day](/assets/images/birth-of-a-new-day.jpg)
 
-2814's 2015 opus is the logical sublimation of all vaporwave: glossy, nip/tucked, baked. But is it techno? Maybe.
+2814's 2015 opus is the logical sublimation of all vaporwave: glossy, nip/tucked, baked. But is it techno? Maybe.<!--x-->
 
 [https://2814.bandcamp.com/album/birth-of-a-new-day](https://dreamcatalogue.bandcamp.com/album/--18)
 

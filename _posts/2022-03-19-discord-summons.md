@@ -4,8 +4,6 @@ title: Discord Summons
 date: 2022-03-19
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 19/31 of Operation March.*
-
 Please enjoy this short video about various Northern Information initiatives, developments, and happenings.
 <!--x-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ELzqSRV7uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

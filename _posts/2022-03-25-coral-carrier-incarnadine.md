@@ -4,8 +4,6 @@ title: Coral Carrier Incarnadine
 date: 2022-03-25
 tags: ['Coral Carrier Incarnadine']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 25/31 of Operation March.*
-
 ![Coral Carrier Incarnadine](/assets/images/coral-carrier-incarnadine.gif)
 
 A small team and I have been working on a game for several months. It is called Coral Carrier Incarnadine. You can follow development here: [https://cci.dev](https://cci.dev)<!--x-->

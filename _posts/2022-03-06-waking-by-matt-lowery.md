@@ -4,8 +4,6 @@ title: '"waking" by Matt Lowery'
 date: 2022-03-06
 tags: ['Releases']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 6/31 of Operation March.*
-
 ![Matt Lowery waking](/assets/images/matt-lowery-waking.jpg)
 
 I had the pleasure of designing album artwork with [Matt Lowery](https://mattlowery.bandcamp.com/album/waking) for his [Mystery Circles](https://mysterycircles.com/) release. Though the core of every project is based on trust and my relationships, the processes for each project differs wildly based on a number of factors:<!--x-->

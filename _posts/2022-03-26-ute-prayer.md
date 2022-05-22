@@ -4,8 +4,6 @@ title: Ute Prayer
 date: 2022-03-26
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 26/31 of Operation March.*
-
 > Earth teach me stillness<br>
 > as the grasses are stilled with light.
 >

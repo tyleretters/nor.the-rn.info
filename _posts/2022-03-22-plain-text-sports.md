@@ -4,9 +4,8 @@ title: Plain Text Sports
 date: 2022-03-22
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 22/31 of Operation March.*
-
 ![Plain Text Sports ](/assets/images/plain-text-sports.jpg)
+
 A sports fan I am not, but [plaintextsports.com](https://plaintextsports.com/) is simply stunning. Touting, "Instant live sports scores, play-by-play, and box scores" there is so much to love:<!--x-->
  
 - Accessible

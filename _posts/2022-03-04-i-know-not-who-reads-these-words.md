@@ -4,10 +4,7 @@ title: I Know Not Who Reads These Words
 date: 2022-03-04
 tags: ['Wildcard']
 ---
-
 ![Cards, dice, shells](/assets/images/cards.jpg)
-
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 4/31 of Operation March.*
 
 I know not who reads these words. 
 

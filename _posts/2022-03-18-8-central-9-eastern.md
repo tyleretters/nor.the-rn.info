@@ -4,8 +4,6 @@ title: 8 Central / 9 Eastern
 date: 2022-03-18
 tags: ['Wildcard']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 18/31 of Operation March.*
-
 ![Ren & Stimpy](/assets/images/ren-and-stimpy.jpg)
 
 "Hey kids! Tune in for Ren & Stimpy at 8 central, 9 eastern!"

@@ -4,8 +4,6 @@ title: The Surveillance Transcendentalism of Spy Movies
 date: 2022-03-23
 tags: ['Thinkpieces']
 ---
-*Reminder: Northern Information, LLC respects your digital sovereignty. I never track you and I never post paid content. This is node 23/31 of Operation March.*
-
 ![The Bourne Legacy](/assets/images/the-bourne-legacy.jpg)
 
 The pandemic has forced me to evolve new methods of escapism. As any of my [Instagram](https://instagram.com/tyleretters) followers know, I am a glutton for action and thriller movies. And the "spy action-thriller" is one of my favorite sub-genres because they get to play with a very specific and unique set of rules. Last night, THE BOURNE LEGACY (2012) was on the docket. Spoilers for the decade-old blockbuster ahead...<!--x-->
