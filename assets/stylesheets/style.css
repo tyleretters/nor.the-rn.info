@@ -62,7 +62,8 @@ a:hover {
   margin-bottom: 12px;
 }
 
-.img-100, main article iframe, main article img {
+.img-100, main article img,
+main article iframe {
   display: block;
   width: 100%;
 }
@@ -323,10 +324,12 @@ main article ol,
 main article ul {
   max-width: 512px;
 }
-main article img {
+main article img,
+main article iframe {
   max-width: 512px;
   margin-bottom: 1rem;
 }
+
 /**
  * * 404
  * * 404
