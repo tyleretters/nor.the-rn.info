@@ -6,8 +6,6 @@ permalink: /philosophy
 
 # Philosophy
 
-![Shout out to New Models](/assets/images/time.jpg)
-
 The anthropocene has forced my hand and there is no time left to be anything but 100% authentic. I have decided to publicly share my beliefs in hopes they may help everyone (myself included) consider new ways of thinking.
 
 This page is highly volatile. If you find something helpful, take note. If you can no longer find something that was once helpful, [check the changelog](https://github.com/tyleretters/nor.the-rn.info/commits/main/_pages/philosophy.md).
