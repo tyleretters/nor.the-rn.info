@@ -2,7 +2,7 @@
 layout: post
 title: Failure is Something You Want to Tempt
 date: 2022-08-07
-tags: ['wildcard']
+tags: ['Wildcard']
 ---
 [Simon Sarris, writing for The Map is Mostly Water:](https://simonsarris.substack.com/p/start-with-creation)
 

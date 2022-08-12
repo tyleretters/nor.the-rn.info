@@ -2,7 +2,7 @@
 layout: post
 title: All Adjacent Possible
 date: 2022-08-04
-tags: ['wildcard']
+tags: ['Wildcard']
 ---
 
 [Venkatesh Rao at Ribbonfarm](https://www.ribbonfarm.com/2022/08/04/a-dreaming-world/):
