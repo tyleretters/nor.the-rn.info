@@ -56,13 +56,6 @@ a:hover
 .max-width
   max-width: $max-width
 
-.full-width
-  max-width: none !important
-
-  main,
-  .masthead
-    max-width: none !important
-
 .mb-10
   margin-bottom: 10rem
 
@@ -132,6 +125,25 @@ a.later-post
     display: block
     padding: 10px
 
+/**
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ */
+
+.page-raw
+  max-width: none !important
+
+  header a.btn-menu
+    display: none !important
+
+  main,
+  .masthead
+    max-width: none !important
+    overflow: scroll
+
 
 /**
  * HEADER
@@ -143,7 +155,6 @@ a.later-post
 
 header
   background: $black
-  margin-bottom: 3px
 
   .masthead
     max-width: $max-width
@@ -281,7 +292,7 @@ nav
 @media (min-width: 768px)
 
   nav
-    float: right
+    float: left
     max-width: 232px
 
 /**
@@ -297,6 +308,7 @@ main
 
   article
     overflow: clip
+    
     blockquote
       padding-left: 1rem
 
@@ -310,7 +322,6 @@ main
         border-left: 1px solid $half-white
 
     ul
-
       li
         list-style-type: square
 

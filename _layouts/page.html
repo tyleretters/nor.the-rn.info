@@ -3,11 +3,11 @@ layout: abstract
 ---
 <main class="container-fluid">
   <div class="row">
-    <div class="col mb-gutter">
-      {{ content }}
+    <div class="col-sm-12 col-md-3 order-2 order-md-1">
+      {% include nav.html %}
     </div>
-    <div class="col-sm-12 col-md-3">
-    {% include nav.html %}
+    <div class="col mb-gutter order-1 order-md-2">
+      {{ content }}
     </div>
   </div>
 </main>

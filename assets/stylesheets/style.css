@@ -40,12 +40,6 @@ a:hover {
 .max-width, main {
   max-width: 1024px; }
 
-.full-width {
-  max-width: none !important; }
-  .full-width main,
-  .full-width .masthead {
-    max-width: none !important; }
-
 .mb-10 {
   margin-bottom: 10rem; }
 
@@ -115,6 +109,22 @@ a.later-post {
     padding: 10px; }
 
 /**
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ * PAGE RAW
+ */
+.page-raw {
+  max-width: none !important; }
+  .page-raw header a.btn-menu {
+    display: none !important; }
+  .page-raw main,
+  .page-raw .masthead {
+    max-width: none !important;
+    overflow: scroll; }
+
+/**
  * HEADER
  * HEADER
  * HEADER
@@ -122,8 +132,7 @@ a.later-post {
  * HEADER
  */
 header {
-  background: #000000;
-  margin-bottom: 3px; }
+  background: #000000; }
   header .masthead {
     max-width: 1024px;
     margin: auto; }
@@ -242,7 +251,7 @@ nav {
 
 @media (min-width: 768px) {
   nav {
-    float: right;
+    float: left;
     max-width: 232px; } }
 /**
  * MAIN

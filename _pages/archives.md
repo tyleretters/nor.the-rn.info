@@ -2,5 +2,5 @@
 layout: archives
 title: Archives
 permalink: /archives
-classes: full-width
+classes: page-raw
 ---

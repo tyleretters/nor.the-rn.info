@@ -1,6 +1,13 @@
+- order: 202211
+  title: Klang Magazine
+  dates: 2023
+  image: /assets/images/klang-magazine.jpg
+  content: |
+    [Klang Magazine](https://klangmag.co/about) is an independent publication launching in 2023. 
+
 - order: 202105
   title: FLASH CRASH
-  dates: 2021 - Present
+  dates: 2021 - 2022
   image: /assets/images/flash-crash-event.jpg
   content: |
     [FLASH CRASH](https://flashcrash.net) is a recursive livecoding online event I organize. The brand dies and is reborn for each event.
