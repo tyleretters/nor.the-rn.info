@@ -9,3 +9,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 include: ['_pages']
+excerpt_separator: <!--x-->

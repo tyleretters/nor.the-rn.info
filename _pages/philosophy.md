@@ -1,10 +1,8 @@
 ---
-layout: page-article
+layout: page
 title: Philosophy
 permalink: /philosophy
 ---
-
-# Philosophy
 
 The anthropocene has forced my hand and there is no time left to be anything but 100% authentic. I have decided to publicly share my beliefs in hopes they may help everyone (myself included) consider new ways of thinking.
 

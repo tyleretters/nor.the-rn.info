@@ -1,24 +1,47 @@
 /**
- * VARIABLES
- * VARIABLES
- * VARIABLES
- * VARIABLES
- * VARIABLES
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
  */
 
-$black: #000000
-$orange: #f9780a
-$dark: #0d3a7c
-$grey: #1b1b1b
-$yellow: #ffff00
-$white: #eeeeee
-$half-white: darken($white, 50%)
-$quarter-white: darken($white, 25%)
-
 $monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+
 $sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
 
-$max-width: 1024px
+.typography-promise
+  font-size: 1rem
+  font-weight: 600
+  line-height: 17px
+
+.typography-broken
+  font-size: 1rem
+  font-weight: 400
+  line-height: 17px
+
+strong
+  font-weight: 800
+
+/**
+ * BORDERS
+ * BORDERS
+ * BORDERS
+ * BORDERS
+ * BORDERS
+ */
+
+.border-top
+  border-top: 4px solid black !important
+
+.border-right
+  border-right: 4px solid black !important
+
+.border-bottom
+  border-bottom: 4px solid black !important
+
+.border-left
+  border-left: 4px solid black !important
 
 /**
  * CORE
@@ -29,314 +52,290 @@ $max-width: 1024px
  */
 
 body
+  @extend .border-top
+  @extend .border-left
+  @extend .typography-promise
   -moz-osx-font-smoothing: grayscale
   -webkit-font-smoothing: antialiased
-  background: $grey
-  color: $white
+  background: black
+  color: white
   font-family: $sans-serif
 
 pre, code
-  color: $white
+  color: black
   font-family: $monospace
-  margin-top: 0
-
-::selection
-  background: $yellow
-  color: $black
 
 a,
 a:link,
 a:visited
-  color: $yellow
+  color: blue
+  background: white
 
-a:active,
-a:hover
-  color: $white
+a:hover,
+a:active
+  color: white
+  background: blue
 
-.max-width
-  max-width: $max-width
+::selection
+  color: white
+  background: blue
 
-.mb-10
-  margin-bottom: 10rem
-
-.mb-gutter
-  margin-bottom: 12px
+.container-fluid
+  max-width: 1920px
 
 .img-100
-  display: block
   width: 100%
 
-.table
-  color: $white
-
-a.btn-listen,
-a.btn-listen:link,
-.btn-listen:visited
+.block-link
+  height: 100%
+  width: 100%
   display: block
-  text-align: center
-  border: 1px solid $yellow
-  text-align: none
-  text-decoration: none
+  padding: 4px
 
-  &:hover,
-  &:active
-    background: $yellow
-    color: $black
+/**
+ * POST
+ * POST
+ * POST
+ * POST
+ * POST
+ */
 
-.listen-unavailable
-  display: block
-  text-align: center
-  color: $half-white
-  border: 1px solid $half-white
-  cursor: not-allowed
+.post
+  color: black
 
-.playlists
+  .post-title
+    background: white
 
-  .btn-listen
-    max-width: 256px
+  .post-content
 
-  ol
-    border: none
+    img
+      width: 100%
 
-.playlists,
-.books
+  .later-post,
+  .earlier-post
+    color: blue
+    background: white
+    padding: 4px
+    height: 100%
+    width: 100%
+    display: block
+  
+    &:hover
+      color: yellow
+      background: red
+
+/**
+ * GENERAL
+ * GENERAL
+ * GENERAL
+ * GENERAL
+ * GENERAL
+ */
+
+.general-title
+  color: black
+  background: white
+
+  h1
+    margin-bottom: 0
+
+.general-content
+  background: black
+
+  > div
+    @extend .border-right
+    color: black
+    background: white
+    padding-top: calc(var(--bs-gutter-x) * .5)
+
+    a,
+    a:link,
+    a:visited
+      color: blue
+      background: transparent
+    
+    a:hover,
+    a:active
+      color: white
+      background: blue
+      
+    img
+      width: 100%
+
+    ul
+      color: black
+      padding: 0 1rem
+
+    .webring:hover
+      background: yellow
+
+.discography
+  overflow: scroll
+  table
+    width: 100%
+    border: 1px solid darken(white, 50%)
+    tr
+      th
+        color: black
+        background: white
+        padding: 4px
+        border-bottom: 1px solid darken(white, 50%)
+      td
+        color: white
+        background: black
+        padding: 4px
+        border-bottom: 1px solid darken(white, 50%)
+
+/**
+ * EXCERPT CARDS
+ * EXCERPT CARDS
+ * EXCERPT CARDS
+ * EXCERPT CARDS
+ * EXCERPT CARDS
+ */
+
+.excerpt-card
+  @extend .border-bottom
 
   article
 
-    h1
-      font-size: 1.5rem
+    a.excerpt-title
+      color: white      
+      background: black
+      padding: 4px
+      width: 100%
+      display: block
+      text-decoration: none
+      
 
-a.archives,
-a.earlier-post,
-a.later-post
-  background: $black
-  border-right: 3px solid $grey
-  color: $white
-  display: block
-  font-weight: 600
-  text-decoration: none
+      &:hover
+        background: yellow
+        color: red
+        text-decoration: underline
 
-  &:active,
-  &:hover
-    background: $white
-    color: $black
+      h1
+        @extend .typography-promise
+        margin: 0
 
-  span
-    display: block
-    padding: 10px
+      time
+        font-size: .66rem
+        
+    .excerpt-body
+      @extend .typography-broken
+      color: black
+      background: white
+      padding: 4px
 
-/**
- * PAGE RAW
- * PAGE RAW
- * PAGE RAW
- * PAGE RAW
- * PAGE RAW
- */
+      .excerpt-link a
+        color: blue
+        background: white
+        padding: 4px
+        text-decoration: none
 
-.page-raw
-  max-width: none !important
-
-  header a.btn-menu
-    display: none !important
-
-  main,
-  .masthead
-    max-width: none !important
-    overflow: scroll
-
+        &:hover
+          color: white
+          background: blue
+      p
+        margin: 0 0 .5rem 0
+      
+      img,
+      iframe,
+      audio
+        width: 100%
 
 /**
  * HEADER
- * HEADER
+ * HEADER 
  * HEADER
  * HEADER
  * HEADER
  */
 
 header
-  background: $black
+  @extend .typography-promise
+  background: black
 
-  .masthead
-    max-width: $max-width
-    margin: auto
+  .northern-information-llc
+    background: white
 
-  img
-    float: left
-    margin-right: .5rem
-    height: 64px
-    width: 64px
+    img
+      float: left
+      margin-right: calc(var(--bs-gutter-x) * .5)
+      height: 64px
+      width: 64px
+
+    a
+      height: 100%
+      width: 100%
+      display: block
+      border-bottom: none
+    
+      h1
+        @extend .typography-promise
+        float: left
+        top: 18px
+        left: 72px
+        color: black
+        margin-bottom: 0
+
+  .northern-information-llc:hover
+    background: black
+
+    a
+      text-decoration: underline
+
+      h1
+        color: white
+        text-decoration: underline !important
 
   a,
   a:link,
   a:visited
-    color: $white
+    @extend .border-bottom
+    color: black
+    background: white
+    padding: 4px
+    width: 100%
+    display: block
     text-decoration: none
-    
-    &:active,
+    text-overflow: ellipsis
+    overflow: hidden
+
     &:hover
-      color: $yellow
+      background: blue
+      color: white !important
       text-decoration: underline
+    
+    &.active
+      @extend .bg-spectrum
 
-  h1
-    float: left
-    top: 18px
-    left: 72px
-    font-size: 18px
-    font-size: 1rem
-    font-weight: 600
-    line-height: 17px
-
-  a.btn-menu
-    background: $yellow
-    border-radius: 2px
-    color: $black
-    font-size: 24px
-    padding: 0
-    font-weight: 800
-    height: 32px
-    line-height: 26px
-    text-align: center
-    text-decoration: none
-    text-transform: uppercase
-    float: right
-    width: 32px
-
-    &:hover
-      color: $black
-      background: $white
-      text-decoration: none
+      span
+        @extend .shimmer
 
 /**
- * NAV
- * NAV
- * NAV
- * NAV
- * NAV
- */
-
-nav
-  display: block
-  background: $grey
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ * FOOTER
+ */        
+footer
+  color: black
+  background: white
 
   p
+    padding: 4px
 
     a,
     a:link,
     a:visited
-      color: $quarter-white
-    
-      &:active,
-      &:hover
-        color: $white
+      color: blue
+      background: transparent
 
-    small
-      color: $half-white
-
-      code
-        color: $half-white
-
-      a,
-      a:link,
-      a:visited
-        color: $half-white
-      
-        &:active,
-        &:hover
-          color: $white
-
-
-  ul
-    list-style: none
-    margin: 0
-    padding: 0
-
-    li
-      margin-bottom: 3px
-
-      a,
-      a:link,
-      a:visited
-        background: $black
-        color: $white
-        display: block
-        font-size: 1rem
-        font-weight: 600
-        padding: 10px
-        text-decoration: none
-        
-        &:active,
-        &:hover
-          background: $white
-          color: $black
-
-      &.active
-
-        a,
-        a:hover
-          background: $yellow
-          color: $black
-
-    &.children
-      
-      li
-
-        a
-          background: none
-          color: $yellow
-
-          &:hover
-            background: none
-            color: $white
-            text-decoration: underline
-
-@media (min-width: 768px)
-
-  nav
-    float: left
-    max-width: 232px
-
-/**
- * MAIN
- * MAIN
- * MAIN
- * MAIN
- * MAIN
- */
-
-main
-  @extend .max-width
-
-  article
-    overflow: clip
-    
-    blockquote
-      padding-left: 1rem
-
-    blockquote,
-    ol,
-    ul
-      border-left: 1px solid $half-white
-
-      ol,
-      ul
-        border-left: 1px solid $half-white
-
-    ul
-      li
-        list-style-type: square
-
-    hr,
-    p,
-    ol,
-    ul
-      max-width: 512px
-    
-    img,
-    iframe
-      @extend .img-100
-      max-width: 512px
-      margin-bottom: 1rem
-
+    a:hover,
+    a:active
+      color: white
+      background: blue
 
 /**
  * 404
@@ -347,15 +346,52 @@ main
  */
 
 .four-oh-four
-  background-image: url('/assets/images/crown-via-phill-c-on-yelp.jpg')
-  background-position: center
-  background-repeat: no-repeat
+  height: 200px
+  background: url("/assets/images/crown-via-phill-c-on-yelp.jpg")
   background-size: cover
-  height: 512px
-  margin: 9px 0 0 0
-  padding: 128px 16px
   text-align: center
 
+  a,
+  a:link,
+  a:visited
+    color: white
+    background: none
+
+  a:hover,
+  a:active
+    color: darken(white, 50%)
+
+@media (min-width: 576px)
+  .four-oh-four
+    height: 800px
+
+/**
+ * THE SHIMMER
+ * THE SHIMMER
+ * THE SHIMMER
+ * THE SHIMMER
+ * THE SHIMMER 
+ */
+
+.shimmer
+  color: black
+  background: black -webkit-gradient(linear, 100% 0, 0 0, from(#acacac), color-stop(0.5, #ffffff), to(#acacac))
+  background-position: -4rem top
+  background-repeat: no-repeat
+  -webkit-background-clip: text
+  -webkit-text-fill-color: transparent
+  -webkit-animation-name: shimmerAnimation
+  -webkit-animation-duration: 2.2s
+  -webkit-animation-iteration-count: infinite
+  -webkit-background-size: 4rem 100%
+
+@-webkit-keyframes shimmerAnimation
+  0%
+    background-position: -4rem top
+  70%
+    background-position: 12.5rem top
+  100%
+    background-position: 12.5rem top
 
 /**
  * SPECTRUM

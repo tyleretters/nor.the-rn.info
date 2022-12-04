@@ -1,11 +1,30 @@
 ---
-layout: page
+layout: abstract
 ---
-{% assign post = page %}
-{% include article.html %}
-<div class="container-fluid post-navigation mb-5 px-0">
+<main class="container-fluid post">
   <div class="row">
-    <div class="col pe-0">
+    <div class="col border-bottom">
+      <article class="container-fluid px-0">
+        <div class="row border-right border-bottom post-title">
+          <div class="col">
+            <h1 class="mb-0">{{ page.title }}</h1>
+            <p class="mb-2">
+              <time>{{ page.date | date: "%b %-d, %Y" }}</time>
+              ·
+              <a href="{{ site.data.meta.github }}/{{ post.path }}">Edit</a>
+            </p>
+          </div>
+        </div>
+        <div class="row post-content">
+          <div class="col-sm-12 col-md-6 col-lg-4 pt-2 bg-white border-right">
+            {{ page.content }}
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+  <div class="row bg-white border-bottom">
+    <div class="col px-0 border-right">
       {% if page.next.url %}
         {% assign url = page.next.url %}
         {% assign title = page.next.title %}
@@ -15,9 +34,11 @@ layout: page
         {% assign title = site.posts.last.title %}
         {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
       {% endif %}
-      <a href="{{ url }}" class="later-post"><span>&larr; {{ date }}<br/>{{ title }}</span></a>
+      <a href="{{ url }}" class="py-2 later-post">
+        <span>&larr; {{ title }}<br/>{{ date }}</span>
+      </a>
     </div>
-    <div class="col ps-0">
+    <div class="col px-0 border-right">
       {% if page.previous.url %}
         {% assign url = page.previous.url %}
         {% assign title = page.previous.title %}
@@ -27,7 +48,9 @@ layout: page
         {% assign title = site.posts.first.title %}
         {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
       {% endif %}
-      <a href="{{ url }}" class="earlier-post"><span>{{ date }} &rarr;<br/>{{ title }}</span></a>
+      <a href="{{ url }}" class="py-2 earlier-post">
+        <span>{{ title }} &rarr;<br/>{{ date }}</span>
+      </a>
     </div>
   </div>
-</div>
+</main>

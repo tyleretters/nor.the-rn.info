@@ -1,7 +1,28 @@
 ---
-layout: page
+layout: abstract
 ---
-{% assign software_by_order = site.data.software | sort: "order" | reverse %}
-{% for software in software_by_order %}
-{% include article-software.html %}
-{% endfor %}
+<main class="container-fluid">
+  {% assign software_by_order = site.data.software | sort: "order" | reverse %}
+  {% for software in software_by_order %}
+    <div class="row">
+      <div class="col">
+        <article class="container-fluid px-0">
+          <div class="row border-bottom general-title">
+            <div class="col border-right">
+              <h1 id="{{ software.title | downcase | replace: " / ", "-" | replace: " ", "-" }}" class="mb-0">{{ software.title }}</h1>
+              <p class="mb-2">{{ software.dates }}</p>
+            </div>
+          </div>
+          <div class="row border-bottom general-content">
+            <div class="col-sm-12 col-md-4 border-right">
+              {{ software.content | markdownify }}
+            </div>
+            <div class="col-sm-12 col-md-8 border-right">
+              <a href="{{ software.image }}" class="d-block mb-2"><img src="{{ software.image }}"/></a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  {% endfor %}
+</main>

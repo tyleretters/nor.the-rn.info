@@ -1,20 +1,60 @@
-<header class="container-fluid pb-2 mb-3">
+<header class="container-fluid">
   <div class="row">
-    <div class="col">
-      <div class="container-fluid px-0 mx-0">
-        <div class="row">
-          <div class="col bg-spectrum pb-1"></div>
-        </div>
-        <div class="row pt-2">
-          <div class="col masthead">
-            <a href="/" tabindex="1">
-              <img src="/assets/images/eye.jpg"/>
-              <h1>Northern<br/>Information,<br/>LLC</h1>
-            </a>
-            <a href="#nav" class="d-block d-md-none btn-menu">&#9776;</a>
-          </div>
-        </div>
-      </div>
+    <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
+  </div>
+  <div class="row">
+    <div class="col-6 col-md-4 px-0 border-right northern-information-llc">
+      <a href="/" tabindex="1">
+        <img src="/assets/images/eye.jpg"/>
+        <h1>Northern <br/>Information,<br/>LLC</h1>
+      </a>
     </div>
+    <div class="col-6 col-md-4 col-lg-2 px-0 border-right">
+      <a href="/" tabindex="2" {% if page.url == "/" or page.id %} class="active"{% endif %}>
+        <span>Blog</span>
+      </a>
+      <a href="/music" tabindex="3" {% if page.url contains "/music"%} class="active"{% endif %}>
+        <span>Music</span>
+      </a>
+      <a href="/software" tabindex="4" {% if page.url contains "/software"%} class="active"{% endif %}>
+        <span>Software</span>
+      </a>
+    </div>
+    <div class="col-4 col-md-4 col-lg-2 px-0 border-right">
+      <a href="/about" tabindex="5" {% if page.url contains "/about"%} class="active"{% endif %}>
+        <span>About</span>
+      </a>
+      <a href="/projects" tabindex="6" {% if page.url contains "/projects"%} class="active"{% endif %}>
+        <span>Projects</span>
+      </a>
+      <a href="/philosophy" tabindex="7" {% if page.url contains "/philosophy"%} class="active"{% endif %}>
+        <span>Philosophy</span>
+      </a>
+    </div>
+    <div class="col-4 col-md-4 col-lg-2 px-0 border-right">
+      <a href="/playlists" tabindex="8" {% if page.url contains "/playlists"%} class="active"{% endif %}>
+        <span>Playlists</span>
+      </a>
+      <a href="/books" tabindex="9" {% if page.url contains "/books"%} class="active"{% endif %}>
+        <span>Books</span>
+      </a>
+      <a href="/links" tabindex="10" {% if page.url contains "/links"%} class="active"{% endif %}>
+        <span>Links</span>
+      </a>
+    </div>
+    <div class="col-4 col-md-4 col-lg-2 px-0 border-right">
+      <a href="https://github.com/sponsors/tyleretters" tabindex="11">
+        <span>Sponsor</span>
+      </a>
+      <a href="/feed.xml" tabindex="12">
+        <span>Feed</span>
+      </a>
+      <a href="{{ site.data.meta.github }}/{{ page.path }}" tabindex="14">
+        <span>Edit</span>
+      </a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
   </div>
 </header>

@@ -1,13 +1,24 @@
 ---
-layout: page
+layout: abstract
 ---
-<h1>Books</h1>
-{{ content }}
-<div class="books">
-{% for book in site.data.books %}
-<article class="mb-10">
-  <h1>{{ book.title }}</h2>
-  <p>{{ book.content }}</p>
-</article>
-{% endfor %}
-</div>
+<main class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div class="container-fluid px-0">
+        <div class="row border-bottom general-title">
+          <div class="col border-right">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </div>
+        <div class="row general-content">
+          {% for book in site.data.books %}
+          <article class="col-sm-12 col-md-4 bg-white text-black border-right border-bottom">
+            <h1>{{ book.title }}</h2>
+            {{ book.content | markdownify }}
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

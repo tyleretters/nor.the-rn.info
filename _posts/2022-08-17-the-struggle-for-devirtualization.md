@@ -8,7 +8,7 @@ Have you ever migrated 1.5 million lifeforms? When I was a kid my mom was a prai
 
 (Would aliens do the same for us?)
 
-Devirtualize. Verb. To invert paradigm<!--x--> of digital-first, physical-second. And *virtualization* was always second-nature. So many of us leapt in with both feet.
+Devirtualize. Verb. To invert the paradigm<!--x--> of digital-first, physical-second. And *virtualization* was always second-nature. So many of us leapt in with both feet.
 
 (After all, we grew up here.)
 
