@@ -18,6 +18,19 @@
 strong {
   font-weight: 800; }
 
+article p {
+  font-weight: 400;
+  line-height: 1.5rem; }
+
+article blockquote {
+  border-left: 1px solid grey;
+  padding-left: 0.5rem; }
+
+article code {
+  background: black;
+  color: yellow;
+  padding: 0.25rem; }
+
 /**
  * BORDERS
  * BORDERS
@@ -93,8 +106,8 @@ a:active {
  */
 .post {
   color: black; }
-  .post .post-title {
-    background: white; }
+  .post .post-content div {
+    padding: 4px; }
   .post .post-content img {
     width: 100%; }
   .post .later-post,
@@ -128,7 +141,8 @@ a:active {
   .general-content > div {
     color: black;
     background: white;
-    padding-top: calc(var(--bs-gutter-x) * .5); }
+    padding-top: calc(var(--bs-gutter-x) * .5);
+    padding-bottom: calc(var(--bs-gutter-x) * .5); }
     .general-content > div a,
     .general-content > div a:link,
     .general-content > div a:visited {
@@ -145,6 +159,8 @@ a:active {
       padding: 0 1rem; }
     .general-content > div .webring:hover {
       background: yellow; }
+  .general-content .listen-unavailable {
+    margin: 0; }
 
 .discography {
   overflow: scroll; }

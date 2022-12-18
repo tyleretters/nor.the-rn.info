@@ -5,8 +5,8 @@ layout: abstract
   <div class="row">
     <div class="col border-bottom">
       <article class="container-fluid px-0">
-        <div class="row border-right border-bottom post-title">
-          <div class="col">
+        <div class="row post-title">
+          <div class="col-sm-12 col-md-8 col-lg-6 bg-white border-right border-bottom">
             <h1 class="mb-0">{{ page.title }}</h1>
             <p class="mb-2">
               <time>{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -16,7 +16,7 @@ layout: abstract
           </div>
         </div>
         <div class="row post-content">
-          <div class="col-sm-12 col-md-6 col-lg-4 pt-2 bg-white border-right">
+          <div class="col-sm-12 col-md-8 col-lg-6 bg-white border-right">
             {{ page.content }}
           </div>
         </div>
