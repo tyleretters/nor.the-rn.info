@@ -106,6 +106,27 @@ a:active {
  */
 .post {
   color: black; }
+  .post .subnav a,
+  .post .subnav a:link,
+  .post .subnav a:visited {
+    color: black;
+    text-decoration: none; }
+  .post .subnav a,
+  .post .subnav a:hover,
+  .post .subnav a:hover {
+    color: white;
+    text-decoration: underline; }
+  .post .post-title {
+    color: white; }
+    .post .post-title a,
+    .post .post-title a:link,
+    .post .post-title a:visited {
+      color: yellow;
+      background: none; }
+    .post .post-title a:hover,
+    .post .post-title a:active {
+      color: black;
+      background: yellow; }
   .post .post-content div {
     padding: 4px; }
   .post .post-content img {

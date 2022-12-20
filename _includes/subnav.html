@@ -1,0 +1,30 @@
+<div class="row border-bottom subnav">
+  <div class="col px-0 border-right">
+    {% if page.next.url %}
+      {% assign url = page.next.url %}
+      {% assign title = page.next.title %}
+      {% assign date = page.next.date | date: "%b %-d, %Y" %}
+    {% else %}
+      {% assign url = site.posts.last.url %}
+      {% assign title = site.posts.last.title %}
+      {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
+    {% endif %}
+    <a href="{{ url }}" class="py-2 later-post">
+      <span>&larr; {{ title }}<br/>{{ date }}</span>
+    </a>
+  </div>
+  <div class="col px-0 border-right">
+    {% if page.previous.url %}
+      {% assign url = page.previous.url %}
+      {% assign title = page.previous.title %}
+      {% assign date = page.previous.date | date: "%b %-d, %Y" %}
+    {% else %}
+      {% assign url = site.posts.first.url %}
+      {% assign title = site.posts.first.title %}
+      {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
+    {% endif %}
+    <a href="{{ url }}" class="py-2 earlier-post">
+      <span>{{ title }} &rarr;<br/>{{ date }}</span>
+    </a>
+  </div>
+</div>

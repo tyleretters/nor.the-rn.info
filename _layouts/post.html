@@ -2,11 +2,12 @@
 layout: abstract
 ---
 <main class="container-fluid post">
+  {% include subnav.html %}
   <div class="row">
     <div class="col border-bottom">
       <article class="container-fluid px-0">
         <div class="row post-title">
-          <div class="col-sm-12 col-md-8 col-lg-6 bg-white border-right border-bottom">
+          <div class="col col-md-8 border-right offset-md-2 px-3">
             <h1 class="mb-0">{{ page.title }}</h1>
             <p class="mb-2">
               <time>{{ page.date | date: "%b %-d, %Y" }}</time>
@@ -16,41 +17,13 @@ layout: abstract
           </div>
         </div>
         <div class="row post-content">
-          <div class="col-sm-12 col-md-8 col-lg-6 bg-white border-right">
+          <div class="col col-md-8 offset-md-2 bg-white border-right py-3 px-3 mb-5">
             {{ page.content }}
           </div>
         </div>
       </article>
     </div>
   </div>
-  <div class="row bg-white border-bottom">
-    <div class="col px-0 border-right">
-      {% if page.next.url %}
-        {% assign url = page.next.url %}
-        {% assign title = page.next.title %}
-        {% assign date = page.next.date | date: "%b %-d, %Y" %}
-      {% else %}
-        {% assign url = site.posts.last.url %}
-        {% assign title = site.posts.last.title %}
-        {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
-      {% endif %}
-      <a href="{{ url }}" class="py-2 later-post">
-        <span>&larr; {{ title }}<br/>{{ date }}</span>
-      </a>
-    </div>
-    <div class="col px-0 border-right">
-      {% if page.previous.url %}
-        {% assign url = page.previous.url %}
-        {% assign title = page.previous.title %}
-        {% assign date = page.previous.date | date: "%b %-d, %Y" %}
-      {% else %}
-        {% assign url = site.posts.first.url %}
-        {% assign title = site.posts.first.title %}
-        {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
-      {% endif %}
-      <a href="{{ url }}" class="py-2 earlier-post">
-        <span>{{ title }} &rarr;<br/>{{ date }}</span>
-      </a>
-    </div>
+  {% include subnav.html %}
   </div>
 </main>

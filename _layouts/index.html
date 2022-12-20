@@ -3,7 +3,20 @@ layout: abstract
 ---
 <main class="container-fluid index">
   <div class="row">
-    <div class="col-sm-12 col-md-4">
+    <div class="col-sm-12 col-md-4 order-2 order-md-1">
+      <div class="container-fluid px-0">
+        {% for post in site.posts %}
+        <div class="row border-right">
+          <div class="col px-0 excerpt-card">
+            <article>
+              <a href="{{ post.url }}" class="excerpt-title"><h1>{{ post.title }}</h1> <time>{{ post.date | date: "%b %-d, %Y" }}</time></a>
+            </article>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-8 order-1 order-md-2">
       <div class="container-fluid px-0">
       {% for i in (0..20) %}
       {% assign post = site.posts[i] %}
@@ -19,19 +32,6 @@ layout: abstract
           </div>
         </div>
       {% endfor %}
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-8">
-      <div class="container-fluid px-0">
-        {% for post in site.posts %}
-        <div class="row">
-          <div class="col px-0 excerpt-card">
-            <article>
-              <a href="{{ post.url }}" class="excerpt-title"><h1>{{ post.title }}</h1> <time>{{ post.date | date: "%b %-d, %Y" }}</time></a>
-            </article>
-          </div>
-        </div>
-        {% endfor %}
       </div>
     </div>
   </div>
