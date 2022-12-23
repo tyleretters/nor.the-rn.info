@@ -219,6 +219,20 @@ a:active {
       padding: 4px;
       border-bottom: 1px solid gray; }
 
+.final {
+  font-weight: 400;
+  color: grey;
+  background: black; }
+  .final a,
+  .final a:link,
+  .final a:visited {
+    color: grey;
+    background: none; }
+  .final a:hover,
+  .final a:active {
+    color: yellow;
+    background: none; }
+
 /**
  * BLOG
  * BLOG
