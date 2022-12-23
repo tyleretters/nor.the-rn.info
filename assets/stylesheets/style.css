@@ -332,6 +332,8 @@ footer {
 .index {
   height: 300px;
   text-align: center; }
+  .index .ego {
+    font-size: 0.75rem; }
   .index a,
   .index a:link,
   .index a:visited {
