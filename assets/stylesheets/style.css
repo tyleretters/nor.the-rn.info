@@ -29,7 +29,7 @@ article blockquote {
 article code {
   background: black;
   color: yellow;
-  padding: 0.25rem; }
+  padding: 0.25rem 1rem; }
 
 article pre {
   background: black;
@@ -40,7 +40,7 @@ article pre {
 
 .highlighter-rouge {
   margin: 0;
-  padding: 0 !important; }
+  padding: 0.2rem !important; }
 
 article ol {
   font-weight: 400;
@@ -147,8 +147,6 @@ a:active {
     padding: 4px; }
   .post .post-content img {
     width: 100%; }
-  .post .post-content p {
-    max-width: 512px; }
   .post .post-content code {
     background: black; }
   .post .later-post,
