@@ -1,4 +1,4 @@
----
+no---
 layout: post
 title: "P(l)ay: The Merry Mayhem of F2P/P2W Stores"
 date: 2022-12-25
@@ -91,7 +91,7 @@ Who knows.
 
 I'm pretty into this character. I get a skin, a glider, a harvesting tool and... V-Bucks? Seems like a great deal! I'm reminded this is not eligible for refund.
 
-Adding V-Bucks to the deal is particularly insidious. Where have I heard this one before...? Ahh, yes. Cash back offers with cars. "Buy this car for $40,000 and get $1,000 in cash back." On the surface, is is free money that confounds your sense of scale. But in reality, you are mortgaging your future with what is essentially a variable interest payday loan.
+Adding V-Bucks to the deal is particularly insidious. Where have I heard this one before...? Ahh, yes. Cash back offers with cars. "Buy this car for $40,000 and get $1,000 in cash back." On the surface, it is free money that confounds your sense of scale. But in reality, you are mortgaging your future with what is essentially a variable interest payday loan.
 
 I decide to pass on Metalcore Mina.
 
