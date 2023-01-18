@@ -12,6 +12,7 @@ I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 - [Bandcamp](https://intertext.bandcamp.com)
 - [Discord](https://discord.gg/9AQRe99KSM)
 - [ENS](https://tyleretters.eth)
+- [Gemini](gemini://tilde.club/~tse/)
 - [GitHub](https://github.com/northern-information)
 - [Instagram](https://instagram.com/tyleretters)
 - [LinkedIn](https://www.linkedin.com/in/tyleretters)
