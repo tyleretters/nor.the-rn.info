@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about
 ---
-Northern Information, LLC is the abstraction of polymath-artist Tyler Etters.
+Northern Information, LLC is the abstraction of artist Tyler Etters.
 
 My practice incorporates software, electronic music, writing, new media, design, photography, community organizing, and teaching.
 
