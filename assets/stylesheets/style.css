@@ -50,6 +50,7 @@ article pre {
   padding: 0.2rem !important;
 }
 
+article ul,
 article ol {
   font-weight: 400;
   line-height: 1.5rem;
