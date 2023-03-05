@@ -8,5 +8,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 include: ['_pages']
 excerpt_separator: <!--x-->
