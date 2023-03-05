@@ -1,11 +1,10 @@
 ---
 layout: abstract
 ---
-<main class="container-fluid index">
+<main class="container-fluid home text-center">
   <div class="row">
     <div class="col">
-      <p class="mt-5 mb-0 ego">The abstraction of Tyler Etters:</p>
-      <h1 class="mb-3">Northern Information, LLC</h1>
+      <h1 class="my-3">Northern Information, LLC</h1>
       {% for i in (0..2) %}
       {% assign post = site.posts[i] %}
       <p class="mb-1"><a href="{{ post.url }}">{{ post.title }}, <time>{{ post.date | date: "%b %-d, %Y" }}</time></a></p>

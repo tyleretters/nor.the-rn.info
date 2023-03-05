@@ -16,7 +16,7 @@ But instead of integrating this somber fact, I invented all sorts of silly reaso
 > The `printf` utility can be used portably to emulate any of the traditional behaviors of the `echo` utility as follows (assuming that IFS has its standard value or is unset):
 > 
 > - The historic System V `echo` and the requirements on XSI implementations in this volume of IEEE Std 1003.1-2001 are equivalent to: `printf "%b\n" "$*"`
-> - The BSD `echo` is equivalent to:`if [ "X$1" = "X-n" ] then shift printf "%s" "$*" else printf "%s\n" "$*" fi`
+> - The BSD `echo` is equivalent to: `if [ "X$1" = "X-n" ] then shift printf "%s" "$*" else printf "%s\n" "$*" fi`
 > 
 > New applications are encouraged to use `printf` instead of `echo`.
 > 

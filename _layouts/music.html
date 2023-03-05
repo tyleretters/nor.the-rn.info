@@ -1,33 +1,28 @@
 ---
 layout: abstract
 ---
-<main class="container-fluid">
-  <div class="row bg-white border-bottom border-right">
-    <div class="col px-0">
-      <a href="/discography" class="block-link">Complete Discography</a>
-    </div>
-  </div>
+<main class="container-fluid music">
   {% assign music_by_order = site.data.music | sort: "order" %}
   {% for music in music_by_order %}
     <div class="row">
       <div class="col">
-        <article class="container-fluid px-0">
-          <div class="row border-bottom general-title">
+        <article class="container-fluid px-0 mb-5">
+          <div class="row border-bottom">
             <div class="col border-right">
               <h1 id="{{ music.title | downcase | replace: " / ", "-" |  replace: " &", "" | replace: " ", "-" | replace: ";", "" }}" class="mb-0">{{ music.title }}</h1>
               <p class="mb-2">{{ music.dates }} · <a href="{{ music.url }}">Explore</a></p>
             </div>
           </div>
-          <div class="row border-bottom general-content">
+          <div class="row border-bottom">
             <div class="col border-right">
               {{ music.content | markdownify }}
             </div>
           </div>
-          <div class="row general-content">
+          <div class="row">
             {% assign release_by_order = music.releases | sort: "order" | reverse %}
             {% for release in release_by_order %}
               <div class="col-sm-12 col-md-4 border-bottom">
-                <a href="/assets/images/{{ release.image }}"><img src="/assets/images/{{ release.image }}" class="img-100 mb-2"/></a>
+                <a href="/assets/images/{{ release.image }}"><img src="/assets/images/{{ release.image }}" class="mb-2"/></a>
                 {% if release.url %}
                   <a href="{{ release.url }}">
                     Listen</a>
@@ -43,9 +38,4 @@ layout: abstract
       </div>
     </div>
   {% endfor %}
-  <div class="row bg-white border-bottom border-right">
-    <div class="col px-0">
-      <a href="/discography" class="block-link">Complete Discography</a>
-    </div>
-  </div>
 </main>

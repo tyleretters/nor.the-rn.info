@@ -1,36 +1,47 @@
 ---
 layout: abstract
 ---
-<main class="container-fluid">
+<main class="container-fluid discography">
   <div class="row">
-    <div class="col px-0 border-right border-bottom discography">
-      <table>
-        <thead>
-          <tr>
-            <th>Year</th>
-            <th>Project</th>
-            <th>Release</th>
-            <th>Type</th>
-            <th>Format</th>
-            <th>Role</th>
-            <th>Label</th>
-          </tr>
-        </thead>
-        <tbody>
-        {% assign discography_by_order = site.data.discography | sort: "order" | reverse %}
-        {% for release in discography_by_order %}
-          <tr>
-            <td>{{ release.year }}</td>
-            <td>{{ release.project }}</td>
-            <td>{{ release.release }}</td>
-            <td>{{ release.type }}</td>
-            <td>{{ release.format }}</td>
-            <td>{{ release.role }}</td>
-            <td>{{ release.label }}</td>
-          </tr>
-        {% endfor %}
-        </tbody>
-      </table>
+    <div class="col">
+      <article class="container-fluid px-0">
+        <div class="row border-bottom">
+          <div class="col border-right">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col px-0 border-right border-bottom">
+            <table>
+              <thead>
+                <tr>
+                  <th>Year</th>
+                  <th>Project</th>
+                  <th>Release</th>
+                  <th>Type</th>
+                  <th>Format</th>
+                  <th>Role</th>
+                  <th>Label</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% assign discography_by_order = site.data.discography | sort: "order" | reverse %}
+              {% for release in discography_by_order %}
+                <tr>
+                  <td>{{ release.year }}</td>
+                  <td>{{ release.project }}</td>
+                  <td>{{ release.release }}</td>
+                  <td>{{ release.type }}</td>
+                  <td>{{ release.format }}</td>
+                  <td>{{ release.role }}</td>
+                  <td>{{ release.label }}</td>
+                </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </article>
     </div>
   </div>
 </main>

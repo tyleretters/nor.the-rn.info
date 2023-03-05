@@ -1,67 +1,24 @@
 /**
- * TYPOGRAPHY
- * TYPOGRAPHY
- * TYPOGRAPHY
- * TYPOGRAPHY
- * TYPOGRAPHY
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
  */
 
-$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
-
-$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
-
-.typography-promise
-  font-size: 1rem
-  font-weight: 600
-  line-height: 17px
-
-.typography-broken
-  font-size: 1rem
-  font-weight: 400
-  line-height: 17px
-
-strong
-  font-weight: 800
-
-article p
-  font-weight: 400
-  line-height: 1.5rem
-
-article blockquote
-  border-left: 1px solid grey
-  padding-left: .5rem
-
-article code
-  background: black
-  color: yellow
-  padding: .25rem 1rem
-
-article pre
-  background: black
-  color: yellow
-  padding: 1rem
-  line-height: 1.5rem
-  border-radius: 4px
+.container-fluid
+  max-width: 1200px
 
 .highlighter-rouge
   margin: 0
   padding: .2rem !important
 
-article ul,
-article ol
-  font-weight: 400
-  line-height: 1.5rem
-  border-left: 1px solid grey
-
-article iframe
-  margin-bottom: 1rem
-
 /**
- * BORDERS
- * BORDERS
- * BORDERS
- * BORDERS
- * BORDERS
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
  */
 
 .border-top
@@ -75,438 +32,6 @@ article iframe
 
 .border-left
   border-left: 4px solid black !important
-
-/**
- * CORE
- * CORE
- * CORE
- * CORE
- * CORE
- */
-
-body
-  @extend .border-top
-  @extend .border-left
-  @extend .typography-promise
-  -moz-osx-font-smoothing: grayscale
-  -webkit-font-smoothing: antialiased
-  background: black
-  color: white
-  font-family: $sans-serif
-
-pre, code
-  color: black
-  font-family: $monospace
-
-a,
-a:link,
-a:visited
-  color: blue
-  background: white
-
-a:hover,
-a:active
-  color: white
-  background: blue
-
-::selection
-  color: white
-  background: blue
-
-.container-fluid
-  max-width: 1920px
-
-.img-100
-  width: 100%
-
-.block-link
-  height: 100%
-  width: 100%
-  display: block
-  padding: 4px
-
-/**
- * POST
- * POST
- * POST
- * POST
- * POST
- */
-
-.post
-  color: black
-
-  .subnav
-
-    a,
-    a:link,
-    a:visited
-      color: black
-      text-decoration: none
-
-    a,
-    a:hover,
-    a:hover
-      color: white
-      text-decoration: underline
-
-  .post-title
-    color: white
-
-    a,
-    a:link,
-    a:visited
-      color: yellow
-      background: none
-
-    a:hover,
-    a:active
-      color: black
-      background: yellow
-
-  .post-content
-
-    div
-      padding: 4px
-
-    p
-      strong
-        font-weight: 600
-
-    img
-      width: 100%
-
-    code
-      background: black
-
-    ul li
-      margin-bottom: .5rem
-      font-weight: 400
-
-
-
-  .later-post,
-  .earlier-post
-    color: blue
-    background: white
-    padding: 4px
-    height: 100%
-    width: 100%
-    display: block
-  
-    &:hover
-      color: yellow
-      background: red
-
-/**
- * GENERAL
- * GENERAL
- * GENERAL
- * GENERAL
- * GENERAL
- */
-
-.general-title
-  color: black
-  background: white
-
-  h1
-    margin-bottom: 0
-
-.general-content
-  background: black
-
-  > div
-    @extend .border-right
-    color: black
-    background: white
-    padding-top: calc(var(--bs-gutter-x) * .5)
-    padding-bottom: calc(var(--bs-gutter-x) * .5)
-
-    a,
-    a:link,
-    a:visited
-      color: blue
-      background: transparent
-    
-    a:hover,
-    a:active
-      color: white
-      background: blue
-      
-    img
-      width: 100%
-
-    ul
-      color: black
-      padding: 0 1rem
-
-    .webring:hover
-      background: yellow
-
-  .listen-unavailable
-    margin: 0
-
-.discography
-  overflow: scroll
-  table
-    width: 100%
-    border: 1px solid darken(white, 50%)
-    tr
-      th
-        color: black
-        background: white
-        padding: 4px
-        border-bottom: 1px solid darken(white, 50%)
-      td
-        color: white
-        background: black
-        padding: 4px
-        border-bottom: 1px solid darken(white, 50%)
-
-.final
-  font-weight: 400
-  color: grey
-  background: black
-
-  a,
-  a:link,
-  a:visited
-    color: grey
-    background: none
-  
-  a:hover,
-  a:active
-    color: yellow
-    background: none
-    
-
-/**
- * BLOG
- * BLOG
- * BLOG
- * BLOG
- * BLOG
- */
-
-.blog-hr
-  margin: 0 0 1rem 0
-  height: 2px !important
-  background: white
-  opacity: 1
-
-.blog-link
-  @extend .border-bottom
-
-  a.blog-title
-    color: white      
-    background: black
-    padding: 4px
-    width: 100%
-    display: block
-    text-decoration: none
-    
-    &:hover
-      background: yellow
-      color: red
-      text-decoration: underline
-
-    h1
-      @extend .typography-promise
-      margin: 0
-
-    time
-      font-size: .66rem
-
-/**
- * HEADER
- * HEADER 
- * HEADER
- * HEADER
- * HEADER
- */
-
-header
-  @extend .typography-promise
-  background: white
-
-  .northern-information-llc
-    background: white
-
-    img
-      float: left
-      margin-right: calc(var(--bs-gutter-x) * .5)
-      height: 64px
-      width: 64px
-
-    a
-      height: 100%
-      width: 100%
-      display: block
-      border-bottom: none
-    
-      h1
-        @extend .typography-promise
-        float: left
-        top: 18px
-        left: 72px
-        color: black
-        margin-bottom: 0
-
-  .northern-information-llc:hover
-    background: black
-
-    a
-      text-decoration: underline
-
-      h1
-        color: white
-        text-decoration: underline !important
-
-  a,
-  a:link,
-  a:visited
-    @extend .border-bottom
-    color: black
-    background: white
-    padding: 4px
-    width: 100%
-    display: block
-    text-decoration: none
-    text-overflow: ellipsis
-    overflow: hidden
-
-    &:hover
-      background: blue
-      color: white !important
-      text-decoration: underline
-    
-    &.active
-      @extend .bg-spectrum
-
-      span
-        @extend .shimmer
-
-/**
- * FOOTER
- * FOOTER
- * FOOTER
- * FOOTER
- * FOOTER
- */        
-footer
-  color: black
-  background: white
-
-  p
-    padding: 4px
-
-    a,
-    a:link,
-    a:visited
-      color: blue
-      background: transparent
-
-    a:hover,
-    a:active
-      color: white
-      background: blue
-
-/**
- * INDEX
- * INDEX
- * INDEX
- * INDEX
- * INDEX
- */
-
-.index
-  @extend .border-bottom
-  height: 300px
-  text-align: center
-
-  .ego
-    font-size: .75rem
-
-  a,
-  a:link,
-  a:visited
-    color: white
-    background: none
-
-  a:hover,
-  a:active
-    color: yellow
-
-@media (min-width: 576px)
-  .index
-    height: 800px
-    background: url("/assets/images/000558300025.jpg")
-    background-size: cover
-
-/**
- * 404
- * 404
- * 404
- * 404
- * 404
- */
-
-.four-oh-four
-  height: 200px
-  background: url("/assets/images/crown-via-phill-c-on-yelp.jpg")
-  background-size: cover
-  text-align: center
-
-  a,
-  a:link,
-  a:visited
-    color: white
-    background: none
-
-  a:hover,
-  a:active
-    color: darken(white, 50%)
-
-@media (min-width: 576px)
-  .four-oh-four
-    height: 800px
-
-/**
- * THE SHIMMER
- * THE SHIMMER
- * THE SHIMMER
- * THE SHIMMER
- * THE SHIMMER 
- */
-
-.shimmer
-  color: black
-  background: black -webkit-gradient(linear, 100% 0, 0 0, from(#acacac), color-stop(0.5, #ffffff), to(#acacac))
-  background-position: -4rem top
-  background-repeat: no-repeat
-  -webkit-background-clip: text
-  -webkit-text-fill-color: transparent
-  -webkit-animation-name: shimmerAnimation
-  -webkit-animation-duration: 2.2s
-  -webkit-animation-iteration-count: infinite
-  -webkit-background-size: 4rem 100%
-
-@-webkit-keyframes shimmerAnimation
-  0%
-    background-position: -4rem top
-  70%
-    background-position: 12.5rem top
-  100%
-    background-position: 12.5rem top
-
-/**
- * SPECTRUM
- * SPECTRUM
- * SPECTRUM
- * SPECTRUM
- * SPECTRUM
- */
 
 .bg-spectrum
   background: -webkit-linear-gradient(left,  red, orange, yellow, lime, cyan, blue, indigo, violet, white, black)
@@ -541,8 +66,349 @@ footer
     background-position: 100% 50%
   100%
     background-position: 0% 50%
-
+ 
   
+/**
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ */
+
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+
+$monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
+
+/**
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ */
+
+body
+  @extend .border-top
+  @extend .border-left
+  font-family: $sans-serif
+  font-size: 1rem
+  font-weight: 500
+  line-height: 1.5rem
+  -moz-osx-font-smoothing: grayscale
+  -webkit-font-smoothing: antialiased
+  background: black
+  color: white
+
+a,
+a:link,
+a:visited
+  color: yellow
+  background: transparent
+
+a:hover,
+a:active
+  color: black
+  background: yellow
+
+::selection
+  color: black
+  background: yellow
+
+ul,
+ol
+  border-left: 1px solid gray
+
+ul
+  padding: 0 0 0 1.5rem
+
+ol
+  padding: 0 0 0 2.5rem
+
+blockquote
+  border-left: 1px solid gray
+  padding-left: 1rem
+
+pre,
+code
+  font-family: $monospace
+  background: purple
+  color: yellow
+
+code
+  padding: .25rem 1rem
+
+pre
+  padding: 1rem
+  border-radius: 4px
+
+  code
+    padding: 0
+
+iframe
+  margin-bottom: 1rem
+
+main
+  padding: 1rem 0 5rem 0
+
+  img
+    width: 100%
+
+/**
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ */
+
+header,
+footer
+  font-weight: 600
+  color: black
+  background: white
+
+header
+
+  .northern-information-llc
+    background: white
+
+    img
+      float: left
+      margin-right: calc(var(--bs-gutter-x) * .5)
+      height: 64px
+      width: 64px
+
+    a
+      height: 100%
+      width: 100%
+      display: block
+      border-bottom: none
+    
+      h1
+        font-size: 1rem
+        font-weight: 600
+        float: left
+        top: 18px
+        left: 72px
+        color: black
+        margin-bottom: 0
+
+  .northern-information-llc:hover
+    background: black
+
+    a
+      text-decoration: underline
+
+      h1
+        color: white
+        text-decoration: underline !important
+
+  a,
+  a:link,
+  a:visited
+    @extend .border-bottom
+    color: black
+    background: white
+    padding: 4px
+    width: 100%
+    display: block
+    text-decoration: none
+    text-overflow: ellipsis
+    overflow: hidden
+
+    &:hover
+      background: blue
+      color: white
+      text-decoration: underline
+    
+    &.active
+      color: white
+      background: red
+
+.subnav
+  font-weight: 600
+  background: white
+
+  a,
+  a:link,
+  a:visited
+    color: black
+    text-decoration: none
+
+  a,
+  a:hover,
+  a:hover
+    color: white
+    text-decoration: underline
+
+  .post-title
+    color: white
+
+    a,
+    a:link,
+    a:visited
+      color: yellow
+      background: transparent
+
+    a:hover,
+    a:active
+      color: black
+      background: yellow
+
+footer
+
+  p
+    padding: 4px
+
+    a,
+    a:link,
+    a:visited
+      color: blue
+      background: transparent
+
+    a:hover,
+    a:active
+      color: white
+      background: blue
+
+  .final
+    font-weight: 400
+    color: grey
+    background: black
+
+    a,
+    a:link,
+    a:visited
+      color: grey
+      background: none
+    
+    a:hover,
+    a:active
+      color: yellow
+      background: none
+
+/**
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ */
+
+.home
+  @extend .border-bottom
+
+  a,
+  a:link,
+  a:visited
+    color: white
+    background: none
+
+  a:hover,
+  a:active
+    color: yellow
+
+@media (min-width: 576px)
+  .home
+    height: 800px
+    background: url("/assets/images/000558300025.jpg")
+    background-size: cover
+
+// needed for .subnav on post pages only
+.post
+  padding-top: 0
+  padding-bottom: 0
+
+  .later-post,
+  .earlier-post
+    color: blue
+    background: white
+    padding: 4px
+    height: 100%
+    width: 100%
+    display: block
+  
+    &:hover
+      color: yellow
+      background: red
+
+.discography
+  overflow: scroll
+  table
+    width: 100%
+    border: 1px solid darken(white, 50%)
+    tr
+      th
+        color: black
+        background: white
+        padding: 4px
+        border-bottom: 1px solid darken(white, 50%)
+      td
+        color: white
+        background: black
+        padding: 4px
+        border-bottom: 1px solid darken(white, 50%)
+
+// so the pngs dont bleed through
+.projects a:hover
+    background: transparent
+
+.blog
+
+  hr
+    margin: 0 0 1rem 0
+    height: 2px !important
+    background: white
+    opacity: 1
+
+  a
+    @extend .border-bottom
+    color: white
+    padding: 4px
+    width: 100%
+    display: block
+    text-decoration: none
+    line-height: 1rem
+      
+    &:hover
+      background: yellow
+      color: red
+      text-decoration: underline
+
+    time
+      font-size: .66rem
+
+.links
+
+  .block-link
+    height: 100%
+    width: 100%
+    display: block
+    padding: 4px
+    
+  a.webring:hover
+    background: none
+
+.four-oh-four
+  height: 200px
+  background: url("/assets/images/crown-via-phill-c-on-yelp.jpg")
+  background-size: cover
+
+  a,
+  a:link,
+  a:visited
+    color: white
+    background: none
+
+  a:hover,
+  a:active
+    color: darken(white, 50%)
+
+@media (min-width: 576px)
+  .four-oh-four
+    height: 800px
+
 /**
  * BREAKPOINTS
  * BREAKPOINTS

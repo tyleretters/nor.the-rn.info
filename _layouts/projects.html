@@ -1,19 +1,19 @@
 ---
 layout: abstract
 ---
-<main class="container-fluid">
+<main class="container-fluid projects">
   {% assign project_by_order = site.data.projects | sort: "order" | reverse %}
   {% for project in project_by_order %}
     <div class="row">
       <div class="col">
         <article class="container-fluid px-0">
-          <div class="row border-bottom general-title">
+          <div class="row border-bottom">
             <div class="col border-right">
               <h1 id="{{ project.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.title }}</h1>
               <p class="mb-2">{{ project.dates }}</p>
             </div>
           </div>
-          <div class="row border-bottom general-content">
+          <div class="row border-bottom">
             <div class="col-sm-12 col-md-4 border-right">
               {{ project.content | markdownify }}
             </div>
