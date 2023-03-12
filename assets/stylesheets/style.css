@@ -163,14 +163,17 @@ header .northern-information-llc {
     margin-right: calc(var(--bs-gutter-x) * .5);
     height: 64px;
     width: 64px; }
+    @media (min-width: 576px) {
+      header .northern-information-llc img {
+        height: 96px;
+        width: 96px; } }
   header .northern-information-llc a {
     height: 100%;
     width: 100%;
     display: block;
     border-bottom: none; }
     header .northern-information-llc a h1 {
-      display: none;
-      font-size: 1rem;
+      font-size: 0.8rem;
       font-weight: 600;
       float: left;
       top: 18px;
@@ -179,7 +182,7 @@ header .northern-information-llc {
       margin-bottom: 0; }
       @media (min-width: 576px) {
         header .northern-information-llc a h1 {
-          display: block; } }
+          font-size: 1rem; } }
 header .northern-information-llc:hover {
   background: black; }
   header .northern-information-llc:hover a {

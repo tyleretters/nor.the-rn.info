@@ -205,7 +205,10 @@ header
       float: left
       margin-right: calc(var(--bs-gutter-x) * .5)
       height: 64px
-      width: 64px
+      width: 64px      
+      @include at-sm
+        height: 96px
+        width: 96px
 
     a
       height: 100%
@@ -214,11 +217,10 @@ header
       border-bottom: none
     
       h1
-        display: none
-        @include at-sm
-          display: block
-        font-size: 1rem
+        font-size: .8rem
         font-weight: 600
+        @include at-sm
+          font-size: 1rem
         float: left
         top: 18px
         left: 72px
