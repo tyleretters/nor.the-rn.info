@@ -9,7 +9,7 @@ layout: abstract
       <h2 id="{{ year.name }}" class="my-0 px-0">{{ year.name }}</h2>
       <hr/>
       {% for post in year.items %}
-        <div class="col border-right">
+        <div class="col">
           <a href="{{ post.url }}">{{ post.title }}<br/><time>{{ post.date | date: "%b %-d, %Y" }}</time></a>
         </div>
       {% endfor %}

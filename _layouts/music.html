@@ -7,21 +7,21 @@ layout: abstract
     <div class="row">
       <div class="col">
         <article class="container-fluid px-0 mb-5">
-          <div class="row border-bottom">
-            <div class="col border-right">
+          <div class="row">
+            <div class="col">
               <h1 id="{{ music.title | downcase | replace: " / ", "-" |  replace: " &", "" | replace: " ", "-" | replace: ";", "" }}" class="mb-0">{{ music.title }}</h1>
               <p class="mb-2">{{ music.dates }} · <a href="{{ music.url }}">Explore</a></p>
             </div>
           </div>
-          <div class="row border-bottom">
-            <div class="col border-right">
+          <div class="row">
+            <div class="col-sm-12 col-md-8">
               {{ music.content | markdownify }}
             </div>
           </div>
           <div class="row">
             {% assign release_by_order = music.releases | sort: "order" | reverse %}
             {% for release in release_by_order %}
-              <div class="col-sm-12 col-md-4 border-bottom">
+              <div class="col-sm-12 col-md-4">
                 <a href="/assets/images/{{ release.image }}"><img src="/assets/images/{{ release.image }}" class="mb-2"/></a>
                 {% if release.url %}
                   <a href="{{ release.url }}">

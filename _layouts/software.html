@@ -1,24 +1,24 @@
 ---
 layout: abstract
 ---
-<main class="container-fluid">
+<main class="container-fluid software">
   {% assign software_by_order = site.data.software | sort: "order" | reverse %}
   {% for software in software_by_order %}
     <div class="row">
       <div class="col">
-        <article class="container-fluid px-0">
-          <div class="row border-bottom general-title">
-            <div class="col border-right">
+        <article class="container-fluid px-0 mb-5">
+          <div class="row">
+            <div class="col">
               <h1 id="{{ software.title | downcase | replace: " / ", "-" | replace: " ", "-" }}" class="mb-0">{{ software.title }}</h1>
               <p class="mb-2">{{ software.dates }}</p>
             </div>
           </div>
-          <div class="row border-bottom">
-            <div class="col-sm-12 col-md-4 border-right">
+          <div class="row">
+            <div class="col-sm-12 col-md-4">
               {{ software.content | markdownify }}
             </div>
-            <div class="col-sm-12 col-md-8 border-right">
-              <a href="{{ software.image }}" class="d-block"><img src="{{ software.image }}"/></a>
+            <div class="col-sm-12 col-md-8">
+              <a href="{{ software.image }}" class="a-image mb-2"><img src="{{ software.image }}"/></a>
             </div>
           </div>
         </article>

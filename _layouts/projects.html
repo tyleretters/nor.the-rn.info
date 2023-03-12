@@ -6,19 +6,19 @@ layout: abstract
   {% for project in project_by_order %}
     <div class="row">
       <div class="col">
-        <article class="container-fluid px-0">
-          <div class="row border-bottom">
-            <div class="col border-right">
+        <article class="container-fluid px-0 mb-5">
+          <div class="row">
+            <div class="col">
               <h1 id="{{ project.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ project.title }}</h1>
               <p class="mb-2">{{ project.dates }}</p>
             </div>
           </div>
-          <div class="row border-bottom">
-            <div class="col-sm-12 col-md-4 border-right">
+          <div class="row">
+            <div class="col-sm-12 col-md-4">
               {{ project.content | markdownify }}
             </div>
-            <div class="col-sm-12 col-md-8 border-right">
-              <a href="{{ project.image }}" class="d-block"><img src="{{ project.image }}"/></a>
+            <div class="col-sm-12 col-md-8">
+              <a href="{{ project.image }}" class="a-image"><img src="{{ project.image }}"/></a>
             </div>
           </div>
         </article>

@@ -4,17 +4,11 @@ layout: abstract
 <main class="container-fluid playlists">
   <div class="row">
     <div class="col">
-      <div class="container-fluid px-0">
-        <div class="row border-bottom">
-          <div class="col border-right">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
-          </div>
-        </div>
+      <div class="container-fluid px-0 mb-5">
         <div class="row">
           {% assign playlist_by_order = site.data.playlists %}
           {% for playlist in playlist_by_order %}
-          <article class="col-sm-12 col-md-4 border-right border-bottom">
+          <article class="col-sm-12 col-md-4">
             <h1>{{ playlist.title }}</h2>
             {% if playlist.url %}<p><a href="{{ playlist.url }}" class="btn-listen">Listen</a></p>{% endif %}
             {{ playlist.content | markdownify }}
