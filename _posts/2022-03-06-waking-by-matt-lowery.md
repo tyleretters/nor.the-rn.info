@@ -22,7 +22,7 @@ Matt and I started with a phone call. It was about an hour or so. I wandered aro
 
 I spent plenty of quality time with the music. This sounds obvious but worth noting I listened *before* putting image to medium. Sometimes I will *not* listen to the release and sometimes I will make images *during* the first listen. Matt's approach to the album was measured and thoughtful. I wanted to reciprocate.
 
-I did plenty of sketching and studies. We explored working with AI to create images. I’m still quite fond of this one:
+I did plenty of sketching and studies. We explored working with AI to create images. I'm still quite fond of this one:
 
 ![Matt Lowery AI](/assets/images/matt-lowery-ai.jpg)
 

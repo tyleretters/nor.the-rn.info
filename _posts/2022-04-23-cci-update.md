@@ -11,7 +11,7 @@ CCI is an [open source](https://github.com/northern-information/cci) game for th
 
 We open the update with a canonical short story written by Coral Carrier Incarnadine contributor, [@pleco](https://llllllll.co/u/pleco). Afterwards, I'll share what I've been up to for the last several months.
 
-## Obibe’s Descent
+## Obibe's Descent
 
 ![The Pacific](/assets/images/cci-update-pacific.jpg)
 

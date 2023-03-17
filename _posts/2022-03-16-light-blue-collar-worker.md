@@ -42,5 +42,5 @@ This is yet another example of how the neoliberal incarnation of the "American D
 
 While I disagree with Troll Co's politics (they made a "Make Trolls Great Again" hat) I do agree with this:
 
-> There are a lot of hard-working men and women in the trades right now, but they are not being replaced fast enough with skilled young people. It’s time to change the mindset that being in the trades is less important than a doctor or lawyer. Support and encourage blue collar jobs; don’t steer our young people away from them.
+> There are a lot of hard-working men and women in the trades right now, but they are not being replaced fast enough with skilled young people. It's time to change the mindset that being in the trades is less important than a doctor or lawyer. Support and encourage blue collar jobs; don't steer our young people away from them.
 

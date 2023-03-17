@@ -10,5 +10,5 @@ tags: ['Wildcard']
 >
 > [...]
 >
-> Mogwai guitarist Stuart Braithwaite explained "We decided to proclaim our dislike of one of the weakest bands on the planet by putting out these shirts. We sold out in one day and Super Furry Animals and Pavement have put in an order for more. The thing about the shirt is it's like a dictionary definition. Blur: Are Shite. It's factual and if there’s any legal problems about it I’ll go to court as someone who has studied music so I can prove they are shite."
+> Mogwai guitarist Stuart Braithwaite explained "We decided to proclaim our dislike of one of the weakest bands on the planet by putting out these shirts. We sold out in one day and Super Furry Animals and Pavement have put in an order for more. The thing about the shirt is it's like a dictionary definition. Blur: Are Shite. It's factual and if there's any legal problems about it I'll go to court as someone who has studied music so I can prove they are shite."
 

@@ -13,7 +13,7 @@ Brian Crabtree via the [monome](https://monome.org) newsletter:
 
 [Warp Earth Catalog, Issue 2](https://mailchi.mp/warprecords/warp-earth-catalog-02):
 
-> Warp Earth Catalog is a weekly mixtape of ideas to inspire, inform, enable and energize creativity and positivity in a time of global disruption and uncertainty. Based on the classic countercultural guide the Whole Earth Catalog and its credo of ‘access to tools’, these are tools for strength, awareness and thoughtful entertainment. From wherever in the world we are, let’s support each other, make things and help maintain the ecosystem of independent creativity.
+> Warp Earth Catalog is a weekly mixtape of ideas to inspire, inform, enable and energize creativity and positivity in a time of global disruption and uncertainty. Based on the classic countercultural guide the Whole Earth Catalog and its credo of ‘access to tools', these are tools for strength, awareness and thoughtful entertainment. From wherever in the world we are, let's support each other, make things and help maintain the ecosystem of independent creativity.
 
 [Arrows of Time via Quantam Magazine](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/):
 
@@ -22,7 +22,7 @@ Brian Crabtree via the [monome](https://monome.org) newsletter:
 [Tech Talk: Inside Joshua Eustis / Telefon Tel Aviv's Sound Lab (Electronic Beats TV)
 ](https://www.youtube.com/watch?v=z5Jv7hzUdTs):
 
-> Telefon Tel Aviv has one of the most intense sound palettes in electronic music – atmospheric, emotive, swirling and intricate, all at the same time. It’s striking, then, that surviving member Joshua Eustis, who also records as Sons Of Magdalene and Second Woman, has such a deceptively simple set-up – working from Ableton Live with Max MSP as a further tool. It’s a sound lab built to be mobile. For the latest episode of Tech Talk, Telekom Electronic Beats TV spoke to him about his sonic imagination and the equipment and techniques he uses to realise it.
+> Telefon Tel Aviv has one of the most intense sound palettes in electronic music – atmospheric, emotive, swirling and intricate, all at the same time. It's striking, then, that surviving member Joshua Eustis, who also records as Sons Of Magdalene and Second Woman, has such a deceptively simple set-up – working from Ableton Live with Max MSP as a further tool. It's a sound lab built to be mobile. For the latest episode of Tech Talk, Telekom Electronic Beats TV spoke to him about his sonic imagination and the equipment and techniques he uses to realise it.
 
 [Jessica Conditt writing for Engadget:](https://www.engadget.com/2020-01-27-kentucky-route-zero-act-v-review-tv-edition-interview.html):
 
