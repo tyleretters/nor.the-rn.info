@@ -35,7 +35,7 @@ Eco Futurism Corporation just announced *Life in Warp* by A lake by the mõõn, 
 
 [Erik Davis, writing for Burning Shore:](https://www.burningshore.com/p/freaks-of-color-pt-1)
 
-> Dance historians credit David Mancuso with laying down the template for the all-night urban dance club ritual around 1970. His “Love Saves the Day” (get it?) loft parties in lower Manhattan unleashed the DJ-as-soul doctor and the heavenly disco ball. Mancuso — who spent time at Millbrook with Leary and talked about using immersive sound equipment to achieve the feelings he got listening to birds or flowing water — was Italian, and his loft parties were mixed in terms of color, identity, and sexual preference. Many great DJs of color came up through these fetes, including the extraordinary innovators Larry Levan (Paradise Garage) and Frankie Knuckles (Chicago's Warehouse), who pushed the form far beyond Mancuso, and hard into the future.
+> Dance historians credit David Mancuso with laying down the template for the all-night urban dance club ritual around 1970. His "Love Saves the Day" (get it?) loft parties in lower Manhattan unleashed the DJ-as-soul doctor and the heavenly disco ball. Mancuso — who spent time at Millbrook with Leary and talked about using immersive sound equipment to achieve the feelings he got listening to birds or flowing water — was Italian, and his loft parties were mixed in terms of color, identity, and sexual preference. Many great DJs of color came up through these fetes, including the extraordinary innovators Larry Levan (Paradise Garage) and Frankie Knuckles (Chicago's Warehouse), who pushed the form far beyond Mancuso, and hard into the future.
 
 ## Gemini
 

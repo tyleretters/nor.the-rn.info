@@ -13,11 +13,11 @@ I tire of reading about this year, thinking about this year, considering what th
 
 One thought I cannot shake: things are going to get objectively worse, for a long while, before they get objectively better. [Just today:](https://www.theguardian.com/world/2020/dec/29/who-warns-covid-19-pandemic-is-not-necessarily-the-big-one)
 
-> World Health Organization experts have warned that even though the coronavirus pandemic has been very severe, it is “not necessarily the big one”, and that the world will have to learn to live with Covid-19.
+> World Health Organization experts have warned that even though the coronavirus pandemic has been very severe, it is "not necessarily the big one", and that the world will have to learn to live with Covid-19.
 >
-> The “destiny” of the virus is to become endemic, even as vaccines begin to be rolled out in the US and UK, says Professor David Heymann, the chair of the WHO's strategic and technical advisory group for infectious hazards.
+> The "destiny" of the virus is to become endemic, even as vaccines begin to be rolled out in the US and UK, says Professor David Heymann, the chair of the WHO's strategic and technical advisory group for infectious hazards.
 >
-> “The world has hoped for herd immunity. [...] It appears the destiny of SARS-CoV-2 [Covid-19] is to become endemic, as have four other human coronaviruses, and that it will continue to mutate as it reproduces in human cells, especially in areas of more intense admission. [...]"
+> "The world has hoped for herd immunity. [...] It appears the destiny of SARS-CoV-2 [Covid-19] is to become endemic, as have four other human coronaviruses, and that it will continue to mutate as it reproduces in human cells, especially in areas of more intense admission. [...]"
 
 ---
 

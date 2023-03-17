@@ -11,7 +11,7 @@ tags: ['Wildcard']
 >
 > [...]
 >
-> Mediation is always in part a technical operation. With George “Mr. Jones” Martin on the decks, the Beatles became arguably the first band to transform the multi-track studio into a virtual reality, a space of controlled hallucination equal parts LSD and magnetic tape, exploiting all the loops, dubs, edits, and backwards masking that good old Nazi format affords.
+> Mediation is always in part a technical operation. With George "Mr. Jones" Martin on the decks, the Beatles became arguably the first band to transform the multi-track studio into a virtual reality, a space of controlled hallucination equal parts LSD and magnetic tape, exploiting all the loops, dubs, edits, and backwards masking that good old Nazi format affords.
 
 Until this article, I was unaware of the studio's connection to Nazis. From my limited secondary research this morning, magnetic tape appears to have been used in radio (propaganda) broadcasts. New mediums always have the potential to change the world.
 

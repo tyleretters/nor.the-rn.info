@@ -10,7 +10,7 @@ tags: ['Wildcard']
 > 
 > Recently Neil Young and Joni Mitchell reminded us of one way music and business rituals intertwine. Young feels that his music should not be the loss leader used to pay for messages that are dangerous to his community.
 > 
-> In a “freedom of speech” sense people have a right to say dangerous and untrue things; there are so many people doing this that I can't understand how it could be worth $100,000,000. But it's the company's money, not mine, they are free to build the kind of world they wish to be in too.
+> In a "freedom of speech" sense people have a right to say dangerous and untrue things; there are so many people doing this that I can't understand how it could be worth $100,000,000. But it's the company's money, not mine, they are free to build the kind of world they wish to be in too.
 > 
 > Similarly, I feel that people who place a lower value on promoting dangerous messages are free to disassociate from the cultural distribution rituals which fund and promote dangerous messages.
 > 

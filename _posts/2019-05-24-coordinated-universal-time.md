@@ -61,7 +61,7 @@ Core principals:
 - Related need an avant-garde social media...
 - Structure that promotes novelty
 - Mystery && Wonder
-- “Précis"
+- "Précis"
 
 More mindflares:
 
