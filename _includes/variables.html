@@ -1,5 +1,5 @@
 {%- if page.url == "/" -%}
-  {%- assign page_title = site.data.meta.title | append: " | " | append: site.data.meta.description_short -%}
+  {%- assign page_title = site.data.meta.title -%}
 {%- elsif page.title -%}
   {%- assign page_title = page.title | append: " | " | append: site.data.meta.title -%}
 {%- else -%}

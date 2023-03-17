@@ -120,7 +120,6 @@ body
   line-height: 1.5rem
   -moz-osx-font-smoothing: grayscale
   -webkit-font-smoothing: antialiased
-  // background: green
   background: black
   color: white
 
@@ -203,27 +202,20 @@ header
 
     img
       float: left
-      margin-right: calc(var(--bs-gutter-x) * .5)
-      height: 64px
-      width: 64px      
-      @include at-sm
-        height: 96px
-        width: 96px
+      margin-right: 4px
+      height: 60px
+      width: 60px
 
     a
       height: 100%
-      width: 100%
       display: block
       border-bottom: none
     
       h1
-        font-size: .8rem
+        font-size: 1rem
         font-weight: 600
-        @include at-sm
-          font-size: 1rem
+        line-height: 1rem
         float: left
-        top: 18px
-        left: 72px
         color: black
         margin-bottom: 0
 
@@ -244,7 +236,6 @@ header
     color: black
     background: white
     padding: 4px
-    width: 100%
     display: block
     text-decoration: none
     text-overflow: ellipsis
@@ -292,6 +283,7 @@ header
 footer
 
   p
+    margin-bottom: 0
     padding: 4px
 
     a,
@@ -307,7 +299,7 @@ footer
 
   .final
     font-weight: 400
-    color: grey
+    color: dimgrey
     background: black
 
     a,
@@ -331,6 +323,12 @@ footer
 
 .home
   @extend .border-bottom
+  background-image: url("/assets/images/000558300025.jpg")
+  background-position: top right
+  @include at-md()
+    height: 800px
+    background-size: cover
+    background-position: unset
 
   a,
   a:link,
@@ -341,12 +339,6 @@ footer
   a:hover,
   a:active
     color: yellow
-
-@media (min-width: 576px)
-  .home
-    height: 800px
-    background: url("/assets/images/000558300025.jpg")
-    background-size: cover
 
 // needed for .subnav on post pages only
 .post
@@ -383,6 +375,7 @@ footer
         padding: 4px
         border-bottom: 1px solid darken(white, 50%)
 
+.home,
 .blog
 
   hr
@@ -422,6 +415,8 @@ footer
   height: 200px
   background: url("/assets/images/crown-via-phill-c-on-yelp.jpg")
   background-size: cover
+  @include at-sm()
+    height: 800px
 
   a,
   a:link,
@@ -432,9 +427,3 @@ footer
   a:hover,
   a:active
     color: darken(white, 50%)
-
-@media (min-width: 576px)
-  .four-oh-four
-    height: 800px
-
-
