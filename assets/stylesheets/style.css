@@ -125,6 +125,23 @@ a:active {
   background: transparent;
 }
 
+.a-block-link,
+.a-block-link:visited {
+  font-weight: 600;
+  color: white;
+  padding: 4px;
+  width: 100%;
+  display: block;
+  text-decoration: none;
+  line-height: 1rem;
+}
+.a-block-link:hover,
+.a-block-link:visited:hover {
+  background: yellow;
+  color: red;
+  text-decoration: underline;
+}
+
 ::selection {
   color: black;
   background: yellow;
@@ -167,6 +184,10 @@ pre code {
   padding: 0;
 }
 
+time {
+  font-size: 0.66rem;
+}
+
 iframe {
   margin-bottom: 1rem;
 }
@@ -176,6 +197,13 @@ main {
 }
 main img {
   width: 100%;
+}
+
+hr {
+  margin: 0 0 1rem 0;
+  height: 2px !important;
+  background: white;
+  opacity: 1;
 }
 
 /**
@@ -207,8 +235,8 @@ header .northern-information-llc a {
   border-bottom: none;
 }
 header .northern-information-llc a h1 {
-  font-size: 1rem;
   font-weight: 600;
+  font-size: 1rem;
   line-height: 1rem;
   float: left;
   color: black;
@@ -250,7 +278,6 @@ header a:visited.active {
 }
 
 .subnav {
-  font-weight: 600;
   background: white;
 }
 .subnav a,
@@ -262,22 +289,7 @@ header a:visited.active {
 .subnav a,
 .subnav a:hover,
 .subnav a:active {
-  color: white;
   text-decoration: underline;
-}
-.subnav .post-title {
-  color: white;
-}
-.subnav .post-title a,
-.subnav .post-title a:link,
-.subnav .post-title a:visited {
-  color: yellow;
-  background: transparent;
-}
-.subnav .post-title a:hover,
-.subnav .post-title a:active {
-  color: black;
-  background: yellow;
 }
 
 footer p {
@@ -330,16 +342,6 @@ footer .final a:active {
     background-position: unset;
   }
 }
-.home a,
-.home a:link,
-.home a:visited {
-  color: white;
-  background: none;
-}
-.home a:hover,
-.home a:active {
-  color: yellow;
-}
 
 .post {
   padding-top: 0;
@@ -378,33 +380,6 @@ footer .final a:active {
   background: black;
   padding: 4px;
   border-bottom: 1px solid gray;
-}
-
-.home hr,
-.blog hr {
-  margin: 0 0 1rem 0;
-  height: 2px !important;
-  background: white;
-  opacity: 1;
-}
-.home a,
-.blog a {
-  color: white;
-  padding: 4px;
-  width: 100%;
-  display: block;
-  text-decoration: none;
-  line-height: 1rem;
-}
-.home a:hover,
-.blog a:hover {
-  background: yellow;
-  color: red;
-  text-decoration: underline;
-}
-.home a time,
-.blog a time {
-  font-size: 0.66rem;
 }
 
 .links .block-link {

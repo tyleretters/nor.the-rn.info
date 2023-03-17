@@ -9,11 +9,13 @@
       {% assign title = site.posts.last.title %}
       {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
     {% endif %}
-    <a href="{{ url }}" class="py-2 later-post">
-      <span>&larr; {{ title }}<br/>{{ date }}</span>
+    <a href="{{ url }}" class="a-block-link py-2 later-post">
+      &larr; {{ title }}
+      <br/>
+      <time>{{ date }}</time>
     </a>
   </div>
-  <div class="col px-0 border-right">
+  <div class="col px-0">
     {% if page.previous.url %}
       {% assign url = page.previous.url %}
       {% assign title = page.previous.title %}
@@ -23,8 +25,10 @@
       {% assign title = site.posts.first.title %}
       {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
     {% endif %}
-    <a href="{{ url }}" class="py-2 earlier-post">
-      <span>{{ title }} &rarr;<br/>{{ date }}</span>
+    <a href="{{ url }}" class="a-block-link py-2 earlier-post">
+      {{ title }} &rarr;
+      <br/>
+      <time>{{ date }}</time>
     </a>
   </div>
 </div>
