@@ -1,27 +1,4 @@
 - order: 1
-  title: They Became What They Beheld
-  dates: 2019 - Present
-  url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
-  content: |
-    "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
-
-    – Edmund Snow Carpenter, 1970
-
-  releases:
-
-    - order: 2
-      image: ep2.jpg
-      title: EP2
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep2
-      year: 2021
-
-    - order: 1
-      image: ep1.jpg
-      title: EP1
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
-      year: 2019
-
-- order: 2
   title: STUXNET
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
@@ -29,6 +6,12 @@
     Post-pandemic concept project exploring information security, AI, capitalism, cyber warfare, oil, psy-ops, and techno.
 
   releases:
+
+    - order: 8
+      image: fade-scatter-replicate.jpg
+      title: FADE SCATTER REPLICATE
+      url: https://stuxnet.bandcamp.com/album/fade-scatter-replicate
+      year: 2023
 
     - order: 7
       image: human-interference-task-force.jpg
@@ -72,7 +55,7 @@
       url: false
       year: 2021
 
-- order: 3
+- order: 2
   title: Sidereal Lobby
   dates: 2021 - Present
   url: https://sidereallobby.bandcamp.com
@@ -98,6 +81,29 @@
       title: Beaches
       url: https://sidereallobby.bandcamp.com
       year: 2021
+
+- order: 3
+  title: They Became What They Beheld
+  dates: 2019 - Present
+  url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
+  content: |
+    "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
+
+    – Edmund Snow Carpenter, 1970
+
+  releases:
+
+    - order: 2
+      image: ep2.jpg
+      title: EP2
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep2
+      year: 2021
+
+    - order: 1
+      image: ep1.jpg
+      title: EP1
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
+      year: 2019
 
 - order: 4
   title: Northern Information

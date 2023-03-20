@@ -1,11 +1,20 @@
+- order: 66
+  year: 2023
+  project: STUXNET
+  release: FADE SCATTER REPLICATE
+  type: LP
+  format: Digital
+  role: Operator
+  label: Intertext
+
 - order: 65
   year: 2022
-  project: They Became What They Beheld 
-  release: EP2 
+  project: They Became What They Beheld
+  release: EP2
   type: EP
   format: Digital
   role: Principal Musician
-  label: Intertext 
+  label: Intertext
 
 - order: 64
   project: Sidereal Lobby
@@ -91,34 +100,34 @@
 - order: 55
   year: 2020
   project: Northern Information
-  release: The Arecibo Lamentations 
+  release: The Arecibo Lamentations
   type: EP
   format: Digital
   role: Principal Musician
-  label: Intertext 
+  label: Intertext
 
 - order: 54
   year: 2020
   project: The First Arcologists
-  release: The First Arcologists 
+  release: The First Arcologists
   type: EP
   format: Digital
-  role: Producer & Software 
-  label: Good Glass Records 
+  role: Producer & Software
+  label: Good Glass Records
 
 - order: 53
   year: 2019
-  project: They Became What They Beheld 
-  release: EP1 
+  project: They Became What They Beheld
+  release: EP1
   type: EP
   format: Digital
   role: Principal Musician
-  label: Intertext 
+  label: Intertext
 
 - order: 52
   year: 2018
   project: Synergy Beat
-  release: Synergy Beat Music, Volume 1 
+  release: Synergy Beat Music, Volume 1
   type: EP
   format: Digital
   role: Principal Musician
@@ -128,7 +137,7 @@
   year: 2017
   project: tyler etters & the northern information movement
   release: the arcadian nights trilogy
-  type: Anthology 
+  type: Anthology
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
@@ -154,7 +163,7 @@
 - order: 48
   year: 2017
   project: tyler etters & the northern information movement
-  release: the legacy of our lost cause 
+  release: the legacy of our lost cause
   type: LP
   format: Digital
   role: Principal Musician
@@ -163,8 +172,8 @@
 - order: 47
   year: 2016
   project: tyler etters & the northern information movement
-  release: the phantom time trilogy 
-  type: Anthology 
+  release: the phantom time trilogy
+  type: Anthology
   format: Cassette, Digital
   role: Principal Musician
   label: Endless Field Studios
@@ -190,7 +199,7 @@
 - order: 44
   year: 2015
   project: tyler etters & the northern information movement
-  release: the phantoms of our lost cause 
+  release: the phantoms of our lost cause
   type: LP
   format: Digital
   role: Principal Musician
@@ -253,7 +262,7 @@
 - order: 37
   year: 2013
   project: tyler etters & the northern information movement
-  release: senescence 
+  release: senescence
   type: LP
   format: Digital
   role: Principal Musician
@@ -262,7 +271,7 @@
 - order: 36
   year: 2013
   project: tyler etters & the northern information movement
-  release: blue, the most celestial color 
+  release: blue, the most celestial color
   type: LP
   format: Digital
   role: Principal Musician
@@ -271,7 +280,7 @@
 - order: 35
   year: 2013
   project: Everything Comes in Cycles; Everything Fades in Shades
-  release: It's 2016 A. D. 
+  release: It's 2016 A. D.
   type: LP
   format: Digital
   role: Contributor
@@ -280,7 +289,7 @@
 - order: 34
   year: 2013
   project: Connectedness Locus
-  release: It's 2016 A. D. 
+  release: It's 2016 A. D.
   type: LP
   format: Digital
   role: Contributor
@@ -307,7 +316,7 @@
 - order: 31
   year: 2012
   project: Connectedness Locus
-  release: Prolegomenon 
+  release: Prolegomenon
   type: EP
   format: Digital
   role: Principal Musician
@@ -343,7 +352,7 @@
 - order: 27
   year: 2011
   project: Connectedness Locus
-  release: Terraforms 
+  release: Terraforms
   type: LP
   format: CD, Digital
   role: Principal Musician
@@ -425,7 +434,7 @@
   year: 2009
   project: Everything Comes in Cycles; Everything Fades in Shades
   release: Session 050309
-  type: Single 
+  type: Single
   format: Digital
   role: Band Member
   label: Endless Field Studios
@@ -433,7 +442,7 @@
 - order:  17
   year: 2009
   project: Connectedness Locus
-  release: As Quippolous Codes Quietly Count 
+  release: As Quippolous Codes Quietly Count
   type: LP
   format: CD, Digital
   role: Principal Musician
@@ -451,7 +460,7 @@
 - order:  15
   year: 2008
   project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Gates E.P. 
+  release: Gates E.P.
   type: EP
   format: CD, Digital
   role: Band Member
@@ -461,7 +470,7 @@
   year: 2007
   project: Lucid End
   release: Organica Lensing
-  type: Single 
+  type: Single
   format: CD
   role: Principal Musician
   label: Independent
@@ -479,7 +488,7 @@
   year: 2007
   project: Lucid End
   release: The Killing Tree
-  type: Single 
+  type: Single
   format: CD-R
   role: Principal Musician
   label: Independent
@@ -487,7 +496,7 @@
 - order:  11
   year: 2007
   project: Lucid End
-  release: Time to Breathe; Time to Think 
+  release: Time to Breathe; Time to Think
   type: LP
   format: CD-R
   role: Principal Musician
@@ -506,7 +515,7 @@
   year: 2007
   project: Lucid End
   release: Lie Down in Darkness
-  type: Single 
+  type: Single
   format: CD-R
   role: Principal Musician
   label: Independent
@@ -532,8 +541,8 @@
 - order:  6
   year: 2006
   project: Ix
-  release: Yet These Memories Isolated Us 
-  type: Single 
+  release: Yet These Memories Isolated Us
+  type: Single
   format: CD-R
   role: Band Member
   label: Independent
@@ -580,5 +589,5 @@
   release: A Glass Reality OST
   type: Soundtrack
   format: None
-  role: Co-Writer 
+  role: Co-Writer
   label: Independent
