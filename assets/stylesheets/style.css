@@ -88,6 +88,9 @@ body {
   background: black;
   color: white; }
 
+.small {
+  font-size: 0.66rem; }
+
 a,
 a:visited {
   color: yellow;
@@ -149,9 +152,6 @@ pre {
   border-radius: 4px; }
   pre code {
     padding: 0; }
-
-time {
-  font-size: 0.66rem; }
 
 iframe {
   margin-bottom: 1rem; }
