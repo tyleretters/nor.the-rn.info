@@ -12,7 +12,7 @@ I've had an impossible time articulating these concepts. The mudras are intimate
 
 > The ability to discern the appropriate course of action to be taken in a given situation at the appropriate time.
 
-Increasingly, I have discerned the appropriate course of action for most stimulus is *inaction*. To always have a hot take, an opinion, a stance, a response to every event is to willfully submit to psychic vampirism. Protect your emotions and thoughts. Take care with with you allow into your head.
+Increasingly, I have discerned the appropriate course of action for most stimulus is *inaction*. To always have a hot take, an opinion, a stance, a response to every event is to willfully submit to psychic vampirism. Protect your emotions and thoughts. Take care with what you allow into your head.
 
 When action is called for: measure twice and cut once.
 
