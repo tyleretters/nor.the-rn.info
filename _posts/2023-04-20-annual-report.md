@@ -15,7 +15,7 @@ Time's passage has revealed new realities. The slow-burners decelerated further.
 
 In short, I'm saying "no" much more than usual. The increased focus and slower pace has felt healthy, though uncomfortable.
 
-[Flash Crash](https://flashcrash.net), [Deus Ex Machina Company](https://tyleretters.github.io/deusexmachina.company), and [FoundSound](https://foundsound.net) are just some of the fallen.
+[Flash Crash](https://flashcrash.net), [Deus Ex Machina Company](https://tyleretters.github.io/deusexmachina.company), and [FoundSound](https://foundsound.me) are just some of the fallen.
 
 ## Major Arcana
 
@@ -33,7 +33,7 @@ I share my work on multiple channels. [https://nor.the-rn.info](https://nor.the-
 
 Secondary channels include [stuxnet.me](https://stuxnet.me), [Intertext](https://intertext.bandcamp.com), [GitHub](https://github.com/tyleretters), [Discord](https://discord.gg/FHDdUJugzU), [SoundCloud](https://soundcloud.com/tyleretters), [YouTube](https://www.youtube.com/@tyleretters7237), and [Instagram](https://instagram.com/tyleretters).
 
-Tertiary channels include the [email newsletter](https://us1.campaign-archive.com/home/?u=e82006751a8517b8fd440a182&id=68446b3abb), [Gemini](gemini://tilde.club/~tse/), and [Mastodon](https://merveilles.town/@tyleretters).
+Tertiary channels include the [email newsletter](https://us1.campaign-archive.com/home/?u=e82006751a8517b8fd440a182&id=68446b3abb), [gemini://tilde.club/~tse/](gemini://tilde.club/~tse/), and [Mastodon](https://merveilles.town/@tyleretters).
 
 ## Stuxnet
 
@@ -104,4 +104,5 @@ On a personal level: I'm entering a new season of life and my usual existential 
 Thank you for following me.
 
 Much love,
+
 Tyler
