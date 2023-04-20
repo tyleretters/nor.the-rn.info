@@ -17,6 +17,7 @@ I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 - [Instagram](https://instagram.com/tyleretters)
 - [LinkedIn](https://www.linkedin.com/in/tyleretters)
 - [Mastodon](https://merveilles.town/web/@tyleretters)
+- [Newsletter](https://us1.campaign-archive.com/home/?u=e82006751a8517b8fd440a182&id=68446b3abb)
 - [SoundCloud](https://soundcloud.com/tyleretters)
 - [Twitch](https://twitch.tv/tyleretters)
 - [Twitter](https://twitter.com/tyleretters)

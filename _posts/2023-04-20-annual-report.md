@@ -85,7 +85,7 @@ I played my first show since the pandemic started at [The Love Song](https://www
 
 [Rylee](https://ryleealanza.org/) and I are working on something special for norns.
 
-[Jordan](https://norns.community/en/authors/eigen), [Brian](https://nnnnnnnn.co), [Dan](https://dndrks.bandcamp.com/album/mirrored-heart) and I are working on [https://norns.community](norns.community) version 2.0. [See my writeup on version 1.0 here.](https://nor.the-rn.info/2021/04/09/building-norns-community/)
+[Jordan](https://norns.community/en/authors/eigen), [Brian](https://nnnnnnnn.co), [Dan](https://dndrks.bandcamp.com/album/mirrored-heart) and I are working on [norns.community](https://norns.community) version 2.0. [See my writeup on version 1.0 here.](https://nor.the-rn.info/2021/04/09/building-norns-community/)
 
 I've helped some friends with Discord bots & integrations.
 
