@@ -5,6 +5,8 @@ permalink: /about
 ---
 Northern Information, LLC is the abstraction of artist Tyler Etters.
 
+`tyler@etters.co`
+
 My practice incorporates software, electronic music, writing, new media, design, photography, community organizing, and teaching.
 
 I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
