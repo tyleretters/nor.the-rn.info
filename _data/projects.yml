@@ -1,3 +1,10 @@
+- order: 202305
+  title: norns community
+  dates: 2021 - Present
+  image: /assets/images/norns-community-v2-explore.png
+  content: |
+    [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my redesign process here](/2023/05/27/rebuilding-norns-community).
+
 - order: 202211
   title: Klang Magazine
   dates: 2023
@@ -11,13 +18,6 @@
   image: /assets/images/flash-crash-event.jpg
   content: |
     [FLASH CRASH](https://flashcrash.net) is a recursive livecoding online event I organize. The brand dies and is reborn for each event.
-
-- order: 202104
-  title: norns community
-  dates: 2021 - Present
-  image: /assets/images/norns-community.png
-  content: |
-    [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my design process here](/2021/04/09/building-norns-community).
 
 - order: 202002
   title: Intertext

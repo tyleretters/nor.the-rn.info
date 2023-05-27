@@ -1,27 +1,23 @@
 /**
- * * UTILITIES
- * * UTILITIES
- * * UTILITIES
- * * UTILITIES
- * * UTILITIES
- * */
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
+ * UTILITIES
+ */
 .border-top, body {
-  border-top: 4px solid black !important;
-}
+  border-top: 4px solid black !important; }
 
 .border-right, main {
-  border-right: 4px solid black !important;
-}
+  border-right: 4px solid black !important; }
 
-.border-bottom, .home, header a,
+.border-bottom, header a,
 header a:link,
-header a:visited {
-  border-bottom: 4px solid black !important;
-}
+header a:visited, .home {
+  border-bottom: 4px solid black !important; }
 
 .border-left, body {
-  border-left: 4px solid black !important;
-}
+  border-left: 4px solid black !important; }
 
 .bg-spectrum {
   background: -webkit-linear-gradient(left, red, orange, yellow, lime, cyan, blue, indigo, violet, white, black);
@@ -31,72 +27,57 @@ header a:visited {
   background-size: 600% 600%;
   -webkit-animation: spectrumAnimation 48s linear infinite;
   -moz-animation: spectrumAnimation 48s linear infinite;
-  animation: spectrumAnimation 48s linear infinite;
-}
+  animation: spectrumAnimation 48s linear infinite; }
 
 @-webkit-keyframes spectrumAnimation {
   0% {
-    background-position: 0% 50%;
-  }
+    background-position: 0% 50%; }
   50% {
-    background-position: 100% 50%;
-  }
+    background-position: 100% 50%; }
   100% {
-    background-position: 0% 50%;
-  }
-}
+    background-position: 0% 50%; } }
 @-moz-keyframes spectrumAnimation {
   0% {
-    background-position: 0% 50%;
-  }
+    background-position: 0% 50%; }
   50% {
-    background-position: 100% 50%;
-  }
+    background-position: 100% 50%; }
   100% {
-    background-position: 0% 50%;
-  }
-}
+    background-position: 0% 50%; } }
 @keyframes spectrumAnimation {
   0% {
-    background-position: 0% 50%;
-  }
+    background-position: 0% 50%; }
   50% {
-    background-position: 100% 50%;
-  }
+    background-position: 100% 50%; }
   100% {
-    background-position: 0% 50%;
-  }
-}
+    background-position: 0% 50%; } }
 /**
- * * BOOTSTRAP EXTENSIONS
- * * BOOTSTRAP EXTENSIONS
- * * BOOTSTRAP EXTENSIONS
- * * BOOTSTRAP EXTENSIONS
- * * BOOTSTRAP EXTENSIONS
- * */
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ * BOOTSTRAP EXTENSIONS
+ */
 .container-fluid {
-  max-width: 1200px;
-}
+  max-width: 1200px; }
 
 .highlighter-rouge {
   margin: 0;
-  padding: 0.2rem !important;
-}
+  padding: 0.2rem !important; }
 
 /**
- * * TYPOGRAPHY
- * * TYPOGRAPHY
- * * TYPOGRAPHY
- * * TYPOGRAPHY
- * * TYPOGRAPHY
- * */
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ * TYPOGRAPHY
+ */
 /**
- * * CORE
- * * CORE
- * * CORE
- * * CORE
- * * CORE
- * */
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ * CORE
+ */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 1rem;
@@ -105,29 +86,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   background: black;
-  color: white;
-}
+  color: white; }
 
 .small {
-  font-size: 0.66rem;
-}
+  font-size: 0.66rem; }
 
 a,
 a:visited {
   color: yellow;
-  background: transparent;
-}
+  background: transparent; }
 
 a:hover,
 a:active {
   color: black;
-  background: yellow;
-}
+  background: yellow; }
 
 .a-image:hover {
   color: transparent;
-  background: transparent;
-}
+  background: transparent; }
 
 .a-block-link,
 .a-block-link:visited {
@@ -137,113 +113,94 @@ a:active {
   width: 100%;
   display: block;
   text-decoration: none;
-  line-height: 1rem;
-}
-.a-block-link:hover,
-.a-block-link:visited:hover {
-  background: yellow;
-  color: red;
-  text-decoration: underline;
-}
+  line-height: 1rem; }
+  .a-block-link:hover,
+  .a-block-link:visited:hover {
+    background: yellow;
+    color: red;
+    text-decoration: underline; }
 
 ::selection {
   color: black;
-  background: yellow;
-}
+  background: yellow; }
 
 ul,
 ol {
-  padding: 0 0 0 2rem;
-}
+  padding: 0 0 0 2rem; }
 
 blockquote {
   border-left: 1px solid gray;
-  padding-left: 1rem;
-}
+  padding-left: 1rem; }
 
 pre,
 code {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  background: purple;
+  background: black;
+  border: yellow 1px solid;
   color: yellow;
-}
+  border-radius: 4px; }
 
 code {
-  padding: 0.25rem 1rem;
-}
+  padding: 0.25rem 1rem; }
 
 pre {
-  padding: 1rem;
-  border-radius: 4px;
-}
-pre code {
-  padding: 0;
-}
+  padding: 1rem; }
+  pre code {
+    border: none;
+    padding: 0; }
 
 iframe {
-  margin-bottom: 1rem;
-}
+  margin-bottom: 1rem; }
 
 main {
-  padding: 1rem 0 5rem 0;
-}
-main img {
-  width: 100%;
-}
+  padding: 1rem 0 5rem 0; }
+  main img {
+    width: 100%; }
 
 hr {
   margin: 0 0 1rem 0;
   height: 2px !important;
   background: white;
-  opacity: 1;
-}
+  opacity: 1; }
 
 /**
- * * HEADER & FOOTER
- * * HEADER & FOOTER
- * * HEADER & FOOTER
- * * HEADER & FOOTER
- * * HEADER & FOOTER
- * */
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ * HEADER & FOOTER
+ */
 header,
 footer {
   font-weight: 600;
   color: black;
-  background: white;
-}
+  background: white; }
 
 header .northern-information-llc {
-  background: white;
-}
-header .northern-information-llc img {
-  float: left;
-  margin-right: 4px;
-  height: 60px;
-  width: 60px;
-}
-header .northern-information-llc a {
-  height: 100%;
-  display: block;
-  border-bottom: none;
-}
-header .northern-information-llc a h1 {
-  font-weight: 600;
-  font-size: 1rem;
-  line-height: 1rem;
-  float: left;
-  color: black;
-  margin-bottom: 0;
-}
+  background: white; }
+  header .northern-information-llc img {
+    float: left;
+    margin-right: 4px;
+    height: 60px;
+    width: 60px; }
+  header .northern-information-llc a {
+    height: 100%;
+    display: block;
+    border-bottom: none; }
+    header .northern-information-llc a h1 {
+      font-weight: 600;
+      font-size: 1rem;
+      line-height: 1rem;
+      float: left;
+      color: black;
+      margin-bottom: 0; }
 header .northern-information-llc:hover {
-  background: black;
-}
-header .northern-information-llc:hover a {
-  text-decoration: underline;
-}
-header .northern-information-llc:hover a h1 {
-  color: white;
-  text-decoration: underline !important;
-}
+  background: black; }
+  header .northern-information-llc:hover a {
+    text-decoration: underline; }
+    header .northern-information-llc:hover a h1 {
+      color: white;
+      text-decoration: underline !important; }
 header a,
 header a:link,
 header a:visited {
@@ -253,156 +210,127 @@ header a:visited {
   display: block;
   text-decoration: none;
   text-overflow: ellipsis;
-  overflow: hidden;
-}
-header a:hover,
-header a:link:hover,
-header a:visited:hover {
-  background: blue;
-  color: white;
-  text-decoration: underline;
-}
-header a.active,
-header a:link.active,
-header a:visited.active {
-  color: white;
-  background: red;
-}
+  overflow: hidden; }
+  header a:hover,
+  header a:link:hover,
+  header a:visited:hover {
+    background: blue;
+    color: white;
+    text-decoration: underline; }
+  header a.active,
+  header a:link.active,
+  header a:visited.active {
+    color: white;
+    background: red; }
 
 .subnav {
-  background: white;
-}
-.subnav a,
-.subnav a:link,
-.subnav a:visited {
-  color: black;
-  text-decoration: none;
-}
-.subnav a,
-.subnav a:hover,
-.subnav a:active {
-  text-decoration: underline;
-}
+  background: white; }
+  .subnav a,
+  .subnav a:link,
+  .subnav a:visited {
+    color: black;
+    text-decoration: none; }
+  .subnav a,
+  .subnav a:hover,
+  .subnav a:active {
+    text-decoration: underline; }
 
 footer p {
   margin-bottom: 0;
-  padding: 4px;
-}
-footer p a,
-footer p a:link,
-footer p a:visited {
-  color: blue;
-  background: transparent;
-}
-footer p a:hover,
-footer p a:active {
-  color: white;
-  background: blue;
-}
+  padding: 4px; }
+  footer p a,
+  footer p a:link,
+  footer p a:visited {
+    color: blue;
+    background: transparent; }
+  footer p a:hover,
+  footer p a:active {
+    color: white;
+    background: blue; }
 footer .final {
   font-weight: 400;
   color: dimgrey;
-  background: black;
-}
-footer .final a,
-footer .final a:link,
-footer .final a:visited {
-  color: grey;
-  background: none;
-}
-footer .final a:hover,
-footer .final a:active {
-  color: yellow;
-  background: none;
-}
+  background: black; }
+  footer .final a,
+  footer .final a:link,
+  footer .final a:visited {
+    color: grey;
+    background: none; }
+  footer .final a:hover,
+  footer .final a:active {
+    color: yellow;
+    background: none; }
 
 /**
- * * PAGE SPECIFIC
- * * PAGE SPECIFIC
- * * PAGE SPECIFIC
- * * PAGE SPECIFIC
- * * PAGE SPECIFIC
- * */
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ * PAGE SPECIFIC
+ */
 .home {
   background-image: url("/assets/images/000558300025.jpg");
-  background-position: top right;
-}
-@media (min-width: 768px) {
-  .home {
-    height: 800px;
-    background-size: cover;
-    background-position: unset;
-  }
-}
+  background-position: top right; }
+  @media (min-width: 768px) {
+    .home {
+      height: 800px;
+      background-size: cover;
+      background-position: unset; } }
 
 .post {
   padding-top: 0;
-  padding-bottom: 0;
-}
-.post .later-post,
-.post .earlier-post {
-  color: blue;
-  background: white;
-  padding: 4px;
-  height: 100%;
-  width: 100%;
-  display: block;
-}
-.post .later-post:hover,
-.post .earlier-post:hover {
-  color: yellow;
-  background: red;
-}
+  padding-bottom: 0; }
+  .post .later-post,
+  .post .earlier-post {
+    color: blue;
+    background: white;
+    padding: 4px;
+    height: 100%;
+    width: 100%;
+    display: block; }
+    .post .later-post:hover,
+    .post .earlier-post:hover {
+      color: yellow;
+      background: red; }
 
 .discography {
-  overflow: scroll;
-}
-.discography table {
-  width: 100%;
-  border: 1px solid gray;
-}
-.discography table tr th {
-  color: black;
-  background: white;
-  padding: 4px;
-  border-bottom: 1px solid gray;
-}
-.discography table tr td {
-  color: white;
-  background: black;
-  padding: 4px;
-  border-bottom: 1px solid gray;
-}
+  overflow: scroll; }
+  .discography table {
+    width: 100%;
+    border: 1px solid gray; }
+    .discography table tr th {
+      color: black;
+      background: white;
+      padding: 4px;
+      border-bottom: 1px solid gray; }
+    .discography table tr td {
+      color: white;
+      background: black;
+      padding: 4px;
+      border-bottom: 1px solid gray; }
 
 .links .block-link {
   height: 100%;
   width: 100%;
   display: block;
-  padding: 4px;
-}
+  padding: 4px; }
 .links a.webring:hover {
-  background: none;
-}
+  background: none; }
 
 .four-oh-four {
   height: 200px;
   background: url("/assets/images/crown-via-phill-c-on-yelp.jpg");
-  background-size: cover;
-}
-@media (min-width: 576px) {
-  .four-oh-four {
-    height: 800px;
-  }
-}
-.four-oh-four a,
-.four-oh-four a:link,
-.four-oh-four a:visited {
-  color: white;
-  background: none;
-}
-.four-oh-four a:hover,
-.four-oh-four a:active {
-  color: gray;
-}
+  background-size: cover; }
+  @media (min-width: 576px) {
+    .four-oh-four {
+      height: 800px; } }
+  .four-oh-four a,
+  .four-oh-four a:link,
+  .four-oh-four a:visited {
+    color: white;
+    background: none; }
+  .four-oh-four a:hover,
+  .four-oh-four a:active {
+    color: gray; }
 
 /*# sourceMappingURL=style.css.map */
