@@ -5,9 +5,9 @@
       {% assign title = page.next.title %}
       {% assign date = page.next.date | date: "%b %-d, %Y" %}
     {% else %}
-      {% assign url = site.posts.last.url %}
-      {% assign title = site.posts.last.title %}
-      {% assign date = site.posts.last.date | date: "%b %-d, %Y" %}
+      {% assign url = "/blog" %}
+      {% assign title = "Archives" %}
+      {% assign date = "2009 - Present" %}
     {% endif %}
     <a href="{{ url }}" class="a-block-link py-2 later-post">
       &larr; {{ title }}
@@ -21,9 +21,9 @@
       {% assign title = page.previous.title %}
       {% assign date = page.previous.date | date: "%b %-d, %Y" %}
     {% else %}
-      {% assign url = site.posts.first.url %}
-      {% assign title = site.posts.first.title %}
-      {% assign date = site.posts.first.date | date: "%b %-d, %Y" %}
+      {% assign url = "/blog" %}
+      {% assign title = "Archives" %}
+      {% assign date = "2009 - Present" %}
     {% endif %}
     <a href="{{ url }}" class="a-block-link py-2 earlier-post">
       {{ title }} &rarr;
