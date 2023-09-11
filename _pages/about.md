@@ -14,7 +14,7 @@ I don't spend much time on social media anymore, but here are my accounts:
 - [Bandcamp](https://intertext.bandcamp.com)
 - [Discord](https://discord.gg/9AQRe99KSM)
 - [Gemini](gemini://tilde.club/~tse/)
-- [GitHub](https://github.com/northern-information)
+- [GitHub](https://github.com/tyleretters)
 - [Instagram](https://instagram.com/tyleretters)
 - [LinkedIn](https://www.linkedin.com/in/tyleretters)
 - [Mastodon](https://merveilles.town/web/@tyleretters)
