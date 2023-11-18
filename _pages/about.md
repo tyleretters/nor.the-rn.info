@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about
 ---
-Northern Information is the abstraction of artist Tyler Etters.
+[Northern Information](/2023/11/18/ending-an-llc/) is the abstraction of artist Tyler Etters.
 
 My practice incorporates software, electronic music, writing, new media, design, and photography.
 
