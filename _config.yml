@@ -1,3 +1,11 @@
+title: Northern Information
+author: Tyler Etters
+description: "cd LOST_DIR && ./DISAPPEAR"
+twitter_site: "@tyleretters"
+twitter_creator: "@tyleretters"
+twitter_image_src: /assets/images/eye.jpg
+og_image: /assets/images/eye.jpg
+github: https://github.com/tyleretters/nor.the-rn.info/blob/main
 baseurl: /
 url: https://nor.the-rn.info
 permalink: pretty
