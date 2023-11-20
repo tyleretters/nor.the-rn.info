@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ending an LLC
+title: Ending a Company
 date: 2023-11-18
 tags: ['Wildcard']
 ---
