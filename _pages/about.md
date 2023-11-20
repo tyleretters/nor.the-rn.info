@@ -12,7 +12,7 @@ I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 I don't spend much time on crumbling social media anymore, but here are my accounts:
 
 - [Bandcamp](https://intertext.bandcamp.com)
-- [Discord](https://discord.gg/9AQRe99KSM)
+- [Discord](https://discord.gg/nYycWdsT5n)
 - [Gemini](gemini://tilde.club/~tse/)
 - [GitHub](https://github.com/tyleretters)
 - [Instagram](https://instagram.com/tyleretters)
