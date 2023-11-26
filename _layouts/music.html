@@ -5,11 +5,11 @@ layout: abstract
   {% assign music_by_order = site.data.music | sort: "order" %}
   {% for music in music_by_order %}
     <div class="row">
-      <div class="col">
+      <div class="col px-md-0">
         <article class="container-fluid px-0 mb-5">
           <div class="row">
             <div class="col">
-              <h1 id="{{ music.title | downcase | replace: " / ", "-" |  replace: " &", "" | replace: " ", "-" | replace: ";", "" }}" class="mb-0">{{ music.title }}</h1>
+              <h1 id="{{ music.title | downcase | replace: " / ", "-" |  replace: " &", "" | replace: " ", "-" | replace: ";", "" }}">{{ music.title }}</h1>
               <p class="mb-2">{{ music.dates }} · <a href="{{ music.url }}">Explore</a></p>
             </div>
           </div>

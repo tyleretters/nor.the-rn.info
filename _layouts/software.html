@@ -5,11 +5,11 @@ layout: abstract
   {% assign software_by_order = site.data.software | sort: "order" | reverse %}
   {% for software in software_by_order %}
     <div class="row">
-      <div class="col">
+      <div class="col px-md-0">
         <article class="container-fluid px-0 mb-5">
           <div class="row">
             <div class="col">
-              <h1 id="{{ software.title | downcase | replace: " / ", "-" | replace: " ", "-" }}" class="mb-0">{{ software.title }}</h1>
+              <h1 id="{{ software.title | downcase | replace: " / ", "-" | replace: " ", "-" }}">{{ software.title }}</h1>
               <p class="mb-2">{{ software.dates }}</p>
             </div>
           </div>

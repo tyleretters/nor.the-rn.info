@@ -90,6 +90,10 @@ header a:visited {
  * * TYPOGRAPHY
  * * TYPOGRAPHY
  * */
+h1 {
+  font-size: 3rem;
+}
+
 /**
  * * CORE
  * * CORE
@@ -338,6 +342,14 @@ footer .final a:active {
     height: 800px;
     background-size: cover;
     background-position: unset;
+  }
+}
+.home .a-block-link {
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .home .a-block-link {
+    text-align: left;
   }
 }
 

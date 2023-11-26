@@ -103,6 +103,9 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
 
 $monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 
+h1
+  font-size: 3rem
+
 /**
  * CORE
  * CORE
@@ -334,6 +337,11 @@ footer
     height: 800px
     background-size: cover
     background-position: unset
+  
+  .a-block-link
+    text-align: center
+    @include at-md()
+      text-align: left
 
 // needed for .subnav on post pages only
 .post
