@@ -48,7 +48,7 @@ Making the right music... I think about the discographies of artists like [Celer
 
 Listening to music, asynchronous or otherwise, is a communal act. And the practices between musicians themselves is similarly chartered. But in 2023, our folk traditions must be haruspexed from what digital entrails are left in our wakes, before they succumb to bit-rot.
 
-If the Golden Age of social media was heralded by the likes of MySpace and last.fm, the Silver Age's avatars were SoundCloud, Bandcamp, Discogs, YouTube. It then follows are must be in Dark Age. Subcultures can still spread like ivy or lichen across the glossy cubes of Silicon Valley, despite the oppression of the algorithms. Their glass façades can be warm in the sun, even comfortable, if you can follow the changes.
+If the Golden Age of *music* social media was heralded by the the MySpaces, Discogs, and last.fms, the Silver Age's avatars were the SoundClouds, Bandcamps, Spotifys. It then follows are must be in Dark Age. Subcultures can still spread like ivy or lichen across the glossy cubes of Silicon Valley, despite the oppression of the algorithms. Their glass façades can be warm in the sun, even comfortable, if you can follow the changes.
 
 > "You won't find reasonable men on the tops of tall mountains."
 >
