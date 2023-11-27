@@ -63,7 +63,7 @@ Good questions.
 
 And maybe I will... but certainly not now.
 
-Now, I need some time and space from the project. I have more code, images, reference documentation, architecture diagrams, journal entries, songs, sound effects, notes, plans, maps, and assets than I've ever created for a project. And most of these really serve *the story* of CCI. They serve *the game* of CCI.
+Now, I need some time and space from the project. I have more code, images, reference documentation, architecture diagrams, journal entries, songs, sound effects, notes, plans, maps, and assets than I've ever created for a project. And most of these don't really serve *the story* of CCI. They serve *the game* of CCI.
 
 And if I've learned anything from this endeavor, it's this: *I am not a game developer.*
 
