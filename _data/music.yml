@@ -34,25 +34,25 @@
     - order: 4
       image: times-firewall-demo.jpg
       title: TIME'S FIREWALL (demo)
-      url: false
+      url: https://stuxnet.bandcamp.com/album/times-firewall-demo
       year: 2021
 
     - order: 3
       image: matryoshka-demo.jpg
       title: MATRYOSHKA (demo)
-      url: false
+      url: https://stuxnet.bandcamp.com/album/matryoshka-demo
       year: 2021
 
     - order: 2
       image: cipher-suite-demo.jpg
       title: CIPHER SUITE (demo)
-      url: false
+      url: https://stuxnet.bandcamp.com/album/cipher-suite-demo
       year: 2021
 
     - order: 1
       image: carrier-demo.jpg
       title: CARRIER (demo)
-      url: false
+      url: https://stuxnet.bandcamp.com/album/carrier-demo
       year: 2021
 
 - order: 2
