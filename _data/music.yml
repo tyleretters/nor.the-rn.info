@@ -7,6 +7,12 @@
 
   releases:
 
+    - order: 9
+      image: in-darkness-radiant.jpg
+      title: IN DARKNESS RADIANT
+      url: https://stuxnet.bandcamp.com/album/in-darkness-radiant
+      year: 2023
+
     - order: 8
       image: fade-scatter-replicate.jpg
       title: FADE SCATTER REPLICATE
