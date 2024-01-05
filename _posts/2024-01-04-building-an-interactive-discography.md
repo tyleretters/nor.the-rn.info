@@ -20,15 +20,13 @@ I built it with these values in mind:
 - Pragmatism
 - Aesthetic Minimalism
 
-I look forward to enhancing the application and backfilling more music from my catalog in the days to come.
-
-This project was heavily inspired by [my experience building norns.community](/2023/05/27/rebuilding-norns-community/).
+This project was heavily inspired by<!--x--> [my experience building norns.community](/2023/05/27/rebuilding-norns-community/).
 
 The source code for the [React frontend is here](https://github.com/tyleretters/discography-frontend) and the [@tyleretters/discography NPM package is here](https://github.com/tyleretters/discography).
 
 The final result can be explored at: [discography.tyleretters.com](https://discography.tyleretters.com)
 
-<!--x-->
+
 
 ## Step 1: Start with the Data
 
@@ -55,7 +53,7 @@ npm install @tyleretters/discography
 
 ... and I'll have everything I need! (I also love the idea of having this package available whenever I need an arbitrary data source to test something out.)
 
-The package is publicly available here: [https://www.npmjs.com/package/@tyleretters/discography](https://www.npmjs.com/package/@tyleretters/discography)
+The package is [publicly available on npm](https://www.npmjs.com/package/@tyleretters/discography).
 
 ## Step 3: React and a Basic Layout
 
@@ -130,5 +128,7 @@ As of today, I only have MP3's from my latest release [IN DARKNESS RADIANT](http
 - Zipped downloads in addition to individual tracks.
 - An audio player.
 - Routing/deep links.
+
+I look forward to enhancing the application and backfilling more music from my catalog in the days to come.
 
 Until then, [check it out!](https://discography.tyleretters.com)

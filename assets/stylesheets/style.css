@@ -371,6 +371,9 @@ footer .final a:active {
   color: yellow;
   background: red;
 }
+.post .post-content {
+  overflow: scroll;
+}
 .post .post-content a > img {
   box-sizing: border-box;
   border: 2px solid transparent;
