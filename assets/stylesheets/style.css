@@ -371,6 +371,15 @@ footer .final a:active {
   color: yellow;
   background: red;
 }
+.post .post-content a > img {
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  background: transparent;
+}
+.post .post-content a:hover > img {
+  background: yellow;
+  border: 2px solid yellow;
+}
 
 .discography {
   overflow: scroll;
