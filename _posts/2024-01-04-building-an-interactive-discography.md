@@ -8,7 +8,7 @@ tags: ['Wildcard']
 
 Over winter break, I decided to get certified in [React](https://react.dev/), setup an S3 bucket, and build an interactive discography for myself.
 
-With the turbulence of layoffs and at Bandcamp, I no longer trust the platform to be the canonical source of information about my music.
+With the turbulence and layoffs at Bandcamp, I no longer trust the platform to be the canonical source of information about my music.
 
 I built it with these values in mind:
 
