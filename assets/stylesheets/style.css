@@ -372,7 +372,7 @@ footer .final a:active {
   background: red;
 }
 .post .post-content {
-  overflow: scroll;
+  overflow: auto;
 }
 .post .post-content a > img {
   box-sizing: border-box;
@@ -385,7 +385,7 @@ footer .final a:active {
 }
 
 .discography {
-  overflow: scroll;
+  overflow: auto;
 }
 .discography table {
   width: 100%;
