@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /about
+page_excerpt_overload: Northern Information is the abstraction of artist Tyler Etters.
 ---
 [Northern Information](/2023/11/18/ending-a-company/) is the abstraction of artist Tyler Etters.
 
@@ -9,7 +10,7 @@ My practice incorporates software, electronic music, writing, new media, design,
 
 I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 
-I don't spend much time on crumbling social media anymore, but here are my accounts:
+I don't spend much time on social media anymore, but here are my accounts:
 
 - [Bandcamp](https://intertext.bandcamp.com)
 - [Discord](https://discord.gg/nYycWdsT5n)

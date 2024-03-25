@@ -2,6 +2,7 @@
 layout: page
 title: Philosophy
 permalink: /philosophy
+page_excerpt_overload: Abandon all hope, ye who enter here.
 ---
 
 ## Mystic Atheism
@@ -14,7 +15,7 @@ There is no god. There is no life after death. There is no reincarnation. I don'
 
 The fundamental interactions of the [Standard Model](https://en.wikipedia.org/wiki/Fundamental_interaction) can explain all observable phenomena. Forces beyond these, while theoretically possible, will likely have zero impact on my life. I choose not to worry about it.
 
-However, my direct experiences with the mystical — both with and without the aid of psychedelics — are un-dismissable. Whether hallucinations, delusions, apophenia, limit experiences, or something entirely *else*... these experiences cast a purely naturalist interpretation of reality into reasonable doubt.
+However, my direct experiences with the mystical — both with and without the aid of psychedelics — are un-dismissible. Whether hallucinations, delusions, apophenia, limit experiences, or something entirely *else*... these experiences cast a purely naturalist interpretation of reality into reasonable doubt.
 
 ## Art
 

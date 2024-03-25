@@ -1,12 +1,13 @@
-{%- if page.url == "/" -%}
-  {%- assign page_title = site.title -%}
-{%- elsif page.title -%}
+{%- if page.title -%}
   {%- assign page_title = page.title | append: " | " | append: site.title -%}
 {%- else -%}
   {%- assign page_title = site.title -%}
 {%- endif -%}
-{%- if page.excerpt -%}
-  {%- assign page_excerpt = page.excerpt | strip_html -%}
+
+{%- if page.page_excerpt_overload -%}
+  {%- assign page_excerpt = page.page_excerpt_overload -%}
+{%- elsif page.content -%}
+  {%- assign page_excerpt = page.content | markdownify | strip_html | strip_newlines | truncatewords: 20 -%}
 {%- else -%}
   {%- assign page_excerpt = site.description -%}
 {%- endif -%}
