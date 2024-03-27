@@ -97,11 +97,11 @@ All of this gets me thinking about hauntology. The idea that the future we were 
 
 Hauntology typically operates on a macro "where are our solarpunk airships?" level but for me it also operates on a very intimate level.
 
-Before the pandemic, I had a pretty clear vision of what my future was going to be Post-pandemic everything else is upended and inverted. It's taken massive effort for me to tease out which echoes of the pandemic are communal, which are personal karma, which are sheer violence of natural selection, which are chaos, which are coincidence.
+Before the pandemic, I had a pretty clear vision of what my future was going to be. Post-pandemic everything else is upended and inverted. It's taken massive effort for me to tease out which echoes of the pandemic are communal, which are personal karma, which are sheer violence of natural selection, which are chaos, which are coincidence.
 
 I know what I'm feeling is different than looking back at my youth through rose-colored glasses and submitting to nostalgia - though I do my fair share of that, too. No, this feeling is the result of reconciling a delta that could only be caused by cosmically fucked rounding errors. This blog post is an important piece of that work, as are all the COVID posts I've made.
 
-The future I now call the present is haunted by *the very vision of what I thought it would* be, because this is so emphatically *not* that future. And my past is haunted by the memories I experience in this broken future. The work now is re-orienting myself in time and space, imagining new futures, and finding the next mountain... once - if - this *New Confusion* fades.
+The future I now call the present is haunted by *the very vision of what I thought it would be*, because this is so emphatically *not* that future. And my past is haunted by the memories I experience in this broken future. The work now is re-orienting myself in time and space, imagining new futures, and finding the next mountain... once - if - this *New Confusion* fades.
 
 ---
 
