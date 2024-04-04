@@ -17,6 +17,6 @@ Then, gosh, only a few years later they're all predicated on hedges like "Do you
 
 In the final stages of forgetting you have the sinking realization whilst drunk at 2 A.M. that maybe you're the only one who can still make out the general contour of events. The final one who bore witness. And then: poof. Sleep overtakes. Gone. You never think about it again. And shall never remember that you even forgot.
 
-Monkey hands tap these monkey words into a dying iPhone, its failing battery levels a memento mori to our gasoline generator. Something was wrong with the first one.  So we did the only logical thing: we switched to the bigger one! A couple of phones, a tablet, a watch, a few battery packs... 'Been running all night and our devices are barely half-charged.
+Monkey hands tap these monkey words into a dying iPhone, its failing battery levels a memento mori to our gasoline generator. Something was wrong with the first one.  So we did the only logical thing: we switched to the bigger one. A couple of phones, a tablet, a watch, a few battery packs... 'Been running all night and our devices are barely half-charged.
 
 Somewhere, owls still gather in schools and sing in 7/4 to an embryonic moon.
