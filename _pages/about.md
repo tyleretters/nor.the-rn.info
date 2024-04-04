@@ -8,6 +8,8 @@ page_excerpt_overload: Northern Information is the abstraction of artist Tyler E
 
 My practice incorporates software, electronic music, writing, new media, design, and photography.
 
+I work at [Output, Inc.](https://output.com) as a Senior Web Engineer.
+
 I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 
 I don't spend much time on social media anymore, but here are my accounts:
