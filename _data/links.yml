@@ -208,14 +208,11 @@
 - url: https://monome.org
   title: monome
 
-- url: https://newdesigncongress.org
-  title: New Design Congress
-
-- url: https://nowheregallery.co
-  title: Nowhere Gallery
-
 - url: https://www.flickr.com/photos/nadiamoss
   title: Nadia Moss
+
+- url: https://newdesigncongress.org
+  title: New Design Congress
 
 - url: https://newmodels.io
   title: New Models
@@ -228,6 +225,9 @@
 
 - url: https://www.theparisreview.org/blog/author/nmacluaghlin
   title: Nina MacLaughlin
+
+- url: https://nowheregallery.co
+  title: Nowhere Gallery
 
 - url: https://paulpear.bandcamp.com
   title: Paul Pear
