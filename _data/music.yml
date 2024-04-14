@@ -99,6 +99,12 @@
 
   releases:
 
+    - order: 3
+      image: ep3.jpg
+      title: EP3
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep3
+      year: 2024
+
     - order: 2
       image: ep2.jpg
       title: EP2
