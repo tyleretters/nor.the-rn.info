@@ -20,4 +20,4 @@ These sorts of things are important to me.
 
 Respect for the medium.
 
-Shout out to DJJJS for wishing for [Celer length](//celer.jp) tracks from me.
+Shout out to DJJJS for wishing for [Celer length](http://celer.jp) tracks from me.
