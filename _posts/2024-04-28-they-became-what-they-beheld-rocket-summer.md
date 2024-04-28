@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They Became What They Beheld, Rocket Summer
-date: 2024-04-22
+date: 2024-04-28
 tags: ['Releases']
 ---
 ![Rocket Summer](/assets/images/rocket-summer.jpg)
