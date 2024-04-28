@@ -1,4 +1,45 @@
 - order: 1
+  title: They Became What They Beheld
+  dates: 2019 - Present
+  url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
+  content: |
+    "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
+
+    – Edmund Snow Carpenter, 1970
+
+  releases:
+
+    - order: 5
+      image: rocket-summer.jpg
+      title: Rocket Summer
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/rocket-summer
+      year: 2024
+
+    - order: 4
+      image: respect-for-the-medium.jpg
+      title: Respect for the Medium
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/respect-for-the-medium
+      year: 2024
+
+    - order: 3
+      image: ep3.jpg
+      title: EP3
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep3
+      year: 2024
+
+    - order: 2
+      image: ep2.jpg
+      title: EP2
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep2
+      year: 2021
+
+    - order: 1
+      image: ep1.jpg
+      title: EP1
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
+      year: 2019
+
+- order: 2
   title: STUXNET
   dates: 2021 - Present
   url: https://stuxnet.bandcamp.com
@@ -61,69 +102,7 @@
       url: https://stuxnet.bandcamp.com/album/carrier-demo
       year: 2021
 
-- order: 2
-  title: Sidereal Lobby
-  dates: 2021 - Present
-  url: https://sidereallobby.bandcamp.com
-  content: |
-    APE SHALL NOT KILL APE.
-
-  releases:
-
-    - order: 3
-      image: fciv.jpg
-      title: FCIV
-      url: https://sidereallobby.bandcamp.com
-      year: 2021
-
-    - order: 2
-      image: deep-state-music.jpg
-      title: Deep State Music
-      url: https://sidereallobby.bandcamp.com
-      year: 2021
-
-    - order: 1
-      image: beaches.jpg
-      title: Beaches
-      url: https://sidereallobby.bandcamp.com
-      year: 2021
-
 - order: 3
-  title: They Became What They Beheld
-  dates: 2019 - Present
-  url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
-  content: |
-    "The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message."
-
-    – Edmund Snow Carpenter, 1970
-
-  releases:
-
-    - order: 4
-      image: respect-for-the-medium.jpg
-      title: Respect for the Medium
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/respect-for-the-medium
-      year: 2024
-
-    - order: 3
-      image: ep3.jpg
-      title: EP3
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep3
-      year: 2024
-
-    - order: 2
-      image: ep2.jpg
-      title: EP2
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep2
-      year: 2021
-
-    - order: 1
-      image: ep1.jpg
-      title: EP1
-      url: https://theybecamewhattheybeheld.bandcamp.com/album/ep1
-      year: 2019
-
-- order: 4
   title: Northern Information
   dates: 2020
   url: https://northerninformation.bandcamp.com
@@ -153,6 +132,32 @@
       url: https://northerninformation.bandcamp.com/album/the-arecibo-lamentations
       year: 2020
 
+- order: 4
+  title: Sidereal Lobby
+  dates: 2021 - Present
+  url: https://sidereallobby.bandcamp.com
+  content: |
+    APE SHALL NOT KILL APE.
+
+  releases:
+
+    - order: 3
+      image: fciv.jpg
+      title: FCIV
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
+
+    - order: 2
+      image: deep-state-music.jpg
+      title: Deep State Music
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
+
+    - order: 1
+      image: beaches.jpg
+      title: Beaches
+      url: https://sidereallobby.bandcamp.com
+      year: 2021
 
 - order: 5
   title: The First Arcologists
