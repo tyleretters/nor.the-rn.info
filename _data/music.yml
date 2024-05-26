@@ -9,6 +9,12 @@
 
   releases:
 
+    - order: 6
+      image: radio-free-albemuth.jpg
+      title: Radio Free Albemuth
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/radio-free-albemuth
+      year: 2024
+
     - order: 5
       image: rocket-summer.jpg
       title: Rocket Summer
