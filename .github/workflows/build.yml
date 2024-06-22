@@ -37,7 +37,7 @@ jobs:
       - name: Get the current build time
         id: get_time
         run: |
-          date -u +"%Y-%m-%dT%H:%M:%SZ
+          date -u +"%Y-%m-%dT%H:%M:%SZ"
           echo "time: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > _data/time.yml
 
       - name: Setup Ruby
