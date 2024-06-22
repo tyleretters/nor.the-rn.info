@@ -9,6 +9,12 @@
 
   releases:
 
+    - order: 7
+      image: distance.jpg
+      title: Distance
+      url: https://theybecamewhattheybeheld.bandcamp.com/album/distance
+      year: 2024
+
     - order: 6
       image: radio-free-albemuth.jpg
       title: Radio Free Albemuth

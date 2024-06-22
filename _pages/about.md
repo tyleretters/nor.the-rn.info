@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /about
-page_excerpt_overload: Northern Information is the abstraction of artist Tyler Etters.
+page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Angeles.
 ---
-[Northern Information](/2023/11/18/ending-a-company/) is the abstraction of artist Tyler Etters.
+Tyler Etters is a midwestern musician holed-up in the mountains by Los Angeles, and [Northern Information](/2023/11/18/ending-a-company/) is my digital abstraction.
 
-My practice incorporates software, electronic music, writing, new media, design, and photography.
+Music is how I choose to contribute to the world. [Listen](https://discography.tyleretters.com) or [watch](https://www.youtube.com/watch?v=rT82FIPARv0&list=PLe1BFUbUceS0P4tJzlW0qEFnOpx4kOr1I). My primary project is [They Became What They Beheld](https://tbwtb.com), but I have plenty of others like [Stuxnet](https://stuxnet.me) & [Northern Information](https://northerninformation.bandcamp.com).
 
 I work at [Output, Inc.](https://output.com) as a Senior Web Engineer.
 
@@ -27,6 +27,6 @@ I don't spend much time on social media anymore, but here are my accounts:
 - [X](https://x.com/tyleretters)
 - [YouTube](https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg)
 
-Your best bet to get in contact is via email:
+Contact me via email. I will respond.
 
-`tyler@etters.co`
+- `tyler@etters.co`
