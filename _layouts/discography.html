@@ -22,7 +22,7 @@ layout: abstract
             <table>
               <thead>
                 <tr>
-                  <th>Year</th>
+                  <th>Date</th>
                   <th>Project</th>
                   <th>Release</th>
                   <th>Type</th>
@@ -32,12 +32,14 @@ layout: abstract
                 </tr>
               </thead>
               <tbody>
-              {% assign discography_by_order = site.data.discography | sort: "order" | reverse %}
+              {% assign discography_by_order = site.data.discography | sort: "released" | reverse %}
               {% for release in discography_by_order %}
+                {% assign date_string = release.released %}
+                {% assign year = date_string | slice: 1, 4 %}
                 <tr>
-                  <td>{{ release.year }}</td>
+                  <td>{{ year }}</td>
                   <td>{{ release.project }}</td>
-                  <td>{{ release.release }}</td>
+                  <td>{{ release.title }}</td>
                   <td>{{ release.type }}</td>
                   <td>{{ release.format }}</td>
                   <td>{{ release.role }}</td>

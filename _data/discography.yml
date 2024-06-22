@@ -1,647 +1,1805 @@
-- order: 72
-  year: 2024
+- title: Distance
   project: They Became What They Beheld
-  release: Distance
-  type: Single
-  format: Digital
-  role: Principal Musician
-  label: Intertext
-
-- order: 71
-  year: 2024
-  project: They Became What They Beheld
-  release: Radio Free Albemuth
+  released: 02024-06-16
   type: Album
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Distance
+    length: 00:19:28
+  notes: |
+    To honor the memory of someone you loved and lost is by becoming great and doing well and good in their honor/memory - live as you would know them to be proud of.
+    — MTM, 2024
+  credits: |
+    Thanks to dad, Timm, Biff, Papa, Pat, Bud, Don, Harold, both Gregs, Ed, Pat, John, Jack, Joe, Eric, Russ, Mike, Michael, Phil, Gary, Paul, Brian, Larry, Glenn, Wayne and every other man who took me in as one of his own seed, generally looked out for me, or made certain to be cleaning his guns the night his daughter brought me home.
+    Photograph of Rawson Bridge Rd., Oakwood Hills, 2010.
+    Engineered by Tyler Etters, 2024.
 
-- order: 70
-  year: 2024
+- title: Radio Free Albemuth
   project: They Became What They Beheld
-  release: Rocket Summer
+  released: 02024-05-26
+  type: Album
+  format: Digital
+  role: Principal Musician
+  label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Radio Free Albemuth
+    length: 00:01:34
+  - number: 1
+    title: Exegesis
+    length: 00:12:15
+  - number: 1
+    title: Ichthys
+    length: 00:02:31
+  - number: 4
+    title: Vast Active Living Intelligence System
+    length: 00:31:18
+  notes: |
+    On February 20, 1974, while recovering from the effects of sodium pentothal administered for the extraction of an impacted wisdom tooth, [Philip K.] Dick received a home delivery of Darvon from a young woman. When he opened the door, he was struck by the dark-haired girl's beauty, and was especially drawn to her golden necklace. He asked her about its curious fish-shaped design. As she was leaving, she replied: "This is a sign used by the early Christians." Dick called the symbol the "vesicle pisces". This name seems to have been based on his conflation of two related symbols, the Christian ichthys symbol (two intersecting arcs delineating a fish in profile), which the woman was wearing, and the vesica piscis.
+    Dick recounted that as the sun glinted off the gold pendant, the reflection caused the generation of a "pink beam" of light that mesmerized him. He came to believe the beam imparted wisdom and clairvoyance, and also believed it to be intelligent. On one occasion, he was startled by a separate recurrence of the pink beam, which imparted the information that his infant son was ill. The Dicks rushed the child to the hospital, where the illness was confirmed by professional diagnosis.
+    — Wikipedia, 2024
+    The seven movements of this symphonic suite need to be heard in their entirety; it is a mistake to isolate movements from the whole, for the work owes much to the strongly contrasted moods suggested by the character of each planet.
+    — The Decca Record Company, Ltd., 1962 
+  credits: |
+    Thanks to ... a ... tape deck ... original ... everything stalled out ... changed ... that was closer to ... my dad ... I was a kid ... this strange ... audience ... Memorial ... landfill ... library ...
+    Audio sourced from Holst's The Planets performed by Herbert Von Karajan, Vienna Philharmonic, 1962.
+    Video sourced from The Eames Office's Powers of Ten, 1968 — 1977.
+    Track titles sourced from Philip K. Dick's VALIS and surrounding mythos, circa 1976 — 1985.
+    Photograph from the Skylark bar in Pilsen, 2017.
+    Engineered by Tyler Etters, 2024.
+
+- title: Rocket Summer
+  project: They Became What They Beheld
+  released: 02024-04-28
   type: Single
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Rocket Summer
+    length: 00:30:42
+  notes: |
+    One minute it was Ohio winter, with doors closed, windows locked, the panes blind with frost, icicles fringing every roof, children skiing on slopes, housewives lumbering like great black bears in their furs along the icy streets.
+    And then a long wave of warmth crossed the small town. A flooding sea of hot air; it seemed as if someone had left a bakery door open. The heat pulsed among the cottages and bushes and children. The icicles dropped, shattering, to melt. The doors flew open. The windows flew up. The children worked off their wool clothes. The housewives shed their bear disguises. The snow dissolved and showed last summer's ancient green lawns.
+    *Rocket summer.* The words passed among the people in the open, airing houses. *Rocket summer.* The warm desert air changing the frost patterns on the windows, erasing the art work. The skis and sleds suddenly useless. The snow, falling from the cold sky upon the town, turned to a hot rain before it touched the ground.
+    *Rocket summer.* People leaned from their dripping porches and watched the reddening sky.
+    The rocket lay on the launching field, blowing out pink clouds of fire and oven heat. The rocket stood in the cold winter morning, making summer with every breath of its mighty exhausts. The rocket made climates, and summer lay for a brief moment upon the land ...
+    — Ray Bradbury, 1950
+  credits: |
+    Thanks to ... a ... tape deck ... original airplane hanger ... everything stalled out for so long ... changed ... else did, that was closer to now ... my dad ... when I was a kid ... Sage ... close ... Emily for finding this strange book ... her audience ... Memorial Library for ... to Hippo ... from a landfill ... library ...
+    Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.
+    Photograph & video loops of an actual space rocket launch over my apartment, 2024.
+    Engineered by Tyler Etters, 2020 — 2024.
 
-- order: 69
-  year: 2024
+- title: Respect for the Medium
   project: They Became What They Beheld
-  release: Respect for the Medium
+  released: 02024-04-22
   type: Single
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Respect for the Medium
+    length: 00:22:49
+  notes: |
+    The fundamental audio loop is more Gabrieli.
+    The DV tape loop is from Fireflies & Fields, a deeply personal series shot straight out of camera. Summer, 2009. Just after sunset. "Night Mode" enabled camera on a tripod facing south-south-east. Fairfield Road a bit to my back and right. A solid two-minute hike across the prairie to touch the first oaks in the shot. Macro lens on. Optical zoom maxed. Digital zoom zero. The key: auto-focus enabled to force the beacons into a duel until dawn. The loop you see employs neither dissolve nor crossfade. It is the same hard cut over and over until the song ends. After originally releasing a zoomed and cropped version at 1920x1080, I have decided to delete and repost at 720x480. Once you see the Taraxacum mote ascending you will never unsee it.
+    The artwork is also from Fireflies & Fields, also straight out of camera.
+    These sorts of things are important to me.
+    Respect for the medium.
+  credits: |
+    Thanks to ... who sold me a ... tape deck so I could not continue this ... original tape deck ... airplane hanger ... the pandemic and everything stalled out for so long ... of the incident ... then ... project changed ... else did, that was closer to ... different now. Thanks to my dad for showing... when I was a kid. Thanks to Sage for ... two close friends who talked ... Thanks to Emily for finding this strange book ... her audience of one. Thanks to the Adriance Memorial Library for ... to Hippo Books who succeeded in diverting it from a landfill ... library sustainability and ... global problem ...
+    About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.
+    Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.
+    Photographs from my trip to Petalying Jaya, Malaysia, 2017.
+    Photographs & video loops from my personal series Fireflies & Fields, 2009.
+    Engineered by Tyler Etters, 2009 — 2024.
 
-- order: 68
-  year: 2024
+- title: EP3
   project: They Became What They Beheld
-  release: EP3
+  released: 02024-04-14
   type: EP
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: This changes things
+    length: 00:11:07
+  - number: 2
+    title: Nothing is real anymore
+    length: 00:11:07
+  notes: |
+    But this is already the point of view required—given a change of perspective—for examining the primitive socius, the territorial machine for declining alliances and filiations. This machine is segmentary because, through its double apparatus of tribe and lineage, it cuts up segments of varying lengths: genealogical filiative units of major, minor, and minimal lineages, with their hierarchy, their respective chiefs, their elders who guard the stocks and organize marriages; territorial tribal units of primary, secondary, and tertiary sections, also having their dominant roles and their alliances. "The point of separation between the tribal sections becomes the point of divergence in the clan structure of the lineages associated with each section. For, as we have seen, clans and their lineages are not distinct corporate groups, but are embodied in local communities, through which they function structurally."10 The two systems intersect, each segment being associated with the flows and the chains, with the stocked flows and the passing flows, with selections from the flows and detachments from the chains (certain production projects are executed in the framework of the tribal system, others in the framework of the lineage system). The variability and relativity of the segments are responsible for all sorts of penetrations between the inalienable elements of filiation and the mobile elements of alliance. This is explained by the fact that the length of each segment—or even its existence as such—is determined only by its opposition to other segments in a series of interrelated stages. The segmentary machine mixes rivalries, conflicts, and ruptures throughout the variations of filiation and the fluctuations of alliance. The whole system evolves between two poles: that of fusion through opposition to other groups, and that of scission through the constant formation of new lineages aspiring to independence, with capitalization of alliances and filiation. From one pole to the other, all the misfirings and failures in a system that is constantly reborn of its own disharmonies. What does Jeanne Favret mean when she shows, along with other ethnologists, that "the persistence of a segmentary organization requires paradoxically that its mechanisms be ineffectual enough so that fear remains the motor of the whole"? And what is this fear? It would appear that social formations experienced a morbid and mournful foreboding of things to come, although what comes to them always comes from without, rushing in through their opening. Perhaps it is even for this reason that it arrives from without; they suffocate its inner potentiality, at the cost of the dysfunctions that constitute an integral part of the functioning of their system.
+    — Deleuze & Guattari, 1972
+  credits: |
+    Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed — like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.
+    About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.
+    Audio sourced from Giovanni Gabrieli's Sanctus: VI. Hosanna in excelsis broadcast by KUSC 91.5 and recorded by iPhone, 2020.
+    Photographs from my trip to Petalying Jaya, Malaysia, 2017.
+    Engineered by Tyler Etters, 2020 — 2024.
 
-- order: 67
-  year: 2023
+- title: IN DARKNESS RADIANT
   project: STUXNET
-  release: IN DARKNESS RADIANT
-  type: LP
+  released: 02023-12-22
+  type: EP
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Tiresias
+    length: 00:01:49
+  - number: 2
+    title: In Darkness Radiant
+    length: 00:01:54
+  - number: 3
+    title: Temporary Autonomous Zone
+    length: 00:04:16
+  - number: 4
+    title: Hell Money
+    length: 00:01:58
+  - number: 5
+    title: Subsea Fiber Faults in the APAC Region
+    length: 00:05:43
+  - number: 6
+    title: Safe Passage (Non-Functional)
+    length: 00:02:51
+  streams:
+  - platform: Bandcamp
+    url: https://stuxnet.bandcamp.com/album/in-darkness-radiant
+  - platform: Apple Music
+    url: https://music.apple.com/us/album/in-darkness-radiant-ep/1722729160
+  - platform: Deezer
+    url: https://www.deezer.com/us/album/526747692
+  - platform: iHeartRadio
+    url: https://www.iheart.com/artist/stuxnet-610225/albums/in-darkness-radiant-248901298/
+  - platform: Spotify
+    url: https://open.spotify.com/album/2nLz2jO4YCQO37NVm3rM3C?si=h84wEpl0Sv6hMm3PfpSGyA
+  - platform: Tidal
+    url: https://listen.tidal.com/album/336500922
+  - platform: YouTube
+    url: https://www.youtube.com/playlist?list=OLAK5uy_lAR4Al3G7YV6_kgEC39C9naC23z91fwPo
+  notes: |
+    After a harrowing border crossing out of the Special Economic Zone, Coyote lies low. His world is hardened, Metal Gear, long drag of cigarette, pushing limits of body to transport mind. Licking his wounds, drinking warm Modelo, watching cargo ships queue up for port, he contemplates getting out of the game for good.
+    But when money runs out (like it always does) he's forced to accept an impossible gig: US/APAC. The cargo is a Tiresias figure, some aged clairvoyant who, having struck their staff at two copulating serpents, was then blinded, given the gift of prophecy (visions), and transformed into a woman for seven years.
+    Who seeks a strange country by illegal means that can only place them perpetually outside while also inside? Coyote knows: someone who has a message... or someone who is one. What is the message now? What does Tiresias only know while blind and femme?
+    Coyote's reference gear attempts to help his line of thought with encyclopedic minutiae: "Like with other oracles, how Tiresias obtained their information varied: sometimes, they would receive visions; other times they would listen for the songs of birds, or ask for a description of visions and pictures appearing within the smoke of burnt offerings or entrails, and so interpret them. Pliny the Elder credits Tiresias with the invention of augury. Tiresias has a daughter, Manto, who is also a prophetess and priestess."
+    Simple machine that cannot breathe or ache. Coyote dictates futile corrections to his gear. This Oracle of Zones is a mother, alright. The twin Zones - both Special Economic and Temporary Autonomous - symbolize invitations by their respective hosts to become changed; to be shown wrong. High on artificial fumes in virtual caves, Tiresias (pregnant with Manto?) are illegal yet invited; necessary; load-bearing. She sees and listens, assembles, then tells. And she's coming now, changing Self to change the flow of things, money, talk, data. She dies but goes on. A programming program, in darkness radiant.
+    A seagull lands on the railing.
+    Zip-tied to its tibia is a white USB drive.
+    It is branded with a familiar hexagon.
+  credits: |
+    Précis by Cory Salveson. Music by Tyler Etters.
+    Selected samples: Bauenrfeind, Beast Wars, Elden Ring, Cornell Lab of Ornithology, The Amity Affliction, Predator, True Detective, Cory's field recordings from China.
+    The musician would like to express his deepest thanks to @zbs for their deft consultation on the final mix and unwavering devotion to sub-bass.
+    Album art: screencap from "Can't Get You Out of My Head" by Adam Curtis.
 
-- order: 66
-  year: 2023
+- title: FADE SCATTER REPLICATE
   project: STUXNET
-  release: FADE SCATTER REPLICATE
-  type: LP
+  released: 02023-03-20
+  type: EP
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Sources and Methods
+    length: 00:03:44
+  - number: 2
+    title: Coyote
+    length: 00:05:52
+  - number: 3
+    title: Special Economic Zone
+    length: 00:03:44
+  - number: 4
+    title: Border Crossing
+    length: 00:03:28
+  - number: 5
+    title: In Infinite Fogs
+    length: 00:05:52
+  notes: |
+    Migrants are often between two worlds that do not really have a place for them: fleeing economic or political hardship and entering a place (ostensibly the U.S.) that fundamentally demands their labour yet officially outlaws them and treats them as sub-human. The coyote is doing a kind of extraordinary favor by rendering an extra-legal service, and putting themselves in harm's way to do so.
+    Why choose this particular job?
+    Perhaps because the coyote is "between," themselves. This casts them as a kind of archetypical shamanistic figure: a psychopomp, a guide of souls like Anubis, Charon, Hermes, Mercury, or Tarkovsky's Stalker. But, unlike this Jungian pantheon of tricksters, our coyote is not bound by divinity or magicks — they are a mercenary; they are bound by cash.
+    In Nomadology: The War Machine, Deleuze & Guattari "redefine the relation between the state and its war machine. Far from being a part of the state, warriors (the army) are nomads who always come from the outside and keep threatening the authority of the state. In the same vein, nomadic science keeps infiltrating royal science, undermining its axioms and principles. Nomadology is a speedy, pocket-sized treatise that refuses to be pinned down. Theorizing a dynamic relationship between sedentary power and schizophrenic lines of flight, this volume is meant to be read in transit, smuggled into urban nightclubs, offices, and subways."
+    It then follows the special economic zone is a stage for our coyote, our trickster, to turn logics and fortunes of capitalism inside out and upside down. The interior shared-self which persists through ultra time flow is, yes: dancing in place to move forward... and the special economic zone suspends the rules to incentivize a certain dancing, a particular folding back into itself to realize commerce, competition, fucking, running, transgressing, renewing.
+    If the trickster makes this world, it follows the mercenary makes the state. 
+  credits: |
+    Précis by Cory Salveson. Music by Tyler Etters.
+    Selected samples: Dark Souls III, Mission: Impossible 4 — Ghost Protocol, X-Files, Metal Gear Solid, Underoath, Fortnite "Fracture" Event, Black Hawk Down.
+    Inspired by a trip with my mother to Tijuana, Mexico, 2022.
+    Album art: Midjourney prompt by John von Seggern.
+    For Timm.
 
-- order: 65
-  year: 2022
+- title: EP2
   project: They Became What They Beheld
-  release: EP2
+  released: 02022-03-12
   type: EP
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Things are different now
+    length: 00:10:12
+  - number: 2
+    title: That was closer to then
+    length: 00:13:32
+  notes: |
+    Within the philosophies of time, three oppositional schools compete: Eternalism describes the phenomenon of time like a strip of film - the past and the future do exist, are real, but the present is merely a human concept. The growing block theory, maybe the most intuitive of the three, states that the present continually creates the past, but the future is unwritten. Presentism on the other hand argues that the only thing irrefutable is the present and that the past and the future are both unreal. By applying these three concepts to music, we may end up with a number of strategies to rethink what we consider as given.
+    I would like to propose that there has been has been a slow shift in how music was perceived. Improvised music, prior to notation, can be considered as presentistic, manifesting itself only in the present, it’s only traces of existence written in memory. With interpretation and notation, the perception shifts more to a growing block. The mind got a hold of the past, but the future still remained a very unstable realm - once the hand made a mistake with an instrument or the voice was interrupted to catch a breath. Obviously the advent of the recording introduced an absolute future and with it the concept of eternalism in music. Furthermore the introduction of the loop, applied in its most extreme way within techno, embeds the listener in a coherent body of past and future, even with a view of the timeline - first on the record, later on the waveform. A car, racing on the Autobahn, free to move in both directions. Of course, one could argue that the state of ecstasy in which techno is consumed compresses time into a perfect present, the psychological present, which is defined as 2-3 seconds with the equivalent of 1 bar by 120 bpm…
+    But staying for the moment with the first thought, we can ask the questions: is the loop the defining property of techno? What happens if we remove the certainty of the next kick, eroding the temporal and structural integrity of the genre? Presentism is a project based on one temporal randomised pulse, denying our ability to foresee the next kick and obscuring the possibility to form loops. Yet it upholds timbres and instrument references common to the genre. The aleatoric function acts like an agent of presentism in an eternalist domain. Like improvisation, it has the ability to remove a stable future and at the same time blur the memory by forming insignificant patterns. Intensification usually benefits from a balance between control and the prospect of collapse. The temporal shuffle of techno is the attempted surrender of control of the past and future to the present.
+    — JAT, 2020
+  credits: |
+    Thanks to the person who sold me a faulty tape deck so I could not continue this project as intended because the original tape deck was in an airplane hanger because of the pandemic and everything stalled out for so long on both sides of the incident and then the project changed — like everything else did, that was closer to then and things are different now. Thanks to my dad for showing me Dancing Fantasy when I was a kid. Thanks to Sage for being infinitely patient and compassionate with me during the pandemic. Thanks to my two close friends who talked with me on the phone at length today, you know who you are. Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.
+    About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.
+    Audio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.
+    Audio sourced from Dancing Fantasy's Op. Midnight Blvd. "...double fantasy...a dream... ...within a dream..." IC / Innovative Records, 1990.
+    Photographs from my trip to Petalying Jaya, Malaysia, 2017.
+    Engineered by Tyler Etters, 2019 — 2022.
 
-- order: 64
+- title: Deep State Music
   project: Sidereal Lobby
-  year: 2021
-  release: Beaches / FCV / Deep State Music
+  released: 02021-09-04
   type: Triple LP
   format: Digital
   role: Band Member
-  label: Independent
-
-- order: 63
-  project: STUXNET
-  year: 2021
-  release: HUMAN INTERFERENCE TASK FORCE
-  type: LP
-  format: Digital
-  role: Operator
-  label: Intertext
-
-- order: 62
-  project: STUXNET
-  year: 2021
-  release: COUNTERSURVEILLANCE
-  type: LP
-  format: Digital
-  role: Operator
-  label: Intertext
-
-- order: 61
-  project: STUXNET
-  year: 2021
-  release: MAPSQUEST
-  type: LP
-  format: Digital
-  role: Operator
   label: Map Corps
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Deep State Music
+    length: 00:27:19
+  notes: |
+    Over the course of their first journey (which started months before they realized they would become a band), the humans created many auditory things together and separately. Some of this was good but had found itself in a “stuck” state. Some things extended a bit earlier than the boundary of acquaintance but felt appropriate for inclusion. At any rate, both humans were in an exorcising mood. They decided it was time to release these peach fuzz laden demons. The exorcism exercise would be comprised of a continuous sort of mix tape or DJ mix containing these demons occupying the auditory plane.
+    As is becoming their custom, the humans again took turns weaving the structures. This time the structures were on a somewhat larger scale. They pulled in beats, basslines, melodies, and scraps of texture. Both humans expected the final product to be quite rhythmic and beat-driven. To their credit, this does appear to accurately describe much of what the three of us arrived at. They did manage to sneak in some free-meter synth jams, which provided some loose [a]rhythmic accompaniment to the more musically adherent elements.
+    However, the real surprise came when the emotional impact of exorcising some demons in particular started to affect both humans. The beats in these instances decidedly needed to take a back seat to the so-called “feels”: drones, sad arpeggio breakdowns, lolling refracted feedback melodies. As the iris of psychic transmorgification closed, the minds’ eyes adjusted back to the new light level, the steam evaporated, the dust settled, and the humans incanted an old, familiar phrase to lighten these heaviest of demons:
+    ... like tears in the rain ...
+    The final mix arrived at a total of 300 MB worth of uncompressed PCM audio. This size is above Bandcamp’s 291MB track limit, so 9MB was cut down from the final waveform data. The human who spliced has assured myself and the other human that we will never know (and, one would hope, never miss) those 9MB.
+    My aunt, the Goddess SEO (that’s just her name, I don’t know what it stands for and I’m afraid to ask her) demanded that I mention the following terms. I do not understand their context and feel uncertain of how to integrate them into the above, so I shall simply list them: mapcore, caveman.sh.
+    (SEO also mentioned something about “hashed tags”. She took pity on me when she saw how terribly frightened I was of these strange, unfamiliar words, so she stopped short of asking me to use them. I hope this does not create any confusion.)
+  credits: |
+    Laws & Etters, mmxxi
 
-- order: 60
+- title: FCIV
+  project: Sidereal Lobby
+  released: 02021-09-04
+  type: Triple LP
+  format: Digital
+  role: Band Member
+  label: Map Corps
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Mental Dub (Lisbon)
+    length: 00:04:18
+  - number: 2
+    title: Mental Dub (Des Moines)
+    length: 00:04:10
+  - number: 3
+    title: Mental Dub (Null Lake)
+    length: 00:04:20
+  notes: |
+    Dub is a refraction of alien consciousness
+    Flash Crash was approaching. The folks running the event wanted dub in their interstitial program. I complied.
+    It began with Mental Dub, constructed entirely in Ableton Live with stock samples and soft synths. The other human loaded its stems into his Octatrack for further mutation, which became Des Moines. The first human further mutated Des Moines within Ableton to create Null Lake. The humans had little hesitation about mix or levels.
+    One (and only one) of the humans does have a bit of regret that Mental Dub Lisbon was 100% created by them and not the other. In other words, the other did not have any samples, or audio, or melody at all, but both humans concurred it was OK because it all took place in the Sidereal Lobby.
+    Most of the above thoughts were originally transcribed via text-to-speech processing in a Taco Bell parking lot. The allure of Baja Blast is known to be irresistible to sidereal lobbyists.
+  credits: |
+    Laws & Etters, mmxxi
+
+- title: Beaches
+  project: Sidereal Lobby
+  released: 02021-09-04
+  type: Triple LP
+  format: Digital
+  role: Band Member
+  label: Map Corps
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: conch
+    length: 00:04:26
+  - number: 2
+    title: snail
+    length: 00:02:22
+  - number: 3
+    title: periwinkle
+    length: 00:03:41
+  - number: 4
+    title: bottles
+    length: 00:03:30
+  notes: |
+    It began with failure.
+    Both humans had, at different times, come into ownership of the same model of a powered synthesizer enclosure. At different times, the power supply of either enclosure failed in identical fashion. The second time, the steward of the enclosure discovered that the power supply had, in fact, not completely failed. It could still deliver some power, albeit at an attenuated amperage. Perhaps as a test, perhaps enthused at the novelty of the small enclosure, perhaps simply to amuse himself, he assembled a nonsensical menagerie of modules.
+    The human then proceeded to record similarly nonsensical sounds. He doubted they were musical. They did contain rhythms, tones, things that repeat, but no more than household or industrial appliances. No logic or aesthetics he knew of applied. They were low-fidelity but not enough to be charming. These were adjacent to, but not quite the same as, what might be referred to as “noise music”. At times something resembling a melody or a chord would appear, but short-lived and unsupported. He didn’t know what to do with this, but he was having fun, so he forged ahead.
+    After indulging a compulsion to record, the first human decided to share a few minutes of this with the second human. The second human was not sure what to make of this. Out of mutual respect, he attempted to phrase a diplomatic and critically constructive suggestion. He introduced this suggestion. The first human sat in anticipation, waiting for second’s transmission to complete. After a few more minutes, the first human became aware that not only was the second human’s transmission taking some time to complete (and perhaps had been interrupted), but that he had an urge to record more bullshit. And so he did.
+    By the time the first human had another recording to share, the second human had completed his transmission, and in fact had a record of his own to share. It was a collage, a juxtaposition: the original recording with new layers. The first human was shocked and delighted. This was beginning to sound like music. Now he saw the pattern - a friendly back-and-forth volley.
+    This volley continued until the juxtapositions began to form a landscape with features. There were ugly, unexplainable crags and crannies, but also breathtaking vistas and soothing curves. The humans looked and listened upon this landscape with the awe and terror of a space traveler stranded on a remote beach, unsure of what it meant or where to go next, but grateful to be surrounded by grotesque beauty and eager to explore.
+  credits: |
+    Laws & Etters, mmxxi
+
+- title: HUMAN INTERFERENCE TASK FORCE
   project: STUXNET
-  year: 2021
-  release: LONG LIVE THE LOST ONES
+  released: 02021-07-26
   type: LP
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: that it is a message at all
+    length: 00:04:36
+  - number: 2
+    title: that dangerous material is stored in a given location
+    length: 00:32:21
+  - number: 3
+    title: information about the type of dangerous substances 
+    length: 00:19:16
+  notes: |
+    The Human Interference Task Force was a team of engineers, anthropologists, nuclear physicists, behavioral scientists and others convened on behalf of the U.S. Department of Energy and Bechtel Corp. to find a way to reduce the likelihood of future humans unintentionally intruding on radioactive waste isolation systems. Specifically, the task force was to research the use of long-time warning messages to prevent future access to the planned, but stalled, deep geological nuclear repository project of Yucca Mountain.
+    PROBLEM
+    When atomic or fusion bombs are detonated in a war, or nuclear power plants are used in times of peace, an unnaturally high amount of radioactive waste is produced. This material will threaten human life and health for thousands of years. Consequently, nuclear technology necessitates the creation of a secure means of terminal storage for such materials for an unusually long time period.
+    However, there is no method available to continuously provide the necessary knowledge about the location of nuclear waste over thousands of years. The culture of earlier centuries becomes incomprehensible when it is not translated into new languages every few generations. National institutions do not exist longer than a few hundred years. Even religions are not older than a few millennia and do not typically hand down scientific knowledge.
+    Furthermore, the necessary length of storage is disputed among specialists. One work group in Germany concluded that nuclear waste must be separated from the biosphere up to one million years — about 30,000 human generations. Earlier assumptions were based on a period of 10,000 years, which seems to be too short given the half-life of certain radioactive isotopes (e.g. Plutonium-239 at 24,000 years).
+    The written historical tradition of humanity, in contrast, is only about 5,000 years. Warnings in cuneiform script could be interpreted by some specialists, but others, such as the writing of the Indus Valley civilization, are already illegible after a few thousand years.
+    REQUIREMENTS
+    Three parts of any communication about nuclear waste must be conveyed to posterity:
+    1. that it is a message at all
+    2. that dangerous material is stored in a given location
+    3. information about the type of dangerous substances
+    ANSWERS
+    To determine how to convey these three things, the "Zeitschrift für Semiotik" (Tübingen, Germany) issued a poll in 1982 and 1983 asking how a message might be communicated for a duration of 10,000 years. The poll asked the following question: "How would it be possible to inform our descendants for the next 10,000 years about the storage locations and dangers of radioactive waste?" leading to the following answers... 
+  credits: |
+    The musician would like to express his deepest thanks to @license for their critical ear and honest heart.
 
-- order: 59
+
+- title: COUNTERSURVEILLANCE
   project: STUXNET
-  year: 2021
-  release: TIME'S FIREWALL (demo)
+  released: 02021-07-07
+  type: EP
+  format: Digital
+  role: Operator
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Dazzle Camouflage (MUA)
+    length: 00:05:16
+  - number: 2
+    title: Countersurveillance
+    length: 00:04:09
+  - number: 3
+    title: A Territory of History, Without Self
+    length: 00:03:33
+  - number: 4
+    title: Pyrocumulus Days, Entropy Nights
+    length: 00:02:18
+  - number: 5
+    title: What's Your Wifi Password?
+    length: 00:02:18
+  - number: 6
+    title: I'm On Blockchain
+    length: 00:03:02
+  - number: 7
+    title: Maybe
+    length: 00:04:35
+  notes: |
+    Mapcore is a viable solution for surveying the world.
+  credits: |
+    COUNTERINTELLIGENCE was written, recorded, designed, and released on the STUXNET: NIGHTLY STREAMS // UNREMEMBERED DREAMS Twitch channel. While recording some of the gear blew a fuse. STUXNET is Tyler Etters.
+    Album art: "The Nobili-Pesavento self-replicator, with a daughter copy in the process of making a grand-daughter copy. The automaton uses the 32-state extended John von Neumann rules, based on his work on universal constructors and self-reproducing automata."
+
+- title: LONG LIVE THE LOST ONES
+  project: STUXNET
+  released: 02021-05-01
+  type: LP
+  format: Digital
+  role: Operator
+  label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Our world was always fallen but there was always light.
+    length: 00:03:48
+  - number: 2
+    title: Damaged music is a metaphor for this world.
+    length: 00:04:35
+  - number: 3
+    title: Music was always celebratory, but there was always sorrow.
+    length: 00:02:50
+  - number: 4
+    title: For liberation lies in that which is shattered.
+    length: 00:01:15
+  - number: 5
+    title: Designed to merge, engineered to transcend.
+    length: 00:02:18
+  - number: 6
+    title: Liberation follows that which is broken.
+    length: 00:07:56
+  - number: 7
+    title: Something you catch.
+    length: 00:07:30
+  - number: 8
+    title: As you're scanning for distress calls.
+    length: 00:03:53
+  - number: 9
+    title: Long live the lost ones.
+    length: 00:05:12
+  notes: |
+    Dear listener,
+    During the turn of the century in Chicago there was a radio station called WNRG Energy 92.7/5 . I was 12 or so and would always fall asleep listening to the likes of DJ Sammy, DJ Encore, PPK, D-Devils, Armin van Buuren, Sylver, ATC, and countless others. I pictured the radio waves blanketing Chicagoland's orange phosphorous haze from Kenosha to Kankakee; euphoric FM signals in an adjacent dimension. Compressed audio. The crackle of static. It was spiritual.
+    How many others were listening along with me?
+    How many others allowed themselves to be moved to tears in the music's rapture?
+    One night all the DJs were there. They kept talking and laughing and telling stories. Being a trance radio station, this was quite irregular. They were sad. Then I realized: this was the final broadcast.
+    LONG LIVE THE LOST ONES is a very special album for me, as the track titles may (or may not) reveal.
+    The melodies were mostly written while flying back and forth between Los Angeles and Chicago during that brief season Sage and I were commuter spouses. Winter 2019/2020. At the end of the old world and the threshold of the new.
+    With LONG LIVE THE LOST ONES, we find my nightly streams, my deep tryst for unabashedly earnest trance, and my endless experiments with lo-fi and distortion finally in conjunction. A constellation of energy, euphoria, and catharsis.
+    I've started having visions of people dancing together again. These visions haunt and inspire me. Perhaps one day sooner than we think, DJs will return to the decks and revelers will return to the floors.
+    None of us were ready for 2020. It is only now becoming clear what cultural trauma the pandemic has wrought. Scorched earths, decimated families, and shattered cultures. There is so much mourning to do.
+    Everything is going to be different from here out.
+    Once again, we must learn to dance.
+    Yours,
+    Tyler 
+  credits: |
+    Album title by Cory Salveson, encryption key by Matthew Marx, distress signals by Dan Derks, music by Tyler Etters.
+    Album art: "Kuwaiti oil wells set on fire by retreating Iraqi forces during Operation Desert Storm darken the sky with smoke, March 25, 1991. This image could have imperfections as it’s either historical or reportage."
+
+- title: TIME'S FIREWALL (demo)
+  project: STUXNET
+  released: 02021-04-18
   type: Demo
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Time's Firewall
+    length: 00:08:07
+  - number: 2
+    title: Fractal's Edge
+    length: 00:11:02
+  notes: |
+    At the behest of an anonymous agent, the Northern Information Applied Sciences & Phantasms Working Division agreed to the impossible: rationalize the numogram for the post-pandemic age.
+    It is accepted that the numogram first manifested in the 90s via research from the CCRU. However, newly unearthed forensic evidence from The tf.nist.gov Timeserver Incident has cast a shadow of doubt on the true provenance.
+    After the NIAS&PWD design scientist rationalized the numogram into a mathematically pure vector format, new sonic pathways were unlocked for STUXNET. The dossier was delivered and lead to yet more revelations: the existence of what can only be described as a time firewall. And, perhaps more unsettling, "fractal edges" thereby calling into question the very foundations of topology, Euclidean space, and recursion dynamics.
+    Intertext formally published a request for support in understanding the implications of these twin entities on April 18, 2021.
+    Operator instructions: `mv numogram.txt numogram.ai`
+  credits: |
+    STUXNET is Tyler Etters.
 
-- order: 58
+- title: MATRYOSHKA (demo)
   project: STUXNET
-  year: 2021
-  release: MATRYOSHKA (demo)
+  released: 02021-04-10
   type: Demo
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: The Payload Appeared Yesterday Due to a Zero Day Timezone Conversion Vulnerability
+    length: 00:01:28
+  - number: 2
+    title: Supply Chain Attack Surface
+    length: 00:02:14
+  - number: 3
+    title: A White USB Drive With "HEXAGON" iStock Logo \#1135496271
+    length: 00:03:09
+  - number: 4
+    title: At Least One Reseller of Microsoft Cloud Services Was Compromised
+    length: 00:02:44
+  - number: 5
+    title: Matryoshka Shell 1 - Ransomware Was Discovered on the Executive’s Peloton
+    length: 00:02:13
+  - number: 6
+    title: Matryoshka Shell 2 - IoT Botnet DDoS
+    length: 00:02:06
+  - number: 7
+    title: Matryoshka Shell 3 - Distributed Cryptocurrency Mining Operation
+    length: 00:01:22
+  - number: 8
+    title: Matryoshka Shell 4 - International Date Line
+    length: 00:02:46
+  - number: 9
+    title: Matryoshka Shell 5 - 総会屋 (deepfake.S)
+    length: 00:03:21
+  - number: 10
+    title: Matryoshka Shell 6 - Schanuel's Conjecture (Evidence of Non-Human Origin)
+    length: 00:02:29
+  - number: 11
+    title: The Media Confused the Matter With Container Ships
+    length: 00:02:13
+  notes: |
+    🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆🪆
+    Download includes "64chain-3.3.wav" to use with your own sampler. This sample is an assemblage of all the samples synthesized for this release.
+  credits: |
+    STUXNET is Tyler Etters.
 
-- order: 57
+- title: CIPHER SUITE (demo)
   project: STUXNET
-  year: 2021
-  release: CIPHER SUITE (demo)
+  released: 02021-03-28
   type: Demo
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: Trapdoor Function
+    length: 00:02:11
+  - number: 2
+    title: Asymmetric Encrypted Transport
+    length: 00:01:21
+  - number: 3
+    title: Forced Disclosure of Encryption Keys
+    length: 00:02:31
+  - number: 4
+    title: Chinese Remainder Theorem
+    length: 00:02:11
+  - number: 5
+    title: Hash Collision
+    length: 00:04:52
+  - number: 6
+    title: Something You Have
+    length: 00:10:05
+  - number: 7
+    title: Something You Know
+    length: 00:03:25
+  - number: 8
+    title: Something You Are
+    length: 00:05:40
+  monospaceNotes: true
+  notes: |
+    % ssh-keygen -t ed25519
+    Generating public/private ed25519 key pair.
+    Enter file in which to save the key (/Users/mbp/.ssh/id_ed25519):
+    Enter passphrase (empty for no passphrase):
+    Enter same passphrase again:
+    Your identification has been saved in /Users/mbp/.ssh/id_ed25519.
+    Your public key has been saved in /Users/mbp/.ssh/id_ed25519.pub.
+    The key fingerprint is:
+    SHA256:0kv7znEhupmnDG+eyQAwWNgt8kwKzosGi4hpAmtf7HY mbp@mbp
+    The key's randomart image is:
+    +--[ED25519 256]--+
+    | o..             |
+    |+o+ .            |
+    |=*o.             |
+    |+ooo   .         |
+    |B+. o . S . .    |
+    |X=   + o + . .   |
+    |= . o o + . .    |
+    |   . o E.O.o     |
+    |    . .o%++      |
+    +----[SHA256]-----+
+    % cat /Users/mbp/.ssh/id_ed25519
+    -----BEGIN OPENSSH PRIVATE KEY-----
+    b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+    QyNTUxOQAAACDIR6QeH9ppP9f9xexpPOx0xAmGzWcU3SwBjSl7OZh1zgAAAJB79qzIe/as
+    yAAAAAtzc2gtZWQyNTUxOQAAACDIR6QeH9ppP9f9xexpPOx0xAmGzWcU3SwBjSl7OZh1zg
+    AAAEA1ic72mxJXRvpnU74JYkpnyQ+RhVHBnNLmuSpq4YcQY8hHpB4f2mk/1/3F7Gk87HTE
+    CYbNZxTdLAGNKXs5mHXOAAAAB21icEBtYnABAgMEBQY=
+    -----END OPENSSH PRIVATE KEY-----
+    watch the recording of CIPHER SUITE (demo) at: https://www.twitch.tv/videos/964445530
+  credits: |
+    STUXNET is Tyler Etters.
 
-- order: 56
-  year: 2021
+- title: CARRIER (demo)
   project: STUXNET
-  release: CARRIER (demo)
+  released: 02021-03-14
   type: Demo
   format: Digital
   role: Operator
   label: Intertext
+  mp3: true
+  wav: true
+  tracks:
+  - number: 1
+    title: plateau
+    length: 00:09:04
+  - number: 2
+    title: angel
+    length: 00:05:11
+  - number: 3
+    title: mod3046
+    length: 00:03:38
+  - number: 4
+    title: rave
+    length: 00:01:46
+  - number: 5
+    title: fcore
+    length: 00:02:39
+  - number: 6
+    title: lecture
+    length: 00:10:17
+  - number: 7
+    title: abeyance
+    length: 00:06:07
+  - number: 8
+    title: registry
+    length: 00:01:26
+  notes: |
+    made after they sieged the capitol
+    made with elektron, make noise, mannequins, monome, others
+    made before i knew how to use it all
+  credits: |
+    STUXNET is Tyler Etters.
 
-- order: 55
-  year: 2020
+- title: The Arecibo Lamentations
   project: Northern Information
-  release: The Arecibo Lamentations
-  type: EP
+  released: 02020-12-13
+  type: LP
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: one is opposite six
+    length: 00:02:15
+  - number: 2
+    title: Living Numbers
+    length: 00:04:39 video
+  - number: 3
+    title: death is the only way out of the information age
+    length: 00:01:29
+  - number: 4
+    title: baccarat
+    length: 00:03:26
+  - number: 5
+    title: The Arecibo Lamentations
+    length: 00:12:59
+  - number: 6
+    title: powerlines
+    length: 00:00:48
+  - number: 7
+    title: time's arrow, our north star
+    length: 00:00:58
+  - number: 8
+    title: COMbyne jlu13_0016
+    length: 00:03:32
+  - number: 9
+    title: husk_L
+    length: 00:02:57
+  notes: |
+    -13,800,000,000: the universe forms.
+    -4,500,000,000: the moon forms.
+    -66,000,000: the Chicxulub impactor kills 75% of everything.
+    01945: the first nuclear device is detonated at the Trinity Site.
+    01960: construction of the Arecibo Observatory begins.
+    01963: construction of the Arecibo Observatory ends.
+    01974: the Arecibo message is broadcast.
+    01985: Carl Sagan's novel, Contact, is published.
+    02020: the Arecibo Observatory collapses.
+    03000: the 10,000 Year Clock chimes thrice.
+    +26,974: the Arecibo message arrives at M13.
+    +10^14: star formation ceases.
+    +10^40: black holes dominate the universe.
+    +10^100: if protons decay, the universe suffers heat death.
+    *All above dates and events are inaccurate.
+    Any proceeds from the sale of this album will be donated to the Arecibo Observatory: www.naic.edu/ao/donations
+  credits: |
+    Thanks to Dan Derks, Brian Crabtree, Ryan Laws, Zack Scholl, Cory Salveson, Sage Etters, & Pasha Petrosyan.
+    Augured, coded, patched, written, performed, lamented, and engineered by Tyler Etters in 2020.
 
-- order: 54
-  year: 2020
-  project: The First Arcologists
-  release: The First Arcologists
-  type: EP
-  format: Digital
-  role: Producer & Software
-  label: Good Glass Records
 
-- order: 53
-  year: 2019
+- title: EP1
   project: They Became What They Beheld
-  release: EP1
+  released: 02019-03-03
   type: EP
   format: Digital
   role: Principal Musician
   label: Intertext
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Everything is everywhere now
+    length: 00:09:01
+  - number: 2
+    title: Back when things made sense 
+    length: 00:06:21
+  notes: |
+    I recently came across the following rules of communication, posted in a School of Journalism:
+    1. Know your audience and address yourself directly to it.
+    2. Know what you want to say and say it clearly and fully.
+    3. Reach the maximum audience by utilizing existing channels.
+    Whatever sense this may have made in a world of print, it makes no sense today. In fact, the reverse of each rule applies.
+    If you address yourself to an audience, you accept at the outset basic premises that unite the audience. You put on the audience, repeating clichés familiar to it. But artists don't address themselves to audiences; they create audiences. The artist talks to themself out loud. If what they say is significant, others hear and are affected.
+    The trouble with knowing what to say and saying it clearly and fully is that clear speaking is generally obsolete thinking. Clear statement is like an art object: it is the afterlife of the process which called it into being. The process itself is the significant step and, especially at the beginning, is often incomplete & uncertain. Columbus's maps were vague & sketchy, but showed the right continent.
+    The problem with full statement is that it doesn't involve: it leaves no room for participation; it's addressed to consumer, not co-producer. Allan Kaprow posted a few small posters about Berkeley: "SUPPOSE you were interested in designing a primer, in mixed media, etc. . . . Allan Kaprow will be in Berkeley in July & August." No phone, address, dates, terms. He found, however, that those who wanted to work with him, and those he wanted to work with, located him without difficulty.
+    Reaching the maximum audience may be the last thing one wants to achieve. George Segal says, "I don't give myself to everybody. I give myself very intensely to my work, my wife, my kids, my few friends. I can't begin to give myself indiscriminately to all. It's the only thing that makes me pause about, say, Ginsberg's preachings of universal love or even California ideas about Esalen and touching."
+    Utilizing existing channels can wipe out a statement. There is a widely accepted misconception that media merely serve as neutral packages for the dissemination of raw facts. Photographers once thought that by getting their photographs published in Life, they would thereby reach large audiences. Gradually they discovered that the only message that came through was Life magazine itself and that their pictures had become but bits and pieces of that message. Unwittingly they contributed to a message far removed from the one they intended.
+    The same thing occurs on TV guest shows. Guests accept invitations to appear on programs in the hopes their messages will reach new and wider audiences, but even when they are treated in a friendly manner, they generally come away with a sense of failure. Somehow the message transmitted is far removed from the message intended. The original message has been declassified by an alien medium. "Oh, what a blow that phantom gave me!" cries Don Quixote.
+    The young today shun the hardware of the past. Marx thought the big question was: Who owns the presses? Software makes hardware obsolete, an encumbrance, creating a false sense of power and security. The young package their messages in media that fit their messages, that is, they create new media to fit their messages. In so doing, they create their own audiences. Some of these audiences may be very small at the beginning. In Houston I met film makers producing films for audiences of no more than six. The point was that they would reach the right people in the right way with the right message.
+    It is one of the curiosities of a new medium, a new format, that at the moment it first appears, it's never valued, but it is believed. What it offers, I believe, is a sudden insight, an unexpected glimpse into a reality that, at most, was merely suspected but never before seen with such clarity.
+    Like guerrillas, the young are in a favored position; they don't need or want the hardware and audiences of yesterday.
+    — Edmund Snow Carpenter, 1970 
+  credits: |
+    Thanks to Emily for finding this strange book and making me her audience of one. Thanks to the Adriance Memorial Library for first stocking the book and later stamping it with DISCARD. Thanks to Hippo Books who succeeded in diverting it from a landfill and otherwise help to fund library sustainability and provide meaningful solutions to the global problem of illiteracy.
+    About text, icon, and name sourced from They Became What They Beheld written by Edmund Snow Carpenter, photographed by Ken Heyman, designed by Hess and/or Antupit, 1970.
+    Audio sourced from Shostakovich's Symphony No. 5, Op. 47 performed by Leonard Bernstein, New York Philharmonic, 1980.
+    Photographs from my trip to Petalying Jaya, Malaysia, 2017.
+    Engineered by Tyler Etters, 2019.
 
-- order: 52
-  year: 2018
-  project: Synergy Beat
-  release: Synergy Beat Music, Volume 1
-  type: EP
-  format: Digital
-  role: Principal Musician
-  label: Intertext
-
-- order: 51
-  year: 2017
+- title: reverence
   project: tyler etters & the northern information movement
-  release: the arcadian nights trilogy
-  type: Anthology
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 50
-  year: 2017
-  project: tyler etters & the northern information movement
-  release: reverence
+  released: 02017-12-22
   type: LP
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: the snail shell graveyard (w/ david)
+    length: 00:03:30
+  - number: 2
+    title: fiddler's green
+    length: 00:02:51
+  - number: 3
+    title: yes, these paths were promised
+    length: 00:18:04
+  - number: 4
+    title: cometary
+    length: 00:00:28
+  - number: 5
+    title: unnamed seasons (w/ sage)
+    length: 00:09:45
+  - number: 6
+    title: this is hallowed ground
+    length: 00:01:16
+  - number: 7
+    title: hope on the western sky
+    length: 00:01:47
+  - number: 8
+    title: in standstill destiny
+    length: 00:03:10
+  - number: 9
+    title: fireflies & fields
+    length: 00:01:59
+  - number: 10
+    title: beacons of light
+    length: 00:03:57
+  - number: 11
+    title: where the grass is uncut by blades of men
+    length: 00:02:59
+  notes: |
+    - - - - - - - - - -
+    chapter ix
+    - - - - - - - - - -
+    summer. morning. warmth and green. saturday. children meet at the end of the street to play. nature preserve. silent agreement. no games today. just be. creeks. white oaks. a crayfish somehow. power lines on the horizon. cumulus clouds and prairies forever. then one of them finds it beneath a domed castle of dark briar. the snail shell graveyard. calls to the others. huddled around the edge in silence. dozens of bone-white spirals encrusted in black mud. today they can only stare but the questions will come decades later: what force caused it to happen? was the ossuary exclusive to a single family? did some apex predator hunt each snail and return them to her voracious brood? did the snails all migrate together on their own volition? only to die in some great cataclysm? the annual prairie burn? the children know better than to take any shells. dusk. winter. the ice breaks. yelling for help. they scramble to get long branches. he is ok but his boot is claimed by the mud. summer again. they age. they don't play anymore. they hang out now. they go back the forest preserve past curfew. instead of running from imaginary monsters they run from the police. they still know all the hiding places and it is almost unfair. they keep aging. they lose touch. they sometimes remember. before it is over, each returns to the forest preserve in turn. always alone. always unknown by the others. not secret. just private. none of them can ever find it again.
+    - - - - - - - - - -
+    1. the snail shell graveyard (w/ david)
+    2. fiddler’s green
+    3. yes, these paths were promised
+    4. cometary
+    5. unnamed seasons (w/ sage)
+    6. this is hallowed ground
+    7. hope on the western sky
+    8. in standstill destiny
+    9. fireflies & fields
+    10. beacons of light
+    11. where the grass is uncut by blades of men
+    - - - - - - - - - - 
+  credits: |
+    released the day after the winter solstice, when the light begins her steady march to summer.
+    written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring guitar by david kvistad on the snail shell graveyard and field recordings by sage etters on unnamed seasons. painting of cornfields in illinois (1994) by lynda wallis (tyler etters’s mom) with additional treatment by tyler etters.
 
-- order: 49
-  year: 2017
+- title: dispatches from the prime meridian
   project: tyler etters & the northern information movement
-  release: dispatches from the prime meridian
+  released: 02017-12-21
   type: LP
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: surveillance industrial complex
+    length: 00:03:21
+  - number: 2
+    title: twilight in shape
+    length: 00:02:58
+  - number: 3
+    title: a cyan destiny
+    length: 00:04:25
+  - number: 4
+    title: some more dreams from the hive
+    length: 00:02:32
+  - number: 5
+    title: apophenia
+    length: 00:03:24
+  - number: 6
+    title: later heaven
+    length: 00:03:47
+  - number: 7
+    title: future shock
+    length: 00:02:51
+  - number: 8
+    title: olympus mons
+    length: 00:01:42
+  - number: 9
+    title: the path of many returns
+    length: 00:06:40
+  notes: |
+    - - - - - - - - - -
+    chapter viii
+    - - - - - - - - - -
+    winter - city - neon dusk - service economies - capitalist realism - the hinge upon which the world turns - unexpected password reset - borrowed anxiety medication - ritual scarification of the mind - ego death - a thousand faces - monomyth - megalith - emergency motorcycle repair - sargasso sea - aggregate browser histories - anonymous cookies - london bridge is falling down - traffic rerouted through eastern europe - all roads lead to rome - the empire never ended - golgothan solstice - eclipse - ellipsism - algorithm - the flash crash of 2010 - the jackpot - universal coordinated time - quick response code - boarding pass - light pollution - the people's republic of the great pacific garbage patch - skeleton music - voodoo technology - hypothetical histories - satellites - orbital sovereignty - metalaws - the singularity already happened - death is the only way out of the information age - metadata reincarnation - the second unix epoch - as above so below - as below so beyond - at dusk there is no wind
+    - - - - - - - - - -
+    1. surveillance industrial complex
+    2. twilight in shape
+    3. a cyan destiny
+    4. some more dreams from the hive
+    5. apophenia
+    6. later heaven
+    7. future shock
+    8. olympus mons
+    9. the path of many returns
+    - - - - - - - - - - 
+  credits: |
+    released on the winter solstice, when both darkness and light hang in a wary balance.
+    written and recorded by tyler etters from an indeterminate point in the past through december 2017. featuring pasha petrosyan on surveillance industrial complex, later heaven, and the path of many returns. numerous samples, videos, storyline components and album title by cory salveson. album cover polaroid of stone henge on the summer solstice (2017) by cory salveson with additional treatment by tyler etters.
 
-- order: 48
-  year: 2017
+- title: the legacy of our lost cause
   project: tyler etters & the northern information movement
-  release: the legacy of our lost cause
+  released: 02017-01-17
   type: LP
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: arcadian nights
+    length: 00:05:22
+  - number: 2
+    title: leaving home
+    length: 00:03:12
+  - number: 3
+    title: the emptiness will always follow you
+    length: 00:02:38
+  - number: 4
+    title: shanzhai (guerilla fortress)
+    length: 00:02:01
+  - number: 5
+    title: full steam
+    length: 00:04:53
+  - number: 6
+    title: holy mountain hymn
+    length: 00:06:41
+  - number: 7
+    title: reaver, yggdrasil, the thing at the end of the woods
+    length: 00:06:07
+  - number: 8
+    title: bridges of terabithia
+    length: 00:05:10
+  - number: 9
+    title: unscarred land
+    length: 00:05:03
+  notes: |
+    - - - - - - - - - -
+    chapter vii
+    - - - - - - - - - -
+    we built the forest acropolis in a single day. that night we reveled at our achievement. we drank wine and played flutes and made merry. drunk and giddy with the possibility of the future, we fell asleep long after the sun rose. when we finally awoke, kudzu had inexplicably grown over everything. the columns began to crumble. confused, we cut it down and repaired what we could. the next day, the vines were back. again we cut them down, but again they grew back. our leaders proclaimed the land cursed. no one could remember why we built here in the first place anyway. so we left to build a new acropolis by the sea. some of our children remained. they climbed the vines and went on adventures in the woods, heirs of a ghost kingdom.
+    - - - - - - - - - -
+    1. arcadian nights
+    2. leaving home
+    3. the emptiness will always follow you
+    4. shanzhai (gueriila fortress)
+    5. full steam
+    6. holy mountain hymn
+    7. reaver, yggdrasil, the thing at the end of the woods
+    8. bridges of terabithia
+    9. unscarred land
+    - - - - - - - - - - 
+  credits: |
+    written & recorded by tyler etters from an indeterminate point in the past through december 2016 at endless field studios. featuring adam j. moore on full steam, holy mountain hymn, and reaver, yggdsrasil, the thing at the end of the woods. featuring arthur zdrinc on holy mountain hymn. featuring cory salveson on videos, images, and storyline.
 
-- order: 47
-  year: 2016
+- title: and though the soft apocalypse may yet overtake
   project: tyler etters & the northern information movement
-  release: the phantom time trilogy
-  type: Anthology
-  format: Cassette, Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 46
-  year: 2015
-  project: tyler etters & the northern information movement
-  release: and though the soft apocalypse may yet overtake
+  released: 02015-06-21
   type: LP
   format: Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: and though the soft apocalypse may yet overtake
+    length: 00:01:12
+  - number: 2
+    title: unreliable narrator
+    length: 00:02:30
+  - number: 3
+    title: entropy
+    length: 00:05:34
+  - number: 4
+    title: palm beach
+    length: 00:03:18
+  - number: 5
+    title: owl
+    length: 00:02:30
+  - number: 6
+    title: boodle man
+    length: 00:02:20
+  - number: 7
+    title: steady progress (deeper into the dark tangent)
+    length: 00:01:24
+  - number: 8
+    title: in this spiraling darkness
+    length: 00:08:20
+  - number: 9
+    title: heat death
+    length: 00:01:09
+  - number: 10
+    title: armageddon rager
+    length: 00:03:12
+  - number: 11
+    title: suburban gutter trash
+    length: 00:01:29
+  - number: 12
+    title: flood sirens
+    length: 00:01:14
+  - number: 13
+    title: requiem, tunnels between worlds
+    length: 00:04:05
+  - number: 14
+    title: and then the crickets came
+    length: 00:02:31
+  notes: |
+    - - - - - - - - - -
+    chapter vi
+    - - - - - - - - - -
+    i have been having dreams about the apocalypse lately. firefighters swarming like ants on a smoldering sears tower, lake michigan simply exploding, the laws of physics deteriorating, heat death, psychological collapses. ever since i was a little boy the topic of eschatology intrigued me. i have always found the the snafus and close calls to be especially interesting: y2k, 12-21-2012, the return of nibiru... these overly hyped events stir up the fears and emotions of certain circles and then awkwardly fizzle out. contrast these to real-world atrocities, cold wars, personal and familial crises, and you realize the apocalypse is happening everyday for someone. ours is an age of false prophets and fear mongering. we make the apocalypse real in our minds. between the actual and perceived doomsdays there is enough to keep anyone worried and anxious for the rest of their lives. this album is about living in a world where anything can happen, where the soft apocalypse may yet overtake at any momemnt. it is a collage; a story; a sonic journey of found sounds and field recordings. it's rawer and rougher than anything i've released before. from anonymous protests in chicago to some particularly terrifying flood sirens, from emergency broadcasts to gin-drunk conversations with old timers about the wars of the 20th century. the singularity already happened. it is not yet over. be kind and generous, always. create something beautiful today and we'll be just fine.
+    - - - - - - - - - -
+    1. and though the soft apocalypse may yet overtake
+    2. unreliable narrator
+    3. entropy
+    4. palm beach
+    5. owl
+    6. boodle man
+    7. steady progress (deeper into the dark tangent)
+    8. in this spiraling darkness
+    9. heat death
+    10. armageddon rager
+    11. suburban gutter trash
+    12. flood sirens
+    13. requiem, tunnels between worlds
+    14. and then the crickets came
+    - - - - - - - - - - 
+  credits: |
+    written & recorded by tyler etters from january 2015 through june 2015 at endless field studios. featuring adam j. moore on palm beach and suburban gutter trash.
 
-- order: 45
-  year: 2015
+- title: zulu
   project: tyler etters & the northern information movement
-  release: zulu
-  type: LP
-  format: Digital
-  role: Band Member
-  label: Endless Field Studios
-
-- order: 44
-  year: 2015
-  project: tyler etters & the northern information movement
-  release: the phantoms of our lost cause
-  type: LP
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 43
-  year: 2014
-  project: tyler etters & the northern information movement
-  release: My Sisters (Provenance Remix)
-  type: Single Remix
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 42
-  year: 2014
-  project: tyler etters & the northern information movement
-  release: T-Girl Single
-  type: Single Remix
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 41
-  year: 2014
-  project: tyler etters & the northern information movement
-  release: "the #shadow_fi trilogy"
-  type: Anthology
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 40
-  year: 2013
-  project: tyler etters & the northern information movement
-  release: Endless Field Studios, Volume 3
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 39
-  year: 2013
-  project: Connectedness Locus
-  release: Endless Field Studios, Volume 3
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 38
-  year: 2013
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Endless Field Studios, Volume 3
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 37
-  year: 2013
-  project: tyler etters & the northern information movement
-  release: senescence
-  type: LP
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 36
-  year: 2013
-  project: tyler etters & the northern information movement
-  release: blue, the most celestial color
-  type: LP
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 35
-  year: 2013
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: It's 2016 A. D.
-  type: LP
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 34
-  year: 2013
-  project: Connectedness Locus
-  release: It's 2016 A. D.
-  type: LP
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 33
-  year: 2013
-  project: tyler etters & the northern information movement
-  release: the geometrie of our lost cause
-  type: LP
-  format: Cassette, Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 32
-  year: 2012
-  project: Connectedness Locus
-  release: Rebuild
-  type: Remix Album
-  format: CD, Digital
-  role: Contributor
-  label: n5md
-
-- order: 31
-  year: 2012
-  project: Connectedness Locus
-  release: Prolegomenon
-  type: EP
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order: 30
-  year: 2012
-  project: Connectedness Locus
-  release: The Five Colors [Remixed]
-  type: Remix Album
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 29
-  year: 2012
-  project: Connectedness Locus
-  release: Endless Field Studios, Volume 2
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 28
-  year: 2012
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Endless Field Studios, Volume 2
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 27
-  year: 2011
-  project: Connectedness Locus
-  release: Terraforms
-  type: LP
-  format: CD, Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order:  26
-  year: 2011
-  project: adamjmoore
-  release: adamjmoore ep
-  type: LP
-  format: Digital
-  role: Producer
-  label: Endless Field Studios
-
-- order:  25
-  year: 2011
-  project: Connectedness Locus
-  release: Refill - Remixes
-  type: Remix Album
-  format: Digital
-  role: Contributor
-  label: Independent
-
-- order:  24
-  year: 2010
-  project: Connectedness Locus
-  release: Endless Field Studios, Volume 1
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order: 23
-  year: 2010
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Endless Field Studios, Volume 1
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Endless Field Studios
-
-- order:  22
-  year: 2010
-  project: Connectedness Locus
-  release: Tomorrow's Universe
-  type: Compilation
-  format: Digital
-  role: Contributor
-  label: Alrealon
-
-- order:  21
-  year: 2010
-  project: Connectedness Locus
-  release: As Constellations Quietly Cross
-  type: Podcast
-  format: Digital
-  role: Principal Musician
-  label: Alrealon
-
-- order:  20
-  year: 2010
-  project: Connectedness Locus
-  release: When the Paint Peels
-  type: EP
-  format: Digital
-  role: Principal Musician
-  label: Endless Field Studios
-
-- order:  19
-  year: 2009
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Serial Index of Unclaimed Memories
+  released: 02015-03-29
   type: LP
   format: Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: OS1
+    length: 05:45
+  - number: 2
+    title: OS2
+    length: 04:14
+  - number: 3
+    title: OS3
+    length: 02:01
+  - number: 4
+    title: OS4
+    length: 01:24
+  notes: |
+    - - - - - - - - - -
+    chapter v
+    - - - - - - - - - -
+    1. OS1
+    2. OS2
+    3. OS3
+    4. OS4
+    - - - - - - - - - -
+  credits: |
+    written & recorded by tyler etters and adam j. moore on march 28 2015 at endless field studios. album cover artwork by adam j. moore with additional treatment by tyler etters.
 
-- order:  18
-  year: 2009
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Session 050309
+- title: the phantoms of our lost cause
+  project: tyler etters & the northern information movement
+  released: 02015-01-01
+  type: LP
+  format: Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: the secret symmetries of oakwood hills
+    length: 00:06:29
+  - number: 2
+    title: there is no death, only reorganization
+    length: 00:02:51
+  - number: 3
+    title: second chance
+    length: 00:04:44
+  - number: 4
+    title: ch((e)i)m(er)ical
+    length: 00:02:47
+  - number: 5
+    title: forest (R1-07348-0017.jpg)
+    length: 00:02:16
+  - number: 6
+    title: 2am, rte 53, northbound
+    length: 00:02:14
+  - number: 7
+    title: jacurutu
+    length: 00:03:41
+  - number: 8
+    title: radio haces arrib{a} tu cowboy espacio
+    length: 00:01:19
+  - number: 9
+    title: getageese
+    length: 00:07:45
+  - number: 10
+    title: samsara (w/ adam)
+    length: 00:03:06
+  - number: 11
+    title: the sound of her wings
+    length: 00:02:36
+  - number: 12
+    title: infinite return of the same
+    length: 00:02:19
+  - number: 13
+    title: nausicaä
+    length: 00:05:35
+  notes: |
+    - - - - - - - - - -
+    chapter iv
+    - - - - - - - - - -
+    these are the phantoms of our lost cause. this album is my shroud of ghosts, the remnants, the lingering possibilities from timelines tangential. but make no mistake, dear listener: this is no album of b-sides. writing 'the geometrie of our lost cause' was something of a creative renaissance for me. more wavs, samples, beats and guitar drones filled my drives than i knew what to do with (and certainly more than would be appropriate for 'immemorial'). much of that remaining phantasmal material is now presented here. but there are songs from other times, too. 'there is no death, only reorganization' dates back to the 'terraforms' age; 'the secret symmetries of oakwood hills' was almost released on 'blue, the most celestial color'; 'nausicaä' holds the seeds of 'northern illinois'; the 'mainframe' movement in 'getageese' emerged from the 'serial index of unclaimed memories' sessions. once all of this music was sourced, exhumed, and resampled i loaded it up into my rig and rehearsed the album as though i were performing live. later, one of those hazey sessions would be promoted to the final mix in a largely unedited form. and thus begins the second trilogy...
+    - - - - - - - - - -
+    1. the secret symmetries of oakwood hills
+    2. there is no death, only reorganization
+    3. second chance
+    4. ch((e)i)m(er)ical
+    5. forest (R1-07348-0017.jpg)
+    6. 2am, rte 53, northbound
+    7. jacurutu
+    8. radio haces arrib{a} tu cowboy espacio
+    9. getageese
+      i. we're going to getageese
+      ii. mainframe (salvaged from failing ecicefis computer)
+      iii. getageese is gone
+    10. samsara (w/ adam)
+    11. the sound of her wings
+    12. infinite return of the same
+    13. nausicaä
+    - - - - - - - - - - 
+  credits: |
+    written & recorded by tyler etters from an indeterminate point in the past through december 2014 at endless field studios. featuring adam moore on samsara. album cover artwork by paul petrosyan with additional treatment by tyler etters.
+
+- title: senescence
+  project: tyler etters & the northern information movement
+  released: 02013-09-23
+  type: LP
+  format: Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: northern illinois
+    length: 00:18:44
+  - number: 2
+    title: we failed
+    length: 00:06:55
+  - number: 3
+    title: january 1st, 1970 + zero gmt
+    length: 00:06:13
+  notes: |
+    - - - - - - - - - -
+    chapter iii
+    - - - - - - - - - -
+    there was a time before these experiences shaped us. do you remember? years before we scaled all those unforgiving mountain ranges, before the codes were counted, and before the firmament fell. melting. wavering. corporeal. now our minds are increasingly augmented by technology and time's passage becomes difficult for our hearts to feel. do you remember! before your phone vibrated in your pocket every fifteen minutes to remind you of minutia that is neither here nor there? do you remember! before we lived in fear of the police ticketing us for being at the park after sunset? do you remember!!! here i am again. alone late at night and drowning in drones. i have finished the last songs, bounced them to cassette to engineer some lo-fi glory, and i now present them to you, dear listener, in the utmost humility - for i walked away from too many projects and i have turned down too many friends to fold now.
+    - - - - - - - - - -
+    1. northern illinois
+      i. wastes of the north
+      ii. procession of the hauntologists
+      iii. deed of the drones
+      iv. tears of the space cowboy (w/ kevin, dorian & arthur)
+      v. song of the cicada
+    2. we failed
+    3. january 1st, 1970 + zero gmt
+    - - - - - - - - - - 
+  credits: |
+    written & recorded by tyler etters from june 2013 through september 2013 at endless field studios except for 'tears of the space cowboy' which was also written by kevin clark, dorian zdrinc and arthur zdrinc sometime back in 2011.
+
+- title: blue, the most celestial color
+  project: tyler etters & the northern information movement
+  released: 02013-06-21
+  type: LP
+  format: Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: music for forests of childhood
+    length: 00:20:39
+  - number: 2
+    title: rainbow table
+    length: 00:13:57
+  - number: 3
+    title: ΑΙΓΑΙΙΣ
+    length: 00:01:21
+  - number: 4
+    title: zombie poison
+    length: 00:05:36
+  - number: 5
+    title: intermission
+    length: 00:01:53
+  - number: 6
+    title: the cicada must sing (sleepy brit)
+    length: 00:03:30
+  - number: 7
+    title: four mile crib
+    length: 00:10:41
+  - number: 8
+    title: ICD-10 Z73.0
+    length: 00:04:12
+  notes: |
+    - - - - - - - - - -
+    chapter ii
+    - - - - - - - - - -
+    you are in medias res - i know your time is brief so here is what you need to know: i have just released a new album entitled 'blue, the most celestial color'. you can listen and download it above.
+    - - - - - - - - - -
+    1. music for forests of childhood
+    2. rainbow table
+      i. textbook sql injection
+      ii. don quixote
+      iii. icebreaker / rave
+    3. ΑΙΓΑΙΙΣ
+    4. zombie poison
+    5. intermission
+    6. the cicada must sing (sleepy brit)
+    7. four mile crib
+    8. ICD-10 Z73.0
+    - - - - - - - - - -
+  credits: |
+    written & recorded by tyler etters from december 2012 through june 2013 at endless field studios. featuring arthur zdrinc on rainbow table.
+
+- title: the geometrie of our lost cause
+  project: tyler etters & the northern information movement
+  released: 02013-01-01
+  type: LP
+  format: Cassette, Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: immemorial
+    length: 00:15:00
+  - number: 2
+    title: generative
+    length: 00:15:00
+  notes: |
+    - - - - - - - - - -
+    chapter i
+    - - - - - - - - - -
+    1. immemorial
+      i. the forgotten distance
+      ii. time slopes
+      iii. by the train tracks (w/ arthur)
+      iv. hazey power plant, 1001 drones (for paul)
+      v. at another working gate
+    2. generative
+    - - - - - - - - - -
+  credits: |
+    written & recorded by tyler etters from october 2012 through december 2012 at endless field studios.
+
+- title: Prolegomenon
+  project: Connectedness Locus
+  released: 02012-10-15
+  type: EP
+  format: Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Prolegomenon
+    length: 00:05:44
+  - number: 2
+    title: Fallen World
+    length: 00:03:15
+  - number: 3
+    title: Terminal
+    length: 00:04:57
+  - number: 4
+    title: And the Golden Hours... They Always Die to the Night
+    length: 00:05:42
+  notes: |
+    ...and the world forces you out once again, return to the highways, return to the endless fields; that word, prolegomenon, appeared in my dreams some time ago, immemorial, i didn't even know what the word was or what it meant, or even how to spell or pronounce it; 'prolegomenon,'; i knew only the feeling of it upon my tounge, the sound of it reflecting off the walls, the feeling it would impress upon me while reading it, i tried writing it down but failed many times, i couldn't triangulate the syllables but all evidence pointed towards it's existence... and then one night i stumbled accross it, wikipedia again, probably, just like connectedness locus, an anonymous entry that may or may not be credible and accurate - whatever the case, the word is correct, a descendent perhaps of some greek warlord but this time transposed three centuries forward into a neon dusk where houses are constructed with html, the past continues to be reframed by the present, history is writen by the victors while our dreams steadily wind down and we fall apart, our social network spreads thin as we flee, to the dissident corners of this fallen world, in my battered attempt to fix this battered language, we bum each other our entire lives, and my father entered rem sleep; and i forgot my closest friend’s name; and my mother flew to the afar north; to dance where the sumacs still grow. let us sing that truth whispered is truth betrayed, for an elephant never forgets: to arms! to arms! and we still fall apart. replication - repeating days - we are bloated and weak here in the states. tidal synths. royal timbral waves. a series of events leading up to a cataclysmic demise, microburst dreams, echoes from a standstill destiny, there is no death, only reorganization... 
+  credits: |
+    Connectedness Locus is Tyler Etters.
+
+- title: Terraforms
+  project: Connectedness Locus
+  released: 02011-07-30
+  type: LP
+  format: CD, Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Where Dreams Go to Be Forgotten
+    length: 00:04:45
+  - number: 2
+    title: Dissolve Away
+    length: 00:03:28
+  - number: 3
+    title: Location Engineering
+    length: 00:04:35
+  - number: 4
+    title: Time Mirage
+    length: 00:03:35
+  - number: 5
+    title: Crisis of Destinies
+    length: 00:04:55
+  - number: 6
+    title: Words and Worlds
+    length: 00:03:37
+  - number: 7
+    title: The Future, Both Forever Ungrasped
+    length: 00:04:02
+  - number: 8
+    title: Crucible
+    length: 00:04:15
+  - number: 9
+    title: The Violinist of the Moon
+    length: 00:05:21
+  - number: 10
+    title: A Truer Form
+    length: 00:06:20
+  notes: |
+    Beyond the northern wastelands where dreams go to be forgotten, where the legendary high tension power lines march into tangled heaps of wreckage, where rusty salt barges sputter about and dissolve away, where billboards vomit dusky portents of express oil changes, where steadfast location engineering generates an inadvertent legacy, where lonely stands of pines filter incandescent and nuclear light, where time mirages dot the coast line, where we don poisonous armor to ward off strange flying creatures, where a crisis of destinies pulls us away and into the darkness yet again, where our hand made dream catchers from childhood clink-clank into one another and crumble apart, where words and worlds whisper, where owls still gather in schools and sing in 7/4 to an embryonic moon, where the past and the future, both forever ungrasped, are forfeited to the bigwigs and their brokers, where great oak trees are chainsawed into heaps of hallucinating sawdust, where hacking the akashic records is the only option to escape the crucible, where you awaken on warm and sparsely populated shores to find your initials carved into each piece of driftwood, where the violinist of the moon vanishes before the final note is bowed, where the cicada must sing before you can return home, where a truer form unfurls as the great wings of metamorphosis engulf the emerald skies, the dreams of Connectedness Locus are spun and Terraforms can be heard.
+  credits: |
+    Connectedness Locus is Tyler Etters.
+
+- title: When the Paint Peels
+  project: Connectedness Locus
+  released: 02010-02-18
   type: Single
   format: Digital
+  role: Principal Musician
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: When the Paint Peels
+    length: 00:20:03
+  notes: |
+    ...was recorded on a rainy January afternoon in one of the back rooms of Swing State, a small art & music venue in the northern wastes of Illinois. The entire operation was executed on an analog reel-to-reel device.
+    "It makes you listen with your ears, rather than your eyes," Isaac said as he loaded the magnetic tapes. My jaw hit the floor. Somewhere, miles away, my computer was steadily collecting a fine layer of dust.
+  credits: |
+    Written & performed by Tyler Etters of Connectedness Locus. Produced & engineered by Isaac Pierce of The Block of Wood Recordings. Mastered by Arthur Zdrinc of Endless Field Studios.
+
+- title: Serial Index of Unclaimed Memories, File 1
+  project: Everything Comes in Cycles; Everything Fades in Shades
+  released: 02009-09-01
+  type: LP
+  format: Digital
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Between Sunlight And Shadow
+    length: 00:04:28
+  - number: 2
+    title: The Fallen Oak
+    length: 00:05:29
+  - number: 3
+    title: Koria Advance Is Your Friend
+    length: 00:05:02
+  - number: 4
+    title: Places Pass And The Walls Of Green Collapse
+    length: 00:04:52
+  - number: 5
+    title: The Prominence
+    length: 00:11:11
+  - number: 6
+    title: They Burn The Fields
+    length: 00:04:36
+  - number: 7
+    title: Gibbous
+    length: 00:07:13
+  - number: 8
+    title: Qweens In The Woodgrain
+    length: 00:04:13
+  - number: 9
+    title: Only If You Get Lost
+    length: 00:08:27
+  notes: |
+    Serial Index of Unclaimed Memories File 1 is a spiraling nine track safari into the chaotic and serene realms of post-electronica. Astral, delay-riddled guitars, trip-hop/IDM drums, orchestrated ambience, lo-fi cassette deck samples, distorted bass, and psychosis inducing drones are just a few of the cards brought to the table.
+  credits: |
+    Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.
 
-- order:  17
-  year: 2009
+- title: Serial Index of Unclaimed Memories, File 2
+  project: Everything Comes in Cycles; Everything Fades in Shades
+  released: 02009-09-01
+  type: LP
+  format: Digital
+  role: Band Member
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Movement 802
+    length: 00:08:37
+  - number: 2
+    title: Movement 34
+    length: 00:04:41
+  - number: 3
+    title: Movement 4517
+    length: 00:00:07
+  - number: 4
+    title: Movement 333
+    length: 00:06:00
+  - number: 5
+    title: Movement 21
+    length: 00:10:21
+  - number: 6
+    title: Movement 282
+    length: 00:08:46
+  - number: 7
+    title: Movement 56
+    length: 00:05:22
+  - number: 8
+    title: Movement 1175
+    length: 00:09:10
+  - number: 9
+    title: Movement 796
+    length: 00:06:18
+  notes: |
+    Serial Index of Unclaimed Memories File 2, is comprised of nine seperate tracks (here called 'Movements'), and is akin to a stream of consciousness dialouge between failing super-computer systems. Almost enitrely ambient, File 2 explores an entirely different realm than File 1.
+  credits: |
+    Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.
+
+- title: As Quippolous Codes Quietly Count
   project: Connectedness Locus
-  release: As Quippolous Codes Quietly Count
+  released: 02009-09-01
   type: LP
   format: CD, Digital
   role: Principal Musician
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Mindtraps & Caltrops
+    length: 00:04:09
+  - number: 2
+    title: Some See a Valley; Some See a Gate
+    length: 00:00:43
+  - number: 3
+    title: Synnestvedt Orchards
+    length: 00:03:43
+  - number: 4
+    title: In This Endless Intricacy
+    length: 00:03:17
+  - number: 5
+    title: Still We Crumble Before the Oracles
+    length: 00:03:07
+  - number: 6
+    title: Until the Patterns Converge
+    length: 00:01:08
+  - number: 7
+    title: As Quippolous Codes Quietly Count
+    length: 00:05:41
+  - number: 8
+    title: Demalia Lensing
+    length: 00:03:06
+  - number: 9
+    title: We're Anime Kids
+    length: 00:00:28
+  - number: 10
+    title: Awareness is to Watch as the Millions of Drones You Captured Just Walk Away
+    length: 06:06
+  - number: 11
+    title: Knights of the Watertower
+    length: 00:05:26
+  - number: 12
+    title: The Centipede
+    length: 00:02:10
+  - number: 13
+    title: They Shield Your Geometrie (T9 Translation Error Mix)
+    length: 00:05:43
+  - number: 14
+    title: Elephants, Veils, Stars
+    length: 00:02:27
+  notes: |
+    As Quippolous Codes Quietly Count is a journey through prismatic mists of somnolence and destiny, gates of shimmering keyboard harmonics, mold-emblazoned percussives, and delerious, sludge-filled wastelands where only the foolish and the brave trek. Recorded over the course of 2 years, the album could easily be mistaken for an impressionistic account of a journey through space amidst a fleet of ghost ships.
+  credits: |
+    Connectedness Locus is Tyler Etters.
 
-- order:  16
-  year: 2008
+- title: Gates E.P.
+  project: Everything Comes in Cycles; Everything Fades in Shades
+  released: 02008-11-11
+  type: EP
+  format: CD, Digital
+  role: Band Member
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Running
+    length: 00:03:50
+  - number: 2
+    title: The Shoreless Ocean
+    length: 00:05:13
+  - number: 3
+    title: Of Light
+    length: 00:05:03
+  - number: 4
+    title: Upon The Gates Of Self Justification
+    length: 00:02:46
+  - number: 5
+    title: Surrender & Realization
+    length: 00:04:02
+  - number: 6
+    title: Sand Ladders
+    length: 00:04:13
+  notes: |
+    None.
+  credits: |
+    Composed, produced, and engineered by Paul Petrosyan and Tyler Etters.
+
+- title: Suntelia Aeon
   project: Inocula
-  release: Suntelia Aeon
+  released: 02008-??-??
   type: LP
   format: CD, Digital
   role: Band Member
   label: Karma Productions
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Submerged
+    length: 00:05:10
+  - number: 2
+    title: Facing the End
+    length: 00:05:49
+  - number: 3
+    title: My Armor, My Ammunition
+    length: 00:03:54
+  - number: 4
+    title: "19"
+    length: 00:01:37
+  - number: 5
+    title: Mist
+    length: 00:04:43
+  - number: 6
+    title: Your Weakest Moment
+    length: 00:04:30
+  - number: 7
+    title: Crisis Reign
+    length: 00:05:07
+  - number: 8
+    title: There Was Hope
+    length: 00:05:07
+  - number: 9
+    title: Phantoms
+    length: 00:03:45
+  - number: 10
+    title: One With Water
+    length: 00:06:41
+  - number: 11
+    title: Monolith of Self
+    length: 00:04:18
+  - number: 12
+    title: The End of an Age
+    length: 00:03:09
+  notes: |
+    None.
+  credits: |
+    All music written and performed by Inocula.
+    Aaron Krause - Drums
+    AJ Sugg - Vocals
+    Browneye - Guitar
+    Daniel Massey - Guitar
+    Paul Petrosyan - Bass
+    Tyler Etters - Keybards/Samples
 
-- order:  15
-  year: 2008
-  project: Everything Comes in Cycles; Everything Fades in Shades
-  release: Gates E.P.
-  type: EP
-  format: CD, Digital
-  role: Band Member
-  label: Endless Field Studios
-
-- order:  14
-  year: 2007
+- title: Organica Lensing
   project: Lucid End
-  release: Organica Lensing
+  released: 02007-??-??
   type: Single
   format: CD
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Organica Lensing
+    length: 00:04:02
+  notes: |
+    None.
+  credits: |
+    Lucid End is Tyler Etters.
 
-- order:  13
-  year: 2007
-  project: Inocula
-  release: Inoculation 3
-  type: Demo
-  format: CD
-  role: Band Member
-  label: Red Door
-
-- order:  12
-  year: 2007
+- title: The Killing Tree
   project: Lucid End
-  release: The Killing Tree
+  released: 02007-??-??
   type: Single
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: The Killing Tree
+    length: 00:04:08
+  notes: |
+    None.
+  credits: |
+    Lucid End is Tyler Etters.
 
-- order:  11
-  year: 2007
+- title: Time to Breathe; Time to Think
   project: Lucid End
-  release: Time to Breathe; Time to Think
+  released: 02007-??-??
   type: LP
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Lie Down in Darkness
+    length: 00:03:10
+  - number: 2
+    title: Photographs of Dust
+    length: 00:05:01
+  - number: 3
+    title: Synchronicity
+    length: 00:03:06
+  - number: 4
+    title: Don't Leave Me
+    length: 00:05:00
+  - number: 5
+    title: The Spider and the Formula
+    length: 00:05:36
+  - number: 6
+    title: Arabesque
+    length: 00:03:30
+  - number: 7
+    title: Migration, The Spire Will Kick Up Her Children
+    length: 00:03:35
+  - number: 8
+    title: To the Construct
+    length: 00:04:33
+  - number: 9
+    title: Clouds (Bleed Air)
+    length: 00:07:30
+  - number: 10
+    title: They Rescue You
+    length: 00:04:02
+  - number: 11
+    title: Leyline
+    length: 00:03:53
+  notes: |
+    None.
+  credits: |
+    Lucid End is Tyler Etters.
 
-- order:  10
-  year: 2007
-  project: Inocula
-  release: Inoculation 2 v2
-  type: Demo
-  format: CD-R
-  role: Band Member
-  label: Red Door
-
-- order:  9
-  year: 2007
-  project: Lucid End
-  release: Lie Down in Darkness
-  type: Single
-  format: CD-R
-  role: Principal Musician
-  label: Independent
-
-- order:  8
-  year: 2007
+- title: Descent Into Dreams
   project: Ix
-  release: Descent Into Dreams
+  released: 02007-04-08
   type: LP
   format: CD
   role: Band Member
   label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Doppleganger's Lattice
+    length: 00:03:42
+  - number: 2
+    title: Fractures Overlap Above the Fields
+    length: 00:04:36
+  - number: 3
+    title: Circadian Rhythm
+    length: 00:03:53
+  - number: 4
+    title: Mantra of the Sumacs
+    length: 00:03:15
+  - number: 5
+    title: Return to the Mind
+    length: 00:03:31
+  - number: 6
+    title: Descent Into Dreams
+    length: 00:04:08
+  - number: 7
+    title: A Different Process
+    length: 00:03:38
+  - number: 8
+    title: Paradigms Unwritten
+    length: 00:03:50
+  - number: 9
+    title: Symbiotics
+    length: 00:03:20
+  - number: 10
+    title: Transience and Perpetuality
+    length: 00:03:54
+  - number: 11
+    title: Yet These Memories Isolated Us
+    length: 00:04:29
+  - number: 12
+    title: Beneath the Orange Ethers
+    length: 00:02:01
+  - number: 13
+    title: Constant Awareness
+    length: 00:03:00
+  - number: 14
+    title: Drift
+    length: 00:04:17
+  notes: |
+    None.
+  credits: |
+    Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.
 
-- order:  7
-  year: 2006
-  project: Inocula
-  release: Inoculation 2 v1
-  type: Demo
-  format: CD-R
-  role: Band Member
-  label: Seek Productions
-
-- order:  6
-  year: 2006
+- title: Yet These Memories Isolated Us
   project: Ix
-  release: Yet These Memories Isolated Us
+  released: 02006-??-??
   type: Single
   format: CD-R
   role: Band Member
-  label: Independent
+  label: Endless Field Studios
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Yet These Memories Isoalted Us
+    length: 00:04:37
+  - number: 2
+    title: Weeping in Neutrality
+    length: 00:03:35
+  - number: 3
+    title: Imaginary Number
+    length: 00:03:34
+  notes: |
+    None.
+  credits: |
+    Ix is Paul Petrosyan and Tyler Etters. All music written, performed, and engineered by Ix at Endless Field Studios.
 
-- order: 5
-  year: 2006
+- title: Files
   project: Lucid End
-  release: Files
-  type: EP
+  released: 02006-??-??
+  type: LP
   format: CD-R
   role: Principal Musician
   label: Independent
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Somnium Scipionis
+    length: 00:01:20
+  - number: 2
+    title: Outsdied
+    length: 00:04:26
+  - number: 3
+    title: Apprehension
+    length: 00:03:30
+  - number: 4
+    title: Epilogue
+    length: 00:03:44
+  - number: 5
+    title: Files
+    length: 00:03:44
+  - number: 6
+    title: The Little House
+    length: 00:05:15
+  - number: 7
+    title: Gaseous Tetrahedrons
+    length: 00:13:00
+  notes: |
+    None.
+  credits: |
+    Lucid End is Tyler Etters.
 
-- order: 4
-  year: 2006
+- title: Ix E.P.
   project: Ix
-  release: Ix E.P. Special Edition
+  released: 02006-??-??
   type: EP
   format: CD-R
   role: Band Member
   label: Independent
-
-- order: 3
-  year: 2006
-  project: Ix
-  release: Ix E.P.
-  type: EP
-  format: CD-R
-  role: Band Member
-  label: Independent
-
-- order: 2
-  year: 2006
-  project: Inocula
-  release: Inoculation 1
-  type: Demo
-  format: CD-R
-  role: Band Member
-  label: Georgetown
-
-- order: 1
-  year: 2005
-  project: Tyler Etters & Paul Petrosyan
-  release: A Glass Reality OST
-  type: Soundtrack
-  format: None
-  role: Co-Writer
-  label: Independent
+  mp3: false
+  wav: false
+  tracks:
+  - number: 1
+    title: Approaching the Gates
+    length: 00:01:42
+  - number: 2
+    title: Complex Number
+    length: 00:03:13
+  - number: 3
+    title: Dying Alone
+    length: 00:04:00
+  - number: 4
+    title: The Wake
+    length: 00:03:28
+  - number: 5
+    title: Splintering
+    length: 00:05:00
+  - number: 6
+    title: Content with Failure
+    length: 00:03:38
+  - number: 7
+    title: Weary Eyes of Reason
+    length: 00:03:49
+  - number: 8
+    title: Sweet Lobotomy
+    length: 00:03:55
+  notes: |
+    None.
+  credits: |
+    Ix is Paul Petrosyan and Tyler Etters.

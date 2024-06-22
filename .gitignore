@@ -6,3 +6,4 @@ _site
 vendor
 .vscode
 _data/build.yml
+node_modules
