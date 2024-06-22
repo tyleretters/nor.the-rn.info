@@ -1,3 +1,1 @@
-what's there to say?
-
-read the blog.
+# [https://nor.the-rn.info](https://nor.the-rn.info)

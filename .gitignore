@@ -5,3 +5,5 @@ _site
 .jekyll-metadata
 vendor
 .vscode
+_data/hash.yml
+_data/time.yml
