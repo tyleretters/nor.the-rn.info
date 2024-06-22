@@ -28,17 +28,13 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Get the latest commit hash
-        id: get_hash
+      - name: Get the latest commit hash & time
+        id: get_build_meta
         run: |
           git rev-parse HEAD 
-          echo "hash: $(git rev-parse HEAD)" > _data/hash.yml
-
-      - name: Get the current build time
-        id: get_time
-        run: |
+          echo "hash: $(git rev-parse HEAD)" > _data/build.yml
           date -u +"%Y-%m-%dT%H:%M:%SZ"
-          echo "time: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > _data/time.yml
+          echo "time: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> _data/build.yml
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
