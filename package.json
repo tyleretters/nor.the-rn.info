@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "open -a /Applications/Brave\\ Browser.app http://127.0.0.1:4000 && bundle exec jekyll serve --baseurl '' --livereload",
+    "dev": "bundle exec jekyll serve --baseurl '' --livereload",
     "sass": "cd assets/stylesheets && sass --watch style.sass:style.css",
     "discography-update": "npm install @tyleretters/discography@latest && cp ./node_modules/@tyleretters/discography/dist/discography.yml _data/discography.yml"
   },
