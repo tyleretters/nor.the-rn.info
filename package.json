@@ -2,9 +2,9 @@
   "scripts": {
     "dev": "bundle exec jekyll serve --baseurl '' --livereload",
     "sass": "cd assets/stylesheets && sass --watch style.sass:style.css",
-    "discography-update": "npm install @tyleretters/discography@latest && cp ./node_modules/@tyleretters/discography/dist/discography.yml _data/discography.yml"
+    "discography": "npm install @tyleretters/discography@latest && cp ./node_modules/@tyleretters/discography/dist/discography.yml _data/discography.yml"
   },
   "dependencies": {
-    "@tyleretters/discography": "^1.0.0"
+    "@tyleretters/discography": "^1.0.1"
   }
 }
