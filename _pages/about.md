@@ -27,6 +27,6 @@ I don't spend much time on social media anymore, but here are my accounts:
 - [X](https://x.com/tyleretters)
 - [YouTube](https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg)
 
-Contact me via email. I will respond.
+Contact me via email:
 
 - `tyler@etters.co`
