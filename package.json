@@ -5,6 +5,6 @@
     "discography": "npm install @tyleretters/discography@latest && cp ./node_modules/@tyleretters/discography/dist/discography.yml _data/discography.yml"
   },
   "dependencies": {
-    "@tyleretters/discography": "^1.0.1"
+    "@tyleretters/discography": "^1.0.2"
   }
 }
