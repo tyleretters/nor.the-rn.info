@@ -27,6 +27,6 @@ My accounts:
 - [X](https://x.com/tyleretters)
 - [YouTube](https://www.youtube.com/channel/UCkZn9WNgPM3gVf9fiyuN1Mg)
 
-Contact me via email:
+For bookings and other mischief:
 
 - `tyler@etters.co`
