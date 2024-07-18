@@ -4,9 +4,7 @@ title: About
 permalink: /about
 page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Angeles.
 ---
-Tyler Etters is a midwestern musician holed-up in the mountains by Los Angeles.
-
----
+I am a midwestern musician holed-up in the mountains by Los Angeles.
 
 In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com). See my [discography](/discography) for more.
 
@@ -14,7 +12,7 @@ I work at [Output, Inc.](https://output.com) as a Senior Web Engineer.
 
 I hold a Bachelor of Fine Arts in graphic design from Columbia College Chicago.
 
-I don't spend much time on social media anymore, but here are my accounts:
+My accounts:
 
 - [Bandcamp](https://intertext.bandcamp.com)
 - [Discord](https://discord.gg/nYycWdsT5n)
