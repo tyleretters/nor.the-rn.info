@@ -4,7 +4,8 @@ title: About
 permalink: /about
 page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Angeles.
 ---
-I am a midwestern musician holed-up in the mountains by Los Angeles.
+
+My name is Tyler Etters and Northern Information is my garden.
 
 In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com). See my [discography](/discography) for more.
 
