@@ -11,7 +11,7 @@ In 2024 I'm primarily releasing music as [They Became What They Beheld](https://
 
 I work at [Output, Inc.](https://output.com) as a Senior Web Engineer.
 
-I hold a Bachelor of Fine Arts in graphic design from (Columbia College Chicago)[https://colum.edu]..
+I hold a Bachelor of Fine Arts in graphic design from [Columbia College Chicago](https://colum.edu).
 
 My accounts:
 
