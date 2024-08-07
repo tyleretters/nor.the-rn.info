@@ -2,9 +2,9 @@
 layout: page
 title: Photos
 permalink: /photos
-page_excerpt_overload: Film & digital photography.
+page_excerpt_overload: 35mm photography.
 ---
-Canon AE-1.
+Shot with the trusty Canon AE-1 my mom got from a pawn shop and passed on to me:
 
 [![000558300028](/assets/images/000558300028.jpg)](/assets/images/000558300028.jpg)
 
