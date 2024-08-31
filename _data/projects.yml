@@ -1,39 +1,39 @@
-- order: 202305
+- order: 202403
   title: norns community
   dates: 2021 - Present
   image: /assets/images/norns-community-v2-explore.png
   content: |
     [norns community](https://norns.community) is a script wiki for the monome norns sound computer. [Read about my redesign process here](/2023/05/27/rebuilding-norns-community).
 
-- order: 202304
-  title: Klang Magazine
-  dates: 2023 - Present
-  image: /assets/images/klang-magazine.png
-  content: |
-    [Klang Magazine](https://klangmag.co/about) is a bi-lingual, independent sound publication.
-
-- order: 202303
+- order: 202402
   title: Intertext
   dates: 2018 - Present
   image: /assets/images/intertext.png
   content: |
     [Intertext](https://intertext.bandcamp.com) is where I release my music. It is a hermitic, one-man, non-label. Intertext has no branding, no lettermark, no mission, no social media presence, no marketing strategy. This paragraph is the only "about" section that exists. Mark Fisher introduced me to the word and if you're looking to get lost in a wormhole, I highly recommend [this Wikipedia article](https://en.wikipedia.org/wiki/Intertextuality).
 
-- order: 202302
+- order: 202401
   title: Photography
   dates: 2005 - Present
   image: /assets/images/manifesto.jpg
   content: |
     I started working with film in 2005 at [Columbia College Chicago](https://www.colum.edu). After learning my way around the darkroom I started experimenting with crossprocessing and multipe exposures. This image is a manifesto of sorts: quadruple exposure, crossprocessed, no Photoshop.
 
-    I used to have a bunch of my work on Flickr. Some of terms of the latest platform ownership transfer made me uncomfortable so I took it all down. [Maybe I'll create a gallery here on NI some day...](/photos)
+    I used to have a bunch of my work on Flickr. Some of terms of the latest platform ownership transfer made me uncomfortable so I took it all down. [Some photos survive on the Photos page.](/photos)
+
+- order: 202301
+  title: Klang Magazine
+  dates: 2023 - 2024
+  image: /assets/images/klang-magazine.png
+  content: |
+    [Klang Magazine](https://klangmag.co/about) was a bi-lingual, independent sound publication.
 
 - order: 202105
   title: FLASH CRASH
   dates: 2021 - 2022
   image: /assets/images/flash-crash-event.jpg
   content: |
-    [FLASH CRASH](https://flashcrash.net) is a recursive livecoding online event I organize. The brand dies and is reborn for each event.
+    [FLASH CRASH](https://flashcrash.net) was a recursive livecoding online event I organized.
 
 - order: 201902
   title: Coordinated Universal Time
