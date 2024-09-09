@@ -2,9 +2,22 @@
 
 ## Updating the Discography
 
-`npm run discography`
+```zsh
+npm run discography
+```
+
+## Install
+
+```zsh
+git clone git@github.com:tyleretters/nor.the-rn.info.git
+gem install bundler -v 2.4.22
+bundle install
+npm install -g sass
+```
 
 ## Development
 
-- Shell 1: `npm run dev`
-- Shell 2: `npm run sass`
+```zsh
+npm run dev
+npm run scss
+```

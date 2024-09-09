@@ -9,8 +9,10 @@
       </p>
     </div>
     <div class="col col-md-6 px-0 border-right border-bottom">
-      <p>Hash: <a href="https://github.com/tyleretters/nor.the-rn.info/commit/{{ site.data.build.hash }}">{{ site.data.build.hash }}</a><br/>
-        Build time: <time>{{ site.data.build.time }}</time>
+      <p>
+        Build time: <time>{{ site.data.build.time }}
+        <br/>
+        Hash: <a href="https://github.com/tyleretters/nor.the-rn.info/commit/{{ site.data.build.hash }}" class="monospace">{{ site.data.build.hash | slice: -7, 7 }}</a></time>
       </p>
     </div>
   </div>
