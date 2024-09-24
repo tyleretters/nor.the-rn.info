@@ -316,13 +316,13 @@ footer p a:active {
 footer .final {
   font-weight: 400;
   font-size: 0.8rem;
-  color: dimgrey;
+  color: white;
   background: black;
 }
 footer .final a,
 footer .final a:link,
 footer .final a:visited {
-  color: grey;
+  color: white;
   background: none;
 }
 footer .final a:hover,
