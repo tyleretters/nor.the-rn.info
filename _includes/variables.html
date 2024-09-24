@@ -6,7 +6,7 @@
 
 {%- if page.page_excerpt_overload -%}
   {%- assign page_excerpt = page.page_excerpt_overload -%}
-{%- elsif page.content -%}
+{%- elsif page.url != '/' and page.content -%}
   {%- assign page_excerpt = page.content | markdownify | strip_html | strip_newlines | truncatewords: 20 -%}
 {%- else -%}
   {%- assign page_excerpt = site.description -%}
