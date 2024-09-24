@@ -6,9 +6,9 @@ layout: abstract
     <div class="col col-md-3 px-0">
       {% for i in (0..2) %}
       {% assign post = site.posts[i] %}
-      <p class="mb-1"><a href="{{ post.url }}" class="a-block-link">{{ post.title }}<br/><time>{{ post.date | date: "%b %-d, %Y" }}</time></a></p>
+      <p class="mb-1"><a href="{{ post.url }}" arial-label="{{ post.title }}" class="a-block-link">{{ post.title }}<br/><time>{{ post.date | date: "%b %-d, %Y" }}</time></a></p>
       {% endfor %}
-      <p class="mb-5"><a href="/blog" class="a-block-link">All Posts &rarr;</a></p>
+      <p class="mb-5"><a href="/blog" arial-label="All Posts" class="a-block-link">All Posts &rarr;</a></p>
     </div>
   </div>
 </main>

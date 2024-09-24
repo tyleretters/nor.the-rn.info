@@ -9,7 +9,7 @@
       {% assign title = "Archives" %}
       {% assign date = "2009 - Present" %}
     {% endif %}
-    <a href="{{ url }}" class="a-block-link py-2 later-post">
+    <a href="{{ url }}" aria-label="{{ title }}" class="a-block-link py-2 later-post">
       &larr; {{ title }}
       <br/>
       <time class="small">{{ date }}</time>
@@ -25,7 +25,7 @@
       {% assign title = "Archives" %}
       {% assign date = "2009 - Present" %}
     {% endif %}
-    <a href="{{ url }}" class="a-block-link py-2 earlier-post">
+    <a href="{{ url }}" aria-label="{{ title }}" class="a-block-link py-2 earlier-post">
       {{ title }} &rarr;
       <br/>
       <time class="small">{{ date }}</time>
