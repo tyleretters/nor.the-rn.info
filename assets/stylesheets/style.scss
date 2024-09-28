@@ -243,10 +243,13 @@ iframe {
   margin-bottom: 1rem;
 }
 
+body, html {
+  height: 100%;
+}
+
 main {
   @extend .border-right;
   padding: 1rem 0 5rem 0;
-
   img {
     width: 100%;
   }
@@ -407,20 +410,6 @@ footer {
 
 .home {
   @extend .border-bottom;
-  background-image: url("/assets/images/000558300025.jpg");
-  background-position: top right;
-  @include at-md {
-    height: 800px;
-    background-size: cover;
-    background-position: unset;
-  }
-
-  .a-block-link {
-    text-align: center;
-    @include at-md {
-      text-align: left;
-    }
-  }
 }
 
 // needed for .subnav on post pages only

@@ -195,6 +195,10 @@ iframe {
   margin-bottom: 1rem;
 }
 
+body, html {
+  height: 100%;
+}
+
 main {
   padding: 1rem 0 5rem 0;
 }
@@ -316,13 +320,13 @@ footer p a:active {
 footer .final {
   font-weight: 400;
   font-size: 0.8rem;
-  color: white;
+  color: dimgrey;
   background: black;
 }
 footer .final a,
 footer .final a:link,
 footer .final a:visited {
-  color: white;
+  color: grey;
   background: none;
 }
 footer .final a:hover,
@@ -338,26 +342,6 @@ footer .final a:active {
  * PAGE SPECIFIC
  * PAGE SPECIFIC
  */
-.home {
-  background-image: url("/assets/images/000558300025.jpg");
-  background-position: top right;
-}
-@media (min-width: 768px) {
-  .home {
-    height: 800px;
-    background-size: cover;
-    background-position: unset;
-  }
-}
-.home .a-block-link {
-  text-align: center;
-}
-@media (min-width: 768px) {
-  .home .a-block-link {
-    text-align: left;
-  }
-}
-
 .post {
   padding-top: 0;
   padding-bottom: 0;
@@ -394,19 +378,19 @@ footer .final a:active {
 }
 .discography table {
   width: 100%;
-  border: 1px solid gray;
+  border: 1px solid rgb(127.5, 127.5, 127.5);
 }
 .discography table tr th {
   color: black;
   background: white;
   padding: 4px;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid rgb(127.5, 127.5, 127.5);
 }
 .discography table tr td {
   color: white;
   background: black;
   padding: 4px;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid rgb(127.5, 127.5, 127.5);
 }
 
 .links .block-link {
@@ -437,7 +421,7 @@ footer .final a:active {
 }
 .four-oh-four a:hover,
 .four-oh-four a:active {
-  color: gray;
+  color: rgb(127.5, 127.5, 127.5);
 }
 
 /*# sourceMappingURL=style.css.map */
