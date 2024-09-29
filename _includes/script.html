@@ -1,19 +1,19 @@
 {% if page.path contains '_posts' %}
-<script>
-const navigate = (selector) => {
-  window.location.href = document.querySelector(selector).getAttribute('href')
-}
+  <script>
+    const navigate = (selector) => {
+      window.location.href = document.querySelector(selector).getAttribute('href')
+    }
 
-const checkKey = (e) => {
-  e = e || window.event
-  if (e.keyCode == '37') {
+    const checkKey = (e) => {
+      e = e || window.event
+      if (e.keyCode == '37') {
     navigate('.later-post')
-  }
-  if (e.keyCode == '39') {
+      }
+      if (e.keyCode == '39') {
     navigate('.earlier-post')
-  }
-}
+      }
+    }
 
-document.onkeydown = checkKey
-</script>
+    document.onkeydown = checkKey
+  </script>
 {% endif %}

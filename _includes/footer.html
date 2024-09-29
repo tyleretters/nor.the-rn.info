@@ -3,22 +3,22 @@
     <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
   </div>
   <div class="row">
-    <div class="col col-md-3 px-0 border-right border-bottom">
-      <p>Northern Information<br/>
-        2008 &mdash; <time>{{ site.time | date: '%Y' }}, <a href="https://creativecommons.org/licenses/by/4.0/" aria-label="CC BY 4.0 License">CC BY 4.0</a></time>
-      </p>
+    <div class="col-sm-12 col-md-4 px-0 border-right border-bottom">
+      <ul>
+        <li>Northern Information</li>
+        <li>2008 &mdash; <time>{{ site.time | date: '%Y' }}</time></li>
+        <li><a href="https://creativecommons.org/licenses/by/4.0/" aria-label="CC BY 4.0 License">CC BY 4.0</a></li>
+      </ul>
     </div>
-    <div class="col col-md-9 px-0 border-right border-bottom">
-      <p>
-        Build time: <time>{{ site.data.build.time }}
-        <br/>
-        Source: <a href="https://github.com/tyleretters/nor.the-rn.info/commit/{{ site.data.build.hash }}" aria-label="Build Hash" class="monospace">{{ site.data.build.hash | slice: -7, 7 }}</a></time> cd LOST_DIR && ./DISAPPEAR
-      </p>
+    <div class="col-sm-12 col-md-8 px-0 border-right border-bottom">
+      <ul>
+        <li>Build time: <time>{{ site.data.build.time }}</time>
+        <li>Source: <a href="https://github.com/tyleretters/nor.the-rn.info/commit/{{ site.data.build.hash }}" aria-label="Build Hash" class="monospace">{{ site.data.build.hash | slice: -7, 7 }}</a> cd LOST_DIR && ./DISAPPEAR</li>
+        <li>Feed: <a href="/feed.xml" aria-label="Atom Feed">Atom</a></li>
+      </ul>
     </div>
   </div>
   <div class="row">
     <div class="col pb-1 border-right border-bottom bg-spectrum"></div>
-  </div>
-   </div>
   </div>
 </footer>

@@ -3,54 +3,38 @@ layout: abstract
 ---
 <main class="container-fluid discography">
   <div class="row">
-    <div class="col">
-      <article class="container-fluid px-0 mb-5">
-        <div class="row">
-          <div class="col-sm-12 col-md-4">
-            <h1>{{ page.title }}</h1>
-            {{ page.content | markdownify }}
-          </div>
-        </div>
-      </article>
+    <div class="col-sm-12 col-md-4">
+      <h2>{{ page.title }}</h2>
+      {{ page.content | markdownify }}
     </div>
   </div>
-  <div class="row">
+  <div class="row mb-10">
     <div class="col">
-      <article class="container-fluid px-0 mb-5">
-        <div class="row">
-          <div class="col">
-            <table>
-              <thead>
-                <tr>
-                  <th>Date</th>
-                  <th>Project</th>
-                  <th>Release</th>
-                  <th>Type</th>
-                  <th>Format</th>
-                  <th>Role</th>
-                  <th>Label</th>
-                </tr>
-              </thead>
-              <tbody>
-              {% assign discography_by_order = site.data.discography | sort: "released" | reverse %}
-              {% for release in discography_by_order %}
-                {% assign date_string = release.released %}
-                {% assign year = date_string | slice: 1, 4 %}
-                <tr>
-                  <td>{{ year }}</td>
-                  <td>{{ release.project }}</td>
-                  <td>{{ release.title }}</td>
-                  <td>{{ release.type }}</td>
-                  <td>{{ release.format }}</td>
-                  <td>{{ release.role }}</td>
-                  <td>{{ release.label }}</td>
-                </tr>
-              {% endfor %}
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </article>
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Project</th>
+            <th>Release</th>
+            <th>Type</th>
+            <th>Label</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign discography_by_order = site.data.discography | sort: "released" | reverse %}
+          {% for release in discography_by_order %}
+            {% assign date_string = release.released %}
+            {% assign year = date_string | slice: 1, 4 %}
+            <tr>
+              <td>{{ year }}</td>
+              <td>{{ release.project }}</td>
+              <td>{{ release.title }}</td>
+              <td>{{ release.type }}</td>
+              <td>{{ release.label }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
     </div>
   </div>
 </main>

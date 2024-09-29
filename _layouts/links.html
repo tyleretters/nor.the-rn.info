@@ -2,42 +2,27 @@
 layout: abstract
 ---
 <main class="container-fluid links">
-  <div class="row">
-    <div class="col">
-      <article class="container-fluid px-0 mb-5">
-        <div class="row">
-          <div class="col-sm-12 col-md-4">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
-          </div>
-        </div>
-        <div class="row mb-5">
-          {% assign links = site.data.links %}
-          {% for link in links %}
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <a href="{{ link.url }}" class="block-link">{{ link.title }}</a>
-          </div>
-          {% endfor %}
-        </div>
-      </article>
+  <div class="row mb-10">
+    <div class="col-sm-12 col-md-4">
+      <h2>Webring</h2>
+      <p>This <a href="https://webring.xxiivv.com">webring</a>
+        is an attempt to inspire artists &amp; developers to build their own website and share traffic among each other. The ring welcomes personalized websites such as diaries, wikis &amp; portfolios.</p>
+      <p>To add yourself to the ring, submit a <a href="https://github.com/XXIIVV/webring#join-the-webring">pull request</a>.</p>
+      <a href="https://webring.xxiivv.com/" class="webring"><img src="https://webring.xxiivv.com/icon.white.svg" /></a>
     </div>
   </div>
   <div class="row">
-    <div class="col">
-      <article class="container-fluid px-0 mb-5">
-        <div class="row">
-          <div class="col-sm-12 col-md-4">
-            <h1>Webring</h1>
-            <p>Additionally, this <a href="https://webring.xxiivv.com/#random">webring</a> is an attempt to inspire artists &amp; developers to build their own website and share traffic among each other. The ring welcomes personalized websites such as <b>diaries, wikis &amp; portfolios</b>.</p>
-            <p>To add yourself to the ring, submit a <a href="https://github.com/XXIIVV/webring#join-the-webring">pull request</a>.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-12 col-md-6 col-lg-4 px-0 py-0">
-            <a href="https://webring.xxiivv.com/" class="a-image webring"><img src="https://webring.xxiivv.com/icon.white.svg" /></a>
-          </div>
-        </div>
-      </div>
+    <div class="col-sm-12 col-md-4">
+      <h2>{{ page.title }}</h2>
+      {{ content }}
     </div>
+  </div>
+  <div class="row mb-10">
+    {% assign links = site.data.links %}
+    {% for link in links %}
+      <div class="col-sm-12 col-md-6 col-lg-3">
+        <a href="{{ link.url }}" class="block-link">{{ link.title }}</a>
+      </div>
+    {% endfor %}
   </div>
 </main>

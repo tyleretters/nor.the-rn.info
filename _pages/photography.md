@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Photos
-permalink: /photos
+title: Photography
+permalink: /photography
 page_excerpt_overload: 35mm photography.
 ---
-Shot with the trusty Canon AE-1 my mom got from a pawn shop and passed on to me:
+Shot with the trusty Canon AE-1 my mom pawned and passed down to me:
 
 [![000558300028](/assets/images/000558300028.jpg)](/assets/images/000558300028.jpg)
 

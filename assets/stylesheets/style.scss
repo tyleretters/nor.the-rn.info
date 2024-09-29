@@ -6,42 +6,6 @@
  * UTILITIES
  */
 
- @mixin at-xs {
-  @media (min-width: 0) {
-    @content;
-  }
-}
-
-@mixin at-sm {
-  @media (min-width: 576px) {
-    @content;
-  }
-}
-
-@mixin at-md {
-  @media (min-width: 768px) {
-    @content;
-  }
-}
-
-@mixin at-lg {
-  @media (min-width: 992px) {
-    @content;
-  }
-}
-
-@mixin at-xl {
-  @media (min-width: 1200px) {
-    @content;
-  }
-}
-
-@mixin at-xxl {
-  @media (min-width: 1400px) {
-    @content;
-  }
-}
-
 .border-top {
   border-top: 4px solid black !important;
 }
@@ -122,6 +86,10 @@
   padding: .2rem !important;
 }
 
+.mb-10 {
+  margin-bottom: 6rem;
+}
+
 /**
  * TYPOGRAPHY
  * TYPOGRAPHY
@@ -136,6 +104,10 @@ $monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier
 
 h1 {
   font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
 }
 
 /**
@@ -361,9 +333,10 @@ footer {
   color: black;
   background: white;
 
-  p {
-    margin-bottom: 0;
+  ul {
+    list-style: none;
     padding: 4px;
+    margin: 0;
 
     a,
     a:link,
@@ -484,16 +457,21 @@ footer {
     padding: 4px;
   }
 
-  a.webring:hover {
-    background: none;
+  a.webring {
+    width: 64px;
+    height: 64px;
+    display: block;
+    &:hover {
+      background: none;
+    }
   }
 }
 
 .four-oh-four {
-  height: 200px;
+  min-height: 400px;
   background: url("/assets/images/crown-via-phill-c-on-yelp.jpg");
   background-size: cover;
-  @include at-sm {
+  @media (min-width: 576px) {
     height: 800px;
   }
 

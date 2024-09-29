@@ -83,6 +83,10 @@ header a:visited {
   padding: 0.2rem !important;
 }
 
+.mb-10 {
+  margin-bottom: 6rem;
+}
+
 /**
  * TYPOGRAPHY
  * TYPOGRAPHY
@@ -92,6 +96,10 @@ header a:visited {
  */
 h1 {
   font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
 }
 
 /**
@@ -302,18 +310,19 @@ footer {
   color: black;
   background: white;
 }
-footer p {
-  margin-bottom: 0;
+footer ul {
+  list-style: none;
   padding: 4px;
+  margin: 0;
 }
-footer p a,
-footer p a:link,
-footer p a:visited {
+footer ul a,
+footer ul a:link,
+footer ul a:visited {
   color: blue;
   background: transparent;
 }
-footer p a:hover,
-footer p a:active {
+footer ul a:hover,
+footer ul a:active {
   color: white;
   background: blue;
 }
@@ -399,12 +408,17 @@ footer .final a:active {
   display: block;
   padding: 4px;
 }
+.links a.webring {
+  width: 64px;
+  height: 64px;
+  display: block;
+}
 .links a.webring:hover {
   background: none;
 }
 
 .four-oh-four {
-  height: 200px;
+  min-height: 400px;
   background: url("/assets/images/crown-via-phill-c-on-yelp.jpg");
   background-size: cover;
 }
