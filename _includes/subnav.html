@@ -4,13 +4,12 @@
   {% for post in site.posts %}
     {% assign post_year = post.date | date: "%Y" %}
     {% if post_year == current_post_year %}
-      <li><a href="{{ post.url }}" class="a-block-link">{{ post.title }}<br/><time class="small">{{ post.date | date: "%b %-d, %Y" }}</time></a></li>
+      <li><a href="{{ post.url }}"{% if post.url == page.url %} class="active"{% endif %}>{{ post.title }}<br/><time class="small">{{ post.date | date: "%b %-d, %Y" }}</time></a></li>
     {% endif %}
   {% endfor %}
   <li>
     <a
       href="/blog"
-      arial-label="All Posts"
-      class="a-block-link">All Posts &rarr;</a>
+      arial-label="All Posts">All Posts &rarr;</a>
   </li>
 </ul>

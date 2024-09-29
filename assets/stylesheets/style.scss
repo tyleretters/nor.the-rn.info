@@ -334,6 +334,7 @@ ul.post-list {
       display: block;
       text-decoration: none;
       line-height: 1rem;
+      &.active,
       &:hover {
         background: blue;
         color: white;
@@ -364,19 +365,19 @@ ul.post-list {
   overflow: auto;
   table {
     width: 100%;
-    border: 1px solid darken(white, 50%);
+    border: 1px solid grey;
     tr {
       th {
         color: black;
         background: white;
         padding: 4px;
-        border-bottom: 1px solid darken(white, 50%);
+        border-bottom: 1px solid grey;
       }
       td {
         color: white;
         background: black;
         padding: 4px;
-        border-bottom: 1px solid darken(white, 50%);
+        border-bottom: 1px solid grey;
       }
     }
   }

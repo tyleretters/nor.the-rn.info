@@ -321,7 +321,8 @@ ul.post-list li a:visited {
   text-decoration: none;
   line-height: 1rem;
 }
-ul.post-list li a:hover,
+ul.post-list li a.active, ul.post-list li a:hover,
+ul.post-list li a:visited.active,
 ul.post-list li a:visited:hover {
   background: blue;
   color: white;
@@ -346,19 +347,19 @@ ul.post-list li a:visited:hover {
 }
 .discography table {
   width: 100%;
-  border: 1px solid rgb(127.5, 127.5, 127.5);
+  border: 1px solid grey;
 }
 .discography table tr th {
   color: black;
   background: white;
   padding: 4px;
-  border-bottom: 1px solid rgb(127.5, 127.5, 127.5);
+  border-bottom: 1px solid grey;
 }
 .discography table tr td {
   color: white;
   background: black;
   padding: 4px;
-  border-bottom: 1px solid rgb(127.5, 127.5, 127.5);
+  border-bottom: 1px solid grey;
 }
 
 .links .block-link {
