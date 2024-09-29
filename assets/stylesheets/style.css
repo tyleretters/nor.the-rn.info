@@ -121,7 +121,7 @@ body {
 }
 
 .small {
-  font-size: 0.66rem;
+  font-size: 0.8rem;
 }
 
 a,
@@ -139,23 +139,6 @@ a:active {
 .a-image:hover {
   color: transparent;
   background: transparent;
-}
-
-.a-block-link,
-.a-block-link:visited {
-  font-weight: 600;
-  color: white;
-  padding: 4px;
-  width: 100%;
-  display: block;
-  text-decoration: none;
-  line-height: 1rem;
-}
-.a-block-link:hover,
-.a-block-link:visited:hover {
-  background: yellow;
-  color: red;
-  text-decoration: underline;
 }
 
 ::selection {
@@ -290,21 +273,6 @@ header a:visited.active {
   background: red;
 }
 
-.subnav {
-  background: white;
-}
-.subnav a,
-.subnav a:link,
-.subnav a:visited {
-  color: black;
-  text-decoration: none;
-}
-.subnav a,
-.subnav a:hover,
-.subnav a:active {
-  text-decoration: underline;
-}
-
 footer {
   font-weight: 600;
   color: black;
@@ -326,23 +294,6 @@ footer ul a:active {
   color: white;
   background: blue;
 }
-footer .final {
-  font-weight: 400;
-  font-size: 0.8rem;
-  color: dimgrey;
-  background: black;
-}
-footer .final a,
-footer .final a:link,
-footer .final a:visited {
-  color: grey;
-  background: none;
-}
-footer .final a:hover,
-footer .final a:active {
-  color: yellow;
-  background: none;
-}
 
 /**
  * PAGE SPECIFIC
@@ -351,33 +302,41 @@ footer .final a:active {
  * PAGE SPECIFIC
  * PAGE SPECIFIC
  */
-.post {
-  padding-top: 0;
-  padding-bottom: 0;
+ul.post-list {
+  list-style: none;
+  margin: 0 0 4rem 0;
+  padding: 0;
 }
-.post .later-post,
-.post .earlier-post {
-  color: blue;
-  background: white;
+ul.post-list li {
+  margin: 0 0 0.5rem 0;
+  padding: 0;
+}
+ul.post-list li a,
+ul.post-list li a:visited {
+  font-weight: 600;
+  color: white;
   padding: 4px;
-  height: 100%;
   width: 100%;
   display: block;
+  text-decoration: none;
+  line-height: 1rem;
 }
-.post .later-post:hover,
-.post .earlier-post:hover {
-  color: yellow;
-  background: red;
+ul.post-list li a:hover,
+ul.post-list li a:visited:hover {
+  background: blue;
+  color: white;
+  text-decoration: underline;
 }
-.post .post-content {
+
+.post-content {
   overflow: auto;
 }
-.post .post-content a > img {
+.post-content a > img {
   box-sizing: border-box;
   border: 2px solid transparent;
   background: transparent;
 }
-.post .post-content a:hover > img {
+.post-content a:hover > img {
   background: yellow;
   border: 2px solid yellow;
 }
@@ -426,16 +385,6 @@ footer .final a:active {
   .four-oh-four {
     height: 800px;
   }
-}
-.four-oh-four a,
-.four-oh-four a:link,
-.four-oh-four a:visited {
-  color: white;
-  background: none;
-}
-.four-oh-four a:hover,
-.four-oh-four a:active {
-  color: rgb(127.5, 127.5, 127.5);
 }
 
 /*# sourceMappingURL=style.css.map */

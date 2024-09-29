@@ -3,25 +3,24 @@ layout: abstract
 ---
 <main class="container-fluid home">
   <div class="row">
-    <div class="col-12 col-md-3">
-      {% for i in (0..2) %}
-        {% assign post = site.posts[i] %}
-        <p class="mb-1">
+    <div class="col-12 col-md-4">
+      <h2>Latest</h2>
+      <ul class="post-list">
+        {% for i in (0..4) %}
+          {% assign post = site.posts[i] %}
+          <li>
+            <a href="{{ post.url }}" class="a-block-link">{{ post.title }}<br/><time class="small">{{ post.date | date: "%b %-d, %Y" }}</time></a>
+          </li>
+        {% endfor %}
+        <li>
           <a
-            href="{{ post.url }}"
-            arial-label="{{ post.title }}"
-            class="a-block-link">{{ post.title }}<br/><time>{{ post.date | date: "%b %-d, %Y" }}</time>
-          </a>
-        </p>
-      {% endfor %}
-      <p class="mb-5">
-        <a
-          href="/blog"
-          arial-label="All Posts"
-          class="a-block-link">All Posts &rarr;</a>
-      </p>
+            href="/blog"
+            arial-label="All Posts"
+            class="a-block-link">All Posts &rarr;</a>
+        </li>
+      </ul>
     </div>
-    <div class="col-12 col-md-9">
+    <div class="col-12 col-md-8">
       <h1>"We build our computer systems the way we build our cities: over time, without a plan, on top of ruins." — Ellen Ullman</h1>
     </div>
   </div>

@@ -2,24 +2,15 @@
 layout: abstract
 ---
 <main class="container-fluid post">
-  {% include subnav.html %}
-  <div class="row mt-3">
-    <div class="col">
-      <article class="container-fluid px-0 mb-5">
-        <div class="row post-title">
-          <div class="col col-md-8 offset-md-2 px-3">
-            <h1 class="mb-0">{{ page.title }}</h1>
-            <p class="mb-2"><time>{{ page.date | date: "%b %-d, %Y" }}</time> · <a href="{{ site.github }}/{{ page.path }}">Edit</a></p>
-          </div>
-        </div>
-        <div class="row post-content">
-          <div class="col col-md-8 offset-md-2 py-3 px-3 mb-5">
-            {{ page.content }}
-          </div>
-        </div>
-      </article>
+  <div class="row">
+    <div class="col-sm-12 col-md-4">
+      {% include subnav.html %}
     </div>
+    <article class="col-sm-12 col-md-8">
+      <h1 class="mb-0">{{ page.title }}</h1>
+      <p class="mb-2"><time>{{ page.date | date: "%b %-d, %Y" }}</time> · <a href="{{ site.github }}/{{ page.path }}">Edit</a></p>
+      {{ page.content }}
+    </article>
   </div>
-  {% include subnav.html %}
   </div>
 </main>

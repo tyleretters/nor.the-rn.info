@@ -132,7 +132,7 @@ body {
 }
 
 .small {
-  font-size: .66rem;
+  font-size: .8rem;
 }
 
 a,
@@ -150,23 +150,6 @@ a:active {
 .a-image:hover {
   color: transparent;
   background: transparent;
-}
-
-.a-block-link,
-.a-block-link:visited {
-  font-weight: 600;
-  color: white;
-  padding: 4px;
-  width: 100%;
-  display: block;
-  text-decoration: none;
-  line-height: 1rem;
-
-  &:hover {
-    background: yellow;
-    color: red;
-    text-decoration: underline;
-  }
 }
 
 ::selection {
@@ -245,22 +228,18 @@ hr {
 header {
   font-weight: 600;
   color: black;
-
   .northern-information {
     background: white;
-
     img {
       float: left;
       margin-right: 4px;
       height: 60px;
       width: 60px;
     }
-
     a {
       height: 100%;
       display: block;
       border-bottom: none;
-
       h1 {
         font-weight: 600;
         font-size: 1.9rem;
@@ -272,20 +251,16 @@ header {
       }
     }
   }
-
   .northern-information:hover {
     background: black;
-
     a {
       text-decoration: underline;
-
       h1 {
         color: white;
         text-decoration: underline !important;
       }
     }
   }
-
   a,
   a:link,
   a:visited {
@@ -297,13 +272,11 @@ header {
     text-decoration: none;
     text-overflow: ellipsis;
     overflow: hidden;
-
     &:hover {
       background: blue;
       color: white;
       text-decoration: underline;
     }
-
     &.active {
       color: white;
       background: red;
@@ -311,64 +284,24 @@ header {
   }
 }
 
-.subnav {
-  background: white;
-
-  a,
-  a:link,
-  a:visited {
-    color: black;
-    text-decoration: none;
-  }
-
-  a,
-  a:hover,
-  a:active {
-    text-decoration: underline;
-  }
-}
-
 footer {
   font-weight: 600;
   color: black;
   background: white;
-
   ul {
     list-style: none;
     padding: 4px;
     margin: 0;
-
     a,
     a:link,
     a:visited {
       color: blue;
       background: transparent;
     }
-
     a:hover,
     a:active {
       color: white;
       background: blue;
-    }
-  }
-
-  .final {
-    font-weight: 400;
-    font-size: .8rem;
-    color: dimgrey;
-    background: black;
-
-    a,
-    a:link,
-    a:visited {
-      color: grey;
-      background: none;
-    }
-
-    a:hover,
-    a:active {
-      color: yellow;
-      background: none;
     }
   }
 }
@@ -385,40 +318,43 @@ footer {
   @extend .border-bottom;
 }
 
-// needed for .subnav on post pages only
-.post {
-  padding-top: 0;
-  padding-bottom: 0;
-
-  .later-post,
-  .earlier-post {
-    color: blue;
-    background: white;
-    padding: 4px;
-    height: 100%;
-    width: 100%;
-    display: block;
-
-    &:hover {
-      color: yellow;
-      background: red;
+ul.post-list {
+  list-style: none;
+  margin: 0 0 4rem 0;
+  padding: 0;
+  li {
+    margin: 0 0 .5rem 0;
+    padding: 0;
+    a,
+    a:visited {
+      font-weight: 600;
+      color: white;
+      padding: 4px;
+      width: 100%;
+      display: block;
+      text-decoration: none;
+      line-height: 1rem;
+      &:hover {
+        background: blue;
+        color: white;
+        text-decoration: underline;
+      }
     }
   }
+}
 
-  .post-content {
-    overflow: auto;
-
-    a {
+.post-content {
+  overflow: auto;
+  a {
+    > img {
+      box-sizing: border-box;
+      border: 2px solid transparent;
+      background: transparent;
+    }
+    &:hover {
       > img {
-        box-sizing: border-box;
-        border: 2px solid transparent;
-        background: transparent;
-      }
-      &:hover {
-        > img {
-          background: yellow;
-          border: 2px solid yellow;
-        }
+        background: yellow;
+        border: 2px solid yellow;
       }
     }
   }
@@ -426,11 +362,9 @@ footer {
 
 .discography {
   overflow: auto;
-
   table {
     width: 100%;
     border: 1px solid darken(white, 50%);
-
     tr {
       th {
         color: black;
@@ -438,7 +372,6 @@ footer {
         padding: 4px;
         border-bottom: 1px solid darken(white, 50%);
       }
-
       td {
         color: white;
         background: black;
@@ -456,7 +389,6 @@ footer {
     display: block;
     padding: 4px;
   }
-
   a.webring {
     width: 64px;
     height: 64px;
@@ -473,17 +405,5 @@ footer {
   background-size: cover;
   @media (min-width: 576px) {
     height: 800px;
-  }
-
-  a,
-  a:link,
-  a:visited {
-    color: white;
-    background: none;
-  }
-
-  a:hover,
-  a:active {
-    color: darken(white, 50%);
   }
 }

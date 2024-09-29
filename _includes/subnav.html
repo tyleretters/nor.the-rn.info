@@ -1,34 +1,16 @@
-<div class="row border-bottom subnav">
-  <div class="col px-0 border-right">
-    {% if page.next.url %}
-      {% assign url = page.next.url %}
-      {% assign title = page.next.title %}
-      {% assign date = page.next.date | date: "%b %-d, %Y" %}
-    {% else %}
-      {% assign url = "/blog" %}
-      {% assign title = "Archives" %}
-      {% assign date = "2009 - Present" %}
+{% assign current_post_year = page.date | date: "%Y" %}
+<h2>{{ current_post_year }}</h2>
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% if post_year == current_post_year %}
+      <li><a href="{{ post.url }}" class="a-block-link">{{ post.title }}<br/><time class="small">{{ post.date | date: "%b %-d, %Y" }}</time></a></li>
     {% endif %}
-    <a href="{{ url }}" aria-label="{{ title }}" class="a-block-link py-2 later-post">
-      &larr; {{ title }}
-      <br/>
-      <time class="small">{{ date }}</time>
-    </a>
-  </div>
-  <div class="col px-0">
-    {% if page.previous.url %}
-      {% assign url = page.previous.url %}
-      {% assign title = page.previous.title %}
-      {% assign date = page.previous.date | date: "%b %-d, %Y" %}
-    {% else %}
-      {% assign url = "/blog" %}
-      {% assign title = "Archives" %}
-      {% assign date = "2009 - Present" %}
-    {% endif %}
-    <a href="{{ url }}" aria-label="{{ title }}" class="a-block-link py-2 earlier-post">
-      {{ title }} &rarr;
-      <br/>
-      <time class="small">{{ date }}</time>
-    </a>
-  </div>
-</div>
+  {% endfor %}
+  <li>
+    <a
+      href="/blog"
+      arial-label="All Posts"
+      class="a-block-link">All Posts &rarr;</a>
+  </li>
+</ul>
