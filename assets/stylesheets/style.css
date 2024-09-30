@@ -304,7 +304,7 @@ footer ul a:active {
  */
 ul.post-list {
   list-style: none;
-  margin: 0 0 4rem 0;
+  margin: 0;
   padding: 0;
 }
 ul.post-list li {
@@ -315,7 +315,7 @@ ul.post-list li a,
 ul.post-list li a:visited {
   font-weight: 600;
   color: white;
-  padding: 4px;
+  padding: 4px 0;
   width: 100%;
   display: block;
   text-decoration: none;
