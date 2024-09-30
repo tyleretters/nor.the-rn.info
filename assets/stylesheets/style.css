@@ -9,7 +9,7 @@
   border-top: 4px solid black !important;
 }
 
-.border-right, main {
+.border-right, main.container-fluid {
   border-right: 4px solid black !important;
 }
 
@@ -190,10 +190,10 @@ body, html {
   height: 100%;
 }
 
-main {
-  padding: 1rem 0 5rem 0;
+main.container-fluid {
+  padding: 1rem 4px 5rem 4px;
 }
-main img {
+main.container-fluid img {
   width: 100%;
 }
 
@@ -315,7 +315,7 @@ ul.post-list li a,
 ul.post-list li a:visited {
   font-weight: 600;
   color: white;
-  padding: 4px 0;
+  padding: 4px;
   width: 100%;
   display: block;
   text-decoration: none;

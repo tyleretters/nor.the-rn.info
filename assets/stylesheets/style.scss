@@ -202,9 +202,9 @@ body, html {
   height: 100%;
 }
 
-main {
+main.container-fluid {
   @extend .border-right;
-  padding: 1rem 0 5rem 0;
+  padding: 1rem 4px 5rem 4px;
   img {
     width: 100%;
   }
@@ -329,7 +329,7 @@ ul.post-list {
     a:visited {
       font-weight: 600;
       color: white;
-      padding: 4px 0;
+      padding: 4px;
       width: 100%;
       display: block;
       text-decoration: none;

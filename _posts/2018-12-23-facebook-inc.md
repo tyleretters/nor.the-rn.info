@@ -24,7 +24,3 @@ I ran some of those dubious "delete your Facebook content" Chrome plugins. Unfri
 > Just the feeling of completing a well procrastinated chore.
  
  When it was done I felt nothing. No rush or exhilaration. Just the feeling of completing a well procrastinated chore. But deleting all cookies sure felt great.
-
----
-
-_Earlier this year [I wrote about the future of social networks](https://journal.highlandsolutions.com/bringing-trust-back-to-social-networks-10de43726f5a) and why all hope is not lost._
