@@ -314,6 +314,9 @@ footer ul a:active {
   size: 6rem;
   line-height: 4rem;
 }
+.home ul.post-list li a {
+  background: black;
+}
 
 ul.post-list {
   list-style: none;

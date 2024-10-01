@@ -326,6 +326,11 @@ footer {
     size: 6rem;
     line-height: 4rem;
   }
+  ul.post-list {
+    li a {
+      background: black;
+    }
+  }
 }
 
 ul.post-list {
