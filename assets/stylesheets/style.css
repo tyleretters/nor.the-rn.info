@@ -302,6 +302,19 @@ footer ul a:active {
  * PAGE SPECIFIC
  * PAGE SPECIFIC
  */
+.home {
+  background: url("./../images/000309410014.jpg");
+  background-size: cover;
+  min-height: 600px;
+}
+.home h1 {
+  background: white;
+  color: black;
+  display: inline;
+  size: 6rem;
+  line-height: 4rem;
+}
+
 ul.post-list {
   list-style: none;
   margin: 0;
