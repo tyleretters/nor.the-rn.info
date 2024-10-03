@@ -303,19 +303,21 @@ footer ul a:active {
  * PAGE SPECIFIC
  */
 .home {
-  background: url("./../images/000309410014.jpg");
+  background: url("./../images/000558300025.jpg");
   background-size: cover;
-  min-height: 600px;
+  background-position: top right;
+}
+@media (min-width: 576px) {
+  .home {
+    min-height: 800px;
+  }
 }
 .home h1 {
-  background: white;
-  color: black;
+  background: black;
+  color: white;
   display: inline;
   size: 6rem;
   line-height: 4rem;
-}
-.home ul.post-list li a {
-  background: black;
 }
 
 ul.post-list {

@@ -316,20 +316,18 @@ footer {
 
 .home {
   @extend .border-bottom;
-  background: url('./../images/000309410014.jpg');
+  background: url('./../images/000558300025.jpg');
   background-size: cover;
-  min-height: 600px;
+  background-position: top right;
+  @media (min-width: 576px) {
+    min-height: 800px;
+  }
   h1 {
-    background: white;
-    color: black;
+    background: black;
+    color: white;
     display: inline;
     size: 6rem;
     line-height: 4rem;
-  }
-  ul.post-list {
-    li a {
-      background: black;
-    }
   }
 }
 
