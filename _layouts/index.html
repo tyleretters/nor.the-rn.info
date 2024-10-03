@@ -8,13 +8,23 @@ layout: abstract
         {% for i in (0..2) %}
           {% assign post = site.posts[i] %}
           <li>
-            <a href="{{ post.url }}">{{ post.title }}<br/><time class="small">{{ post.date | date: "%b %-d, %Y" }}</time></a>
+            <a
+              href="{{ post.url }}"
+              aria-label="{{ post.title }}"
+            >
+              {{ post.title }}
+              <br/>
+              <time class="small">{{ post.date | date: "%b %-d, %Y" }}</time>
+            </a>
           </li>
         {% endfor %}
         <li>
           <a
             href="/blog"
-            aria-label="All Posts">All Posts &rarr;</a>
+            aria-label="All Posts"
+          >
+            All Posts &rarr;
+          </a>
         </li>
       </ul>
     </div>
