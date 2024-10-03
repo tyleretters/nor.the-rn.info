@@ -8,7 +8,3 @@ tags: ['Wildcard']
 
 > "We build our computer systems the way we build our cities: over time, without a plan, on top of ruins."
 <!--x-->
-
-![Before](/assets/images/0ccbb01.jpg)
-
-![After](/assets/images/bf9e7b7.jpg)
