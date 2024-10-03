@@ -57,3 +57,7 @@ Shot with the trusty Canon AE-1 my mom pawned and passed down to me:
 [![roll17-2](/assets/images/roll17-2.jpg)](/assets/images/roll17-2.jpg)
 
 [![roll17-7](/assets/images/roll17-7.jpg)](/assets/images/roll17-7.jpg)
+
+[![000558300027](/assets/images/000558300027.jpg)](/assets/images/000558300027.jpg)
+
+[![000309410014](/assets/images/000309410014.jpg)](/assets/images/000309410014.jpg)
