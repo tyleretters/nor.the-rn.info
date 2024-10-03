@@ -6,17 +6,17 @@ layout: abstract
     <div class="col-12 col-md-6 col-lg-4">
       <ul class="post-list mb-5">
         {% for i in (0..2) %}
-          {% assign post = site.posts[i] %}
-          <li>
-            <a
-              href="{{ post.url }}"
-              aria-label="{{ post.title }}"
-            >
-              {{ post.title }}
-              <br/>
-              <time class="small">{{ post.date | date: "%b %-d, %Y" }}</time>
-            </a>
-          </li>
+        {% assign post = site.posts[i] %}
+        <li>
+          <a
+            href="{{ post.url }}"
+            aria-label="{{ post.title }}"
+          >
+            {{ post.title }}
+            <br/>
+            <time class="small">{{ post.date | date: "%b %-d, %Y" }}</time>
+          </a>
+        </li>
         {% endfor %}
         <li>
           <a
