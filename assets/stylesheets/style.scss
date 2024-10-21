@@ -305,6 +305,16 @@ footer {
       background: blue;
     }
   }
+  .northern-information {
+    a,
+    img {
+      width: 100%;
+      height: auto;
+    }
+    &:hover {
+      background: blue;
+    }
+  }
 }
 
 /**

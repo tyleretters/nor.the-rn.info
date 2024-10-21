@@ -295,6 +295,14 @@ footer ul a:active {
   color: white;
   background: blue;
 }
+footer .northern-information a,
+footer .northern-information img {
+  width: 100%;
+  height: auto;
+}
+footer .northern-information:hover {
+  background: blue;
+}
 
 /**
  * PAGE SPECIFIC
