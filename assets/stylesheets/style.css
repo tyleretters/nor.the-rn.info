@@ -220,7 +220,7 @@ header .northern-information {
 }
 header .northern-information img {
   float: left;
-  margin-right: 4px;
+  margin-right: 8px;
   height: 60px;
   width: 60px;
 }
@@ -231,10 +231,11 @@ header .northern-information a {
 }
 header .northern-information a h1 {
   font-weight: 600;
-  font-size: 1.9rem;
-  line-height: 1.8rem;
+  font-size: 2.5rem;
+  line-height: 3rem;
   float: left;
   color: black;
+  margin-top: 6px;
   margin-bottom: 0;
   text-overflow: clip;
 }
