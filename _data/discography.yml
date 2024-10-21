@@ -5,7 +5,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -602,7 +602,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -638,7 +638,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -689,7 +689,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -730,7 +730,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -770,7 +770,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -906,7 +906,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1
@@ -1422,7 +1422,7 @@
   format: Digital
   role: Principal Musician
   label: Intertext
-  mp3: false
+  mp3: true
   wav: false
   tracks:
   - number: 1

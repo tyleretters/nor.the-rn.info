@@ -9,6 +9,8 @@ My name is Tyler Etters.
 
 In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com). See my [discography](/discography) for more.
 
+![Northern Information Applied Sciences & Phantasms Working Division](/assets/images/applied-sciences-and-phantasms-working-division.png)
+
 I work as a Senior Full Stack Engineer at [Discogs](https://discogs.com). I hold a BFA in graphic design from [Columbia College Chicago](https://colum.edu).
 
 My accounts:
