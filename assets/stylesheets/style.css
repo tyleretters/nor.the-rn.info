@@ -218,26 +218,36 @@ header {
 header .northern-information {
   background: white;
 }
-header .northern-information img {
-  float: left;
-  margin-right: 8px;
-  height: 60px;
-  width: 60px;
-}
 header .northern-information a {
   height: 100%;
   display: block;
   border-bottom: none;
 }
+header .northern-information a img {
+  float: left;
+  margin-right: 4px;
+  height: 72px;
+  width: 72px;
+}
+@media (min-width: 576px) {
+  header .northern-information a img {
+    height: 60px;
+    width: 60px;
+  }
+}
 header .northern-information a h1 {
   font-weight: 600;
-  font-size: 2.5rem;
-  line-height: 3rem;
+  font-size: 40px;
+  line-height: 2.2rem;
   float: left;
   color: black;
-  margin-top: 6px;
-  margin-bottom: 0;
+  margin: 0 0 0 0;
   text-overflow: clip;
+}
+@media (min-width: 576px) {
+  header .northern-information a h1 {
+    margin: 12px 0 0 0;
+  }
 }
 header .northern-information:hover {
   background: black;
@@ -271,7 +281,6 @@ header a.active,
 header a:link.active,
 header a:visited.active {
   color: white;
-  background: red;
 }
 
 footer {
@@ -295,10 +304,15 @@ footer ul a:active {
   color: white;
   background: blue;
 }
-footer .northern-information a,
-footer .northern-information img {
+footer .northern-information a {
   width: 100%;
   height: auto;
+}
+footer .northern-information img {
+  width: 128px;
+  height: 128px;
+  margin: auto;
+  display: block;
 }
 footer .northern-information:hover {
   background: blue;

@@ -230,25 +230,31 @@ header {
   color: black;
   .northern-information {
     background: white;
-    img {
-      float: left;
-      margin-right: 8px;
-      height: 60px;
-      width: 60px;
-    }
     a {
       height: 100%;
       display: block;
       border-bottom: none;
+      img {
+        float: left;
+        margin-right: 4px;
+        height: 72px;
+        width: 72px;
+        @media (min-width: 576px) {
+          height: 60px;
+          width: 60px;
+        }
+      }
       h1 {
         font-weight: 600;
-        font-size: 2.5rem;
-        line-height: 3rem;
+        font-size: 40px;
+        line-height: 2.2rem;
         float: left;
         color: black;
-        margin-top: 6px;
-        margin-bottom: 0;
+        margin: 0 0 0 0;
         text-overflow: clip;
+        @media (min-width: 576px) {
+          margin: 12px 0 0 0;
+        }
       }
     }
   }
@@ -280,7 +286,6 @@ header {
     }
     &.active {
       color: white;
-      background: red;
     }
   }
 }
@@ -306,10 +311,15 @@ footer {
     }
   }
   .northern-information {
-    a,
-    img {
+    a {
       width: 100%;
       height: auto;
+    }
+    img {
+      width: 128px;;
+      height: 128px;;
+      margin: auto;
+      display: block;
     }
     &:hover {
       background: blue;
