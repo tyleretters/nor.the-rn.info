@@ -395,6 +395,16 @@ ul.post-list {
   }
 }
 
+.about-content {
+  img {
+    width: auto;
+    max-width: 256px;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+}
+
 .discography {
   overflow: auto;
   table {
