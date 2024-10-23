@@ -239,10 +239,6 @@ header {
         margin-right: 4px;
         height: 72px;
         width: 72px;
-        @media (min-width: 576px) {
-          height: 60px;
-          width: 60px;
-        }
       }
       h1 {
         font-weight: 600;
@@ -252,9 +248,6 @@ header {
         color: black;
         margin: 0 0 0 0;
         text-overflow: clip;
-        @media (min-width: 576px) {
-          margin: 12px 0 0 0;
-        }
       }
     }
   }
@@ -286,6 +279,7 @@ header {
     }
     &.active {
       color: white;
+      background: red;
     }
   }
 }
@@ -322,7 +316,7 @@ footer {
       display: block;
     }
     &:hover {
-      background: blue;
+      background: red;
     }
   }
 }

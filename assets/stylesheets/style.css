@@ -229,12 +229,6 @@ header .northern-information a img {
   height: 72px;
   width: 72px;
 }
-@media (min-width: 576px) {
-  header .northern-information a img {
-    height: 60px;
-    width: 60px;
-  }
-}
 header .northern-information a h1 {
   font-weight: 600;
   font-size: 40px;
@@ -243,11 +237,6 @@ header .northern-information a h1 {
   color: black;
   margin: 0 0 0 0;
   text-overflow: clip;
-}
-@media (min-width: 576px) {
-  header .northern-information a h1 {
-    margin: 12px 0 0 0;
-  }
 }
 header .northern-information:hover {
   background: black;
@@ -281,6 +270,7 @@ header a.active,
 header a:link.active,
 header a:visited.active {
   color: white;
+  background: red;
 }
 
 footer {
@@ -315,7 +305,7 @@ footer .northern-information img {
   display: block;
 }
 footer .northern-information:hover {
-  background: blue;
+  background: red;
 }
 
 /**
