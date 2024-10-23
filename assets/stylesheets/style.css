@@ -255,7 +255,6 @@ header a:visited {
   background: white;
   padding: 4px;
   display: block;
-  text-decoration: none;
   text-overflow: ellipsis;
   overflow: hidden;
 }
@@ -355,7 +354,7 @@ ul.post-list li a:visited {
 ul.post-list li a.active, ul.post-list li a:hover,
 ul.post-list li a:visited.active,
 ul.post-list li a:visited:hover {
-  background: blue;
+  background: red;
   color: white;
   text-decoration: underline;
 }
