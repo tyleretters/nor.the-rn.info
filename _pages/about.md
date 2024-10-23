@@ -7,7 +7,7 @@ page_excerpt_overload: Midwestern musician holed-up in the mountains by Los Ange
 
 My name is Tyler Etters.
 
-I operate in Los Angeles.
+I operate out of Los Angeles.
 
 In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com). See my [discography](/discography) for more.
 
