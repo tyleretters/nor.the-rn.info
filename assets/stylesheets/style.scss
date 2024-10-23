@@ -359,13 +359,11 @@ ul.post-list {
       padding: 4px;
       width: 100%;
       display: block;
-      text-decoration: none;
       line-height: 1rem;
       &.active,
       &:hover {
         background: red;
         color: white;
-        text-decoration: underline;
       }
     }
   }

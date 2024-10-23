@@ -348,7 +348,6 @@ ul.post-list li a:visited {
   padding: 4px;
   width: 100%;
   display: block;
-  text-decoration: none;
   line-height: 1rem;
 }
 ul.post-list li a.active, ul.post-list li a:hover,
@@ -356,7 +355,6 @@ ul.post-list li a:visited.active,
 ul.post-list li a:visited:hover {
   background: red;
   color: white;
-  text-decoration: underline;
 }
 
 .post-content {
