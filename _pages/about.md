@@ -9,7 +9,7 @@ My name is Tyler Etters.
 
 I operate out of Los Angeles.
 
-In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com). See my [discography](/discography) for more.
+In 2024 I'm primarily releasing music as [They Became What They Beheld](https://tbwtb.com) and producing [RGB]([https://](https://untitled.stream/library/project/RoTfZpW8dHvJVVpmd6kpf)). See my [discography](/discography) for more.
 
 ![Northern Information Applied Sciences & Phantasms Working Division](/assets/images/applied-sciences-and-phantasms-working-division.png)
 
