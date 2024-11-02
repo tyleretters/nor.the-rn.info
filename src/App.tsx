@@ -17,7 +17,7 @@ function App() {
               alt="Northern Information Applied Sciences and Phantasms Working Division"
               className="w-[64px]"
               /> */}
-          <h1 className="text-3xl font-bold">nor.the-rn.info/rm_ation</h1>
+          <h1 className="text-3xl">nor.the-rn.info/rm_ation</h1>
           <ModeToggle />
           {/* <img src={png000558300025} alt="000558300025" /> */}
         </div>
