@@ -1,5 +1,4 @@
 import { BrowserRouter } from 'react-router-dom'
-import { Release as ReleaseType } from "@tyleretters/discography"
 import discography from '@tyleretters/discography'
 // import png000558300025 from './assets/000558300025.png'
 import northernInformationAppliedSciencesAndPhantasmsWorkingDivision from '/northern-information-applied-sciences-and-phantasms-working-division.svg'
