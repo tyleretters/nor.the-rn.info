@@ -1,11 +1,5 @@
 # [https://nor.the-rn.info/rm_ation](https://nor.the-rn.info/rm_ation)
 
-## Updating the Discography
-
-```zsh
-npm run discography
-```
-
 ## Install
 
 ```zsh
