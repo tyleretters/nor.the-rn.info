@@ -1,5 +1,6 @@
 import { BrowserRouter } from 'react-router-dom'
-import logo from '/northern-information-applied-sciences-and-phantasms-working-division.svg'
+// import logo from '@/assets/northern-information-applied-sciences-and-phantasms-working-division.svg'
+import photo from '@/assets/131989202_385415245867605_3167152984745030935_n.jpg'
 import { ThemeProvider } from '@/components/themeProvider'
 import { ModeToggle } from '@/components/modeToggle'
 import { Button } from '@/components/ui/button'
@@ -19,8 +20,13 @@ function App() {
           </div>
         </div>
         <div className="container mx-auto flex place-content-center">
-          <img
+          {/* <img
             src={logo}
+            alt="Northern Information Applied Sciences and Phantasms Working Division"
+            className="h-auto w-auto p-5 md:w-auto md:max-w-[700px]"
+          /> */}
+          <img
+            src={photo}
             alt="Northern Information Applied Sciences and Phantasms Working Division"
             className="h-auto w-auto p-5 md:w-auto md:max-w-[700px]"
           />
