@@ -26,7 +26,10 @@ body {
 }
 
 .content {
-  @apply prose prose-stone prose-invert lg:prose-xl;
+  @apply text-base text-stone-50 lg:text-lg;
+  p {
+    text-wrap: pretty;
+  }
   a {
     @apply text-yellow-300 underline;
   }
